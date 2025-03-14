@@ -21,34 +21,33 @@ if (!file_exists($movieListFile)) {
 }
 
 $movieList = json_decode(file_get_contents($movieListFile), true);
-
-if (json_last_error() !== JSON_ERROR_NONE) {
-    logMessage("ERROR: Failed to parse movie list JSON: " . json_last_error_msg());
-    exit(1);
-}
-
 $movies = $movieList['movies'];
 
-if (empty($movies)) {
-    logMessage("ERROR: No movies found in movie list");
-    exit(1);
+// Set start date (March 14, 2025)
+$startDate = strtotime("2025-03-14");
+$currentDate = time();
+$daysSinceStart = floor(($currentDate - $startDate) / (60 * 60 * 24));
+
+// If we're before the start date, start from day 0
+if ($daysSinceStart < 0) {
+    $daysSinceStart = 0;
 }
 
-// Calculate which movie to use based on day of year
-$dayOfYear = date("z") + 1; // 1-366
-$index = ($dayOfYear - 1) % count($movies);
+// Calculate which movie to use based on days since start date
+$index = $daysSinceStart % count($movies);
 $movie = $movies[$index];
 
-logMessage("Selected movie: {$movie['title']} (ID: {$movie['id']}) for day {$dayOfYear}");
+logMessage("Selected movie: {$movie['title']} (ID: {$movie['id']}) for day " . ($daysSinceStart + 1) . " since start");
 
+// Rest of your script continues as normal...
 // Fetch detailed movie information from TMDB
 $movieUrl = "https://api.themoviedb.org/3/movie/{$movie['id']}?api_key={$apiKey}&language=en-US&append_to_response=credits,images";
 
 try {
-    $response = @file_get_contents($movieUrl);
+    $response = file_get_contents($movieUrl);
     
     if ($response === false) {
-        throw new Exception("Failed to get API response for movie ID: {$movie['id']}");
+        throw new Exception("Failed to get API response");
     }
     
     $movieData = json_decode($response, true);
