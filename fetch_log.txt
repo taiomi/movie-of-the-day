@@ -2,3 +2,7 @@
 [2025-03-14 12:14:37] Selected movie: Tenet (ID: 580489) for day 73
 [2025-03-14 12:14:37] Successfully saved movie data for: Venom: Let There Be Carnage
 [2025-03-14 12:14:37] Movie fetch process completed
+[2025-03-14 14:30:36] Starting movie fetch process
+[2025-03-14 14:30:36] Selected movie: Natural Born Killers (ID: 241) for day 73
+[2025-03-14 14:30:36] Successfully saved movie data for: Natural Born Killers
+[2025-03-14 14:30:36] Movie fetch process completed

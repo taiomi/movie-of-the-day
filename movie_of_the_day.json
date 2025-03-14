@@ -2,27 +2,27 @@
     "version": "1.0",
     "lastUpdated": "2025-03-14",
     "movie": {
-        "id": 580489,
-        "title": "Venom: Let There Be Carnage",
-        "tagline": "It\u2019s time to meet Carnage.",
-        "overview": "After finding a host body in investigative reporter Eddie Brock, the alien symbiote must face a new enemy, Carnage, the alter ego of serial killer Cletus Kasady.",
-        "releaseDate": "2021-09-30",
-        "runtime": 97,
-        "voteAverage": 6.779,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/pzKsRuKLFmYrW5Q0q8E8G78Tcgo.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/vIgyYkXkg6NC2whRbYjBD7eb3Er.jpg",
-        "director": "Andy Serkis",
+        "id": 241,
+        "title": "Natural Born Killers",
+        "tagline": "The media made them superstars.",
+        "overview": "Two victims of traumatized childhoods become lovers and serial murderers irresponsibly glorified by the mass media.",
+        "releaseDate": "1994-08-26",
+        "runtime": 118,
+        "voteAverage": 7.061,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/fEKZwT91gxvkAoyPgpNXo8W5fu0.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/k3TOt50cHvTLXWYPnXP0szhiXB8.jpg",
+        "director": "Oliver Stone",
         "cast": [
-            "Tom Hardy",
             "Woody Harrelson",
-            "Michelle Williams",
-            "Naomie Harris",
-            "Reid Scott"
+            "Juliette Lewis",
+            "Robert Downey Jr.",
+            "Tommy Lee Jones",
+            "Tom Sizemore"
         ],
         "genres": [
-            "Science Fiction",
-            "Action",
-            "Adventure"
+            "Crime",
+            "Thriller",
+            "Drama"
         ]
     }
 }
