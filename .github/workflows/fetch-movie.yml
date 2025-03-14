@@ -1,0 +1,32 @@
+name: Fetch Movie of the Day
+
+on:
+  schedule:
+    - cron: '0 2 * * *'  # Runs at 2:00 AM UTC daily
+  workflow_dispatch:     # Allows manual triggering
+
+jobs:
+  fetch-movie:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v3
+      
+      - name: Set up PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.1'
+          
+      - name: Fetch movie and update JSON
+        run: php movie_fetcher.php
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+          
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add movie_of_the_day.json fetch_log.txt
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update movie of the day"
+          git push
