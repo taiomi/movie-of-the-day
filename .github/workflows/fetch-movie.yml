@@ -4,7 +4,10 @@ on:
   schedule:
     - cron: '0 2 * * *'  # Runs at 2:00 AM UTC daily
   workflow_dispatch:     # Allows manual triggering
-
+  
+permissions:
+  contents: write
+  
 jobs:
   fetch-movie:
     runs-on: ubuntu-latest
