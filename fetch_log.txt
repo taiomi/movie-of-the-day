@@ -6,3 +6,7 @@
 [2025-03-14 14:30:36] Selected movie: Natural Born Killers (ID: 241) for day 73
 [2025-03-14 14:30:36] Successfully saved movie data for: Natural Born Killers
 [2025-03-14 14:30:36] Movie fetch process completed
+[2025-03-14 14:37:45] Starting movie fetch process
+[2025-03-14 14:37:45] Selected movie: Dekalog (ID: 118668) for day 1 since start
+[2025-03-14 14:37:45] Successfully saved movie data for: Decalogue VII
+[2025-03-14 14:37:45] Movie fetch process completed
