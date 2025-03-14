@@ -3,105 +3,7241 @@
   "lastUpdated": "2025-03-14",
   "movies": [
     {
-      "id": 398978,
-      "title": "The Irishman",
-      "director": "Martin Scorsese",
-      "year": "2019",
-      "category": "Crime and Thriller"
+      "title": "Dekalog",
+      "director": "Kieslowski",
+      "year": "1989",
+      "id": 118668
     },
     {
-      "id": 842942,
-      "title": "Killers of the Flower Moon",
-      "director": "Martin Scorsese",
-      "year": "2023",
-      "category": "Crime and Thriller"
-    },
-    {
-      "id": 1003579,
-      "title": "Oppenheimer",
-      "director": "Christopher Nolan",
-      "year": "2023",
-      "category": "Drama"
-    },
-    {
-      "id": 1413,
-      "title": "The Man From London",
-      "director": "Béla Tarr",
-      "year": "2007"
-    },
-    {
-      "id": 645886,
-      "title": "West Side Story",
-      "director": "Steven Spielberg",
-      "year": "2021",
-      "category": "Drama"
-    },
-    {
-      "id": 528,
-      "title": "Dead Man",
-      "director": "Jim Jarmusch",
-      "year": "1995"
-    },
-    {
-      "id": 165,
-      "title": "21 Grams",
-      "director": "Alejandro González Iñárritu",
-      "year": "2003"
-    },
-    {
-      "id": 4494,
-      "title": "Odd Man Out",
-      "director": "Carol Reed",
-      "year": "1947"
-    },
-    {
-      "id": 653346,
-      "title": "Babylon",
-      "director": "Damien Chazelle",
+      "title": "All Quiet on the Western Front",
+      "director": "Edward Berger",
       "year": "2022",
-      "category": "Drama"
+      "category": "War and Action",
+      "id": 49046
     },
     {
-      "id": 906126,
-      "title": "Barbie",
-      "director": "Greta Gerwig",
+      "title": "All About My Mother",
+      "director": "Almod\u00f3var",
+      "year": "1999",
+      "id": 99
+    },
+    {
+      "title": "The Lord of the Rings",
+      "director": "Jackson",
+      "year": "2001",
+      "id": 120
+    },
+    {
+      "title": "Irreversible",
+      "director": "No\u00e9",
+      "year": "2002",
+      "id": 979
+    },
+    {
+      "title": "JFK",
+      "director": "Stone",
+      "year": "1991",
+      "id": 820
+    },
+    {
+      "title": "Charade",
+      "director": "Donen",
+      "year": "1963",
+      "id": 4808
+    },
+    {
+      "title": "The Apartment",
+      "director": "Wilder",
+      "year": "1960",
+      "id": 284
+    },
+    {
+      "title": "My Fair Lady",
+      "director": "Cukor",
+      "year": "1964",
+      "id": 11113
+    },
+    {
+      "title": "Double Indemnity",
+      "director": "Wilder",
+      "year": "1944",
+      "id": 996
+    },
+    {
+      "title": "Ali: Fear Eats the Soul",
+      "director": "Fassbinder",
+      "year": "1974",
+      "id": 216
+    },
+    {
+      "title": "Palm Springs",
+      "director": "Max Barbakow",
+      "year": "2020",
+      "category": "Comedy",
+      "id": 587792
+    },
+    {
+      "title": "Days of Heaven",
+      "director": "Malick",
+      "year": "1978",
+      "id": 16642
+    },
+    {
+      "title": "A Star is Born",
+      "director": "Cukor",
+      "year": "1954",
+      "id": 3111
+    },
+    {
+      "title": "4 Months, 3 Weeks and 2 Days",
+      "director": "Mungiu",
+      "year": "2007",
+      "id": 2009
+    },
+    {
+      "title": "The Hill",
+      "director": "Lumet",
+      "year": "1965",
+      "id": 24395
+    },
+    {
+      "title": "Knives Out",
+      "director": "Rian Johnson",
+      "year": "2019",
+      "category": "Crime and Thriller",
+      "id": 546554
+    },
+    {
+      "title": "The Vast of Night",
+      "director": "Andrew Patterson",
+      "year": "2020",
+      "category": "Science Fiction",
+      "id": 565743
+    },
+    {
+      "title": "Porcile",
+      "director": "Pasolini",
+      "year": "1969",
+      "id": 48688
+    },
+    {
+      "title": "Se7en",
+      "director": "Fincher",
+      "year": "1995",
+      "id": 807
+    },
+    {
+      "title": "Fire of Love",
+      "director": "Sara Dosa",
+      "year": "2022",
+      "category": "Documentary",
+      "id": 913823
+    },
+    {
+      "title": "Cache",
+      "director": "Haneke",
+      "year": "2005",
+      "id": 11096
+    },
+    {
+      "title": "The Green Knight",
+      "director": "David Lowery",
+      "year": "2021",
+      "category": "Fantasy",
+      "id": 559907
+    },
+    {
+      "title": "1917",
+      "director": "Sam Mendes",
+      "year": "2019",
+      "category": "War and Action",
+      "id": 530915
+    },
+    {
+      "title": "24 Hour Party People",
+      "director": "Winterbottom",
+      "year": "2002",
+      "id": 2750
+    },
+    {
+      "title": "Are You There God? It's Me, Margaret.",
+      "director": "Kelly Fremon Craig",
       "year": "2023",
-      "category": "Comedy"
+      "category": "Drama",
+      "id": 555285
     },
     {
-      "id": 496243,
+      "title": "One Night in Miami",
+      "director": "Regina King",
+      "year": "2020",
+      "category": "Drama",
+      "id": 661914
+    },
+    {
+      "title": "Napoleon",
+      "director": "Ridley Scott",
+      "year": "2023",
+      "category": "Historical Drama",
+      "id": 753342
+    },
+    {
+      "title": "She Said",
+      "director": "Maria Schrader",
+      "year": "2022",
+      "category": "Drama",
+      "id": 837881
+    },
+    {
+      "title": "My Dinner with Andre",
+      "director": "Malle",
+      "year": "1981",
+      "id": 25468
+    },
+    {
+      "title": "Pig",
+      "director": "Michael Sarnoski",
+      "year": "2021",
+      "category": "Drama",
+      "id": 635731
+    },
+    {
+      "title": "Vertigo",
+      "director": "Hitchcock",
+      "year": "1958",
+      "id": 426
+    },
+    {
+      "title": "Picnic at Hanging Rock",
+      "director": "Weir",
+      "year": "1975",
+      "id": 11020
+    },
+    {
+      "title": "Sexy Beast",
+      "director": "Glazer",
+      "year": "2000",
+      "id": 11826
+    },
+    {
+      "title": "A Little Princess",
+      "director": "Cuar\u00f3n",
+      "year": "1995",
+      "id": 19101
+    },
+    {
+      "title": "The Northman",
+      "director": "Robert Eggers",
+      "year": "2022",
+      "category": "Action and Adventure",
+      "id": 639933
+    },
+    {
+      "title": "Once Upon a Time in Hollywood",
+      "director": "Quentin Tarantino",
+      "year": "2019",
+      "category": "Drama",
+      "id": 466272
+    },
+    {
+      "title": "Champagne",
+      "director": "Hitchcock",
+      "year": "1928",
+      "id": 36054
+    },
+    {
+      "title": "Amores Perros",
+      "director": "I\u00f1\u00e1rritu",
+      "year": "2000",
+      "id": 55
+    },
+    {
+      "title": "Rosetta",
+      "director": "Dardenne",
+      "year": "1999",
+      "id": 11489
+    },
+    {
+      "title": "Code Unknown",
+      "director": "Haneke",
+      "year": "2000",
+      "id": 30970
+    },
+    {
+      "title": "Gone with the Wind",
+      "director": "Fleming",
+      "year": "1939",
+      "id": 770
+    },
+    {
+      "title": "H\u00e4xan",
+      "director": "Christensen",
+      "year": "1922",
+      "id": 57283
+    },
+    {
+      "title": "Barry Lyndon",
+      "director": "Kubrick",
+      "year": "1975",
+      "id": 3175
+    },
+    {
+      "title": "The 47 Ronin",
+      "director": "Mizoguchi",
+      "year": "1941",
+      "id": 45978
+    },
+    {
+      "title": "Uncut Gems",
+      "director": "Josh and Benny Safdie",
+      "year": "2019",
+      "category": "Crime and Thriller",
+      "id": 473033
+    },
+    {
+      "title": "Everything Everywhere All at Once",
+      "director": "Daniel Kwan, Daniel Scheinert",
+      "year": "2022",
+      "category": "Science fiction and fantasy",
+      "id": 545611
+    },
+    {
+      "title": "Walkabout",
+      "director": "Roeg",
+      "year": "1971",
+      "id": 36040
+    },
+    {
+      "title": "Mean Streets",
+      "director": "Scorsese",
+      "year": "1973",
+      "id": 203
+    },
+    {
+      "title": "Spencer",
+      "director": "Pablo Larra\u00edn",
+      "year": "2021",
+      "category": "Drama",
+      "id": 716612
+    },
+    {
+      "title": "The Thin Red Line",
+      "director": "Malick",
+      "year": "1998",
+      "id": 8741
+    },
+    {
+      "title": "Eastern Promises",
+      "director": "Cronenberg",
+      "year": "2007",
+      "id": 2252
+    },
+    {
+      "title": "2001: A Space Odyssey",
+      "director": "Kubrick",
+      "year": "1968",
+      "id": 62
+    },
+    {
+      "title": "Nomadland",
+      "director": "Chlo\u00e9 Zhao",
+      "year": "2020",
+      "category": "Drama",
+      "id": 581734
+    },
+    {
+      "title": "The Outlaw Josey Wales",
+      "director": "Eastwood",
+      "year": "1976",
+      "id": 10747
+    },
+    {
+      "title": "Au hasard Balthazar",
+      "director": "Bresson",
+      "year": "1966",
+      "id": 20108
+    },
+    {
+      "title": "Last Night in Soho",
+      "director": "Edgar Wright",
+      "year": "2021",
+      "category": "Horror",
+      "id": 576845
+    },
+    {
+      "title": "Marriage Story",
+      "director": "Noah Baumbach",
+      "year": "2019",
+      "category": "Drama",
+      "id": 492188
+    },
+    {
+      "title": "L\u2019enfant",
+      "director": "Dardenne",
+      "year": "2005",
+      "id": 11490
+    },
+    {
+      "title": "Funny Face",
+      "director": "Donen",
+      "year": "1957",
+      "id": 13320
+    },
+    {
+      "title": "Port of Shadows",
+      "director": "Carn\u00e9",
+      "year": "1938",
+      "id": 46326
+    },
+    {
+      "title": "Nixon",
+      "director": "Stone",
+      "year": "1995",
+      "id": 10858
+    },
+    {
+      "title": "Three Colours: White",
+      "director": "Kieslowski",
+      "year": "1994",
+      "id": 109
+    },
+    {
+      "title": "The Haunting",
+      "director": "Wise",
+      "year": "1963",
+      "id": 11772
+    },
+    {
+      "title": "Spring Breakers",
+      "director": "Korine",
+      "year": "2012",
+      "id": 122081
+    },
+    {
+      "title": "The Wizard of Oz",
+      "director": "Fleming",
+      "year": "1939",
+      "id": 630
+    },
+    {
+      "title": "The Untouchables De",
+      "director": "Palma",
+      "year": "1987",
+      "id": 117
+    },
+    {
+      "title": "The Match Factory Girl",
+      "director": "Kaurism\u00e4ki",
+      "year": "1990",
+      "id": 7974
+    },
+    {
+      "title": "Hour of the Wolf",
+      "director": "Bergman",
+      "year": "1968",
+      "id": 18333
+    },
+    {
+      "title": "Natural Born Killers",
+      "director": "Stone",
+      "year": "1994",
+      "id": 241
+    },
+    {
+      "title": "Pandora\u2019s Box",
+      "director": "Pabst",
+      "year": "1929",
+      "id": 905
+    },
+    {
+      "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "director": "Kubrick",
+      "year": "1964",
+      "id": 935
+    },
+    {
+      "title": "Faust",
+      "director": "Murnau",
+      "year": "1926",
+      "id": 10728
+    },
+    {
+      "title": "The Deer Hunter",
+      "director": "Cimino",
+      "year": "1978",
+      "id": 11778
+    },
+    {
+      "title": "12 Years a Slave",
+      "director": "McQueen",
+      "year": "2013",
+      "id": 76203
+    },
+    {
+      "title": "The Portrait of a Lady",
+      "director": "Campion",
+      "year": "1996",
+      "id": 36758
+    },
+    {
+      "title": "Day for Night",
+      "director": "Truffaut",
+      "year": "1973",
+      "id": 1675
+    },
+    {
+      "title": "Mystic River",
+      "director": "Eastwood",
+      "year": "2003",
+      "id": 322
+    },
+    {
+      "title": "Wild at Heart",
+      "director": "Lynch",
+      "year": "1990",
+      "id": 483
+    },
+    {
+      "title": "A Dangerous Method",
+      "director": "Cronenberg",
+      "year": "2011",
+      "id": 48231
+    },
+    {
+      "title": "The Celebration",
+      "director": "Vinterberg",
+      "year": "1998",
+      "id": 309
+    },
+    {
+      "title": "La Notte",
+      "director": "Antonioni",
+      "year": "1961",
+      "id": 41050
+    },
+    {
+      "title": "A Very Long Engagement",
+      "director": "Jeunet",
+      "year": "2004",
+      "id": 2841
+    },
+    {
+      "title": "Morvern Callar",
+      "director": "Ramsay",
+      "year": "2002",
+      "id": 18602
+    },
+    {
+      "title": "The Conformist",
+      "director": "Bertolucci",
+      "year": "1970",
+      "id": 8416
+    },
+    {
+      "title": "Down by Law",
+      "director": "Jarmusch",
+      "year": "1986",
+      "id": 1554
+    },
+    {
+      "title": "Shame",
+      "director": "Bergman",
+      "year": "1968",
+      "id": 26372
+    },
+    {
+      "title": "Out of Sight",
+      "director": "Soderbergh",
+      "year": "1998",
+      "id": 1389
+    },
+    {
+      "title": "Valhalla Rising",
+      "director": "Refn",
+      "year": "2009",
+      "id": 37861
+    },
+    {
+      "title": "May December",
+      "director": "Todd Haynes",
+      "year": "2023",
+      "category": "Drama",
+      "id": 839369
+    },
+    {
+      "title": "The Lodger",
+      "director": "Hitchcock",
+      "year": "1927",
+      "id": 2760
+    },
+    {
+      "title": "The Birds",
+      "director": "Hitchcock",
+      "year": "1963",
+      "id": 571
+    },
+    {
+      "title": "Talk to Her",
+      "director": "Almod\u00f3var",
+      "year": "2002",
+      "id": 64
+    },
+    {
+      "title": "L\u2019Eclisse",
+      "director": "Antonioni",
+      "year": "1962",
+      "id": 21135
+    },
+    {
+      "title": "La Pointe Courte",
+      "director": "Varda",
+      "year": "1955",
+      "id": 54436
+    },
+    {
+      "title": "The Human Condition",
+      "director": "Kobayashi",
+      "year": "1959",
+      "id": 31217
+    },
+    {
+      "title": "Scarecrow",
+      "director": "Schatzberg",
+      "year": "1973",
+      "id": 31587
+    },
+    {
+      "title": "Heaven\u2019s Gate",
+      "director": "Cimino",
+      "year": "1980",
+      "id": 10935
+    },
+    {
+      "title": "Shame",
+      "director": "McQueen",
+      "year": "2011",
+      "id": 76025
+    },
+    {
+      "title": "The Maltese Falcon",
+      "director": "Huston",
+      "year": "1941",
+      "id": 963
+    },
+    {
+      "title": "The Magnificent Ambersons",
+      "director": "Welles",
+      "year": "1942",
+      "id": 965
+    },
+    {
+      "title": "The Gold Rush",
+      "director": "Chaplin",
+      "year": "1925",
+      "id": 962
+    },
+    {
+      "title": "Quai des Orf\u00e8vres",
+      "director": "Clouzot",
+      "year": "1947",
+      "id": 49842
+    },
+    {
+      "title": "An Autumn Afternoon",
+      "director": "Ozu",
+      "year": "1962",
+      "id": 50759
+    },
+    {
+      "title": "Ratcatcher",
+      "director": "Ramsay",
+      "year": "1999",
+      "id": 29698
+    },
+    {
+      "title": "Lost Highway",
+      "director": "Lynch",
+      "year": "1997",
+      "id": 638
+    },
+    {
+      "title": "Reservoir Dogs",
+      "director": "Tarantino",
+      "year": "1992",
+      "id": 500
+    },
+    {
+      "title": "He Got Game S.",
+      "director": "Lee",
+      "year": "1998",
+      "id": 9469
+    },
+    {
+      "title": "Blood Simple",
+      "director": "Coen",
+      "year": "1984",
+      "id": 11368
+    },
+    {
+      "title": "Psycho",
+      "director": "Hitchcock",
+      "year": "1960",
+      "id": 539
+    },
+    {
+      "title": "Sherlock Jr.",
+      "director": "Keaton",
+      "year": "1924",
+      "id": 992
+    },
+    {
+      "title": "Jurassic Park",
+      "director": "Spielberg",
+      "year": "1993",
+      "id": 329
+    },
+    {
+      "title": "Love Me Tonight",
+      "director": "Mamoulian",
+      "year": "1932",
+      "id": 31532
+    },
+    {
+      "title": "Le Million",
+      "director": "Clair",
+      "year": "1931",
+      "id": 32317
+    },
+    {
+      "title": "Brokeback Mountain A.",
+      "director": "Lee",
+      "year": "2005",
+      "id": 142
+    },
+    {
+      "title": "No Country for Old Men",
+      "director": "Coen",
+      "year": "2007",
+      "id": 6977
+    },
+    {
+      "title": "12 Monkeys",
+      "director": "Gilliam",
+      "year": "1995",
+      "id": 63
+    },
+    {
+      "title": "Some Like it Hot",
+      "director": "Wilder",
+      "year": "1959",
+      "id": 239
+    },
+    {
+      "title": "Dangerous Liaisons",
+      "director": "Frears",
+      "year": "1988",
+      "id": 859
+    },
+    {
+      "title": "Django Unchained",
+      "director": "Tarantino",
+      "year": "2012",
+      "id": 68718
+    },
+    {
+      "title": "Marnie",
+      "director": "Hitchcock",
+      "year": "1964",
+      "id": 506
+    },
+    {
+      "title": "Touchez Pas au Grisbi",
+      "director": "Becker",
+      "year": "1954",
+      "id": 27430
+    },
+    {
+      "title": "All that Heaven Allows",
+      "director": "Sirk",
+      "year": "1955",
+      "id": 43316
+    },
+    {
+      "title": "The Passion of Joan of Arc",
+      "director": "Dreyer",
+      "year": "1928",
+      "id": 780
+    },
+    {
+      "title": "Green Book",
+      "director": "Peter Farrelly",
+      "year": "2018",
+      "category": "Drama",
+      "id": 490132
+    },
+    {
+      "title": "Day of Wrath",
+      "director": "Dreyer",
+      "year": "1943",
+      "id": 41391
+    },
+    {
+      "title": "Winchester \u201973 A.",
+      "director": "Mann",
+      "year": "1950",
+      "id": 14551
+    },
+    {
+      "title": "Sound of Metal",
+      "director": "Darius Marder",
+      "year": "2020",
+      "category": "Drama",
+      "id": 502033
+    },
+    {
+      "title": "Accattone",
+      "director": "Pasolini",
+      "year": "1961",
+      "id": 12491
+    },
+    {
+      "title": "Annie Hall",
+      "director": "Allen",
+      "year": "1977",
+      "id": 703
+    },
+    {
+      "title": "The Favourite",
+      "director": "Yorgos Lanthimos",
+      "year": "2018",
+      "category": "Drama",
+      "id": 375262
+    },
+    {
+      "title": "Mystery Train",
+      "director": "Jarmusch",
+      "year": "1989",
+      "id": 11305
+    },
+    {
+      "title": "Brief Encounter",
+      "director": "Lean",
+      "year": "1945",
+      "id": 851
+    },
+    {
+      "title": "Autumn Sonata",
+      "director": "Bergman",
+      "year": "1978",
+      "id": 12761
+    },
+    {
+      "title": "Gun Crazy",
+      "director": "Lewis",
+      "year": "1950",
+      "id": 18671
+    },
+    {
+      "title": "A Fistful of Dollars",
+      "director": "Leone",
+      "year": "1964",
+      "id": 391
+    },
+    {
+      "title": "M",
+      "director": "Lang",
+      "year": "1931",
+      "id": 26317
+    },
+    {
+      "title": "Speed Racer",
+      "director": "Wachowski",
+      "year": "2008",
+      "id": 7459
+    },
+    {
+      "title": "The Devil\u2019s Backbone del",
+      "director": "Toro",
+      "year": "2001",
+      "id": 1433
+    },
+    {
+      "title": "Matewan",
+      "director": "Sayles",
+      "year": "1987",
+      "id": 24276
+    },
+    {
+      "title": "The Deep Blue Sea",
+      "director": "Davies",
+      "year": "2011",
+      "id": 51994
+    },
+    {
+      "title": "My Night at Maud\u2019s",
+      "director": "Rohmer",
+      "year": "1969",
+      "id": 48831
+    },
+    {
+      "title": "The Man Who Would Be King",
+      "director": "Huston",
+      "year": "1975",
+      "id": 983
+    },
+    {
+      "title": "Die Nibelungen",
+      "director": "Lang",
+      "year": "1924",
+      "id": 42512
+    },
+    {
+      "title": "Fort Apache",
+      "director": "Ford",
+      "year": "1948",
+      "id": 37347
+    },
+    {
+      "title": "Werckmeister Harmonies",
+      "director": "Tarr",
+      "year": "2000",
+      "id": 23160
+    },
+    {
       "title": "Parasite",
       "director": "Bong Joon-ho",
       "year": "2019",
-      "category": "Drama"
+      "category": "Drama",
+      "id": 496243
     },
     {
-      "id": 569094,
-      "title": "Spider-Man: Across the Spider-Verse",
-      "director": "Joaquim Dos Santos, Kemp Powers, Justin K. Thompson",
+      "title": "Ludwig",
+      "director": "Visconti",
+      "year": "1973",
+      "id": 3478
+    },
+    {
+      "title": "Guillermo del Toro's Pinocchio",
+      "director": "Guillermo del Toro",
+      "year": "2022",
+      "category": "Animation",
+      "id": 555604
+    },
+    {
+      "title": "Persona",
+      "director": "Bergman",
+      "year": "1966",
+      "id": 797
+    },
+    {
+      "title": "Samurai Rebellion",
+      "director": "Kobayashi",
+      "year": "1967",
+      "id": 27031
+    },
+    {
+      "title": "Mishima: A Life in Four Chapters",
+      "director": "Schrader",
+      "year": "1985",
+      "id": 27064
+    },
+    {
+      "title": "Oppenheimer",
+      "director": "Nolan",
       "year": "2023",
-      "category": "Animation"
+      "id": 872585
     },
     {
-      "id": 580489,
-      "title": "Tenet",
-      "director": "Christopher Nolan",
+      "title": "Black Swan",
+      "director": "Aronofsky",
+      "year": "2010",
+      "id": 44214
+    },
+    {
+      "title": "Taste of Cherry",
+      "director": "Kiarostami",
+      "year": "1997",
+      "id": 30020
+    },
+    {
+      "title": "The Sweet Hereafter",
+      "director": "Egoyan",
+      "year": "1997",
+      "id": 10217
+    },
+    {
+      "title": "True Grit",
+      "director": "Coen",
+      "year": "2010",
+      "id": 44264
+    },
+    {
+      "title": "Zabriskie Point",
+      "director": "Antonioni",
+      "year": "1970",
+      "id": 2998
+    },
+    {
+      "title": "The Long Goodbye",
+      "director": "Altman",
+      "year": "1973",
+      "id": 1847
+    },
+    {
+      "title": "\u00c9l",
+      "director": "Bu\u00f1uel",
+      "year": "1953",
+      "id": 43344
+    },
+    {
+      "title": "The Tragedy of Macbeth",
+      "director": "Joel Coen",
+      "year": "2021",
+      "category": "Drama",
+      "id": 591538
+    },
+    {
+      "title": "Am\u00e9lie",
+      "director": "Jeunet",
+      "year": "2001",
+      "id": 194
+    },
+    {
+      "title": "Ugetsu",
+      "director": "Mizoguchi",
+      "year": "1953",
+      "id": 14696
+    },
+    {
+      "title": "Die Austernprinzessin",
+      "director": "Lubitsch",
+      "year": "1919",
+      "id": 48591
+    },
+    {
+      "title": "Kaagaz Ke Phool",
+      "director": "Dutt",
+      "year": "1959",
+      "id": 53767
+    },
+    {
+      "title": "The Good, the Bad and the Ugly",
+      "director": "Leone",
+      "year": "1966",
+      "id": 429
+    },
+    {
+      "title": "The Letter",
+      "director": "Wyler",
+      "year": "1940",
+      "id": 17801
+    },
+    {
+      "title": "Hero Yimou",
+      "director": "Zhang",
+      "year": "2002",
+      "id": 79
+    },
+    {
+      "title": "The Holdovers",
+      "director": "Alexander Payne",
+      "year": "2023",
+      "category": "Comedy",
+      "id": 840430
+    },
+    {
+      "title": "The Masque of the Red Death",
+      "director": "Corman",
+      "year": "1964",
+      "id": 25319
+    },
+    {
+      "title": "Glass Onion: A Knives Out Mystery",
+      "director": "Rian Johnson",
+      "year": "2022",
+      "category": "Crime and Thriller",
+      "id": 661374
+    },
+    {
+      "title": "High and Low",
+      "director": "Kurosawa",
+      "year": "1963",
+      "id": 12493
+    },
+    {
+      "title": "Shutter Island",
+      "director": "Scorsese",
+      "year": "2010",
+      "id": 11324
+    },
+    {
+      "title": "Terminator 2: Judgment Day",
+      "director": "Cameron",
+      "year": "1991",
+      "id": 280
+    },
+    {
+      "title": "Amarcord",
+      "director": "Fellini",
+      "year": "1973",
+      "id": 7857
+    },
+    {
+      "title": "Horror of Dracula",
+      "director": "Fisher",
+      "year": "1958",
+      "id": 11868
+    },
+    {
+      "title": "Les vampires",
+      "director": "Feuillade",
+      "year": "1915",
+      "id": 29082
+    },
+    {
+      "title": "Citizen Kane",
+      "director": "Welles",
+      "year": "1941",
+      "id": 15
+    },
+    {
+      "title": "The Belly of an Architect",
+      "director": "Greenaway",
+      "year": "1987",
+      "id": 17238
+    },
+    {
+      "title": "Park Row",
+      "director": "Fuller",
+      "year": "1952",
+      "id": 26242
+    },
+    {
+      "title": "Kiss Me Deadly",
+      "director": "Aldrich",
+      "year": "1955",
+      "id": 18030
+    },
+    {
+      "title": "Laurence Anyways",
+      "director": "Dolan",
+      "year": "2012",
+      "id": 110160
+    },
+    {
+      "title": "Journey to Italy",
+      "director": "Rossellini",
+      "year": "1954",
+      "id": 2748
+    },
+    {
+      "title": "Possessor",
+      "director": "Brandon Cronenberg",
       "year": "2020",
-      "category": "Science fiction and fantasy"
+      "category": "Horror",
+      "id": 435615
     },
     {
-      "id": 475557,
+      "title": "Dick Tracy",
+      "director": "Beatty",
+      "year": "1990",
+      "id": 8592
+    },
+    {
+      "title": "Vivre Sa Vie",
+      "director": "Godard",
+      "year": "1962",
+      "id": 1626
+    },
+    {
+      "title": "Blue is the Warmest Colour",
+      "director": "Kechiche",
+      "year": "2013",
+      "id": 152584
+    },
+    {
+      "title": "Star Trek: The Motion Picture",
+      "director": "Wise",
+      "year": "1979",
+      "id": 152
+    },
+    {
+      "title": "Kind Hearts and Coronets",
+      "director": "Hamer",
+      "year": "1949",
+      "id": 11898
+    },
+    {
+      "title": "A History of Violence",
+      "director": "Cronenberg",
+      "year": "2005",
+      "id": 59
+    },
+    {
+      "title": "On the Waterfront",
+      "director": "Kazan",
+      "year": "1954",
+      "id": 654
+    },
+    {
+      "title": "North by Northwest",
+      "director": "Hitchcock",
+      "year": "1959",
+      "id": 213
+    },
+    {
+      "title": "Prey",
+      "director": "Dan Trachtenberg",
+      "year": "2022",
+      "category": "Action and Adventure",
+      "id": 766507
+    },
+    {
+      "title": "Guardians of the Galaxy Vol. 3",
+      "director": "James Gunn",
+      "year": "2023",
+      "category": "Action and Adventure",
+      "id": 447365
+    },
+    {
+      "title": "Women on the Verge of a Nervous Breakdown",
+      "director": "Almod\u00f3var",
+      "year": "1988",
+      "id": 4203
+    },
+    {
+      "title": "That Obscure Object of Desire",
+      "director": "Bu\u00f1uel",
+      "year": "1977",
+      "id": 5781
+    },
+    {
+      "title": "Midnight Express",
+      "director": "Parker",
+      "year": "1978",
+      "id": 11327
+    },
+    {
+      "title": "Images",
+      "director": "Altman",
+      "year": "1972",
+      "id": 29449
+    },
+    {
+      "title": "Night of the Living Dead",
+      "director": "Romero",
+      "year": "1968",
+      "id": 10331
+    },
+    {
+      "title": "Brute Force",
+      "director": "Dassin",
+      "year": "1947",
+      "id": 28297
+    },
+    {
+      "title": "Triangle of Sadness",
+      "director": "Ruben \u00d6stlund",
+      "year": "2022",
+      "category": "Comedy",
+      "id": 497828
+    },
+    {
+      "title": "The Menu",
+      "director": "Mark Mylod",
+      "year": "2022",
+      "category": "Horror",
+      "id": 593643
+    },
+    {
+      "title": "Sleepy Hollow",
+      "director": "Burton",
+      "year": "1999",
+      "id": 2668
+    },
+    {
+      "title": "Dead Ringers",
+      "director": "Cronenberg",
+      "year": "1988",
+      "id": 9540
+    },
+    {
+      "title": "Il Grido",
+      "director": "Antonioni",
+      "year": "1957",
+      "id": 41054
+    },
+    {
+      "title": "Django",
+      "director": "Corbucci",
+      "year": "1966",
+      "id": 10772
+    },
+    {
+      "title": "The Treasure of the Sierra Madre",
+      "director": "Huston",
+      "year": "1948",
+      "id": 3090
+    },
+    {
+      "title": "The Big Country",
+      "director": "Wyler",
+      "year": "1958",
+      "id": 12501
+    },
+    {
+      "title": "Sweet Smell of Success",
+      "director": "Mackendrick",
+      "year": "1957",
+      "id": 976
+    },
+    {
+      "title": "A Woman Is a Woman",
+      "director": "Godard",
+      "year": "1961",
+      "id": 31522
+    },
+    {
+      "title": "The Immigrant",
+      "director": "Gray",
+      "year": "2013",
+      "id": 152599
+    },
+    {
+      "title": "My Darling Clementine",
+      "director": "Ford",
+      "year": "1946",
+      "id": 3088
+    },
+    {
+      "title": "Rio Bravo",
+      "director": "Hawks",
+      "year": "1959",
+      "id": 301
+    },
+    {
+      "title": "The Terminator",
+      "director": "Cameron",
+      "year": "1984",
+      "id": 218
+    },
+    {
+      "title": "The Trial",
+      "director": "Welles",
+      "year": "1962",
+      "id": 48764
+    },
+    {
+      "title": "Shadow of a Doubt",
+      "director": "Hitchcock",
+      "year": "1943",
+      "id": 21734
+    },
+    {
+      "title": "Invasion of Body Snatchers",
+      "director": "Siegel",
+      "year": "1956",
+      "id": 11549
+    },
+    {
+      "title": "The Fly",
+      "director": "Cronenberg",
+      "year": "1986",
+      "id": 10372
+    },
+    {
+      "title": "Traffic",
+      "director": "Soderbergh",
+      "year": "2000",
+      "id": 1900
+    },
+    {
+      "title": "Nosferatu the Vampyre",
+      "director": "Herzog",
+      "year": "1979",
+      "id": 6404
+    },
+    {
+      "title": "The Life of Oharu",
+      "director": "Mizoguchi",
+      "year": "1952",
+      "id": 43364
+    },
+    {
+      "title": "Lady Snowblood",
+      "director": "Fujita",
+      "year": "1973",
+      "id": 2487
+    },
+    {
+      "title": "Cape Fear",
+      "director": "Scorsese",
+      "year": "1991",
+      "id": 1598
+    },
+    {
+      "title": "Bad Education",
+      "director": "Almod\u00f3var",
+      "year": "2004",
+      "id": 140
+    },
+    {
+      "title": "Forrest Gump",
+      "director": "Zemeckis",
+      "year": "1994",
+      "id": 13
+    },
+    {
+      "title": "The Dark Knight",
+      "director": "Nolan",
+      "year": "2008",
+      "id": 272
+    },
+    {
+      "title": "Weekend",
+      "director": "Godard",
+      "year": "1967",
+      "id": 8075
+    },
+    {
+      "title": "Taxi Driver",
+      "director": "Scorsese",
+      "year": "1976",
+      "id": 103
+    },
+    {
+      "title": "12 Angry Men",
+      "director": "Lumet",
+      "year": "1957",
+      "id": 389
+    },
+    {
+      "title": "The Silence of the Lambs",
+      "director": "Demme",
+      "year": "1991",
+      "id": 274
+    },
+    {
+      "title": "Everything Everywhere All at Once",
+      "director": "Daniels",
+      "year": "2022",
+      "id": 545611
+    },
+    {
+      "title": "Modern Times",
+      "director": "Chaplin",
+      "year": "1936",
+      "id": 3082
+    },
+    {
+      "title": "Elephant Van",
+      "director": "Sant",
+      "year": "2003",
+      "id": 1045696
+    },
+    {
+      "title": "Scarface De",
+      "director": "Palma",
+      "year": "1983",
+      "id": 111
+    },
+    {
+      "title": "Lilith",
+      "director": "Rossen",
+      "year": "1964",
+      "id": 60437
+    },
+    {
+      "title": "Fitzcarraldo",
+      "director": "Herzog",
+      "year": "1982",
+      "id": 9343
+    },
+    {
+      "title": "The Innocents",
+      "director": "Clayton",
+      "year": "1961",
+      "id": 16372
+    },
+    {
+      "title": "Turning Red",
+      "director": "Domee Shi",
+      "year": "2022",
+      "category": "Animation",
+      "id": 508947
+    },
+    {
+      "title": "Mr. Klein",
+      "director": "Losey",
+      "year": "1976",
+      "id": 58925
+    },
+    {
+      "title": "Aar-Paar",
+      "director": "Dutt",
+      "year": "1954",
+      "id": 71283
+    },
+    {
+      "title": "The Big Sleep",
+      "director": "Hawks",
+      "year": "1946",
+      "id": 910
+    },
+    {
+      "title": "All the President\u2019s Men",
+      "director": "Pakula",
+      "year": "1976",
+      "id": 891
+    },
+    {
+      "title": "Purple Noon",
+      "director": "Cl\u00e9ment",
+      "year": "1960",
+      "id": 10363
+    },
+    {
+      "title": "Kagemusha",
+      "director": "Kurosawa",
+      "year": "1980",
+      "id": 11953
+    },
+    {
+      "title": "The Whale",
+      "director": "Darren Aronofsky",
+      "year": "2022",
+      "category": "Drama",
+      "id": 785084
+    },
+    {
+      "title": "Senso",
+      "director": "Visconti",
+      "year": "1954",
+      "id": 43195
+    },
+    {
+      "title": "Peeping Tom",
+      "director": "Powell",
+      "year": "1960",
+      "id": 11167
+    },
+    {
+      "title": "Die Hard",
+      "director": "McTiernan",
+      "year": "1988",
+      "id": 562
+    },
+    {
+      "title": "Raiders of the Lost Ark",
+      "director": "Spielberg",
+      "year": "1981",
+      "id": 85
+    },
+    {
+      "title": "Torn Curtain",
+      "director": "Hitchcock",
+      "year": "1966",
+      "id": 5780
+    },
+    {
+      "title": "Another Round",
+      "director": "Thomas Vinterberg",
+      "year": "2020",
+      "category": "Drama",
+      "id": 580175
+    },
+    {
+      "title": "Prince of the City",
+      "director": "Lumet",
+      "year": "1981",
+      "id": 32047
+    },
+    {
+      "title": "Black Panther: Wakanda Forever",
+      "director": "Ryan Coogler",
+      "year": "2022",
+      "category": "Action and Adventure",
+      "id": 505642
+    },
+    {
+      "title": "The Shop Around the Corner",
+      "director": "Lubitsch",
+      "year": "1940",
+      "id": 20334
+    },
+    {
+      "title": "Three Colours: Red",
+      "director": "Kieslowski",
+      "year": "1994",
+      "id": 110
+    },
+    {
+      "title": "No Time to Die",
+      "director": "Cary Joji Fukunaga",
+      "year": "2021",
+      "category": "Action and Adventure",
+      "id": 370172
+    },
+    {
+      "title": "Crouching Tiger, Hidden Dragon A.",
+      "director": "Lee",
+      "year": "2000",
+      "id": 146
+    },
+    {
+      "title": "Detour",
+      "director": "Ulmer",
+      "year": "1945",
+      "id": 20367
+    },
+    {
+      "title": "Blood and Black Lace",
+      "director": "Bava",
+      "year": "1964",
+      "id": 28055
+    },
+    {
+      "title": "1900",
+      "director": "Bertolucci",
+      "year": "1976",
+      "id": 3870
+    },
+    {
+      "title": "Steamboat Bill, Jr. Keaton,",
+      "director": "Reisner",
+      "year": "1928",
+      "id": 25768
+    },
+    {
+      "title": "The Entertainer",
+      "director": "Richardson",
+      "year": "1960",
+      "id": 18929
+    },
+    {
+      "title": "The Lighthouse",
+      "director": "Robert Eggers",
+      "year": "2019",
+      "category": "Horror",
+      "id": 503919
+    },
+    {
+      "title": "Star Wars",
+      "director": "Lucas",
+      "year": "1977",
+      "id": 11
+    },
+    {
+      "title": "Top Gun: Maverick",
+      "director": "Joseph Kosinski",
+      "year": "2022",
+      "category": "Action and Adventure",
+      "id": 361743
+    },
+    {
+      "title": "Close Encounters of the Third Kind",
+      "director": "Spielberg",
+      "year": "1977",
+      "id": 840
+    },
+    {
+      "title": "Hunger",
+      "director": "McQueen",
+      "year": "2008",
+      "id": 10360
+    },
+    {
+      "title": "Broken Blossoms",
+      "director": "Griffith",
+      "year": "1919",
+      "id": 899
+    },
+    {
+      "title": "Far From Heaven",
+      "director": "Haynes",
+      "year": "2002",
+      "id": 10712
+    },
+    {
+      "title": "Call Me by Your Name",
+      "director": "Luca Guadagnino",
+      "year": "2017",
+      "category": "Drama",
+      "id": 398818
+    },
+    {
+      "title": "The Razor\u2019s Edge",
+      "director": "Goulding",
+      "year": "1946",
+      "id": 56135
+    },
+    {
+      "title": "The Seventh Seal",
+      "director": "Bergman",
+      "year": "1957",
+      "id": 490
+    },
+    {
+      "title": "Easy Rider",
+      "director": "Hopper",
+      "year": "1969",
+      "id": 624
+    },
+    {
+      "title": "Ran",
+      "director": "Kurosawa",
+      "year": "1985",
+      "id": 111
+    },
+    {
+      "title": "Suspiria",
+      "director": "Argento",
+      "year": "1977",
+      "id": 11906
+    },
+    {
+      "title": "Red Desert",
+      "director": "Antonioni",
+      "year": "1964",
+      "id": 26638
+    },
+    {
+      "title": "Flee",
+      "director": "Jonas Poher Rasmussen",
+      "year": "2021",
+      "category": "Documentary",
+      "id": 680813
+    },
+    {
+      "title": "Ryan\u2019s Daughter",
+      "director": "Lean",
+      "year": "1970",
+      "id": 38953
+    },
+    {
+      "title": "The Ballad of Narayama",
+      "director": "Imamura",
+      "year": "1983",
+      "id": 42113
+    },
+    {
+      "title": "Only God Forgives",
+      "director": "Refn",
+      "year": "2013",
+      "id": 77987
+    },
+    {
+      "title": "The Squid and the Whale",
+      "director": "Baumbach",
+      "year": "2005",
+      "id": 10707
+    },
+    {
+      "title": "The Age of Innocence",
+      "director": "Scorsese",
+      "year": "1993",
+      "id": 10436
+    },
+    {
+      "title": "Henry V",
+      "director": "Olivier",
+      "year": "1944",
+      "id": 22638
+    },
+    {
+      "title": "La Chienne",
+      "director": "Renoir",
+      "year": "1931",
+      "id": 26614
+    },
+    {
+      "title": "The Manchurian Candidate",
+      "director": "Frankenheimer",
+      "year": "1962",
+      "id": 982
+    },
+    {
+      "title": "Bad Lieutenant",
+      "director": "Ferrara",
+      "year": "1992",
+      "id": 12143
+    },
+    {
+      "title": "Full Metal Jacket",
+      "director": "Kubrick",
+      "year": "1987",
+      "id": 600
+    },
+    {
+      "title": "A Serious Man",
+      "director": "Coen",
+      "year": "2009",
+      "id": 12573
+    },
+    {
+      "title": "Inside Llewyn Davis",
+      "director": "Coen",
+      "year": "2013",
+      "id": 86829
+    },
+    {
+      "title": "La B\u00eate Humaine",
+      "director": "Renoir",
+      "year": "1938",
+      "id": 29415
+    },
+    {
+      "title": "Drive My Car",
+      "director": "Ryusuke Hamaguchi",
+      "year": "2021",
+      "category": "Drama",
+      "id": 758866
+    },
+    {
+      "title": "Cat People",
+      "director": "Tourneur",
+      "year": "1942",
+      "id": 25508
+    },
+    {
+      "title": "Dodsworth",
+      "director": "Wyler",
+      "year": "1936",
+      "id": 31507
+    },
+    {
+      "title": "La grande illusion",
+      "director": "Renoir",
+      "year": "1937",
+      "id": 777
+    },
+    {
+      "title": "Memento",
+      "director": "Nolan",
+      "year": "2000",
+      "id": 77
+    },
+    {
+      "title": "Songs from the Second Floor",
+      "director": "Andersson",
+      "year": "2000",
+      "id": 34070
+    },
+    {
+      "title": "Carlito\u2019s Way De",
+      "director": "Palma",
+      "year": "1993",
+      "id": 6075
+    },
+    {
+      "title": "The Circus",
+      "director": "Chaplin",
+      "year": "1928",
+      "id": 28978
+    },
+    {
+      "title": "Imitation of Life",
+      "director": "Sirk",
+      "year": "1959",
+      "id": 34148
+    },
+    {
+      "title": "The White Ribbon",
+      "director": "Haneke",
+      "year": "2009",
+      "id": 37903
+    },
+    {
+      "title": "Aguirre, the Wrath of God",
+      "director": "Herzog",
+      "year": "1972",
+      "id": 2000
+    },
+    {
+      "title": "Minari",
+      "director": "Lee Isaac Chung",
+      "year": "2020",
+      "category": "Drama",
+      "id": 615643
+    },
+    {
+      "title": "The Assassination of Jesse James by the Coward Robert Ford",
+      "director": "Dominik",
+      "year": "2007",
+      "id": 4512
+    },
+    {
+      "title": "Priscilla",
+      "director": "Sofia Coppola",
+      "year": "2023",
+      "category": "Drama",
+      "id": 1020006
+    },
+    {
+      "title": "Los Olvidados",
+      "director": "Bu\u00f1uel",
+      "year": "1950",
+      "id": 800
+    },
+    {
+      "title": "Avatar",
+      "director": "Cameron",
+      "year": "2009",
+      "id": 19995
+    },
+    {
+      "title": "Zodiac",
+      "director": "Fincher",
+      "year": "2007",
+      "id": 1949
+    },
+    {
+      "title": "Gate of Flesh",
+      "director": "Suzuki",
+      "year": "1964",
+      "id": 86666
+    },
+    {
+      "title": "Le Havre",
+      "director": "Kaurism\u00e4ki",
+      "year": "2011",
+      "id": 73532
+    },
+    {
+      "title": "Klute",
+      "director": "Pakula",
+      "year": "1971",
+      "id": 466
+    },
+    {
+      "title": "Asteroid City",
+      "director": "Wes Anderson",
+      "year": "2023",
+      "category": "Comedy",
+      "id": 747188
+    },
+    {
+      "title": "Playtime",
+      "director": "Tati",
+      "year": "1967",
+      "id": 10227
+    },
+    {
+      "title": "I Am a Fugitive from a Chain Gang",
+      "director": "LeRoy",
+      "year": "1932",
+      "id": 29740
+    },
+    {
+      "title": "Juliet of the Spirits",
+      "director": "Fellini",
+      "year": "1965",
+      "id": 19120
+    },
+    {
+      "title": "Stranger Than Paradise",
+      "director": "Jarmusch",
+      "year": "1984",
+      "id": 469
+    },
+    {
+      "title": "Summer with Monika",
+      "director": "Bergman",
+      "year": "1953",
+      "id": 47735
+    },
+    {
+      "title": "Solaris",
+      "director": "Tarkovsky",
+      "year": "1972",
+      "id": 593
+    },
+    {
+      "title": "Le Plaisir",
+      "director": "Oph\u00fcls",
+      "year": "1952",
+      "id": 43360
+    },
+    {
+      "title": "The Discreet Charm of the Bourgeoisie",
+      "director": "Bu\u00f1uel",
+      "year": "1972",
+      "id": 4593
+    },
+    {
+      "title": "Moonrise",
+      "director": "Borzage",
+      "year": "1948",
+      "id": 28392
+    },
+    {
+      "title": "The Great Beauty",
+      "director": "Sorrentino",
+      "year": "2013",
+      "id": 179144
+    },
+    {
+      "title": "Freaks",
+      "director": "Browning",
+      "year": "1932",
+      "id": 136
+    },
+    {
+      "title": "The Virgin Spring",
+      "director": "Bergman",
+      "year": "1960",
+      "id": 11656
+    },
+    {
+      "title": "Sunrise",
+      "director": "Murnau",
+      "year": "1927",
+      "id": 631
+    },
+    {
+      "title": "8 1/2",
+      "director": "Fellini",
+      "year": "1963",
+      "id": 422
+    },
+    {
+      "title": "Eyes Wide Shut",
+      "director": "Kubrick",
+      "year": "1999",
+      "id": 345
+    },
+    {
+      "title": "Avatar: The Way of Water",
+      "director": "James Cameron",
+      "year": "2022",
+      "category": "Science fiction and fantasy",
+      "id": 76600
+    },
+    {
+      "title": "Le notti bianche",
+      "director": "Visconti",
+      "year": "1957",
+      "id": 43231
+    },
+    {
+      "title": "Midnight Cowboy",
+      "director": "Schlesinger",
+      "year": "1969",
+      "id": 3116
+    },
+    {
+      "title": "The American Friend",
+      "director": "Wenders",
+      "year": "1977",
+      "id": 11222
+    },
+    {
+      "title": "Dog Day Afternoon",
+      "director": "Lumet",
+      "year": "1975",
+      "id": 968
+    },
+    {
+      "title": "Strike",
+      "director": "Eisenstein",
+      "year": "1925",
+      "id": 44967
+    },
+    {
+      "title": "Walker",
+      "director": "Cox",
+      "year": "1987",
+      "id": 28448
+    },
+    {
+      "title": "Scarface",
+      "director": "Hawks",
+      "year": "1932",
+      "id": 877
+    },
+    {
+      "title": "Chariots of Fire",
+      "director": "Hudson",
+      "year": "1981",
+      "id": 9443
+    },
+    {
+      "title": "Gosford Park",
+      "director": "Altman",
+      "year": "2001",
+      "id": 5279
+    },
+    {
+      "title": "The Crime of Monsieur Lange",
+      "director": "Renoir",
+      "year": "1936",
+      "id": 52677
+    },
+    {
+      "title": "The Father",
+      "director": "Florian Zeller",
+      "year": "2020",
+      "category": "Drama",
+      "id": 600354
+    },
+    {
+      "title": "Crimes and Misdemeanors",
+      "director": "Allen",
+      "year": "1989",
+      "id": 11562
+    },
+    {
+      "title": "Frances Ha",
+      "director": "Baumbach",
+      "year": "2012",
+      "id": 121986
+    },
+    {
+      "title": "Elvis",
+      "director": "Baz Luhrmann",
+      "year": "2022",
+      "category": "Drama",
+      "id": 614934
+    },
+    {
+      "title": "Lola",
+      "director": "Demy",
+      "year": "1961",
+      "id": 40641
+    },
+    {
+      "title": "Kes",
+      "director": "Loach",
+      "year": "1969",
+      "id": 642
+    },
+    {
+      "title": "News of the World",
+      "director": "Paul Greengrass",
+      "year": "2020",
+      "category": "Western",
+      "id": 581032
+    },
+    {
+      "title": "Lady Bird",
+      "director": "Greta Gerwig",
+      "year": "2017",
+      "category": "Drama",
+      "id": 391713
+    },
+    {
+      "title": "Bringing Up Baby",
+      "director": "Hawks",
+      "year": "1938",
+      "id": 900
+    },
+    {
+      "title": "The Philadelphia Story",
+      "director": "Cukor",
+      "year": "1940",
+      "id": 981
+    },
+    {
+      "title": "Tie Me Up! Tie Me Down!",
+      "director": "Almod\u00f3var",
+      "year": "1989",
+      "id": 2469
+    },
+    {
+      "title": "The Usual Suspects",
+      "director": "Singer",
+      "year": "1995",
+      "id": 629
+    },
+    {
+      "title": "Rope",
+      "director": "Hitchcock",
+      "year": "1948",
+      "id": 1580
+    },
+    {
       "title": "Joker",
       "director": "Todd Phillips",
       "year": "2019",
-      "category": "Drama"
+      "category": "Drama",
+      "id": 475557
     },
     {
-      "id": 542178,
-      "title": "The Wolf of Snow Hollow",
-      "director": "Jim Cummings",
+      "title": "Branded to Kill",
+      "director": "Suzuki",
+      "year": "1967",
+      "id": 17905
+    },
+    {
+      "title": "Reds",
+      "director": "Beatty",
+      "year": "1981",
+      "id": 18254
+    },
+    {
+      "title": "Mamma Roma",
+      "director": "Pasolini",
+      "year": "1962",
+      "id": 47796
+    },
+    {
+      "title": "Uncle Boonmee Who Can Recall His Past Lives",
+      "director": "Weerasethakul",
+      "year": "2010",
+      "id": 38368
+    },
+    {
+      "title": "First Cow",
+      "director": "Kelly Reichardt",
       "year": "2020",
-      "category": "Horror"
+      "category": "Drama",
+      "id": 558582
+    },
+    {
+      "title": "Stray Dog",
+      "director": "Kurosawa",
+      "year": "1949",
+      "id": 30368
+    },
+    {
+      "title": "My Neighbor Totoro",
+      "director": "Miyazaki",
+      "year": "1988",
+      "id": 8392
+    },
+    {
+      "title": "THX 1138",
+      "director": "Lucas",
+      "year": "1971",
+      "id": 636
+    },
+    {
+      "title": "Out of the Past",
+      "director": "Tourneur",
+      "year": "1947",
+      "id": 678
+    },
+    {
+      "title": "The Exterminating Angel",
+      "director": "Bu\u00f1uel",
+      "year": "1962",
+      "id": 29264
+    },
+    {
+      "title": "3 Women",
+      "director": "Altman",
+      "year": "1977",
+      "id": 41662
+    },
+    {
+      "title": "A Man and a Woman",
+      "director": "Lelouch",
+      "year": "1966",
+      "id": 42726
+    },
+    {
+      "title": "The Andromeda Strain",
+      "director": "Wise",
+      "year": "1971",
+      "id": 10514
+    },
+    {
+      "title": "The New World",
+      "director": "Malick",
+      "year": "2005",
+      "id": 11400
+    },
+    {
+      "title": "Scarlet Street",
+      "director": "Lang",
+      "year": "1945",
+      "id": 17058
+    },
+    {
+      "title": "Fear and Loathing in Las Vegas",
+      "director": "Gilliam",
+      "year": "1998",
+      "id": 1878
+    },
+    {
+      "title": "Grave of the Fireflies",
+      "director": "Takahata",
+      "year": "1988",
+      "id": 12477
+    },
+    {
+      "title": "Once Upon a Time in the West",
+      "director": "Leone",
+      "year": "1968",
+      "id": 335
+    },
+    {
+      "title": "The Quiet Man",
+      "director": "Ford",
+      "year": "1952",
+      "id": 3109
+    },
+    {
+      "title": "Anatomy of a Murder",
+      "director": "Preminger",
+      "year": "1959",
+      "id": 93
+    },
+    {
+      "title": "Smiles of a Summer Night",
+      "director": "Bergman",
+      "year": "1955",
+      "id": 11700
+    },
+    {
+      "title": "Spirited Away",
+      "director": "Miyazaki",
+      "year": "2001",
+      "id": 129
+    },
+    {
+      "title": "Talk to Me",
+      "director": "Danny & Michael Philippou",
+      "year": "2023",
+      "category": "Horror",
+      "id": 1008042
+    },
+    {
+      "title": "Mon Oncle",
+      "director": "Tati",
+      "year": "1958",
+      "id": 427
+    },
+    {
+      "title": "Mulholland Drive",
+      "director": "Lynch",
+      "year": "2001",
+      "id": 1018
+    },
+    {
+      "title": "Excalibur",
+      "director": "Boorman",
+      "year": "1981",
+      "id": 11527
+    },
+    {
+      "title": "Fellini Satyricon",
+      "director": "Fellini",
+      "year": "1969",
+      "id": 11163
+    },
+    {
+      "title": "Ma Rainey's Black Bottom",
+      "director": "George C. Wolfe",
+      "year": "2020",
+      "category": "Drama",
+      "id": 615667
+    },
+    {
+      "title": "Till",
+      "director": "Chinonye Chukwu",
+      "year": "2022",
+      "category": "Drama",
+      "id": 854239
+    },
+    {
+      "title": "Le Bonheur",
+      "director": "Varda",
+      "year": "1965",
+      "id": 53023
+    },
+    {
+      "title": "Conversation Piece",
+      "director": "Visconti",
+      "year": "1974",
+      "id": 56142
+    },
+    {
+      "title": "The Assistant",
+      "director": "Kitty Green",
+      "year": "2020",
+      "category": "Drama",
+      "id": 606679
+    },
+    {
+      "title": "Election",
+      "director": "Payne",
+      "year": "1999",
+      "id": 9451
+    },
+    {
+      "title": "The Piano",
+      "director": "Campion",
+      "year": "1993",
+      "id": 713
+    },
+    {
+      "title": "Beau travail",
+      "director": "Denis",
+      "year": "1999",
+      "id": 14626
+    },
+    {
+      "title": "Everything Everywhere All at Once",
+      "director": "Daniel Kwan, Daniel Scheinert",
+      "year": "2022",
+      "category": "Science fiction and fantasy",
+      "id": 545611
+    },
+    {
+      "title": "The Lady from Shanghai",
+      "director": "Welles",
+      "year": "1947",
+      "id": 3766
+    },
+    {
+      "title": "West Side Story",
+      "director": "Steven Spielberg",
+      "year": "2021",
+      "category": "Drama",
+      "id": 511809
+    },
+    {
+      "title": "Who Framed Roger Rabbit",
+      "director": "Zemeckis",
+      "year": "1988",
+      "id": 856
+    },
+    {
+      "title": "His House",
+      "director": "Remi Weekes",
+      "year": "2020",
+      "category": "Horror",
+      "id": 575774
+    },
+    {
+      "title": "Three Colours: Blue",
+      "director": "Kieslowski",
+      "year": "1993",
+      "id": 108
+    },
+    {
+      "title": "Mildred Pierce",
+      "director": "Curtiz",
+      "year": "1945",
+      "id": 3309
+    },
+    {
+      "title": "Chinatown",
+      "director": "Polanski",
+      "year": "1974",
+      "id": 829
+    },
+    {
+      "title": "Safe",
+      "director": "Haynes",
+      "year": "1995",
+      "id": 32646
+    },
+    {
+      "title": "Notorious",
+      "director": "Hitchcock",
+      "year": "1946",
+      "id": 303
+    },
+    {
+      "title": "All That Jazz",
+      "director": "Fosse",
+      "year": "1979",
+      "id": 16858
+    },
+    {
+      "title": "Waking Life",
+      "director": "Linklater",
+      "year": "2001",
+      "id": 9081
+    },
+    {
+      "title": "The Killers",
+      "director": "Siodmak",
+      "year": "1946",
+      "id": 14638
+    },
+    {
+      "title": "Osaka Elegy",
+      "director": "Mizoguchi",
+      "year": "1936",
+      "id": 43877
+    },
+    {
+      "title": "E.T. the Extra-Terrestrial",
+      "director": "Spielberg",
+      "year": "1982",
+      "id": 601
+    },
+    {
+      "title": "Viridiana",
+      "director": "Bu\u00f1uel",
+      "year": "1961",
+      "id": 4497
+    },
+    {
+      "title": "Seconds",
+      "director": "Frankenheimer",
+      "year": "1966",
+      "id": 20620
+    },
+    {
+      "title": "Berlin Alexanderplatz",
+      "director": "Fassbinder",
+      "year": "1980",
+      "id": 477122
+    },
+    {
+      "title": "Beyond the Hills",
+      "director": "Mungiu",
+      "year": "2012",
+      "id": 103740
+    },
+    {
+      "title": "Blow-Up",
+      "director": "Antonioni",
+      "year": "1966",
+      "id": 1052
+    },
+    {
+      "title": "Laura",
+      "director": "Preminger",
+      "year": "1944",
+      "id": 1939
+    },
+    {
+      "title": "The Matrix Reloaded",
+      "director": "Wachowski",
+      "year": "2003",
+      "id": 604
+    },
+    {
+      "title": "A Story of Floating Weeds",
+      "director": "Ozu",
+      "year": "1934",
+      "id": 44163
+    },
+    {
+      "title": "Eraserhead",
+      "director": "Lynch",
+      "year": "1977",
+      "id": 985
+    },
+    {
+      "title": "Yojimbo",
+      "director": "Kurosawa",
+      "year": "1961",
+      "id": 11878
+    },
+    {
+      "title": "Barbie",
+      "director": "Gerwig",
+      "year": "2023",
+      "id": 346698
+    },
+    {
+      "title": "Skyfall",
+      "director": "Mendes",
+      "year": "2012",
+      "id": 37724
+    },
+    {
+      "title": "Enemy",
+      "director": "Villeneuve",
+      "year": "2013",
+      "id": 181886
+    },
+    {
+      "title": "The Great Silence",
+      "director": "Corbucci",
+      "year": "1968",
+      "id": 9028
+    },
+    {
+      "title": "The Piano Teacher",
+      "director": "Haneke",
+      "year": "2001",
+      "id": 1791
+    },
+    {
+      "title": "Schindler\u2019s List",
+      "director": "Spielberg",
+      "year": "1993",
+      "id": 424
+    },
+    {
+      "title": "Possession",
+      "director": "Zulawski",
+      "year": "1981",
+      "id": 21484
+    },
+    {
+      "title": "L\u2019Avventura",
+      "director": "Antonioni",
+      "year": "1960",
+      "id": 5165
+    },
+    {
+      "title": "Early Summer",
+      "director": "Ozu",
+      "year": "1951",
+      "id": 50247
+    },
+    {
+      "title": "Sal\u00f2, or the 120 Days of Sodom",
+      "director": "Pasolini",
+      "year": "1975",
+      "id": 5336
+    },
+    {
+      "title": "Way Down East",
+      "director": "Griffith",
+      "year": "1920",
+      "id": 31509
+    },
+    {
+      "title": "All the King\u2019s Men",
+      "director": "Rossen",
+      "year": "1949",
+      "id": 25430
+    },
+    {
+      "title": "Ida",
+      "director": "Pawlikowski",
+      "year": "2013",
+      "id": 10316
+    },
+    {
+      "title": "The Batman",
+      "director": "Matt Reeves",
+      "year": "2022",
+      "category": "Crime and Thriller",
+      "id": 414906
+    },
+    {
+      "title": "Nashville",
+      "director": "Altman",
+      "year": "1975",
+      "id": 3121
+    },
+    {
+      "title": "Something Wild",
+      "director": "Demme",
+      "year": "1986",
+      "id": 11300
+    },
+    {
+      "title": "Broken Flowers",
+      "director": "Jarmusch",
+      "year": "2005",
+      "id": 308
+    },
+    {
+      "title": "Get Out",
+      "director": "Jordan Peele",
+      "year": "2017",
+      "category": "Horror",
+      "id": 419430
+    },
+    {
+      "title": "Dawn of the Dead",
+      "director": "Romero",
+      "year": "1978",
+      "id": 923
+    },
+    {
+      "title": "Woman in the Dunes",
+      "director": "Teshigahara",
+      "year": "1964",
+      "id": 16672
+    },
+    {
+      "title": "Heavenly Creatures",
+      "director": "Jackson",
+      "year": "1994",
+      "id": 1024
+    },
+    {
+      "title": "Nope",
+      "director": "Jordan Peele",
+      "year": "2022",
+      "category": "Horror",
+      "id": 762504
+    },
+    {
+      "title": "New York, New York",
+      "director": "Scorsese",
+      "year": "1977",
+      "id": 12637
+    },
+    {
+      "title": "The Man From London",
+      "director": "Tarr",
+      "year": "2007",
+      "id": 31262
+    },
+    {
+      "title": "The Zone of Interest",
+      "director": "Jonathan Glazer",
+      "year": "2023",
+      "category": "Drama",
+      "id": 467244
+    },
+    {
+      "title": "Tokyo Drifter",
+      "director": "Suzuki",
+      "year": "1966",
+      "id": 45706
+    },
+    {
+      "title": "Pyaasa",
+      "director": "Dutt",
+      "year": "1957",
+      "id": 41053
+    },
+    {
+      "title": "Trainspotting",
+      "director": "Boyle",
+      "year": "1996",
+      "id": 627
+    },
+    {
+      "title": "Magnificent Obsession",
+      "director": "Sirk",
+      "year": "1954",
+      "id": 13457
+    },
+    {
+      "title": "She Wore a Yellow Ribbon",
+      "director": "Ford",
+      "year": "1949",
+      "id": 13909
+    },
+    {
+      "title": "Body Heat",
+      "director": "Kasdan",
+      "year": "1981",
+      "id": 14412
+    },
+    {
+      "title": "The Third Man",
+      "director": "Reed",
+      "year": "1949",
+      "id": 1092
+    },
+    {
+      "title": "21 Grams",
+      "director": "I\u00f1\u00e1rritu",
+      "year": "2003",
+      "id": 470
+    },
+    {
+      "title": "Gigi",
+      "director": "Minnelli",
+      "year": "1958",
+      "id": 17281
+    },
+    {
+      "title": "Out of Africa",
+      "director": "Pollack",
+      "year": "1985",
+      "id": 606
+    },
+    {
+      "title": "Spider",
+      "director": "Cronenberg",
+      "year": "2002",
+      "id": 557
+    },
+    {
+      "title": "The Searchers",
+      "director": "Ford",
+      "year": "1956",
+      "id": 3114
+    },
+    {
+      "title": "Red River",
+      "director": "Hawks",
+      "year": "1948",
+      "id": 3089
+    },
+    {
+      "title": "A Special Day",
+      "director": "Scola",
+      "year": "1977",
+      "id": 42229
+    },
+    {
+      "title": "The Turin Horse",
+      "director": "Tarr",
+      "year": "2011",
+      "id": 81401
+    },
+    {
+      "title": "Cabaret",
+      "director": "Fosse",
+      "year": "1972",
+      "id": 10784
+    },
+    {
+      "title": "Far from the Madding Crowd",
+      "director": "Schlesinger",
+      "year": "1967",
+      "id": 3469
+    },
+    {
+      "title": "Mank",
+      "director": "David Fincher",
+      "year": "2020",
+      "category": "Drama",
+      "id": 614560
+    },
+    {
+      "title": "Trouble in Paradise",
+      "director": "Lubitsch",
+      "year": "1932",
+      "id": 195
+    },
+    {
+      "title": "Oppenheimer",
+      "director": "Christopher Nolan",
+      "year": "2023",
+      "category": "Drama",
+      "id": 872585
+    },
+    {
+      "title": "Million Dollar Baby",
+      "director": "Eastwood",
+      "year": "2004",
+      "id": 70
+    },
+    {
+      "title": "Pale Flower",
+      "director": "Shinoda",
+      "year": "1964",
+      "id": 61475
+    },
+    {
+      "title": "Veronika Voss",
+      "director": "Fassbinder",
+      "year": "1982",
+      "id": 2262
+    },
+    {
+      "title": "American Gigolo",
+      "director": "Schrader",
+      "year": "1980",
+      "id": 2768
+    },
+    {
+      "title": "Batman",
+      "director": "Burton",
+      "year": "1989",
+      "id": 268
+    },
+    {
+      "title": "Dirty Harry",
+      "director": "Siegel",
+      "year": "1971",
+      "id": 984
+    },
+    {
+      "title": "The Talented Mr. Ripley",
+      "director": "Minghella",
+      "year": "1999",
+      "id": 1213
+    },
+    {
+      "title": "Aliens",
+      "director": "Cameron",
+      "year": "1986",
+      "id": 679
+    },
+    {
+      "title": "Da 5 Bloods",
+      "director": "Spike Lee",
+      "year": "2020",
+      "category": "War",
+      "id": 581859
+    },
+    {
+      "title": "Pigs and Battleships",
+      "director": "Imamura",
+      "year": "1961",
+      "id": 31104
+    },
+    {
+      "title": "The Shawshank Redemption",
+      "director": "Darabont",
+      "year": "1994",
+      "id": 278
+    },
+    {
+      "title": "Detective Story",
+      "director": "Wyler",
+      "year": "1951",
+      "id": 20853
+    },
+    {
+      "title": "Great Expectations",
+      "director": "Cuar\u00f3n",
+      "year": "1998",
+      "id": 9410
+    },
+    {
+      "title": "A Streetcar Named Desire",
+      "director": "Kazan",
+      "year": "1951",
+      "id": 702
+    },
+    {
+      "title": "Death in Venice",
+      "director": "Visconti",
+      "year": "1971",
+      "id": 6619
+    },
+    {
+      "title": "Lola",
+      "director": "Fassbinder",
+      "year": "1981",
+      "id": 2264
+    },
+    {
+      "title": "Nights of Cabiria",
+      "director": "Fellini",
+      "year": "1957",
+      "id": 19426
+    },
+    {
+      "title": "The Harder They Fall",
+      "director": "Jeymes Samuel",
+      "year": "2021",
+      "category": "Western",
+      "id": 618162
+    },
+    {
+      "title": "Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles",
+      "director": "Akerman",
+      "year": "1975",
+      "id": 44012
+    },
+    {
+      "title": "Shadows of Forgotten Ancestors",
+      "director": "Parajanov",
+      "year": "1965",
+      "id": 26782
+    },
+    {
+      "title": "Cleo from 5 to 7",
+      "director": "Varda",
+      "year": "1962",
+      "id": 499
+    },
+    {
+      "title": "Manhattan",
+      "director": "Allen",
+      "year": "1979",
+      "id": 696
+    },
+    {
+      "title": "The End of Summer",
+      "director": "Ozu",
+      "year": "1961",
+      "id": 28273
+    },
+    {
+      "title": "Rebecca",
+      "director": "Hitchcock",
+      "year": "1940",
+      "id": 223
+    },
+    {
+      "title": "Hiroshima Mon Amour",
+      "director": "Resnais",
+      "year": "1959",
+      "id": 5544
+    },
+    {
+      "title": "Body Double De",
+      "director": "Palma",
+      "year": "1984",
+      "id": 11507
+    },
+    {
+      "title": "Bicycle Thieves De",
+      "director": "Sica",
+      "year": "1948",
+      "id": 5156
+    },
+    {
+      "title": "After Hours",
+      "director": "Scorsese",
+      "year": "1985",
+      "id": 10843
+    },
+    {
+      "title": "Bones and All",
+      "director": "Luca Guadagnino",
+      "year": "2022",
+      "category": "Horror",
+      "id": 791177
+    },
+    {
+      "title": "The Zone of Interest",
+      "director": "Jonathan Glazer",
+      "year": "2023",
+      "category": "Drama",
+      "id": 467244
+    },
+    {
+      "title": "L.A. Confidential",
+      "director": "Hanson",
+      "year": "1997",
+      "id": 2118
+    },
+    {
+      "title": "The Story of the Last Chrysanthemums",
+      "director": "Mizoguchi",
+      "year": "1939",
+      "id": 46069
+    },
+    {
+      "title": "Submarine",
+      "director": "Ayoade",
+      "year": "2010",
+      "id": 49020
+    },
+    {
+      "title": "La promesse",
+      "director": "Dardenne",
+      "year": "1996",
+      "id": 24183
+    },
+    {
+      "title": "Only Angels Have Wings",
+      "director": "Hawks",
+      "year": "1939",
+      "id": 43832
+    },
+    {
+      "title": "The Ballad of Narayama",
+      "director": "Kinoshita",
+      "year": "1958",
+      "id": 116690
+    },
+    {
+      "title": "Touch of Evil",
+      "director": "Welles",
+      "year": "1958",
+      "id": 1480
+    },
+    {
+      "title": "Her",
+      "director": "Jonze",
+      "year": "2013",
+      "id": 209244
+    },
+    {
+      "title": "A Clockwork Orange",
+      "director": "Kubrick",
+      "year": "1971",
+      "id": 185
+    },
+    {
+      "title": "The Earrings of Madame De\u2026",
+      "director": "Oph\u00fcls",
+      "year": "1953",
+      "id": 27030
+    },
+    {
+      "title": "Children of Paradise",
+      "director": "Carne",
+      "year": "1945",
+      "id": 2457
+    },
+    {
+      "title": "Bonnie and Clyde A.",
+      "director": "Penn",
+      "year": "1967",
+      "id": 475
+    },
+    {
+      "title": "Wings of Desire",
+      "director": "Wenders",
+      "year": "1987",
+      "id": 144
+    },
+    {
+      "title": "Fanny and Alexander",
+      "director": "Bergman",
+      "year": "1982",
+      "id": 5961
+    },
+    {
+      "title": "To Catch a Thief",
+      "director": "Hitchcock",
+      "year": "1955",
+      "id": 381
+    },
+    {
+      "title": "Last Year at Marienbad",
+      "director": "Resnais",
+      "year": "1961",
+      "id": 4024
+    },
+    {
+      "title": "Black Sunday",
+      "director": "Bava",
+      "year": "1960",
+      "id": 27632
+    },
+    {
+      "title": "Teorema",
+      "director": "Pasolini",
+      "year": "1968",
+      "id": 5335
+    },
+    {
+      "title": "S\u00f3lo con Tu Pareja",
+      "director": "Cuar\u00f3n",
+      "year": "1991",
+      "id": 49971
+    },
+    {
+      "title": "The Man Who Fell to Earth",
+      "director": "Roeg",
+      "year": "1976",
+      "id": 991
+    },
+    {
+      "title": "The Tenant",
+      "director": "Polanski",
+      "year": "1976",
+      "id": 11482
+    },
+    {
+      "title": "The Band Wagon",
+      "director": "Minnelli",
+      "year": "1953",
+      "id": 29376
+    },
+    {
+      "title": "David Golder",
+      "director": "Duvivier",
+      "year": "1931",
+      "id": 153444
+    },
+    {
+      "title": "Andrei Rublev",
+      "director": "Tarkovsky",
+      "year": "1966",
+      "id": 895
+    },
+    {
+      "title": "The Last Laugh",
+      "director": "Murnau",
+      "year": "1924",
+      "id": 5991
+    },
+    {
+      "title": "The Wild Bunch",
+      "director": "Peckinpah",
+      "year": "1969",
+      "id": 576
+    },
+    {
+      "title": "Barton Fink",
+      "director": "Coen",
+      "year": "1991",
+      "id": 290
+    },
+    {
+      "title": "Syndromes and a Century",
+      "director": "Weerasethakul",
+      "year": "2006",
+      "id": 27904
+    },
+    {
+      "title": "Three Crowns of the Sailor",
+      "director": "Ruiz",
+      "year": "1983",
+      "id": 64441
+    },
+    {
+      "title": "Miller\u2019s Crossing",
+      "director": "Coen",
+      "year": "1990",
+      "id": 379
+    },
+    {
+      "title": "McCabe & Mrs. Miller",
+      "director": "Altman",
+      "year": "1971",
+      "id": 29005
+    },
+    {
+      "title": "Interiors",
+      "director": "Allen",
+      "year": "1978",
+      "id": 15867
+    },
+    {
+      "title": "Vengeance is Mine",
+      "director": "Imamura",
+      "year": "1979",
+      "id": 42170
+    },
+    {
+      "title": "The Killing of a Chinese Bookie",
+      "director": "Cassavetes",
+      "year": "1976",
+      "id": 32040
+    },
+    {
+      "title": "Crash",
+      "director": "Cronenberg",
+      "year": "1996",
+      "id": 884
+    },
+    {
+      "title": "O Brother, Where Art Thou?",
+      "director": "Coen",
+      "year": "2000",
+      "id": 134
+    },
+    {
+      "title": "Snow White and the Seven Dwarfs",
+      "director": "Hand",
+      "year": "1937",
+      "id": 408
+    },
+    {
+      "title": "Back to the Future",
+      "director": "Zemeckis",
+      "year": "1985",
+      "id": 105
+    },
+    {
+      "title": "Othello",
+      "director": "Welles",
+      "year": "1951",
+      "id": 47697
+    },
+    {
+      "title": "Street Angel",
+      "director": "Borzage",
+      "year": "1928",
+      "id": 28391
+    },
+    {
+      "title": "Bright Star",
+      "director": "Campion",
+      "year": "2009",
+      "id": 29963
+    },
+    {
+      "title": "Under the Roofs of Paris",
+      "director": "Clair",
+      "year": "1930",
+      "id": 54419
+    },
+    {
+      "title": "Duelle",
+      "director": "Rivette",
+      "year": "1976",
+      "id": 65707
+    },
+    {
+      "title": "Rocco and His Brothers",
+      "director": "Visconti",
+      "year": "1960",
+      "id": 8422
+    },
+    {
+      "title": "The Last Emperor",
+      "director": "Bertolucci",
+      "year": "1987",
+      "id": 746
+    },
+    {
+      "title": "Dead End",
+      "director": "Wyler",
+      "year": "1937",
+      "id": 27973
+    },
+    {
+      "title": "The Exorcist",
+      "director": "Friedkin",
+      "year": "1973",
+      "id": 9552
+    },
+    {
+      "title": "Russian Ark",
+      "director": "Sokurov",
+      "year": "2002",
+      "id": 16646
+    },
+    {
+      "title": "American Fiction",
+      "director": "Cord Jefferson",
+      "year": "2023",
+      "category": "Comedy",
+      "id": 1056360
+    },
+    {
+      "title": "Two Lovers",
+      "director": "Gray",
+      "year": "2008",
+      "id": 10362
+    },
+    {
+      "title": "Y Tu Mam\u00e1 Tambi\u00e9n",
+      "director": "Cuar\u00f3n",
+      "year": "2001",
+      "id": 1391
+    },
+    {
+      "title": "Before Sunset",
+      "director": "Linklater",
+      "year": "2004",
+      "id": 80
+    },
+    {
+      "title": "Das Boot",
+      "director": "Peterson",
+      "year": "1981",
+      "id": 387
+    },
+    {
+      "title": "The Matrix",
+      "director": "Wachowski",
+      "year": "1999",
+      "id": 603
+    },
+    {
+      "title": "Network",
+      "director": "Lumet",
+      "year": "1976",
+      "id": 10774
+    },
+    {
+      "title": "War and Peace",
+      "director": "Bondarchuk",
+      "year": "1965",
+      "id": 147371
+    },
+    {
+      "title": "Winter Light",
+      "director": "Bergman",
+      "year": "1963",
+      "id": 29455
+    },
+    {
+      "title": "The Tin Star A.",
+      "director": "Mann",
+      "year": "1957",
+      "id": 30054
+    },
+    {
+      "title": "To Have and Have Not",
+      "director": "Hawks",
+      "year": "1944",
+      "id": 22584
+    },
+    {
+      "title": "Tristana",
+      "director": "Bu\u00f1uel",
+      "year": "1970",
+      "id": 35838
+    },
+    {
+      "title": "Ivan\u2019s Childhood",
+      "director": "Tarkovsky",
+      "year": "1962",
+      "id": 31442
+    },
+    {
+      "title": "Jean de Florette",
+      "director": "Berri",
+      "year": "1986",
+      "id": 4480
+    },
+    {
+      "title": "Pi",
+      "director": "Aronofsky",
+      "year": "1998",
+      "id": 473
+    },
+    {
+      "title": "A Zed & Two Noughts",
+      "director": "Greenaway",
+      "year": "1985",
+      "id": 33078
+    },
+    {
+      "title": "The Last Detail",
+      "director": "Ashby",
+      "year": "1973",
+      "id": 14886
+    },
+    {
+      "title": "RRR",
+      "director": "S.S. Rajamouli",
+      "year": "2022",
+      "category": "Action and Adventure",
+      "id": 579974
+    },
+    {
+      "title": "Patton",
+      "director": "Schaffner",
+      "year": "1970",
+      "id": 11202
+    },
+    {
+      "title": "Stromboli",
+      "director": "Rossellini",
+      "year": "1950",
+      "id": 4173
+    },
+    {
+      "title": "The Fountain",
+      "director": "Aronofsky",
+      "year": "2006",
+      "id": 1381
+    },
+    {
+      "title": "You, the Living",
+      "director": "Andersson",
+      "year": "2007",
+      "id": 5817
+    },
+    {
+      "title": "Cyrano",
+      "director": "Joe Wright",
+      "year": "2021",
+      "category": "Drama",
+      "id": 730047
+    },
+    {
+      "title": "Decision to Leave",
+      "director": "Park Chan-wook",
+      "year": "2022",
+      "category": "Crime and Thriller",
+      "id": 705996
+    },
+    {
+      "title": "Knife in the Water",
+      "director": "Polanski",
+      "year": "1962",
+      "id": 11502
+    },
+    {
+      "title": "Parasite",
+      "director": "Bong",
+      "year": "2019",
+      "id": 496243
+    },
+    {
+      "title": "I Am Cuba",
+      "director": "Kalatozov",
+      "year": "1964",
+      "id": 32015
+    },
+    {
+      "title": "Deliverance",
+      "director": "Boorman",
+      "year": "1972",
+      "id": 10669
+    },
+    {
+      "title": "Wild Strawberries",
+      "director": "Bergman",
+      "year": "1957",
+      "id": 614
+    },
+    {
+      "title": "King Richard",
+      "director": "Reinaldo Marcus Green",
+      "year": "2021",
+      "category": "Drama",
+      "id": 614917
+    },
+    {
+      "title": "Bob le Flambeur",
+      "director": "Melville",
+      "year": "1956",
+      "id": 26030
+    },
+    {
+      "title": "The Last Tango in Paris",
+      "director": "Bertolucci",
+      "year": "1972",
+      "id": 1643
+    },
+    {
+      "title": "Unforgiven",
+      "director": "Eastwood",
+      "year": "1992",
+      "id": 33
+    },
+    {
+      "title": "Stalker",
+      "director": "Tarkovsky",
+      "year": "1979",
+      "id": 1398
+    },
+    {
+      "title": "The Thing",
+      "director": "Carpenter",
+      "year": "1982",
+      "id": 1091
+    },
+    {
+      "title": "La Dolce Vita",
+      "director": "Fellini",
+      "year": "1960",
+      "id": 439
+    },
+    {
+      "title": "Dark City",
+      "director": "Proyas",
+      "year": "1998",
+      "id": 2666
+    },
+    {
+      "title": "The Best Years of Our Lives",
+      "director": "Wyler",
+      "year": "1946",
+      "id": 887
+    },
+    {
+      "title": "Jaws",
+      "director": "Spielberg",
+      "year": "1975",
+      "id": 578
+    },
+    {
+      "title": "The Forty-Year-Old Version",
+      "director": "Radha Blank",
+      "year": "2020",
+      "category": "Comedy",
+      "id": 620897
+    },
+    {
+      "title": "Breathless",
+      "director": "Godard",
+      "year": "1960",
+      "id": 269
+    },
+    {
+      "title": "Eyes Without a Face",
+      "director": "Franju",
+      "year": "1960",
+      "id": 31417
+    },
+    {
+      "title": "Lost Horizon",
+      "director": "Capra",
+      "year": "1937",
+      "id": 3598
+    },
+    {
+      "title": "Damnation",
+      "director": "Tarr",
+      "year": "1988",
+      "id": 20122
+    },
+    {
+      "title": "Barbie",
+      "director": "Greta Gerwig",
+      "year": "2023",
+      "category": "Comedy",
+      "id": 346698
+    },
+    {
+      "title": "Archipelago",
+      "director": "Hogg",
+      "year": "2010",
+      "id": 64655
+    },
+    {
+      "title": "Slacker",
+      "director": "Linklater",
+      "year": "1990",
+      "id": 14022
+    },
+    {
+      "title": "The Tree of Wooden Clogs",
+      "director": "Olmi",
+      "year": "1978",
+      "id": 31542
+    },
+    {
+      "title": "Diabolique",
+      "director": "Clouzot",
+      "year": "1955",
+      "id": 827
+    },
+    {
+      "title": "Fox and His Friends",
+      "director": "Fassbinder",
+      "year": "1975",
+      "id": 42254
+    },
+    {
+      "title": "I Vitelloni",
+      "director": "Fellini",
+      "year": "1953",
+      "id": 12548
+    },
+    {
+      "title": "The Banshees of Inisherin",
+      "director": "Martin McDonagh",
+      "year": "2022",
+      "category": "Drama",
+      "id": 674324
+    },
+    {
+      "title": "Rashomon",
+      "director": "Kurosawa",
+      "year": "1950",
+      "id": 548
+    },
+    {
+      "title": "Pickup on South Street",
+      "director": "Fuller",
+      "year": "1953",
+      "id": 25955
+    },
+    {
+      "title": "Sisters of the Gion",
+      "director": "Mizoguchi",
+      "year": "1936",
+      "id": 74581
+    },
+    {
+      "title": "Sunset Boulevard",
+      "director": "Wilder",
+      "year": "1950",
+      "id": 599
+    },
+    {
+      "title": "Tenet",
+      "director": "Christopher Nolan",
+      "year": "2020",
+      "category": "Science fiction and fantasy",
+      "id": 577922
+    },
+    {
+      "title": "Insect Woman",
+      "director": "Imamura",
+      "year": "1963",
+      "id": 42984
+    },
+    {
+      "title": "Belle de Jour",
+      "director": "Bu\u00f1uel",
+      "year": "1967",
+      "id": 649
+    },
+    {
+      "title": "His Girl Friday",
+      "director": "Hawks",
+      "year": "1940",
+      "id": 3085
+    },
+    {
+      "title": "Kwaidan",
+      "director": "Kobayashi",
+      "year": "1964",
+      "id": 30959
+    },
+    {
+      "title": "Casino",
+      "director": "Scorsese",
+      "year": "1995",
+      "id": 524
+    },
+    {
+      "title": "The Threepenny Opera",
+      "director": "Pabst",
+      "year": "1931",
+      "id": 42837
+    },
+    {
+      "title": "The Dark Knight Rises",
+      "director": "Nolan",
+      "year": "2012",
+      "id": 49026
+    },
+    {
+      "title": "Ashes and Diamonds",
+      "director": "Wajda",
+      "year": "1958",
+      "id": 5055
+    },
+    {
+      "title": "The Roaring Twenties",
+      "director": "Walsh",
+      "year": "1939",
+      "id": 37698
+    },
+    {
+      "title": "Mirror",
+      "director": "Tarkovsky",
+      "year": "1975",
+      "id": 1396
+    },
+    {
+      "title": "One Flew Over the Cuckoo\u2019s Nest",
+      "director": "Forman",
+      "year": "1975",
+      "id": 510
+    },
+    {
+      "title": "The Aviator",
+      "director": "Scorsese",
+      "year": "2004",
+      "id": 2567
+    },
+    {
+      "title": "The Pawnbroker",
+      "director": "Lumet",
+      "year": "1964",
+      "id": 20540
+    },
+    {
+      "title": "Lawrence of Arabia",
+      "director": "Lean",
+      "year": "1962",
+      "id": 947
+    },
+    {
+      "title": "We Need to Talk About Kevin",
+      "director": "Ramsay",
+      "year": "2011",
+      "id": 71859
+    },
+    {
+      "title": "The Irishman",
+      "director": "Martin Scorsese",
+      "year": "2019",
+      "category": "Crime and Thriller",
+      "id": 398978
+    },
+    {
+      "title": "Blackmail",
+      "director": "Hitchcock",
+      "year": "1929",
+      "id": 543
+    },
+    {
+      "title": "A Separation",
+      "director": "Farhadi",
+      "year": "2011",
+      "id": 60243
+    },
+    {
+      "title": "Army of Shadows",
+      "director": "Melville",
+      "year": "1969",
+      "id": 15383
+    },
+    {
+      "title": "Avengers: Endgame",
+      "director": "Anthony and Joe Russo",
+      "year": "2019",
+      "category": "Action and Adventure",
+      "id": 299534
+    },
+    {
+      "title": "La haine",
+      "director": "Kassovitz",
+      "year": "1995",
+      "id": 406
+    },
+    {
+      "title": "American Beauty",
+      "director": "Mendes",
+      "year": "1999",
+      "id": 14
+    },
+    {
+      "title": "The Big Lebowski",
+      "director": "Coen",
+      "year": "1998",
+      "id": 115
+    },
+    {
+      "title": "Jackie Brown",
+      "director": "Tarantino",
+      "year": "1997",
+      "id": 184
+    },
+    {
+      "title": "Summer of Soul",
+      "director": "Questlove",
+      "year": "2021",
+      "category": "Documentary",
+      "id": 776527
+    },
+    {
+      "title": "Through a Glass Darkly",
+      "director": "Bergman",
+      "year": "1961",
+      "id": 11602
+    },
+    {
+      "title": "Tess",
+      "director": "Polanski",
+      "year": "1979",
+      "id": 11121
+    },
+    {
+      "title": "Diary of a Country Priest",
+      "director": "Bresson",
+      "year": "1951",
+      "id": 43376
+    },
+    {
+      "title": "Once Upon a Time in America",
+      "director": "Leone",
+      "year": "1984",
+      "id": 311
+    },
+    {
+      "title": "The Servant",
+      "director": "Losey",
+      "year": "1963",
+      "id": 42987
+    },
+    {
+      "title": "Fargo",
+      "director": "Coen",
+      "year": "1996",
+      "id": 275
+    },
+    {
+      "title": "House of Gucci",
+      "director": "Ridley Scott",
+      "year": "2021",
+      "category": "Drama",
+      "id": 644495
+    },
+    {
+      "title": "The Wind",
+      "director": "Sj\u00f6str\u00f6m",
+      "year": "1928",
+      "id": 31416
+    },
+    {
+      "title": "Kameradschaft",
+      "director": "Pabst",
+      "year": "1931",
+      "id": 42836
+    },
+    {
+      "title": "The Leopard",
+      "director": "Visconti",
+      "year": "1963",
+      "id": 1040
+    },
+    {
+      "title": "Being John Malkovich",
+      "director": "Jonze",
+      "year": "1999",
+      "id": 492
+    },
+    {
+      "title": "Broken Embraces",
+      "director": "Almod\u00f3var",
+      "year": "2009",
+      "id": 8088
+    },
+    {
+      "title": "There Was a Father",
+      "director": "Ozu",
+      "year": "1942",
+      "id": 27372
+    },
+    {
+      "title": "Late Spring",
+      "director": "Ozu",
+      "year": "1949",
+      "id": 20530
+    },
+    {
+      "title": "Roma",
+      "director": "Alfonso Cuar\u00f3n",
+      "year": "2018",
+      "category": "Drama",
+      "id": 426426
+    },
+    {
+      "title": "The Asphalt Jungle",
+      "director": "Huston",
+      "year": "1950",
+      "id": 16958
+    },
+    {
+      "title": "The Nightmare Before Christmas",
+      "director": "Selick",
+      "year": "1993",
+      "id": 9479
+    },
+    {
+      "title": "Past Lives",
+      "director": "Celine Song",
+      "year": "2023",
+      "category": "Drama",
+      "id": 666277
+    },
+    {
+      "title": "Intentions of Murder",
+      "director": "Imamura",
+      "year": "1964",
+      "id": 49571
+    },
+    {
+      "title": "Career Girls",
+      "director": "Leigh",
+      "year": "1997",
+      "id": 49462
+    },
+    {
+      "title": "The Big Heat",
+      "director": "Lang",
+      "year": "1953",
+      "id": 14580
+    },
+    {
+      "title": "The Silence",
+      "director": "Bergman",
+      "year": "1963",
+      "id": 11506
+    },
+    {
+      "title": "BlacKkKlansman",
+      "director": "Spike Lee",
+      "year": "2018",
+      "category": "Drama",
+      "id": 487558
+    },
+    {
+      "title": "Twin Peaks: Fire Walk with Me",
+      "director": "Lynch",
+      "year": "1992",
+      "id": 1923
+    },
+    {
+      "title": "The French Connection",
+      "director": "Friedkin",
+      "year": "1971",
+      "id": 1051
+    },
+    {
+      "title": "The 400 Blows",
+      "director": "Truffaut",
+      "year": "1959",
+      "id": 147
+    },
+    {
+      "title": "Enter the Void",
+      "director": "No\u00e9",
+      "year": "2009",
+      "id": 34647
+    },
+    {
+      "title": "Closely Watched Trains",
+      "director": "Menzel",
+      "year": "1966",
+      "id": 789
+    },
+    {
+      "title": "The Long Good Friday",
+      "director": "Mackenzie",
+      "year": "1980",
+      "id": 14807
+    },
+    {
+      "title": "Shane",
+      "director": "Stevens",
+      "year": "1953",
+      "id": 3110
+    },
+    {
+      "title": "Broadway Danny Rose",
+      "director": "Allen",
+      "year": "1984",
+      "id": 12762
+    },
+    {
+      "title": "The Killer",
+      "director": "Woo",
+      "year": "1989",
+      "id": 10835
+    },
+    {
+      "title": "Chimes at Midnight",
+      "director": "Welles",
+      "year": "1965",
+      "id": 986
+    },
+    {
+      "title": "The Cabinet of Dr. Caligari",
+      "director": "Wiene",
+      "year": "1920",
+      "id": 234
+    },
+    {
+      "title": "The Shining",
+      "director": "Kubrick",
+      "year": "1980",
+      "id": 694
+    },
+    {
+      "title": "Mon oncle d\u2019Am\u00e9rique",
+      "director": "Resnais",
+      "year": "1980",
+      "id": 39543
+    },
+    {
+      "title": "The Invisible Man",
+      "director": "Leigh Whannell",
+      "year": "2020",
+      "category": "Horror",
+      "id": 570670
+    },
+    {
+      "title": "White Heat",
+      "director": "Walsh",
+      "year": "1949",
+      "id": 15794
+    },
+    {
+      "title": "The Children\u2019s Hour",
+      "director": "Wyler",
+      "year": "1961",
+      "id": 20139
+    },
+    {
+      "title": "Sawdust and Tinsel",
+      "director": "Bergman",
+      "year": "1953",
+      "id": 47721
+    },
+    {
+      "title": "Strangers on a Train",
+      "director": "Hitchcock",
+      "year": "1951",
+      "id": 845
+    },
+    {
+      "title": "Despair",
+      "director": "Fassbinder",
+      "year": "1978",
+      "id": 42203
+    },
+    {
+      "title": "The Sacrifice",
+      "director": "Tarkovsky",
+      "year": "1986",
+      "id": 24657
+    },
+    {
+      "title": "Some Came Running",
+      "director": "Minnelli",
+      "year": "1958",
+      "id": 38724
+    },
+    {
+      "title": "The Ghost Writer",
+      "director": "Polanski",
+      "year": "2010",
+      "id": 11439
+    },
+    {
+      "title": "Naked",
+      "director": "Leigh",
+      "year": "1993",
+      "id": 21450
+    },
+    {
+      "title": "Marie Antoinette S.",
+      "director": "Coppola",
+      "year": "2006",
+      "id": 1887
+    },
+    {
+      "title": "Fallen Leaves",
+      "director": "Aki Kaurism\u00e4ki",
+      "year": "2023",
+      "category": "Drama",
+      "id": 986280
+    },
+    {
+      "title": "Three Days of the Condor",
+      "director": "Pollack",
+      "year": "1975",
+      "id": 11963
+    },
+    {
+      "title": "Night of the Demon",
+      "director": "Tourneur",
+      "year": "1957",
+      "id": 25103
+    },
+    {
+      "title": "King of New York",
+      "director": "Ferrara",
+      "year": "1990",
+      "id": 9558
+    },
+    {
+      "title": "The Man Who Knew Too Much",
+      "director": "Hitchcock",
+      "year": "1956",
+      "id": 574
+    },
+    {
+      "title": "Aftersun",
+      "director": "Charlotte Wells",
+      "year": "2022",
+      "category": "Drama",
+      "id": 965150
+    },
+    {
+      "title": "American Psycho",
+      "director": "Harron",
+      "year": "2000",
+      "id": 1359
+    },
+    {
+      "title": "Odd Man Out",
+      "director": "Reed",
+      "year": "1947",
+      "id": 43461
+    },
+    {
+      "title": "Dead Man",
+      "director": "Jarmusch",
+      "year": "1995",
+      "id": 922
+    },
+    {
+      "title": "The Only Son",
+      "director": "Ozu",
+      "year": "1936",
+      "id": 52047
+    },
+    {
+      "title": "Paris, Texas",
+      "director": "Wenders",
+      "year": "1984",
+      "id": 655
+    },
+    {
+      "title": "Barbie",
+      "director": "Greta Gerwig",
+      "year": "2023",
+      "category": "Comedy",
+      "id": 346698
+    },
+    {
+      "title": "Casablanca",
+      "director": "Curtiz",
+      "year": "1942",
+      "id": 289
+    },
+    {
+      "title": "Fat City",
+      "director": "Huston",
+      "year": "1972",
+      "id": 16993
+    },
+    {
+      "title": "Spies",
+      "director": "Lang",
+      "year": "1928",
+      "id": 78507
+    },
+    {
+      "title": "The Little Foxes",
+      "director": "Wyler",
+      "year": "1941",
+      "id": 43802
+    },
+    {
+      "title": "All About Eve",
+      "director": "Mankiewicz",
+      "year": "1950",
+      "id": 705
+    },
+    {
+      "title": "Hard Boiled",
+      "director": "Woo",
+      "year": "1992",
+      "id": 11782
+    },
+    {
+      "title": "Letter from an Unknown Woman",
+      "director": "Oph\u00fcls",
+      "year": "1948",
+      "id": 946
+    },
+    {
+      "title": "Attack",
+      "director": "Aldrich",
+      "year": "1956",
+      "id": 32087
+    },
+    {
+      "title": "The Mitchells vs. the Machines",
+      "director": "Michael Rianda",
+      "year": "2021",
+      "category": "Animation",
+      "id": 501929
+    },
+    {
+      "title": "All Quiet on the Western Front",
+      "director": "Milestone",
+      "year": "1930",
+      "id": 143
+    },
+    {
+      "title": "The Cook, the Thief, His Wife & Her Lover",
+      "director": "Greenaway",
+      "year": "1989",
+      "id": 7452
+    },
+    {
+      "title": "It\u2019s a Wonderful Life",
+      "director": "Capra",
+      "year": "1946",
+      "id": 1585
+    },
+    {
+      "title": "The Fall",
+      "director": "Singh",
+      "year": "2006",
+      "id": 14784
+    },
+    {
+      "title": "Calendar",
+      "director": "Egoyan",
+      "year": "1993",
+      "id": 117553
+    },
+    {
+      "title": "The Reckless Moment",
+      "director": "Oph\u00fcls",
+      "year": "1949",
+      "id": 28007
+    },
+    {
+      "title": "Escape from New York",
+      "director": "Carpenter",
+      "year": "1981",
+      "id": 1103
+    },
+    {
+      "title": "The Grapes of Wrath",
+      "director": "Ford",
+      "year": "1940",
+      "id": 596
+    },
+    {
+      "title": "Ammonite",
+      "director": "Francis Lee",
+      "year": "2020",
+      "category": "Drama",
+      "id": 568467
+    },
+    {
+      "title": "Alphaville",
+      "director": "Godard",
+      "year": "1965",
+      "id": 8072
+    },
+    {
+      "title": "Orpheus",
+      "director": "Cocteau",
+      "year": "1950",
+      "id": 4558
+    },
+    {
+      "title": "Dune",
+      "director": "Denis Villeneuve",
+      "year": "2021",
+      "category": "Science fiction and fantasy",
+      "id": 438631
+    },
+    {
+      "title": "Before Sunrise",
+      "director": "Linklater",
+      "year": "1995",
+      "id": 76
+    },
+    {
+      "title": "The Lovers on the Bridge",
+      "director": "Carax",
+      "year": "1991",
+      "id": 2767
+    },
+    {
+      "title": "Red Rocket",
+      "director": "Sean Baker",
+      "year": "2021",
+      "category": "Comedy",
+      "id": 763329
+    },
+    {
+      "title": "Red Beard",
+      "director": "Kurosawa",
+      "year": "1965",
+      "id": 3780
+    },
+    {
+      "title": "Raging Bull",
+      "director": "Scorsese",
+      "year": "1980",
+      "id": 1578
+    },
+    {
+      "title": "Equinox Flower",
+      "director": "Ozu",
+      "year": "1958",
+      "id": 28272
+    },
+    {
+      "title": "Julius Caesar",
+      "director": "Mankiewicz",
+      "year": "1953",
+      "id": 18019
+    },
+    {
+      "title": "The Lost Daughter",
+      "director": "Maggie Gyllenhaal",
+      "year": "2021",
+      "category": "Drama",
+      "id": 554230
+    },
+    {
+      "title": "A Farewell to Arms",
+      "director": "Borzage",
+      "year": "1932",
+      "id": 22649
+    },
+    {
+      "title": "Meet Me in St. Louis",
+      "director": "Minnelli",
+      "year": "1944",
+      "id": 909
+    },
+    {
+      "title": "Elevator to the Gallows",
+      "director": "Malle",
+      "year": "1958",
+      "id": 1093
+    },
+    {
+      "title": "La t\u00eate d\u2019un homme",
+      "director": "Duvivier",
+      "year": "1933",
+      "id": 84248
+    },
+    {
+      "title": "Pan\u2019s Labyrinth del",
+      "director": "Toro",
+      "year": "2006",
+      "id": 1417
+    },
+    {
+      "title": "Harakiri",
+      "director": "Kobayashi",
+      "year": "1962",
+      "id": 14537
+    },
+    {
+      "title": "Pieces of a Woman",
+      "director": "Korn\u00e9l Mundrucz\u00f3",
+      "year": "2020",
+      "category": "Drama",
+      "id": 641662
+    },
+    {
+      "title": "Oppenheimer",
+      "director": "Christopher Nolan",
+      "year": "2023",
+      "category": "Drama",
+      "id": 872585
+    },
+    {
+      "title": "Halloween",
+      "director": "Carpenter",
+      "year": "1978",
+      "id": 948
+    },
+    {
+      "title": "Withnail & I",
+      "director": "Robinson",
+      "year": "1987",
+      "id": 13446
+    },
+    {
+      "title": "The Umbrellas of Cherbourg",
+      "director": "Demy",
+      "year": "1964",
+      "id": 5967
+    },
+    {
+      "title": "Diner",
+      "director": "Levinson",
+      "year": "1982",
+      "id": 13776
+    },
+    {
+      "title": "Germany Year Zero",
+      "director": "Rossellini",
+      "year": "1948",
+      "id": 8016
+    },
+    {
+      "title": "The Hurt Locker",
+      "director": "Bigelow",
+      "year": "2008",
+      "id": 12162
+    },
+    {
+      "title": "Nosferatu",
+      "director": "Murnau",
+      "year": "1922",
+      "id": 653
+    },
+    {
+      "title": "Written on the Wind",
+      "director": "Sirk",
+      "year": "1956",
+      "id": 69605
+    },
+    {
+      "title": "Groundhog Day",
+      "director": "Ramis",
+      "year": "1993",
+      "id": 137
+    },
+    {
+      "title": "Shadows",
+      "director": "Cassavetes",
+      "year": "1958",
+      "id": 15484
+    },
+    {
+      "title": "Exotica",
+      "director": "Egoyan",
+      "year": "1994",
+      "id": 20156
+    },
+    {
+      "title": "Deep Red",
+      "director": "Argento",
+      "year": "1975",
+      "id": 3115
+    },
+    {
+      "title": "Fight Club",
+      "director": "Fincher",
+      "year": "1999",
+      "id": 550
+    },
+    {
+      "title": "Goldfinger",
+      "director": "Hamilton",
+      "year": "1964",
+      "id": 658
+    },
+    {
+      "title": "Marcel the Shell with Shoes On",
+      "director": "Dean Fleischer-Camp",
+      "year": "2022",
+      "category": "Comedy",
+      "id": 869626
+    },
+    {
+      "title": "Hannah and Her Sisters",
+      "director": "Allen",
+      "year": "1986",
+      "id": 5143
+    },
+    {
+      "title": "Great Expectations",
+      "director": "Lean",
+      "year": "1946",
+      "id": 14320
+    },
+    {
+      "title": "The Holy Mountain",
+      "director": "Jodorowsky",
+      "year": "1973",
+      "id": 8327
+    },
+    {
+      "title": "Don\u2019t Look Now",
+      "director": "Roeg",
+      "year": "1973",
+      "id": 931
+    },
+    {
+      "title": "Drive",
+      "director": "Refn",
+      "year": "2011",
+      "id": 103
+    },
+    {
+      "title": "The Fabelmans",
+      "director": "Steven Spielberg",
+      "year": "2022",
+      "category": "Drama",
+      "id": 804095
+    },
+    {
+      "title": "Bound",
+      "director": "Wachowski",
+      "year": "1996",
+      "id": 9303
+    },
+    {
+      "title": "The Cranes Are Flying",
+      "director": "Kalatozov",
+      "year": "1957",
+      "id": 38360
+    },
+    {
+      "title": "The Pornographers",
+      "director": "Imamura",
+      "year": "1966",
+      "id": 42718
+    },
+    {
+      "title": "Weird: The Al Yankovic Story",
+      "director": "Eric Appel",
+      "year": "2022",
+      "category": "Comedy",
+      "id": 928344
+    },
+    {
+      "title": "Les rendez-vous d\u2019Anna",
+      "director": "Akerman",
+      "year": "1978",
+      "id": 93669
+    },
+    {
+      "title": "I Killed My Mother",
+      "director": "Dolan",
+      "year": "2009",
+      "id": 26280
+    },
+    {
+      "title": "Lenny",
+      "director": "Fosse",
+      "year": "1974",
+      "id": 27094
+    },
+    {
+      "title": "Short Cuts",
+      "director": "Altman",
+      "year": "1993",
+      "id": 695
+    },
+    {
+      "title": "Shang-Chi and the Legend of the Ten Rings",
+      "director": "Destin Daniel Cretton",
+      "year": "2021",
+      "category": "Action and Adventure",
+      "id": 566525
+    },
+    {
+      "title": "The Ipcress File",
+      "director": "Furie",
+      "year": "1965",
+      "id": 15247
+    },
+    {
+      "title": "A Place in the Sun",
+      "director": "Stevens",
+      "year": "1951",
+      "id": 25673
+    },
+    {
+      "title": "Tokyo Story",
+      "director": "Ozu",
+      "year": "1953",
+      "id": 18148
+    },
+    {
+      "title": "L\u2019Argent",
+      "director": "Bresson",
+      "year": "1983",
+      "id": 42112
+    },
+    {
+      "title": "The Color of Pomegranates",
+      "director": "Parajanov",
+      "year": "1969",
+      "id": 26302
+    },
+    {
+      "title": "Rome, Open City",
+      "director": "Rossellini",
+      "year": "1945",
+      "id": 307
+    },
+    {
+      "title": "20 Days in Mariupol",
+      "director": "Mstyslav Chernov",
+      "year": "2023",
+      "category": "Documentary",
+      "id": 1058616
+    },
+    {
+      "title": "Destiny",
+      "director": "Lang",
+      "year": "1921",
+      "id": 29267
+    },
+    {
+      "title": "Vampyr",
+      "director": "Dreyer",
+      "year": "1932",
+      "id": 779
+    },
+    {
+      "title": "Never Rarely Sometimes Always",
+      "director": "Eliza Hittman",
+      "year": "2020",
+      "category": "Drama",
+      "id": 595671
+    },
+    {
+      "title": "Brazil",
+      "director": "Gilliam",
+      "year": "1985",
+      "id": 68
+    },
+    {
+      "title": "Jezebel",
+      "director": "Wyler",
+      "year": "1938",
+      "id": 1976
+    },
+    {
+      "title": "The English Patient",
+      "director": "Minghella",
+      "year": "1996",
+      "id": 409
+    },
+    {
+      "title": "The Wild Child",
+      "director": "Truffaut",
+      "year": "1970",
+      "id": 1627
+    },
+    {
+      "title": "Amadeus",
+      "director": "Forman",
+      "year": "1984",
+      "id": 279
+    },
+    {
+      "title": "The Trial of the Chicago 7",
+      "director": "Aaron Sorkin",
+      "year": "2020",
+      "category": "Drama",
+      "id": 556984
+    },
+    {
+      "title": "A Brighter Summer\u2019s Day",
+      "director": "Yang",
+      "year": "1991",
+      "id": 15804
+    },
+    {
+      "title": "Monsieur Hulot\u2019s Holiday",
+      "director": "Tati",
+      "year": "1953",
+      "id": 778
+    },
+    {
+      "title": "The Tree of Life",
+      "director": "Malick",
+      "year": "2011",
+      "id": 8967
+    },
+    {
+      "title": "Orlando",
+      "director": "Potter",
+      "year": "1992",
+      "id": 9300
+    },
+    {
+      "title": "Doctor Zhivago",
+      "director": "Lean",
+      "year": "1965",
+      "id": 907
+    },
+    {
+      "title": "Band of Outsiders",
+      "director": "Godard",
+      "year": "1964",
+      "id": 8073
+    },
+    {
+      "title": "Wings",
+      "director": "Wellman",
+      "year": "1927",
+      "id": 28966
+    },
+    {
+      "title": "Letter Never Sent",
+      "director": "Kalatozov",
+      "year": "1960",
+      "id": 83539
+    },
+    {
+      "title": "The Bourne Ultimatum",
+      "director": "Greengrass",
+      "year": "2007",
+      "id": 2503
+    },
+    {
+      "title": "I'm Thinking of Ending Things",
+      "director": "Charlie Kaufman",
+      "year": "2020",
+      "category": "Psychological Thriller",
+      "id": 500840
+    },
+    {
+      "title": "Panique",
+      "director": "Duvivier",
+      "year": "1946",
+      "id": 43462
+    },
+    {
+      "title": "Goodfellas",
+      "director": "Scorsese",
+      "year": "1990",
+      "id": 769
+    },
+    {
+      "title": "Bound for Glory",
+      "director": "Ashby",
+      "year": "1976",
+      "id": 42232
+    },
+    {
+      "title": "Light Sleeper",
+      "director": "Schrader",
+      "year": "1992",
+      "id": 36351
+    },
+    {
+      "title": "Saltburn",
+      "director": "Emerald Fennell",
+      "year": "2023",
+      "category": "Thriller",
+      "id": 930564
+    },
+    {
+      "title": "The Last Picture Show",
+      "director": "Bogdanovich",
+      "year": "1971",
+      "id": 25188
+    },
+    {
+      "title": "We Own the Night",
+      "director": "Gray",
+      "year": "2007",
+      "id": 2001
+    },
+    {
+      "title": "You Only Live Once",
+      "director": "Lang",
+      "year": "1937",
+      "id": 52758
+    },
+    {
+      "title": "Crimson Gold",
+      "director": "Panahi",
+      "year": "2003",
+      "id": 40427
+    },
+    {
+      "title": "Carrie De",
+      "director": "Palma",
+      "year": "1976",
+      "id": 7340
+    },
+    {
+      "title": "Murder!",
+      "director": "Hitchcock",
+      "year": "1930",
+      "id": 31930
+    },
+    {
+      "title": "Videodrome",
+      "director": "Cronenberg",
+      "year": "1983",
+      "id": 837
+    },
+    {
+      "title": "Hell\u2019s Angels",
+      "director": "Hughes",
+      "year": "1930",
+      "id": 22301
+    },
+    {
+      "title": "It Happened One Night",
+      "director": "Capra",
+      "year": "1934",
+      "id": 3078
+    },
+    {
+      "title": "Inglourious Basterds",
+      "director": "Tarantino",
+      "year": "2009",
+      "id": 16869
+    },
+    {
+      "title": "La Strada",
+      "director": "Fellini",
+      "year": "1954",
+      "id": 405
+    },
+    {
+      "title": "The Departed",
+      "director": "Scorsese",
+      "year": "2006",
+      "id": 1422
+    },
+    {
+      "title": "La Ronde",
+      "director": "Oph\u00fcls",
+      "year": "1950",
+      "id": 50030
+    },
+    {
+      "title": "The Skin I Live In",
+      "director": "Almod\u00f3var",
+      "year": "2011",
+      "id": 63311
+    },
+    {
+      "title": "Contempt",
+      "director": "Godard",
+      "year": "1963",
+      "id": 266
+    },
+    {
+      "title": "Mother",
+      "director": "Pudovkin",
+      "year": "1926",
+      "id": 98914
+    },
+    {
+      "title": "Faces",
+      "director": "Cassavetes",
+      "year": "1968",
+      "id": 30959
+    },
+    {
+      "title": "John Wick: Chapter 4",
+      "director": "Chad Stahelski",
+      "year": "2023",
+      "category": "Action and Adventure",
+      "id": 603692
+    },
+    {
+      "title": "East of Eden",
+      "director": "Kazan",
+      "year": "1955",
+      "id": 220
+    },
+    {
+      "title": "Ikiru",
+      "director": "Kurosawa",
+      "year": "1952",
+      "id": 3782
+    },
+    {
+      "title": "Ordet",
+      "director": "Dreyer",
+      "year": "1955",
+      "id": 48035
+    },
+    {
+      "title": "Shoot the Piano Player",
+      "director": "Truffaut",
+      "year": "1960",
+      "id": 1818
+    },
+    {
+      "title": "Nostalghia",
+      "director": "Tarkovsky",
+      "year": "1983",
+      "id": 1394
+    },
+    {
+      "title": "Killers of the Flower Moon",
+      "director": "Martin Scorsese",
+      "year": "2023",
+      "category": "Crime and Thriller",
+      "id": 466420
+    },
+    {
+      "title": "Killers of the Flower Moon",
+      "director": "Martin Scorsese",
+      "year": "2023",
+      "category": "Crime and Thriller",
+      "id": 466420
+    },
+    {
+      "title": "The Damned",
+      "director": "Visconti",
+      "year": "1969",
+      "id": 41876
+    },
+    {
+      "title": "\u00c0 nous la libert\u00e9",
+      "director": "Clair",
+      "year": "1931",
+      "id": 31514
+    },
+    {
+      "title": "The Hustler",
+      "director": "Rossen",
+      "year": "1961",
+      "id": 990
+    },
+    {
+      "title": "Sweetie",
+      "director": "Campion",
+      "year": "1989",
+      "id": 65015
+    },
+    {
+      "title": "The Rules of the Game",
+      "director": "Renoir",
+      "year": "1939",
+      "id": 776
+    },
+    {
+      "title": "Placido",
+      "director": "Berlanga",
+      "year": "1961",
+      "id": 51317
+    },
+    {
+      "title": "Liebelei",
+      "director": "Oph\u00fcls",
+      "year": "1933",
+      "id": 43596
+    },
+    {
+      "title": "How Green Was My Valley",
+      "director": "Ford",
+      "year": "1941",
+      "id": 43266
+    },
+    {
+      "title": "Le Samoura\u00ef",
+      "director": "Melville",
+      "year": "1967",
+      "id": 5511
+    },
+    {
+      "title": "First Man",
+      "director": "Damien Chazelle",
+      "year": "2018",
+      "category": "Drama",
+      "id": 369972
+    },
+    {
+      "title": "The Boy and the Heron",
+      "director": "Hayao Miyazaki",
+      "year": "2023",
+      "category": "Animation",
+      "id": 508883
+    },
+    {
+      "title": "Sid and Nancy",
+      "director": "Cox",
+      "year": "1986",
+      "id": 14924
+    },
+    {
+      "title": "C'mon C'mon",
+      "director": "Mike Mills",
+      "year": "2021",
+      "category": "Drama",
+      "id": 632617
+    },
+    {
+      "title": "Two Women De",
+      "director": "Sica",
+      "year": "1960",
+      "id": 24167
+    },
+    {
+      "title": "Ossessione",
+      "director": "Visconti",
+      "year": "1943",
+      "id": 5155
+    },
+    {
+      "title": "Titane",
+      "director": "Julia Ducournau",
+      "year": "2021",
+      "category": "Horror",
+      "id": 68726
+    },
+    {
+      "title": "Passing",
+      "director": "Rebecca Hall",
+      "year": "2021",
+      "category": "Drama",
+      "id": 541524
+    },
+    {
+      "title": "The French Dispatch",
+      "director": "Wes Anderson",
+      "year": "2021",
+      "category": "Comedy",
+      "id": 542178
+    },
+    {
+      "title": "Two English Girls",
+      "director": "Truffaut",
+      "year": "1971",
+      "id": 42513
+    },
+    {
+      "title": "Pierrot le Fou",
+      "director": "Godard",
+      "year": "1965",
+      "id": 2786
+    },
+    {
+      "title": "The Limits of Control",
+      "director": "Jarmusch",
+      "year": "2009",
+      "id": 8284
+    },
+    {
+      "title": "Paths of Glory",
+      "director": "Kubrick",
+      "year": "1957",
+      "id": 975
+    },
+    {
+      "title": "Point Blank",
+      "director": "Boorman",
+      "year": "1967",
+      "id": 26039
+    },
+    {
+      "title": "Moulin Rouge!",
+      "director": "Luhrmann",
+      "year": "2001",
+      "id": 824
+    },
+    {
+      "title": "An Angel at My Table",
+      "director": "Campion",
+      "year": "1990",
+      "id": 2891
+    },
+    {
+      "title": "Poor Things",
+      "director": "Yorgos Lanthimos",
+      "year": "2023",
+      "category": "Drama",
+      "id": 792307
+    },
+    {
+      "title": "Titanic",
+      "director": "Cameron",
+      "year": "1997",
+      "id": 597
+    },
+    {
+      "title": "CODA",
+      "director": "Sian Heder",
+      "year": "2021",
+      "category": "Drama",
+      "id": 776503
+    },
+    {
+      "title": "Past Lives",
+      "director": "Celine Song",
+      "year": "2023",
+      "category": "Drama",
+      "id": 666277
+    },
+    {
+      "title": "Force of Evil",
+      "director": "Polonsky",
+      "year": "1948",
+      "id": 26744
+    },
+    {
+      "title": "Before Midnight",
+      "director": "Linklater",
+      "year": "2013",
+      "id": 132344
+    },
+    {
+      "title": "The Empire Strikes Back",
+      "director": "Kershner",
+      "year": "1980",
+      "id": 1891
+    },
+    {
+      "title": "Dr. Mabuse, the Gambler",
+      "director": "Lang",
+      "year": "1922",
+      "id": 5998
+    },
+    {
+      "title": "Nightmare Alley",
+      "director": "Guillermo del Toro",
+      "year": "2021",
+      "category": "Crime and Thriller",
+      "id": 597208
+    },
+    {
+      "title": "The Man with the Golden Arm",
+      "director": "Preminger",
+      "year": "1955",
+      "id": 541
+    },
+    {
+      "title": "Poor Things",
+      "director": "Yorgos Lanthimos",
+      "year": "2023",
+      "category": "Comedy",
+      "id": 792307
+    },
+    {
+      "title": "Ace in the Hole",
+      "director": "Wilder",
+      "year": "1951",
+      "id": 25364
+    },
+    {
+      "title": "Dogtooth",
+      "director": "Lanthimos",
+      "year": "2009",
+      "id": 38810
+    },
+    {
+      "title": "The Passenger",
+      "director": "Antonioni",
+      "year": "1975",
+      "id": 9652
+    },
+    {
+      "title": "The Man Who Shot Liberty Valance",
+      "director": "Ford",
+      "year": "1962",
+      "id": 11697
+    },
+    {
+      "title": "Throne of Blood",
+      "director": "Kurosawa",
+      "year": "1957",
+      "id": 3777
+    },
+    {
+      "title": "Forty Guns",
+      "director": "Fuller",
+      "year": "1957",
+      "id": 14837
+    },
+    {
+      "title": "Five Easy Pieces",
+      "director": "Rafelson",
+      "year": "1970",
+      "id": 26617
+    },
+    {
+      "title": "Judas and the Black Messiah",
+      "director": "Shaka King",
+      "year": "2021",
+      "category": "Drama",
+      "id": 583406
+    },
+    {
+      "title": "T\u00e1r",
+      "director": "Todd Field",
+      "year": "2022",
+      "category": "Drama",
+      "id": 817758
+    },
+    {
+      "title": "A Woman Under the Influence",
+      "director": "Cassavetes",
+      "year": "1974",
+      "id": 29845
+    },
+    {
+      "title": "Vera Drake",
+      "director": "Leigh",
+      "year": "2004",
+      "id": 11109
+    },
+    {
+      "title": "Duck Soup",
+      "director": "McCarey.",
+      "year": "1933",
+      "id": 3063
+    },
+    {
+      "title": "Barbarian",
+      "director": "Zach Cregger",
+      "year": "2022",
+      "category": "Horror",
+      "id": 913290
+    },
+    {
+      "title": "Gertrud",
+      "director": "Dreyer",
+      "year": "1964",
+      "id": 34181
+    },
+    {
+      "title": "La roue",
+      "director": "Gance",
+      "year": "1923",
+      "id": 50182
+    },
+    {
+      "title": "Millennium Actress",
+      "director": "Kon",
+      "year": "2001",
+      "id": 33320
+    },
+    {
+      "title": "The Outlaw and His Wife",
+      "director": "Sj\u00f6str\u00f6m",
+      "year": "1918",
+      "id": 70800
+    },
+    {
+      "title": "California Split",
+      "director": "Altman",
+      "year": "1974",
+      "id": 32044
+    },
+    {
+      "title": "Children of Men",
+      "director": "Cuar\u00f3n",
+      "year": "2006",
+      "id": 9693
+    },
+    {
+      "title": "Intolerance",
+      "director": "Griffith",
+      "year": "1916",
+      "id": 3059
+    },
+    {
+      "title": "The Power of the Dog",
+      "director": "Jane Campion",
+      "year": "2021",
+      "category": "Drama",
+      "id": 600583
+    },
+    {
+      "title": "P\u00e9p\u00e9 le Moko",
+      "director": "Duvivier",
+      "year": "1937",
+      "id": 26252
+    },
+    {
+      "title": "Black Panther",
+      "director": "Ryan Coogler",
+      "year": "2018",
+      "category": "Action and Adventure",
+      "id": 284054
+    },
+    {
+      "title": "Saving Private Ryan",
+      "director": "Spielberg",
+      "year": "1998",
+      "id": 857
+    },
+    {
+      "title": "City Lights",
+      "director": "Chaplin",
+      "year": "1931",
+      "id": 901
+    },
+    {
+      "title": "All These Women",
+      "director": "Bergman",
+      "year": "1964",
+      "id": 96118
+    },
+    {
+      "title": "Toni",
+      "director": "Renoir",
+      "year": "1935",
+      "id": 51949
+    },
+    {
+      "title": "Seven Chances",
+      "director": "Keaton",
+      "year": "1925",
+      "id": 32600
+    },
+    {
+      "title": "At Close Range",
+      "director": "Foley",
+      "year": "1986",
+      "id": 13715
+    },
+    {
+      "title": "A Man There Was",
+      "director": "Sj\u00f6str\u00f6m",
+      "year": "1917",
+      "id": 108017
+    },
+    {
+      "title": "La Terra Trema",
+      "director": "Visconti",
+      "year": "1948",
+      "id": 43445
+    },
+    {
+      "title": "A Short Film About Killing",
+      "director": "Kieslowski",
+      "year": "1988",
+      "id": 10754
+    },
+    {
+      "title": "Naked Lunch",
+      "director": "Cronenberg",
+      "year": "1991",
+      "id": 2742
+    },
+    {
+      "title": "Ride Lonesome",
+      "director": "Boetticher",
+      "year": "1959",
+      "id": 27644
+    },
+    {
+      "title": "Forbidden Games",
+      "director": "Cl\u00e9ment",
+      "year": "1952",
+      "id": 5000
+    },
+    {
+      "title": "Distant Voices, Still Lives",
+      "director": "Davies",
+      "year": "1988",
+      "id": 41799
+    },
+    {
+      "title": "Rosemary\u2019s Baby",
+      "director": "Polanski",
+      "year": "1968",
+      "id": 805
+    },
+    {
+      "title": "Track of the Cat",
+      "director": "Wellman",
+      "year": "1954",
+      "id": 86608
+    },
+    {
+      "title": "High Noon",
+      "director": "Zinnemann",
+      "year": "1952",
+      "id": 288
+    },
+    {
+      "title": "Babylon",
+      "director": "Damien Chazelle",
+      "year": "2022",
+      "category": "Drama",
+      "id": 615777
+    },
+    {
+      "title": "Tom Jones",
+      "director": "Richardson",
+      "year": "1963",
+      "id": 5769
+    },
+    {
+      "title": "Jules and Jim",
+      "director": "Truffaut",
+      "year": "1962",
+      "id": 1628
+    },
+    {
+      "title": "Mauvais sang",
+      "director": "Carax",
+      "year": "1986",
+      "id": 64131
+    },
+    {
+      "title": "The Player",
+      "director": "Altman",
+      "year": "1992",
+      "id": 10403
+    },
+    {
+      "title": "The Bad Sleep Well",
+      "director": "Kurosawa",
+      "year": "1960",
+      "id": 31589
+    },
+    {
+      "title": "Fellini\u2019s Casanova",
+      "director": "Fellini",
+      "year": "1976",
+      "id": 42236
+    },
+    {
+      "title": "The Elephant Man",
+      "director": "Lynch",
+      "year": "1980",
+      "id": 1955
+    },
+    {
+      "title": "Rear Window",
+      "director": "Hitchcock",
+      "year": "1954",
+      "id": 567
+    },
+    {
+      "title": "The Fisher King",
+      "director": "Gilliam",
+      "year": "1991",
+      "id": 177
+    },
+    {
+      "title": "Sansho the Bailiff",
+      "director": "Mizoguchi",
+      "year": "1954",
+      "id": 20532
+    },
+    {
+      "title": "The Big Trail",
+      "director": "Walsh",
+      "year": "1930",
+      "id": 42640
+    },
+    {
+      "title": "Le cercle rouge",
+      "director": "Melville",
+      "year": "1970",
+      "id": 11657
+    },
+    {
+      "title": "The Woman in the Fifth",
+      "director": "Pawlikowski",
+      "year": "2011",
+      "id": 82501
+    },
+    {
+      "title": "Battleship Potemkin",
+      "director": "Eisenstein",
+      "year": "1925",
+      "id": 643
+    },
+    {
+      "title": "The Nun",
+      "director": "Rivette",
+      "year": "1966",
+      "id": 42722
+    },
+    {
+      "title": "Women Talking",
+      "director": "Sarah Polley",
+      "year": "2022",
+      "category": "Drama",
+      "id": 777245
+    },
+    {
+      "title": "Stardust Memories",
+      "director": "Allen",
+      "year": "1980",
+      "id": 11337
+    },
+    {
+      "title": "Birth",
+      "director": "Glazer",
+      "year": "2004",
+      "id": 10740
+    },
+    {
+      "title": "Under the Skin",
+      "director": "Glazer",
+      "year": "2013",
+      "id": 97370
+    },
+    {
+      "title": "The Long Day Closes",
+      "director": "Davies",
+      "year": "1992",
+      "id": 49956
+    },
+    {
+      "title": "Requiem for a Dream",
+      "director": "Aronofsky",
+      "year": "2000",
+      "id": 641
+    },
+    {
+      "title": "The Parallax View",
+      "director": "Pakula",
+      "year": "1974",
+      "id": 17365
+    },
+    {
+      "title": "Kill Bill",
+      "director": "Tarantino",
+      "year": "2003",
+      "id": 24
+    },
+    {
+      "title": "A.I. Artificial Intelligence",
+      "director": "Spielberg",
+      "year": "2001",
+      "id": 644
+    },
+    {
+      "title": "Seven Samurai",
+      "director": "Kurosawa",
+      "year": "1954",
+      "id": 346
+    },
+    {
+      "title": "Dazed and Confused",
+      "director": "Linklater",
+      "year": "1993",
+      "id": 9571
+    },
+    {
+      "title": "The Irishman",
+      "director": "Scorsese",
+      "year": "2019",
+      "id": 398978
+    },
+    {
+      "title": "tick, tick... BOOM!",
+      "director": "Lin-Manuel Miranda",
+      "year": "2021",
+      "category": "Drama",
+      "id": 537116
+    },
+    {
+      "title": "The Naked Spur A.",
+      "director": "Mann",
+      "year": "1953",
+      "id": 20442
+    },
+    {
+      "title": "L\u2019Atalante",
+      "director": "Vigo",
+      "year": "1934",
+      "id": 43904
+    },
+    {
+      "title": "Come and See",
+      "director": "Klimov",
+      "year": "1985",
+      "id": 25237
+    },
+    {
+      "title": "Silent Light",
+      "director": "Reygadas",
+      "year": "2007",
+      "id": 2012
+    },
+    {
+      "title": "Metropolis",
+      "director": "Lang",
+      "year": "1927",
+      "id": 19
+    },
+    {
+      "title": "Lola Montes",
+      "director": "Oph\u00fcls",
+      "year": "1955",
+      "id": 35987
+    },
+    {
+      "title": "Blue Velvet",
+      "director": "Lynch",
+      "year": "1986",
+      "id": 793
+    },
+    {
+      "title": "Mr. Smith Goes to Washington",
+      "director": "Capra",
+      "year": "1939",
+      "id": 3083
+    },
+    {
+      "title": "Drunken Angel",
+      "director": "Kurosawa",
+      "year": "1948",
+      "id": 25858
+    },
+    {
+      "title": "A Hen in the Wind",
+      "director": "Ozu",
+      "year": "1948",
+      "id": 126219
+    },
+    {
+      "title": "Master and Commander: The Far Side of the World",
+      "director": "Weir",
+      "year": "2003",
+      "id": 8619
+    },
+    {
+      "title": "Lincoln",
+      "director": "Spielberg",
+      "year": "2012",
+      "id": 50348
+    },
+    {
+      "title": "Blue Valentine",
+      "director": "Cianfrance",
+      "year": "2010",
+      "id": 46705
+    },
+    {
+      "title": "Run Lola Run",
+      "director": "Tykwer",
+      "year": "1998",
+      "id": 104
+    },
+    {
+      "title": "The Bridge on the River Kwai",
+      "director": "Lean",
+      "year": "1957",
+      "id": 826
+    },
+    {
+      "title": "Platoon",
+      "director": "Stone",
+      "year": "1986",
+      "id": 792
+    },
+    {
+      "title": "Cabiria",
+      "director": "Pastrone",
+      "year": "1914",
+      "id": 5153
+    },
+    {
+      "title": "Island of Lost Souls",
+      "director": "Kenton",
+      "year": "1932",
+      "id": 3031
+    },
+    {
+      "title": "The Marriage of Maria Braun",
+      "director": "Fassbinder",
+      "year": "1979",
+      "id": 661
+    },
+    {
+      "title": "A Room with a View",
+      "director": "Ivory",
+      "year": "1985",
+      "id": 11257
+    },
+    {
+      "title": "Mission: Impossible - Dead Reckoning Part One",
+      "director": "Christopher McQuarrie",
+      "year": "2023",
+      "category": "Action and Adventure",
+      "id": 575264
+    },
+    {
+      "title": "Spider-Man: Across the Spider-Verse",
+      "director": "Joaquim Dos Santos, Kemp Powers, Justin K. Thompson",
+      "year": "2023",
+      "category": "Animation",
+      "id": 569094
+    },
+    {
+      "title": "The Gospel According to St. Matthew",
+      "director": "Pasolini",
+      "year": "1964",
+      "id": 24192
+    },
+    {
+      "title": "Wendy and Lucy",
+      "director": "Reichardt",
+      "year": "2008",
+      "id": 8942
+    },
+    {
+      "title": "All of Us Strangers",
+      "director": "Andrew Haigh",
+      "year": "2023",
+      "category": "Drama",
+      "id": 994108
+    },
+    {
+      "title": "Le Jour Se Leve",
+      "director": "Carn\u00e9",
+      "year": "1939",
+      "id": 27053
+    },
+    {
+      "title": "Road to Perdition",
+      "director": "Mendes",
+      "year": "2002",
+      "id": 4147
+    },
+    {
+      "title": "Harold and Maude",
+      "director": "Ashby",
+      "year": "1971",
+      "id": 343
+    },
+    {
+      "title": "Frankenstein",
+      "director": "Whale",
+      "year": "1931",
+      "id": 3035
+    },
+    {
+      "title": "Licorice Pizza",
+      "director": "Paul Thomas Anderson",
+      "year": "2021",
+      "category": "Drama",
+      "id": 718032
+    },
+    {
+      "title": "Lady in the Lake",
+      "director": "Montgomery",
+      "year": "1946",
+      "id": 1841
+    },
+    {
+      "title": "The Night of the Hunter",
+      "director": "Laughton",
+      "year": "1955",
+      "id": 3112
+    },
+    {
+      "title": "Cool Hand Luke",
+      "director": "Rosenberg",
+      "year": "1967",
+      "id": 903
+    },
+    {
+      "title": "Stagecoach",
+      "director": "Ford",
+      "year": "1939",
+      "id": 995
+    },
+    {
+      "title": "Paisan",
+      "director": "Rossellini",
+      "year": "1946",
+      "id": 8429
+    },
+    {
+      "title": "For a Few Dollars More",
+      "director": "Leone",
+      "year": "1965",
+      "id": 938
+    },
+    {
+      "title": "Belfast",
+      "director": "Kenneth Branagh",
+      "year": "2021",
+      "category": "Drama",
+      "id": 777270
+    },
+    {
+      "title": "The Battle of Algiers",
+      "director": "Pontecorvo",
+      "year": "1966",
+      "id": 17295
+    },
+    {
+      "title": "Satantango",
+      "director": "Tarr",
+      "year": "1994",
+      "id": 31414
+    },
+    {
+      "title": "The Purple Rose of Cairo",
+      "director": "Allen",
+      "year": "1985",
+      "id": 10849
+    },
+    {
+      "title": "The 39 Steps",
+      "director": "Hitchcock",
+      "year": "1935",
+      "id": 260
+    },
+    {
+      "title": "The Curious Case of Benjamin Button",
+      "director": "Fincher",
+      "year": "2008",
+      "id": 4922
+    },
+    {
+      "title": "The Woman King",
+      "director": "Gina Prince-Bythewood",
+      "year": "2022",
+      "category": "Action and Adventure",
+      "id": 724495
+    },
+    {
+      "title": "Badlands",
+      "director": "Malick",
+      "year": "1973",
+      "id": 3133
+    },
+    {
+      "title": "Kings of the Road",
+      "director": "Wenders",
+      "year": "1976",
+      "id": 10834
+    },
+    {
+      "title": "Jarhead",
+      "director": "Mendes",
+      "year": "2005",
+      "id": 25
+    },
+    {
+      "title": "The Birth of a Nation",
+      "director": "Griffith",
+      "year": "1915",
+      "id": 618
+    },
+    {
+      "title": "Inception",
+      "director": "Nolan",
+      "year": "2010",
+      "id": 27205
+    },
+    {
+      "title": "The Student Prince in Old Heidelberg",
+      "director": "Lubitsch",
+      "year": "1927",
+      "id": 85876
+    },
+    {
+      "title": "The Testament of Dr. Mabuse",
+      "director": "Lang",
+      "year": "1933",
+      "id": 12206
+    },
+    {
+      "title": "Bad Timing",
+      "director": "Roeg",
+      "year": "1980",
+      "id": 33214
+    },
+    {
+      "title": "The Son",
+      "director": "Dardenne",
+      "year": "2002",
+      "id": 242
+    },
+    {
+      "title": "Perfect Blue",
+      "director": "Kon",
+      "year": "1997",
+      "id": 10494
+    },
+    {
+      "title": "Promising Young Woman",
+      "director": "Emerald Fennell",
+      "year": "2020",
+      "category": "Crime and Thriller",
+      "id": 582014
+    },
+    {
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "director": "Gondry",
+      "year": "2004",
+      "id": 38
+    },
+    {
+      "title": "Spider-Man: Into the Spider-Verse",
+      "director": "Bob Persichetti, Peter Ramsey, Rodney Rothman",
+      "year": "2018",
+      "category": "Animation",
+      "id": 324857
+    },
+    {
+      "title": "Borat Subsequent Moviefilm",
+      "director": "Jason Woliner",
+      "year": "2020",
+      "category": "Comedy",
+      "id": 740985
+    },
+    {
+      "title": "Sanjuro",
+      "director": "Kurosawa",
+      "year": "1962",
+      "id": 11712
+    },
+    {
+      "title": "American Graffiti",
+      "director": "Lucas",
+      "year": "1973",
+      "id": 838
+    },
+    {
+      "title": "D.O.A.",
+      "director": "Mat\u00e9",
+      "year": "1949",
+      "id": 18995
+    },
+    {
+      "title": "Pickpocket",
+      "director": "Bresson",
+      "year": "1959",
+      "id": 690
+    },
+    {
+      "title": "The Social Network",
+      "director": "Fincher",
+      "year": "2010",
+      "id": 37799
+    },
+    {
+      "title": "Cries & Whispers",
+      "director": "Bergman",
+      "year": "1972",
+      "id": 10238
+    },
+    {
+      "title": "Gravity",
+      "director": "Cuar\u00f3n",
+      "year": "2013",
+      "id": 49047
+    },
+    {
+      "title": "Pulp Fiction",
+      "director": "Tarantino",
+      "year": "1994",
+      "id": 680
+    },
+    {
+      "title": "Floating Weeds",
+      "director": "Ozu",
+      "year": "1959",
+      "id": 46918
+    },
+    {
+      "title": "Where Is the Friend\u2019s House?",
+      "director": "Kiarostami",
+      "year": "1987",
+      "id": 49964
+    },
+    {
+      "title": "The Red and the White",
+      "director": "Jancs\u00f3",
+      "year": "1967",
+      "id": 52885
+    },
+    {
+      "title": "A Man Escaped",
+      "director": "Bresson",
+      "year": "1956",
+      "id": 15244
+    },
+    {
+      "title": "Howards End",
+      "director": "Ivory",
+      "year": "1992",
+      "id": 8293
+    },
+    {
+      "title": "Z\u00e9ro de conduite",
+      "director": "Vigo",
+      "year": "1933",
+      "id": 44494
+    },
+    {
+      "title": "The Kid With a Bike",
+      "director": "Dardenne",
+      "year": "2011",
+      "id": 63831
+    },
+    {
+      "title": "No Blood Relation",
+      "director": "Naruse",
+      "year": "1932",
+      "id": 87673
+    },
+    {
+      "title": "The Phantom Carriage",
+      "director": "Sj\u00f6str\u00f6m",
+      "year": "1921",
+      "id": 58129
+    },
+    {
+      "title": "Bride of Frankenstein",
+      "director": "Whale",
+      "year": "1935",
+      "id": 229
+    },
+    {
+      "title": "Yi Yi",
+      "director": "Yang",
+      "year": "2000",
+      "id": 10618
+    },
+    {
+      "title": "The King of Comedy",
+      "director": "Scorsese",
+      "year": "1982",
+      "id": 262
+    },
+    {
+      "title": "The Adventures of Baron Munchausen",
+      "director": "Gilliam",
+      "year": "1988",
+      "id": 14506
+    },
+    {
+      "title": "The Man Without a Past",
+      "director": "Kaurism\u00e4ki",
+      "year": "2002",
+      "id": 7294
+    },
+    {
+      "title": "Rififi",
+      "director": "Dassin",
+      "year": "1955",
+      "id": 934
+    },
+    {
+      "title": "Blow Out De",
+      "director": "Palma",
+      "year": "1981",
+      "id": 11644
+    },
+    {
+      "title": "Gunga Din",
+      "director": "Stevens",
+      "year": "1939",
+      "id": 24965
+    },
+    {
+      "title": "The Double Life of Veronique",
+      "director": "Kieslowski",
+      "year": "1991",
+      "id": 1600
+    },
+    {
+      "title": "7th Heaven",
+      "director": "Borzage",
+      "year": "1927",
+      "id": 82474
+    },
+    {
+      "title": "M*A*S*H",
+      "director": "Altman",
+      "year": "1970",
+      "id": 24197
+    },
+    {
+      "title": "The Wages of Fear",
+      "director": "Clouzot",
+      "year": "1953",
+      "id": 204
+    },
+    {
+      "title": "Ben-Hur",
+      "director": "Wyler",
+      "year": "1959",
+      "id": 665
+    },
+    {
+      "title": "Pat Garrett & Billy the Kid",
+      "director": "Peckinpah",
+      "year": "1973",
+      "id": 11577
+    },
+    {
+      "title": "Made in U.S.A",
+      "director": "Godard",
+      "year": "1966",
+      "id": 29369
+    },
+    {
+      "title": "Anatomy of a Fall",
+      "director": "Justine Triet",
+      "year": "2023",
+      "category": "Drama",
+      "id": 915935
+    },
+    {
+      "title": "Fallen Angel",
+      "director": "Preminger",
+      "year": "1945",
+      "id": 26243
+    },
+    {
+      "title": "Punch-Drunk Love",
+      "director": "Paul Thomas Anderson",
+      "year": "2002",
+      "id": 8051
+    },
+    {
+      "title": "There Will Be Blood",
+      "director": "Paul Thomas Anderson",
+      "year": "2007",
+      "id": 7345
+    },
+    {
+      "title": "Apocalypse Now",
+      "director": "Francis Ford Coppola",
+      "year": "1979",
+      "id": 28
+    },
+    {
+      "title": "Breaking the Waves",
+      "director": "Lars von Trier",
+      "year": "1996",
+      "id": 145
+    },
+    {
+      "title": "The Master",
+      "director": "Paul Thomas Anderson",
+      "year": "2012",
+      "id": 68722
+    },
+    {
+      "title": "Magnolia",
+      "director": "Paul Thomas Anderson",
+      "year": "1999",
+      "id": 334
+    },
+    {
+      "title": "Boogie Nights",
+      "director": "Paul Thomas Anderson",
+      "year": "1997",
+      "id": 4995
+    },
+    {
+      "title": "Punch-Drunk Love",
+      "director": "Paul Thomas Anderson",
+      "year": "2002",
+      "id": 8051
+    },
+    {
+      "title": "There Will Be Blood",
+      "director": "Paul Thomas Anderson",
+      "year": "2007",
+      "id": 7345
+    },
+    {
+      "title": "Apocalypse Now",
+      "director": "Francis Ford Coppola",
+      "year": "1979",
+      "id": 28
+    },
+    {
+      "title": "Breaking the Waves",
+      "director": "Lars von Trier",
+      "year": "1996",
+      "id": 145
+    },
+    {
+      "title": "The Master",
+      "director": "Paul Thomas Anderson",
+      "year": "2012",
+      "id": 68722
+    },
+    {
+      "title": "Magnolia",
+      "director": "Paul Thomas Anderson",
+      "year": "1999",
+      "id": 334
+    },
+    {
+      "title": "Boogie Nights",
+      "director": "Paul Thomas Anderson",
+      "year": "1997",
+      "id": 4995
+    },
+    {
+      "title": "Apocalypse Now",
+      "director": "Francis Ford Coppola",
+      "year": "1979",
+      "id": 28
+    },
+    {
+      "title": "Breaking the Waves",
+      "director": "Lars von Trier",
+      "year": "1996",
+      "id": 145
+    },
+    {
+      "title": "Punch-Drunk Love",
+      "director": "Paul Thomas Anderson",
+      "year": "2002",
+      "id": 8051
+    },
+    {
+      "title": "There Will Be Blood",
+      "director": "Paul Thomas Anderson",
+      "year": "2007",
+      "id": 7345
+    },
+    {
+      "title": "The Master",
+      "director": "Paul Thomas Anderson",
+      "year": "2012",
+      "id": 68722
+    },
+    {
+      "title": "Magnolia",
+      "director": "Paul Thomas Anderson",
+      "year": "1999",
+      "id": 334
+    },
+    {
+      "title": "Boogie Nights",
+      "director": "Paul Thomas Anderson",
+      "year": "1997",
+      "id": 4995
+    },
+    {
+      "title": "The Godfather",
+      "director": "Francis Ford Coppola",
+      "year": "1972",
+      "id": 238
+    },
+    {
+      "title": "The Godfather Part II",
+      "director": "Francis Ford Coppola",
+      "year": "1974",
+      "id": 240
+    },
+    {
+      "title": "In the Mood for Love",
+      "director": "Wong Kar-wai",
+      "year": "2000",
+      "id": 843
+    },
+    {
+      "title": "Chungking Express",
+      "director": "Wong Kar-wai",
+      "year": "1994",
+      "id": 11104
+    },
+    {
+      "title": "2046",
+      "director": "Wong Kar-wai",
+      "year": "2004",
+      "id": 844
+    },
+    {
+      "title": "Do the Right Thing",
+      "director": "Spike Lee",
+      "year": "1989",
+      "id": 925
+    },
+    {
+      "title": "Blade Runner",
+      "director": "Ridley Scott",
+      "year": "1982",
+      "id": 78
+    },
+    {
+      "title": "Melancholia",
+      "director": "Lars von Trier",
+      "year": "2011",
+      "id": 62215
+    },
+    {
+      "title": "Black Narcissus",
+      "director": "Michael Powell",
+      "year": "1947",
+      "id": 16391
+    },
+    {
+      "title": "Rumble Fish",
+      "director": "Francis Ford Coppola",
+      "year": "1983",
+      "id": 232
+    },
+    {
+      "title": "The Music Room",
+      "director": "Satyajit Ray",
+      "year": "1958",
+      "id": 822
+    },
+    {
+      "title": "Heat",
+      "director": "Michael Mann",
+      "year": "1995",
+      "id": 949
+    },
+    {
+      "title": "The Graduate",
+      "director": "Mike Nichols",
+      "year": "1967",
+      "id": 37247
+    },
+    {
+      "title": "The Royal Tenenbaums",
+      "director": "Wes Anderson",
+      "year": "2001",
+      "id": 9428
+    },
+    {
+      "title": "Lost in Translation",
+      "director": "Sofia Coppola",
+      "year": "2003",
+      "id": 153
+    },
+    {
+      "title": "Moonrise Kingdom",
+      "director": "Wes Anderson",
+      "year": "2012",
+      "id": 83666
+    },
+    {
+      "title": "The Conversation",
+      "director": "Francis Ford Coppola",
+      "year": "1974",
+      "id": 592
+    },
+    {
+      "title": "Alien",
+      "director": "Ridley Scott",
+      "year": "1979",
+      "id": 348
+    },
+    {
+      "title": "Dancer in the Dark",
+      "director": "Lars von Trier",
+      "year": "2000",
+      "id": 16
+    },
+    {
+      "title": "The Virgin Suicides",
+      "director": "Sofia Coppola",
+      "year": "1999",
+      "id": 1443
+    },
+    {
+      "title": "Thief",
+      "director": "Michael Mann",
+      "year": "1981",
+      "id": 11524
+    },
+    {
+      "title": "The Insider",
+      "director": "Michael Mann",
+      "year": "1999",
+      "id": 9008
+    },
+    {
+      "title": "Manhunter",
+      "director": "Michael Mann",
+      "year": "1986",
+      "id": 11454
+    },
+    {
+      "title": "One from the Heart",
+      "director": "Francis Ford Coppola",
+      "year": "1981",
+      "id": 41291
+    },
+    {
+      "title": "The Cotton Club",
+      "director": "Francis Ford Coppola",
+      "year": "1984",
+      "id": 2148
+    },
+    {
+      "title": "Rushmore",
+      "director": "Wes Anderson",
+      "year": "1998",
+      "id": 11545
+    },
+    {
+      "title": "Fantastic Mr. Fox",
+      "director": "Wes Anderson",
+      "year": "2009",
+      "id": 10315
+    },
+    {
+      "title": "The Darjeeling Limited",
+      "director": "Wes Anderson",
+      "year": "2007",
+      "id": 4538
+    },
+    {
+      "title": "Apocalypse Now",
+      "director": "Francis Ford Coppola",
+      "year": "1979",
+      "id": 28
+    },
+    {
+      "title": "In the Mood for Love",
+      "director": "Wong Kar-wai",
+      "year": "2000",
+      "id": 843
+    },
+    {
+      "title": "The Godfather",
+      "director": "Francis Ford Coppola",
+      "year": "1972",
+      "id": 238
+    },
+    {
+      "title": "Blade Runner",
+      "director": "Ridley Scott",
+      "year": "1982",
+      "id": 78
+    },
+    {
+      "title": "Breaking the Waves",
+      "director": "Lars von Trier",
+      "year": "1996",
+      "id": 145
+    },
+    {
+      "title": "Chungking Express",
+      "director": "Wong Kar-wai",
+      "year": "1994",
+      "id": 11104
+    },
+    {
+      "title": "The Godfather Part II",
+      "director": "Francis Ford Coppola",
+      "year": "1974",
+      "id": 240
+    },
+    {
+      "title": "Do the Right Thing",
+      "director": "Spike Lee",
+      "year": "1989",
+      "id": 925
+    },
+    {
+      "title": "Melancholia",
+      "director": "Lars von Trier",
+      "year": "2011",
+      "id": 62215
+    },
+    {
+      "title": "Punch-Drunk Love",
+      "director": "Paul Thomas Anderson",
+      "year": "2002",
+      "id": 8051
+    },
+    {
+      "title": "There Will Be Blood",
+      "director": "Paul Thomas Anderson",
+      "year": "2007",
+      "id": 7345
+    },
+    {
+      "title": "Black Narcissus",
+      "director": "Michael Powell",
+      "year": "1947",
+      "id": 16391
+    },
+    {
+      "title": "2046",
+      "director": "Wong Kar-wai",
+      "year": "2004",
+      "id": 844
+    },
+    {
+      "title": "The Master",
+      "director": "Paul Thomas Anderson",
+      "year": "2012",
+      "id": 68722
+    },
+    {
+      "title": "Raise the Red Lantern",
+      "director": "Zhang Yimou",
+      "year": "1991",
+      "id": 10404
+    },
+    {
+      "title": "Heat",
+      "director": "Michael Mann",
+      "year": "1995",
+      "id": 949
+    },
+    {
+      "title": "Flowers of Shanghai",
+      "director": "Hou Hsiao-Hsien",
+      "year": "1998",
+      "id": 45935
+    },
+    {
+      "title": "The Blue Angel",
+      "director": "Lars von Trier",
+      "year": "1930",
+      "id": 228
+    },
+    {
+      "title": "The Graduate",
+      "director": "Michael Mann",
+      "year": "1967",
+      "id": 37247
+    },
+    {
+      "title": "Magnolia",
+      "director": "Paul Thomas Anderson",
+      "year": "1999",
+      "id": 334
+    },
+    {
+      "title": "Boogie Nights",
+      "director": "Paul Thomas Anderson",
+      "year": "1997",
+      "id": 4995
+    },
+    {
+      "title": "The Royal Tenenbaums",
+      "director": "Wes Anderson",
+      "year": "2001",
+      "id": 9428
+    },
+    {
+      "title": "Umberto D.",
+      "director": "Brian De Palma",
+      "year": "1952",
+      "id": 833
+    },
+    {
+      "title": "The Music Room",
+      "director": "Spike Lee",
+      "year": "1958",
+      "id": 822
+    },
+    {
+      "title": "Rumble Fish",
+      "director": "Francis Ford Coppola",
+      "year": "1983",
+      "id": 232
+    },
+    {
+      "title": "The General",
+      "director": "Buster Keaton",
+      "year": "1926",
+      "id": 961
+    },
+    {
+      "title": "A Time to Live and a Time to Die",
+      "director": "Hou Hsiao-Hsien",
+      "year": "1985",
+      "id": 45999
+    },
+    {
+      "title": "Sympathy for Mr. Vengeance",
+      "director": "Park Chan-wook",
+      "year": "2002",
+      "id": 4689
+    },
+    {
+      "title": "Lost in Translation",
+      "director": "Spike Lee",
+      "year": "2003",
+      "id": 153
+    },
+    {
+      "title": "Moonrise Kingdom",
+      "director": "Wes Anderson",
+      "year": "2012",
+      "id": 83666
+    },
+    {
+      "title": "The Scarlet Empress",
+      "director": "Lars von Trier",
+      "year": "1934",
+      "id": 31527
+    },
+    {
+      "title": "Malcolm X",
+      "director": "Spike Lee",
+      "year": "1992",
+      "id": 1883
+    },
+    {
+      "title": "Dancer in the Dark",
+      "director": "Lars von Trier",
+      "year": "2000",
+      "id": 16
+    },
+    {
+      "title": "Pather Panchali",
+      "director": "Spike Lee",
+      "year": "1955",
+      "id": 5801
+    },
+    {
+      "title": "Performance",
+      "director": "Nicolas Roeg",
+      "year": "1970",
+      "id": 26606
+    },
+    {
+      "title": "Morocco",
+      "director": "Lars von Trier",
+      "year": "1930",
+      "id": 42641
+    },
+    {
+      "title": "Atonement",
+      "director": "Joe Wright",
+      "year": "2007",
+      "id": 4347
+    },
+    {
+      "title": "Johnny Guitar",
+      "director": "Nicholas Ray",
+      "year": "1954",
+      "id": 26596
+    },
+    {
+      "title": "The Conversation",
+      "director": "Francis Ford Coppola",
+      "year": "1974",
+      "id": 592
+    },
+    {
+      "title": "A Matter of Life and Death",
+      "director": "Michael Powell",
+      "year": "1946",
+      "id": 28162
+    },
+    {
+      "title": "Charulata",
+      "director": "Spike Lee",
+      "year": "1964",
+      "id": 35790
+    },
+    {
+      "title": "Days of Being Wild",
+      "director": "Wong Kar-wai",
+      "year": "1990",
+      "id": 18311
+    },
+    {
+      "title": "Alien",
+      "director": "Ridley Scott",
+      "year": "1979",
+      "id": 348
+    },
+    {
+      "title": "Butch Cassidy and the Sundance Kid",
+      "director": "George Roy Hill",
+      "year": "1969",
+      "id": 642
+    },
+    {
+      "title": "Greed",
+      "director": "Lars von Trier",
+      "year": "1924",
+      "id": 1405
+    },
+    {
+      "title": "The Crowd",
+      "director": "Krzysztof Kie\u015blowski",
+      "year": "1928",
+      "id": 3061
+    },
+    {
+      "title": "Rushmore",
+      "director": "Wes Anderson",
+      "year": "1998",
+      "id": 11545
+    },
+    {
+      "title": "The Life and Death of Colonel Blimp",
+      "director": "Michael Powell",
+      "year": "1943",
+      "id": 25037
+    },
+    {
+      "title": "Caf\u00e9 Lumi\u00e8re",
+      "director": "Hou Hsiao-Hsien",
+      "year": "2003",
+      "id": 52512
+    },
+    {
+      "title": "Foolish Wives",
+      "director": "Lars von Trier",
+      "year": "1922",
+      "id": 35227
+    },
+    {
+      "title": "The Last of the Mohicans",
+      "director": "Michael Mann",
+      "year": "1992",
+      "id": 9361
+    },
+    {
+      "title": "The Devils",
+      "director": "Krzysztof Kie\u015blowski",
+      "year": "1971",
+      "id": 31767
+    },
+    {
+      "title": "The King\u2019s Speech",
+      "director": "Tom Hooper",
+      "year": "2010",
+      "id": 45269
+    },
+    {
+      "title": "25th Hour",
+      "director": "Spike Lee",
+      "year": "2002",
+      "id": 1429
+    },
+    {
+      "title": "The City of Lost Children",
+      "director": "Jean-Pierre Jeunet",
+      "year": "1995",
+      "id": 902
+    },
+    {
+      "title": "Oldboy",
+      "director": "Park Chan-wook",
+      "year": "2003",
+      "id": 670
+    },
+    {
+      "title": "Pinocchio",
+      "director": "Hamilton Luske",
+      "year": "1940",
+      "id": 10895
+    },
+    {
+      "title": "Carnal Knowledge",
+      "director": "Michael Mann",
+      "year": "1971",
+      "id": 36492
+    },
+    {
+      "title": "Singin\u2019 in the Rain",
+      "director": "Stanley Donen",
+      "year": "1952",
+      "id": 872
+    },
+    {
+      "title": "Memories of Murder",
+      "director": "Bong Joon-ho",
+      "year": "2003",
+      "id": 11423
+    },
+    {
+      "title": "The Red Shoes",
+      "director": "Michael Powell",
+      "year": "1948",
+      "id": 19542
+    },
+    {
+      "title": "Alexander Nevsky",
+      "director": "Sergei Eisenstein",
+      "year": "1938",
+      "id": 10235
+    },
+    {
+      "title": "The Virgin Suicides",
+      "director": "Spike Lee",
+      "year": "1999",
+      "id": 1443
+    },
+    {
+      "title": "House of Flying Daggers",
+      "director": "Zhang Yimou",
+      "year": "2004",
+      "id": 9550
+    },
+    {
+      "title": "The Insider",
+      "director": "Michael Mann",
+      "year": "1999",
+      "id": 9008
+    },
+    {
+      "title": "The Navigator",
+      "director": "Buster Keaton",
+      "year": "1924",
+      "id": 32318
+    },
+    {
+      "title": "Thief",
+      "director": "Michael Mann",
+      "year": "1981",
+      "id": 11524
+    },
+    {
+      "title": "Antichrist",
+      "director": "Lars von Trier",
+      "year": "2009",
+      "id": 17609
+    },
+    {
+      "title": "They Live by Night",
+      "director": "Nicholas Ray",
+      "year": "1948",
+      "id": 44190
+    },
+    {
+      "title": "Beauty and the Beast",
+      "director": "Jean Cocteau",
+      "year": "1946",
+      "id": 648
+    },
+    {
+      "title": "Manhunter",
+      "director": "Michael Mann",
+      "year": "1986",
+      "id": 11454
+    },
+    {
+      "title": "Dressed to Kill",
+      "director": "Brian De Palma",
+      "year": "1980",
+      "id": 11033
+    },
+    {
+      "title": "One from the Heart",
+      "director": "Francis Ford Coppola",
+      "year": "1981",
+      "id": 41291
+    },
+    {
+      "title": "Devi",
+      "director": "Spike Lee",
+      "year": "1960",
+      "id": 13383
+    },
+    {
+      "title": "The Darjeeling Limited",
+      "director": "Wes Anderson",
+      "year": "2007",
+      "id": 4538
+    },
+    {
+      "title": "Aparajito",
+      "director": "Spike Lee",
+      "year": "1956",
+      "id": 897
+    },
+    {
+      "title": "Shoeshine",
+      "director": "Brian De Palma",
+      "year": "1946",
+      "id": 43469
+    },
+    {
+      "title": "Fantastic Mr. Fox",
+      "director": "Wes Anderson",
+      "year": "2009",
+      "id": 10315
+    },
+    {
+      "title": "The World of Apu",
+      "director": "Spike Lee",
+      "year": "1959",
+      "id": 896
+    },
+    {
+      "title": "The Big Parade",
+      "director": "Krzysztof Kie\u015blowski",
+      "year": "1925",
+      "id": 3060
+    },
+    {
+      "title": "The Lady Eve",
+      "director": "Preston Sturges",
+      "year": "1941",
+      "id": 3086
+    },
+    {
+      "title": "Peppermint Candy",
+      "director": "Lee Chang-dong",
+      "year": "1999",
+      "id": 41245
+    },
+    {
+      "title": "Pennies from Heaven",
+      "director": "Herbert Ross",
+      "year": "1981",
+      "id": 17450
+    },
+    {
+      "title": "Rebel Without a Cause",
+      "director": "Nicholas Ray",
+      "year": "1955",
+      "id": 221
+    },
+    {
+      "title": "Happy Together",
+      "director": "Wong Kar-wai",
+      "year": "1997",
+      "id": 18329
+    },
+    {
+      "title": "In a Lonely Place",
+      "director": "Nicholas Ray",
+      "year": "1950",
+      "id": 17057
+    },
+    {
+      "title": "Oktyabr",
+      "director": "Sergei Eisenstein",
+      "year": "1927",
+      "id": 697
+    },
+    {
+      "title": "Ashes of Time",
+      "director": "Wong Kar-wai",
+      "year": "1994",
+      "id": 40751
+    },
+    {
+      "title": "Pride & Prejudice",
+      "director": "Joe Wright",
+      "year": "2005",
+      "id": 4348
+    },
+    {
+      "title": "Sullivan\u2019s Travels",
+      "director": "Preston Sturges",
+      "year": "1941",
+      "id": 16305
+    },
+    {
+      "title": "The Palm Beach Story",
+      "director": "Preston Sturges",
+      "year": "1942",
+      "id": 32255
+    },
+    {
+      "title": "The Miracle of Morgan\u2019s Creek",
+      "director": "Preston Sturges",
+      "year": "1943",
+      "id": 42879
+    },
+    {
+      "title": "King Kong",
+      "director": "Merian C. Cooper",
+      "year": "1933",
+      "id": 244
+    },
+    {
+      "title": "Snowpiercer",
+      "director": "Bong Joon-ho",
+      "year": "2013",
+      "id": 110415
+    },
+    {
+      "title": "Who\u2019s Afraid of Virginia Woolf?",
+      "director": "Michael Mann",
+      "year": "1966",
+      "id": 396
+    },
+    {
+      "title": "The Road Warrior",
+      "director": "George Miller",
+      "year": "1981",
+      "id": 8810
+    },
+    {
+      "title": "Duel in the Sun",
+      "director": "Krzysztof Kie\u015blowski",
+      "year": "1946",
+      "id": 32275
+    },
+    {
+      "title": "Bullitt",
+      "director": "Preston Sturges",
+      "year": "1968",
+      "id": 916
+    },
+    {
+      "title": "Little Miss Sunshine",
+      "director": "Jonathan Dayton",
+      "year": "2006",
+      "id": 773
+    },
+    {
+      "title": "Little Big Man",
+      "director": "Alfred Hitchcock",
+      "year": "1970",
+      "id": 11040
+    },
+    {
+      "title": "Delicatessen",
+      "director": "Jean-Pierre Jeunet",
+      "year": "1991",
+      "id": 892
+    },
+    {
+      "title": "Flight of the Red Balloon",
+      "director": "Hou Hsiao-Hsien",
+      "year": "2007",
+      "id": 12198
+    },
+    {
+      "title": "Our Hospitality",
+      "director": "Buster Keaton",
+      "year": "1923",
+      "id": 701
+    },
+    {
+      "title": "Platform",
+      "director": "Jia Zhangke",
+      "year": "2000",
+      "id": 80427
+    },
+    {
+      "title": "What Time is it There?",
+      "director": "Tsai Ming-liang",
+      "year": "2001",
+      "id": 24166
+    },
+    {
+      "title": "Spring, Summer, Fall, Winter\u2026 and Spring",
+      "director": "Kim Ki-duk",
+      "year": "2003",
+      "id": 113
+    },
+    {
+      "title": "Waxworks",
+      "director": "Paul Leni",
+      "year": "1924",
+      "id": 27522
+    },
+    {
+      "title": "The Cotton Club",
+      "director": "Francis Ford Coppola",
+      "year": "1984",
+      "id": 2148
+    },
+    {
+      "title": "My Own Private Idaho",
+      "director": "Gus Van Sant",
+      "year": "1991",
+      "id": 468
+    },
+    {
+      "title": "Fallen Angels",
+      "director": "Wong Kar-wai",
+      "year": "1995",
+      "id": 11220
+    },
+    {
+      "title": "Blind Husbands",
+      "director": "Lars von Trier",
+      "year": "1919",
+      "id": 70806
+    },
+    {
+      "title": "Synecdoche, New York",
+      "director": "Charlie Kaufman",
+      "year": "2008",
+      "id": 4960
+    },
+    {
+      "title": "Dames",
+      "director": "Busby Berkeley",
+      "year": "1934",
+      "id": 43903
+    },
+    {
+      "title": "Lady Vengeance",
+      "director": "Park Chan-wook",
+      "year": "2005",
+      "id": 4550
+    },
+    {
+      "title": "Bad Day at Black Rock",
+      "director": "Joe Wright",
+      "year": "1955",
+      "id": 14554
+    },
+    {
+      "title": "Scott Pilgrim vs. the World",
+      "director": "Edgar Wright",
+      "year": "2010",
+      "id": 22538
+    },
+    {
+      "title": "The Lion King",
+      "director": "Roger Allers",
+      "year": "1994",
+      "id": 8587
+    },
+    {
+      "title": "Red Sorghum",
+      "director": "Zhang Yimou",
+      "year": "1988",
+      "id": 42006
+    },
+    {
+      "title": "I Know Where I\u2019m Going!",
+      "director": "Michael Powell",
+      "year": "1945",
+      "id": 56137
+    },
+    {
+      "title": "American Hustle",
+      "director": "David O. Russell",
+      "year": "2013",
+      "id": 168672
+    },
+    {
+      "title": "The Sting",
+      "director": "George Roy Hill",
+      "year": "1973",
+      "id": 9277
+    },
+    {
+      "title": "Donnie Darko",
+      "director": "Ridley Scott",
+      "year": "2001",
+      "id": 141
+    },
+    {
+      "title": "Somewhere",
+      "director": "Spike Lee",
+      "year": "2010",
+      "id": 39210
+    },
+    {
+      "title": "Stella Dallas",
+      "director": "Krzysztof Kie\u015blowski",
+      "year": "1937",
+      "id": 43865
+    },
+    {
+      "title": "The Duellists",
+      "director": "Ridley Scott",
+      "year": "1977",
+      "id": 19067
+    },
+    {
+      "title": "Goodbye, Dragon Inn",
+      "director": "Tsai Ming-liang",
+      "year": "2003",
+      "id": 56616
+    },
+    {
+      "title": "Three Kings",
+      "director": "David O. Russell",
+      "year": "1999",
+      "id": 6415
+    },
+    {
+      "title": "Take Shelter",
+      "director": "Joe Wright",
+      "year": "2011",
+      "id": 64720
+    },
+    {
+      "title": "Good Will Hunting",
+      "director": "Gus Van Sant",
+      "year": "1997",
+      "id": 489
+    },
+    {
+      "title": "The Grandmaster",
+      "director": "Wong Kar-wai",
+      "year": "2013",
+      "id": 44865
+    },
+    {
+      "title": "Mother",
+      "director": "Bong Joon-ho",
+      "year": "2009",
+      "id": 30018
+    },
+    {
+      "title": "Drugstore Cowboy",
+      "director": "Gus Van Sant",
+      "year": "1989",
+      "id": 476
+    },
+    {
+      "title": "The Music Lovers",
+      "director": "Krzysztof Kie\u015blowski",
+      "year": "1971",
+      "id": 72899
+    },
+    {
+      "title": "Dead of Night",
+      "director": "Alberto Cavalcanti",
+      "year": "1945",
+      "id": 13581
+    },
+    {
+      "title": "Crooklyn",
+      "director": "Spike Lee",
+      "year": "1994",
+      "id": 34152
+    },
+    {
+      "title": "Mahanagar",
+      "director": "Spike Lee",
+      "year": "1963",
+      "id": 60567
+    },
+    {
+      "title": "Women in Love",
+      "director": "Krzysztof Kie\u015blowski",
+      "year": "1969",
+      "id": 66027
+    },
+    {
+      "title": "Harry Potter and the Half-Blood Prince",
+      "director": "David Yates",
+      "year": "2009",
+      "id": 767
+    },
+    {
+      "title": "Memories of Underdevelopment",
+      "director": "Tom\u00e1s Guti\u00e9rrez Alea",
+      "year": "1968",
+      "id": 47576
+    },
+    {
+      "title": "Underworld",
+      "director": "Lars von Trier",
+      "year": "1927",
+      "id": 42565
+    },
+    {
+      "title": "I Don\u2019t Want to Sleep Alone",
+      "director": "Tsai Ming-liang",
+      "year": "2006",
+      "id": 12130
     }
   ]
 }
