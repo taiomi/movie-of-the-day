@@ -21,7 +21,18 @@ if (!file_exists($movieListFile)) {
 }
 
 $movieList = json_decode(file_get_contents($movieListFile), true);
+
+if (json_last_error() !== JSON_ERROR_NONE) {
+    logMessage("ERROR: Failed to parse movie list JSON: " . json_last_error_msg());
+    exit(1);
+}
+
 $movies = $movieList['movies'];
+
+if (empty($movies)) {
+    logMessage("ERROR: No movies found in movie list");
+    exit(1);
+}
 
 // Calculate which movie to use based on day of year
 $dayOfYear = date("z") + 1; // 1-366
@@ -34,10 +45,10 @@ logMessage("Selected movie: {$movie['title']} (ID: {$movie['id']}) for day {$day
 $movieUrl = "https://api.themoviedb.org/3/movie/{$movie['id']}?api_key={$apiKey}&language=en-US&append_to_response=credits,images";
 
 try {
-    $response = file_get_contents($movieUrl);
+    $response = @file_get_contents($movieUrl);
     
     if ($response === false) {
-        throw new Exception("Failed to get API response");
+        throw new Exception("Failed to get API response for movie ID: {$movie['id']}");
     }
     
     $movieData = json_decode($response, true);
@@ -55,10 +66,42 @@ try {
         }
     }
     
+    // If no director found in API, use the one from our list
+    if (empty($director) && isset($movie['director'])) {
+        $director = $movie['director'];
+    }
+    
     // Get top 5 cast members
-    $cast = array_slice(array_map(function($actor) {
-        return $actor['name'];
-    }, $movieData['credits']['cast']), 0, 5);
+    $cast = [];
+    if (isset($movieData['credits']['cast']) && !empty($movieData['credits']['cast'])) {
+        $cast = array_slice(array_map(function($actor) {
+            return $actor['name'];
+        }, $movieData['credits']['cast']), 0, 5);
+    }
+    
+    // Make sure we have a poster path
+    $posterPath = "";
+    if (!empty($movieData['poster_path'])) {
+        $posterPath = "https://image.tmdb.org/t/p/w500" . $movieData['poster_path'];
+    }
+    
+    // Make sure we have a backdrop path
+    $backdropPath = "";
+    if (!empty($movieData['backdrop_path'])) {
+        $backdropPath = "https://image.tmdb.org/t/p/original" . $movieData['backdrop_path'];
+    }
+    
+    // Get genres or use category from our list
+    $genres = [];
+    if (!empty($movieData['genres'])) {
+        $genres = array_map(function($genre) {
+            return $genre['name'];
+        }, $movieData['genres']);
+    } elseif (isset($movie['category'])) {
+        $genres = [$movie['category']];
+    } else {
+        $genres = ["Drama"]; // Default genre
+    }
     
     // Format movie data for your app
     $movieOfTheDay = [
@@ -67,54 +110,59 @@ try {
         "movie" => [
             "id" => $movieData['id'],
             "title" => $movieData['title'],
-            "tagline" => $movieData['tagline'],
-            "overview" => $movieData['overview'],
-            "releaseDate" => $movieData['release_date'],
-            "runtime" => $movieData['runtime'],
-            "voteAverage" => $movieData['vote_average'],
-            "posterPath" => "https://image.tmdb.org/t/p/w500" . $movieData['poster_path'],
-            "backdropPath" => "https://image.tmdb.org/t/p/original" . $movieData['backdrop_path'],
+            "tagline" => $movieData['tagline'] ?? "",
+            "overview" => $movieData['overview'] ?? "No overview available.",
+            "releaseDate" => $movieData['release_date'] ?? $movie['year'] . "-01-01",
+            "runtime" => $movieData['runtime'] ?? 120,
+            "voteAverage" => $movieData['vote_average'] ?? 0,
+            "posterPath" => $posterPath,
+            "backdropPath" => $backdropPath,
             "director" => $director,
             "cast" => $cast,
-            "genres" => array_map(function($genre) {
-                return $genre['name'];
-            }, $movieData['genres'])
+            "genres" => $genres
         ]
     ];
     
     // Save to JSON file
     file_put_contents($outputFile, json_encode($movieOfTheDay, JSON_PRETTY_PRINT));
-    logMessage("Successfully saved movie data");
+    logMessage("Successfully saved movie data for: {$movieData['title']}");
     
 } catch (Exception $e) {
     logMessage("ERROR: " . $e->getMessage());
-    createFallbackMovie();
+    createFallbackMovie($movie);
 }
 
-function createFallbackMovie() {
+function createFallbackMovie($selectedMovie) {
     global $outputFile;
+    
+    // Use selected movie data for fallback if possible
+    $movieId = $selectedMovie['id'] ?? 278; // Default to Shawshank Redemption ID if not available
+    $title = $selectedMovie['title'] ?? "The Shawshank Redemption";
+    $director = $selectedMovie['director'] ?? "Frank Darabont";
+    $year = $selectedMovie['year'] ?? "1994";
+    $category = $selectedMovie['category'] ?? "Drama";
     
     $fallbackMovie = [
         "version" => "1.0",
         "lastUpdated" => date("Y-m-d"),
         "movie" => [
-            "id" => 278,
-            "title" => "The Shawshank Redemption",
-            "tagline" => "Fear can hold you prisoner. Hope can set you free.",
-            "overview" => "Framed in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
-            "releaseDate" => "1994-09-23",
-            "runtime" => 142,
-            "voteAverage" => 8.7,
-            "posterPath" => "https://image.tmdb.org/t/p/w500/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
-            "backdropPath" => "https://image.tmdb.org/t/p/original/kXfqcdQKsToO0OUXHcrrNCHDBzO.jpg",
-            "director" => "Frank Darabont",
-            "cast" => ["Tim Robbins", "Morgan Freeman", "Bob Gunton", "William Sadler", "Clancy Brown"],
-            "genres" => ["Drama", "Crime"]
+            "id" => $movieId,
+            "title" => $title,
+            "tagline" => "No tagline available",
+            "overview" => "Unable to fetch movie details from TMDB API. This is a fallback entry based on our movie list.",
+            "releaseDate" => $year . "-01-01",
+            "runtime" => 120,
+            "voteAverage" => 0.0,
+            "posterPath" => "",
+            "backdropPath" => "",
+            "director" => $director,
+            "cast" => [],
+            "genres" => [$category]
         ]
     ];
     
     file_put_contents($outputFile, json_encode($fallbackMovie, JSON_PRETTY_PRINT));
-    logMessage("Created fallback movie due to API failure");
+    logMessage("Created fallback movie due to API failure for: $title");
 }
 
 logMessage("Movie fetch process completed");
