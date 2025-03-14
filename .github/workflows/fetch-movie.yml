@@ -12,11 +12,19 @@ jobs:
     steps:
       - name: Check out repository code
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # Fetch all history to avoid issues with shallow clones
       
       - name: Set up PHP
         uses: shivammathur/setup-php@v2
         with:
           php-version: '8.1'
+          
+      - name: Create log file if it doesn't exist
+        run: |
+          if [ ! -f fetch_log.txt ]; then
+            touch fetch_log.txt
+          fi
           
       - name: Fetch movie and update JSON
         run: php movie_fetcher.php
@@ -28,5 +36,4 @@ jobs:
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
           git add movie_of_the_day.json fetch_log.txt
-          git diff --quiet && git diff --staged --quiet || git commit -m "Update movie of the day"
-          git push
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update movie of the day for $(date +'%Y-%m-%d')" && git push)
