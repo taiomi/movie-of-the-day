@@ -1,27 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-03-15",
+    "lastUpdated": "2025-03-16",
     "movie": {
-        "id": 49046,
-        "title": "All Quiet on the Western Front",
-        "tagline": "",
-        "overview": "Paul Baumer and his friends Albert and Muller, egged on by romantic dreams of heroism, voluntarily enlist in the German army. Full of excitement and patriotic fervour, the boys enthusiastically march into a war they believe in. But once on the Western Front, they discover the soul-destroying horror of World War I.",
-        "releaseDate": "2022-10-07",
-        "runtime": 147,
-        "voteAverage": 7.7,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/2IRjbi9cADuDMKmHdLK7LaqQDKA.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/zbOlpFM306PHE7EP1OELCH5qSmS.jpg",
-        "director": "Edward Berger",
+        "id": 99,
+        "title": "All About My Mother",
+        "tagline": "Part of every woman is a mother\/actress\/saint\/sinner. And part of every man is a woman.",
+        "overview": "Following the tragic death of her teenage son, Manuela travels from Madrid to Barcelona in an attempt to contact the long-estranged father the boy never knew. She reunites with an old friend, an outspoken transgender sex worker, and befriends a troubled actress and a pregnant, HIV-positive nun.",
+        "releaseDate": "1999-04-16",
+        "runtime": 101,
+        "voteAverage": 7.6,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/hjQhzhkGYXPNM96k0mOgob6HMmn.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/tilClWjFZeUTGJu0pxgF72fvUmN.jpg",
+        "director": "Pedro Almod\u00f3var",
         "cast": [
-            "Felix Kammerer",
-            "Albrecht Schuch",
-            "Aaron Hilmer",
-            "Moritz Klaus",
-            "Adrian Gr\u00fcnewald"
+            "Cecilia Roth",
+            "Marisa Paredes",
+            "Candela Pe\u00f1a",
+            "Antonia San Juan",
+            "Pen\u00e9lope Cruz"
         ],
         "genres": [
-            "War",
-            "History",
+            "Comedy",
             "Drama"
         ]
     }
