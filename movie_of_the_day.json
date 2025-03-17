@@ -1,27 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-03-16",
+    "lastUpdated": "2025-03-17",
     "movie": {
-        "id": 99,
-        "title": "All About My Mother",
-        "tagline": "Part of every woman is a mother\/actress\/saint\/sinner. And part of every man is a woman.",
-        "overview": "Following the tragic death of her teenage son, Manuela travels from Madrid to Barcelona in an attempt to contact the long-estranged father the boy never knew. She reunites with an old friend, an outspoken transgender sex worker, and befriends a troubled actress and a pregnant, HIV-positive nun.",
-        "releaseDate": "1999-04-16",
-        "runtime": 101,
-        "voteAverage": 7.6,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/hjQhzhkGYXPNM96k0mOgob6HMmn.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/tilClWjFZeUTGJu0pxgF72fvUmN.jpg",
-        "director": "Pedro Almod\u00f3var",
+        "id": 120,
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "tagline": "One ring to rule them all.",
+        "overview": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.",
+        "releaseDate": "2001-12-18",
+        "runtime": 179,
+        "voteAverage": 8.418,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/x2RS3uTcsJJ9IfjNPcgDmukoEcQ.jpg",
+        "director": "Peter Jackson",
         "cast": [
-            "Cecilia Roth",
-            "Marisa Paredes",
-            "Candela Pe\u00f1a",
-            "Antonia San Juan",
-            "Pen\u00e9lope Cruz"
+            "Elijah Wood",
+            "Ian McKellen",
+            "Viggo Mortensen",
+            "Sean Astin",
+            "Ian Holm"
         ],
         "genres": [
-            "Comedy",
-            "Drama"
+            "Adventure",
+            "Fantasy",
+            "Action"
         ]
     }
 }
