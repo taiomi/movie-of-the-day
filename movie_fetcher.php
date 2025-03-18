@@ -24,7 +24,7 @@ $movieList = json_decode(file_get_contents($movieListFile), true);
 $movies = $movieList['movies'];
 
 // Set start date (March 14, 2025)
-$startDate = strtotime("2025-03-14");
+$startDate = strtotime("2025-03-18");
 $currentDate = time();
 $daysSinceStart = floor(($currentDate - $startDate) / (60 * 60 * 24));
 
