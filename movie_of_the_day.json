@@ -2,27 +2,26 @@
     "version": "1.0",
     "lastUpdated": "2025-03-18",
     "movie": {
-        "id": 979,
-        "title": "Irreversible",
-        "tagline": "Time Destroys Everything.",
-        "overview": "A woman\u2019s lover and her ex-boyfriend take justice into their own hands after she becomes the victim of a rapist. Because some acts can\u2019t be undone. Because man is an animal. Because the desire for vengeance is a natural impulse. Because most crimes remain unpunished.",
-        "releaseDate": "2002-05-22",
-        "runtime": 94,
-        "voteAverage": 7.2,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/rxeDxo8FvZpLu6iplNpxdtAVnfu.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/jikRoRyRGryXnNtW8IM1yqtPD6y.jpg",
-        "director": "Gaspar No\u00e9",
+        "id": 118668,
+        "title": "Decalogue VII",
+        "tagline": "Thou shalt not steal.",
+        "overview": "As a high school student, Majka bore a child, Ania, whom Majka\u2019s mother, Ewa, has been raising as her own. Now that Majka is ready for motherhood, Ewa refuses to let go, leading Majka to kidnap her own daughter, with unexpected emotional consequences.",
+        "releaseDate": "1989-05-16",
+        "runtime": 55,
+        "voteAverage": 7.5,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/dQvlgoLKGUVnBh7DnjzhIfBwMBY.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/305T2G6dBTrAGRCIK3Xk1FI9zAr.jpg",
+        "director": "Krzysztof Kie\u015blowski",
         "cast": [
-            "Monica Bellucci",
-            "Vincent Cassel",
-            "Albert Dupontel",
-            "Jo Prestia",
-            "Philippe Nahon"
+            "Anna Polony",
+            "Maja Bare\u0142kowska",
+            "W\u0142adys\u0142aw Kowalski",
+            "Bogus\u0142aw Linda",
+            "Bo\u017cena Dykiel"
         ],
         "genres": [
             "Drama",
-            "Thriller",
-            "Crime"
+            "TV Movie"
         ]
     }
 }
