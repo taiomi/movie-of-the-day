@@ -1,27 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-03-18",
+    "lastUpdated": "2025-03-19",
     "movie": {
-        "id": 118668,
-        "title": "Decalogue VII",
-        "tagline": "Thou shalt not steal.",
-        "overview": "As a high school student, Majka bore a child, Ania, whom Majka\u2019s mother, Ewa, has been raising as her own. Now that Majka is ready for motherhood, Ewa refuses to let go, leading Majka to kidnap her own daughter, with unexpected emotional consequences.",
-        "releaseDate": "1989-05-16",
-        "runtime": 55,
-        "voteAverage": 7.5,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/dQvlgoLKGUVnBh7DnjzhIfBwMBY.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/305T2G6dBTrAGRCIK3Xk1FI9zAr.jpg",
-        "director": "Krzysztof Kie\u015blowski",
+        "id": 49046,
+        "title": "All Quiet on the Western Front",
+        "tagline": "",
+        "overview": "Paul Baumer and his friends Albert and Muller, egged on by romantic dreams of heroism, voluntarily enlist in the German army. Full of excitement and patriotic fervour, the boys enthusiastically march into a war they believe in. But once on the Western Front, they discover the soul-destroying horror of World War I.",
+        "releaseDate": "2022-10-07",
+        "runtime": 147,
+        "voteAverage": 7.7,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/2IRjbi9cADuDMKmHdLK7LaqQDKA.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/zbOlpFM306PHE7EP1OELCH5qSmS.jpg",
+        "director": "Edward Berger",
         "cast": [
-            "Anna Polony",
-            "Maja Bare\u0142kowska",
-            "W\u0142adys\u0142aw Kowalski",
-            "Bogus\u0142aw Linda",
-            "Bo\u017cena Dykiel"
+            "Felix Kammerer",
+            "Albrecht Schuch",
+            "Aaron Hilmer",
+            "Moritz Klaus",
+            "Adrian Gr\u00fcnewald"
         ],
         "genres": [
-            "Drama",
-            "TV Movie"
+            "War",
+            "History",
+            "Drama"
         ]
     }
 }
