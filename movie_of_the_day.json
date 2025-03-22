@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-03-21",
+    "lastUpdated": "2025-03-22",
     "movie": {
-        "id": 120,
-        "title": "The Lord of the Rings: The Fellowship of the Ring",
-        "tagline": "One ring to rule them all.",
-        "overview": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.",
-        "releaseDate": "2001-12-18",
-        "runtime": 179,
-        "voteAverage": 8.4,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/x2RS3uTcsJJ9IfjNPcgDmukoEcQ.jpg",
-        "director": "Peter Jackson",
+        "id": 979,
+        "title": "Irreversible",
+        "tagline": "Time Destroys Everything.",
+        "overview": "A woman\u2019s lover and her ex-boyfriend take justice into their own hands after she becomes the victim of a rapist. Because some acts can\u2019t be undone. Because man is an animal. Because the desire for vengeance is a natural impulse. Because most crimes remain unpunished.",
+        "releaseDate": "2002-05-22",
+        "runtime": 94,
+        "voteAverage": 7.2,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/rxeDxo8FvZpLu6iplNpxdtAVnfu.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/jikRoRyRGryXnNtW8IM1yqtPD6y.jpg",
+        "director": "Gaspar No\u00e9",
         "cast": [
-            "Elijah Wood",
-            "Ian McKellen",
-            "Viggo Mortensen",
-            "Sean Astin",
-            "Ian Holm"
+            "Monica Bellucci",
+            "Vincent Cassel",
+            "Albert Dupontel",
+            "Jo Prestia",
+            "Philippe Nahon"
         ],
         "genres": [
-            "Adventure",
-            "Fantasy",
-            "Action"
+            "Drama",
+            "Thriller",
+            "Crime"
         ]
     }
 }
