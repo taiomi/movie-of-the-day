@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-03-22",
+    "lastUpdated": "2025-03-23",
     "movie": {
-        "id": 979,
-        "title": "Irreversible",
-        "tagline": "Time Destroys Everything.",
-        "overview": "A woman\u2019s lover and her ex-boyfriend take justice into their own hands after she becomes the victim of a rapist. Because some acts can\u2019t be undone. Because man is an animal. Because the desire for vengeance is a natural impulse. Because most crimes remain unpunished.",
-        "releaseDate": "2002-05-22",
-        "runtime": 94,
-        "voteAverage": 7.2,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/rxeDxo8FvZpLu6iplNpxdtAVnfu.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/jikRoRyRGryXnNtW8IM1yqtPD6y.jpg",
-        "director": "Gaspar No\u00e9",
+        "id": 696506,
+        "title": "Mickey 17",
+        "tagline": "He's dying to save mankind.",
+        "overview": "Unlikely hero Mickey Barnes finds himself in the extraordinary circumstance of working for an employer who demands the ultimate commitment to the job\u2026 to die, for a living.",
+        "releaseDate": "2025-02-28",
+        "runtime": 137,
+        "voteAverage": 6.968,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/edKpE9B5qN3e559OuMCLZdW1iBZ.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/qUc0Hol3eP74dbW4YyqT6oRLYgT.jpg",
+        "director": "Bong Joon Ho",
         "cast": [
-            "Monica Bellucci",
-            "Vincent Cassel",
-            "Albert Dupontel",
-            "Jo Prestia",
-            "Philippe Nahon"
+            "Robert Pattinson",
+            "Naomi Ackie",
+            "Steven Yeun",
+            "Mark Ruffalo",
+            "Toni Collette"
         ],
         "genres": [
-            "Drama",
-            "Thriller",
-            "Crime"
+            "Science Fiction",
+            "Comedy",
+            "Adventure"
         ]
     }
 }
