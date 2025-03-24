@@ -50,3 +50,7 @@
 [2025-03-23 03:02:56] Selected movie: Mickey 17 (ID: 696506) for day 6 since start
 [2025-03-23 03:02:56] Successfully saved movie data for: Mickey 17
 [2025-03-23 03:02:56] Movie fetch process completed
+[2025-03-24 03:02:48] Starting movie fetch process
+[2025-03-24 03:02:48] Selected movie: The Substance (ID: 933260) for day 7 since start
+[2025-03-24 03:02:48] Successfully saved movie data for: The Substance
+[2025-03-24 03:02:48] Movie fetch process completed

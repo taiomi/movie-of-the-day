@@ -1,28 +1,29 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-03-23",
+    "lastUpdated": "2025-03-24",
     "movie": {
-        "id": 696506,
-        "title": "Mickey 17",
-        "tagline": "He's dying to save mankind.",
-        "overview": "Unlikely hero Mickey Barnes finds himself in the extraordinary circumstance of working for an employer who demands the ultimate commitment to the job\u2026 to die, for a living.",
-        "releaseDate": "2025-02-28",
-        "runtime": 137,
-        "voteAverage": 6.968,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/edKpE9B5qN3e559OuMCLZdW1iBZ.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/qUc0Hol3eP74dbW4YyqT6oRLYgT.jpg",
-        "director": "Bong Joon Ho",
+        "id": 933260,
+        "title": "The Substance",
+        "tagline": "Become a better you.",
+        "overview": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
+        "releaseDate": "2024-09-07",
+        "runtime": 141,
+        "voteAverage": 7.1,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/t98L9uphqBSNn2Mkvdm3xSFCQyi.jpg",
+        "director": "Coralie Fargeat",
         "cast": [
-            "Robert Pattinson",
-            "Naomi Ackie",
-            "Steven Yeun",
-            "Mark Ruffalo",
-            "Toni Collette"
+            "Demi Moore",
+            "Margaret Qualley",
+            "Dennis Quaid",
+            "Edward Hamilton-Clark",
+            "Gore Abrams"
         ],
         "genres": [
+            "Horror",
             "Science Fiction",
-            "Comedy",
-            "Adventure"
+            "Drama",
+            "Comedy"
         ]
     }
 }
