@@ -1,29 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-03-24",
+    "lastUpdated": "2025-03-25",
     "movie": {
-        "id": 933260,
-        "title": "The Substance",
-        "tagline": "Become a better you.",
-        "overview": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
-        "releaseDate": "2024-09-07",
-        "runtime": 141,
-        "voteAverage": 7.1,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/t98L9uphqBSNn2Mkvdm3xSFCQyi.jpg",
-        "director": "Coralie Fargeat",
+        "id": 10503,
+        "title": "Happy-Go-Lucky",
+        "tagline": "The one movie this fall that will put a smile on your face.",
+        "overview": "A look at a few chapters in the life of Poppy, a cheery, colorful, North London schoolteacher whose optimism tends to exasperate those around her.",
+        "releaseDate": "2008-04-18",
+        "runtime": 118,
+        "voteAverage": 6.6,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/8uZWD1LUX47AkyNIznFHKvAXRaL.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/zKsNkKOkgtr0vG8OTBkqtcUhUqp.jpg",
+        "director": "Mike Leigh",
         "cast": [
-            "Demi Moore",
-            "Margaret Qualley",
-            "Dennis Quaid",
-            "Edward Hamilton-Clark",
-            "Gore Abrams"
+            "Sally Hawkins",
+            "Eddie Marsan",
+            "Alexis Zegerman",
+            "Sylvestra Le Touzel",
+            "Stanley Townsend"
         ],
         "genres": [
-            "Horror",
-            "Science Fiction",
-            "Drama",
-            "Comedy"
+            "Comedy",
+            "Drama"
         ]
     }
 }
