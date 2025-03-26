@@ -1,27 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-03-25",
+    "lastUpdated": "2025-03-26",
     "movie": {
-        "id": 10503,
-        "title": "Happy-Go-Lucky",
-        "tagline": "The one movie this fall that will put a smile on your face.",
-        "overview": "A look at a few chapters in the life of Poppy, a cheery, colorful, North London schoolteacher whose optimism tends to exasperate those around her.",
-        "releaseDate": "2008-04-18",
-        "runtime": 118,
-        "voteAverage": 6.6,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/8uZWD1LUX47AkyNIznFHKvAXRaL.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/zKsNkKOkgtr0vG8OTBkqtcUhUqp.jpg",
-        "director": "Mike Leigh",
+        "id": 820,
+        "title": "JFK",
+        "tagline": "The story that won't go away.",
+        "overview": "Follows the investigation into the assassination of President John F. Kennedy led by New Orleans district attorney Jim Garrison.",
+        "releaseDate": "1991-12-20",
+        "runtime": 188,
+        "voteAverage": 7.6,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/r0VWVTYlqdRCK5ZoOdNnHdqM2gt.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/1LHk2RfqNm4EiyxKu4Btw8IS4cn.jpg",
+        "director": "Oliver Stone",
         "cast": [
-            "Sally Hawkins",
-            "Eddie Marsan",
-            "Alexis Zegerman",
-            "Sylvestra Le Touzel",
-            "Stanley Townsend"
+            "Kevin Costner",
+            "Tommy Lee Jones",
+            "Gary Oldman",
+            "Kevin Bacon",
+            "Michael Rooker"
         ],
         "genres": [
-            "Comedy",
-            "Drama"
+            "Drama",
+            "Thriller",
+            "History"
         ]
     }
 }
