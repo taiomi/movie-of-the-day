@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-03-26",
+    "lastUpdated": "2025-03-27",
     "movie": {
-        "id": 820,
-        "title": "JFK",
-        "tagline": "The story that won't go away.",
-        "overview": "Follows the investigation into the assassination of President John F. Kennedy led by New Orleans district attorney Jim Garrison.",
-        "releaseDate": "1991-12-20",
-        "runtime": 188,
-        "voteAverage": 7.6,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/r0VWVTYlqdRCK5ZoOdNnHdqM2gt.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/1LHk2RfqNm4EiyxKu4Btw8IS4cn.jpg",
-        "director": "Oliver Stone",
+        "id": 4808,
+        "title": "Charade",
+        "tagline": "Is anyone really who they seem to be?",
+        "overview": "After Regina Lampert falls for the dashing Peter Joshua on a skiing holiday in the French Alps, she discovers upon her return to Paris that her husband has been murdered. Soon, she and Peter are giving chase to three of her late husband's World War II cronies, Tex, Scobie and Gideon, who are after a quarter of a million dollars the quartet stole while behind enemy lines.",
+        "releaseDate": "1963-12-01",
+        "runtime": 113,
+        "voteAverage": 7.676,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/qqaPjC5FQidtKY65jbAKZPiOTaS.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/gj2TBYmOIy4E2GjMIpnbAEZNCQx.jpg",
+        "director": "Stanley Donen",
         "cast": [
-            "Kevin Costner",
-            "Tommy Lee Jones",
-            "Gary Oldman",
-            "Kevin Bacon",
-            "Michael Rooker"
+            "Cary Grant",
+            "Audrey Hepburn",
+            "Walter Matthau",
+            "James Coburn",
+            "George Kennedy"
         ],
         "genres": [
-            "Drama",
-            "Thriller",
-            "History"
+            "Comedy",
+            "Mystery",
+            "Romance"
         ]
     }
 }
