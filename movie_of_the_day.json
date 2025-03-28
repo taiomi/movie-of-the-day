@@ -1,27 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-03-27",
+    "lastUpdated": "2025-03-28",
     "movie": {
-        "id": 4808,
-        "title": "Charade",
-        "tagline": "Is anyone really who they seem to be?",
-        "overview": "After Regina Lampert falls for the dashing Peter Joshua on a skiing holiday in the French Alps, she discovers upon her return to Paris that her husband has been murdered. Soon, she and Peter are giving chase to three of her late husband's World War II cronies, Tex, Scobie and Gideon, who are after a quarter of a million dollars the quartet stole while behind enemy lines.",
-        "releaseDate": "1963-12-01",
-        "runtime": 113,
-        "voteAverage": 7.676,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/qqaPjC5FQidtKY65jbAKZPiOTaS.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/gj2TBYmOIy4E2GjMIpnbAEZNCQx.jpg",
-        "director": "Stanley Donen",
+        "id": 284,
+        "title": "The Apartment",
+        "tagline": "Movie-wise, there has never been anything like it - laugh-wise, love-wise, or otherwise-wise!",
+        "overview": "Bud Baxter is a minor clerk in a huge New York insurance company, until he discovers a quick way to climb the corporate ladder. He lends out his apartment to the executives as a place to take their mistresses. Although he often has to deal with the aftermath of their visits, one night he's left with a major problem to solve.",
+        "releaseDate": "1960-06-21",
+        "runtime": 125,
+        "voteAverage": 8.2,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/hhSRt1KKfRT0yEhEtRW3qp31JFU.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/6FQmuTDPd7YxGKYjiesh54VeJ69.jpg",
+        "director": "Billy Wilder",
         "cast": [
-            "Cary Grant",
-            "Audrey Hepburn",
-            "Walter Matthau",
-            "James Coburn",
-            "George Kennedy"
+            "Jack Lemmon",
+            "Shirley MacLaine",
+            "Fred MacMurray",
+            "Ray Walston",
+            "Jack Kruschen"
         ],
         "genres": [
             "Comedy",
-            "Mystery",
+            "Drama",
             "Romance"
         ]
     }

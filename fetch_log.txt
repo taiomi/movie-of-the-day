@@ -66,3 +66,7 @@
 [2025-03-27 02:58:16] Selected movie: Charade (ID: 4808) for day 10 since start
 [2025-03-27 02:58:16] Successfully saved movie data for: Charade
 [2025-03-27 02:58:16] Movie fetch process completed
+[2025-03-28 03:00:36] Starting movie fetch process
+[2025-03-28 03:00:36] Selected movie: The Apartment (ID: 284) for day 11 since start
+[2025-03-28 03:00:36] Successfully saved movie data for: The Apartment
+[2025-03-28 03:00:36] Movie fetch process completed
