@@ -1,28 +1,29 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-03-28",
+    "lastUpdated": "2025-03-29",
     "movie": {
-        "id": 284,
-        "title": "The Apartment",
-        "tagline": "Movie-wise, there has never been anything like it - laugh-wise, love-wise, or otherwise-wise!",
-        "overview": "Bud Baxter is a minor clerk in a huge New York insurance company, until he discovers a quick way to climb the corporate ladder. He lends out his apartment to the executives as a place to take their mistresses. Although he often has to deal with the aftermath of their visits, one night he's left with a major problem to solve.",
-        "releaseDate": "1960-06-21",
-        "runtime": 125,
-        "voteAverage": 8.2,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/hhSRt1KKfRT0yEhEtRW3qp31JFU.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/6FQmuTDPd7YxGKYjiesh54VeJ69.jpg",
-        "director": "Billy Wilder",
+        "id": 11113,
+        "title": "My Fair Lady",
+        "tagline": "The loverliest motion picture of them all!",
+        "overview": "A snobbish phonetics professor agrees to a wager that he can take a flower girl and make her presentable in high society.",
+        "releaseDate": "1964-10-21",
+        "runtime": 170,
+        "voteAverage": 7.504,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/bTXVc29lGSNclf94VIZ49W4gGKl.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/5HpzmeVrvQKKhzIhMO1IFiB1UsI.jpg",
+        "director": "George Cukor",
         "cast": [
-            "Jack Lemmon",
-            "Shirley MacLaine",
-            "Fred MacMurray",
-            "Ray Walston",
-            "Jack Kruschen"
+            "Audrey Hepburn",
+            "Rex Harrison",
+            "Stanley Holloway",
+            "Wilfrid Hyde-White",
+            "Gladys Cooper"
         ],
         "genres": [
+            "Music",
             "Comedy",
-            "Drama",
-            "Romance"
+            "Romance",
+            "Drama"
         ]
     }
 }
