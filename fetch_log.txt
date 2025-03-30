@@ -74,3 +74,7 @@
 [2025-03-29 02:56:37] Selected movie: My Fair Lady (ID: 11113) for day 12 since start
 [2025-03-29 02:56:37] Successfully saved movie data for: My Fair Lady
 [2025-03-29 02:56:37] Movie fetch process completed
+[2025-03-30 03:05:55] Starting movie fetch process
+[2025-03-30 03:05:55] Selected movie: Double Indemnity (ID: 996) for day 13 since start
+[2025-03-30 03:05:55] Successfully saved movie data for: Double Indemnity
+[2025-03-30 03:05:55] Movie fetch process completed
