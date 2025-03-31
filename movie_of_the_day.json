@@ -1,27 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-03-30",
+    "lastUpdated": "2025-03-31",
     "movie": {
-        "id": 996,
-        "title": "Double Indemnity",
-        "tagline": "It's love and murder at first sight!",
-        "overview": "A rich woman and a calculating insurance agent plot to kill her unsuspecting husband after he signs a double indemnity policy.",
-        "releaseDate": "1944-07-06",
-        "runtime": 107,
-        "voteAverage": 8.1,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/rVNYZZgfhwqVMMWlBmxOfWqnwCj.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/byQdu1nzQLI9t1VeoP1xuQfru3L.jpg",
-        "director": "Billy Wilder",
+        "id": 216,
+        "title": "Ali: Fear Eats the Soul",
+        "tagline": "",
+        "overview": "Emmi Kurowski, a cleaning lady, is lonely in her old age. Her husband died years ago, and her grown children offer little companionship. One night she goes to a bar frequented by Arab immigrants and strikes up a friendship with middle-aged mechanic Ali. Their relationship soon develops into something more, and Emmi's family and neighbors criticize their spontaneous marriage. Soon Emmi and Ali are forced to confront their own insecurities about their future.",
+        "releaseDate": "1974-03-05",
+        "runtime": 93,
+        "voteAverage": 7.751,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/5Oru4v8tRUN90JUuM6BNDJoetLt.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/ih2q5hoclUTICLxMzV31vxgpCzR.jpg",
+        "director": "Rainer Werner Fassbinder",
         "cast": [
-            "Fred MacMurray",
-            "Barbara Stanwyck",
-            "Edward G. Robinson",
-            "Porter Hall",
-            "Jean Heather"
+            "Brigitte Mira",
+            "El Hedi ben Salem",
+            "Irm Hermann",
+            "Barbara Valentin",
+            "Elma Karlowa"
         ],
         "genres": [
-            "Crime",
-            "Thriller"
+            "Romance",
+            "Drama"
         ]
     }
 }
