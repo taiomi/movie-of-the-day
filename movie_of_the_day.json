@@ -1,27 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-03-31",
+    "lastUpdated": "2025-04-01",
     "movie": {
-        "id": 216,
-        "title": "Ali: Fear Eats the Soul",
-        "tagline": "Fear eat soul up.",
-        "overview": "Emmi Kurowski, a cleaning lady, is lonely in her old age. Her husband died years ago, and her grown children offer little companionship. One night she goes to a bar frequented by Arab immigrants and strikes up a friendship with middle-aged mechanic Ali. Their relationship soon develops into something more, and Emmi's family and neighbors criticize their spontaneous marriage. Soon Emmi and Ali are forced to confront their own insecurities about their future.",
-        "releaseDate": "1974-03-05",
-        "runtime": 93,
-        "voteAverage": 7.751,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/5Oru4v8tRUN90JUuM6BNDJoetLt.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/ih2q5hoclUTICLxMzV31vxgpCzR.jpg",
-        "director": "Rainer Werner Fassbinder",
+        "id": 587792,
+        "title": "Palm Springs",
+        "tagline": "Live like there's no tomorrow",
+        "overview": "When carefree Nyles and reluctant maid of honor Sarah have a chance encounter at a Palm Springs wedding, things get complicated when they find themselves unable to escape the venue, themselves, or each other.",
+        "releaseDate": "2020-07-10",
+        "runtime": 90,
+        "voteAverage": 7.333,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/yf5IuMW6GHghu39kxA0oFx7Bxmj.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/d7JUXVvjvVCXWs1mlpyO5ESdWdT.jpg",
+        "director": "Max Barbakow",
         "cast": [
-            "Brigitte Mira",
-            "El Hedi ben Salem",
-            "Irm Hermann",
-            "Barbara Valentin",
-            "Elma Karlowa"
+            "Andy Samberg",
+            "Cristin Milioti",
+            "J.K. Simmons",
+            "Peter Gallagher",
+            "Meredith Hagner"
         ],
         "genres": [
+            "Comedy",
             "Romance",
-            "Drama"
+            "Science Fiction"
         ]
     }
 }
