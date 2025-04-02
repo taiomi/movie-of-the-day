@@ -1,28 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-04-01",
+    "lastUpdated": "2025-04-02",
     "movie": {
-        "id": 587792,
-        "title": "Palm Springs",
-        "tagline": "Live like there's no tomorrow",
-        "overview": "When carefree Nyles and reluctant maid of honor Sarah have a chance encounter at a Palm Springs wedding, things get complicated when they find themselves unable to escape the venue, themselves, or each other.",
-        "releaseDate": "2020-07-10",
-        "runtime": 90,
-        "voteAverage": 7.333,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/yf5IuMW6GHghu39kxA0oFx7Bxmj.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/d7JUXVvjvVCXWs1mlpyO5ESdWdT.jpg",
-        "director": "Max Barbakow",
+        "id": 16642,
+        "title": "Days of Heaven",
+        "tagline": "She gave her hand to one man, but her heart to another.",
+        "overview": "In 1916, a Chicago steel worker accidentally kills his supervisor and flees to the Texas panhandle with his girlfriend and little sister to work harvesting wheat in the fields of a stoic farmer.",
+        "releaseDate": "1978-09-13",
+        "runtime": 94,
+        "voteAverage": 7.5,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/siE1XQ544MLO27geLYDbUDy3oTt.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/9Upbup1xrQuTDbspIh9aytEH5xA.jpg",
+        "director": "Terrence Malick",
         "cast": [
-            "Andy Samberg",
-            "Cristin Milioti",
-            "J.K. Simmons",
-            "Peter Gallagher",
-            "Meredith Hagner"
+            "Richard Gere",
+            "Brooke Adams",
+            "Sam Shepard",
+            "Linda Manz",
+            "Robert J. Wilke"
         ],
         "genres": [
-            "Comedy",
-            "Romance",
-            "Science Fiction"
+            "Drama",
+            "Romance"
         ]
     }
 }
