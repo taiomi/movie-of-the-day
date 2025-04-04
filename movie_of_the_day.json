@@ -1,28 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-04-03",
+    "lastUpdated": "2025-04-04",
     "movie": {
-        "id": 3111,
-        "title": "A Star Is Born",
-        "tagline": "The applause of the world... and then this!",
-        "overview": "A movie star helps a young singer-actress find fame, even as age and alcoholism send his own career into a downward spiral.",
-        "releaseDate": "1954-10-01",
-        "runtime": 176,
-        "voteAverage": 7.1,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/zpg2SzpYhZk1D1seDfIIlwaqAxT.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/n5lPHC5CTxF4Z9JqM1wg8peasfx.jpg",
-        "director": "George Cukor",
+        "id": 2009,
+        "title": "4 Months, 3 Weeks and 2 Days",
+        "tagline": "At what moment do we begin to live?",
+        "overview": "Two college roommates have 24 hours to make the ultimate choice as they finalize arrangements for a black market abortion.",
+        "releaseDate": "2007-08-24",
+        "runtime": 114,
+        "voteAverage": 7.546,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/acEtvzFPeOQwbzRWncjRLenhnKV.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/hNoAUhjs0kALlU8bJeBsdSXq7RQ.jpg",
+        "director": "Cristian Mungiu",
         "cast": [
-            "Judy Garland",
-            "James Mason",
-            "Jack Carson",
-            "Charles Bickford",
-            "Tommy Noonan"
+            "Anamaria Marinca",
+            "Laura Vasiliu",
+            "Vlad Ivanov",
+            "Alexandru Potocean",
+            "Lumini\u021ba Gheorghiu"
         ],
         "genres": [
-            "Drama",
-            "Music",
-            "Romance"
+            "Drama"
         ]
     }
 }
