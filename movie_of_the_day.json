@@ -1,26 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-04-04",
+    "lastUpdated": "2025-04-05",
     "movie": {
-        "id": 2009,
-        "title": "4 Months, 3 Weeks and 2 Days",
-        "tagline": "At what moment do we begin to live?",
-        "overview": "Two college roommates have 24 hours to make the ultimate choice as they finalize arrangements for a black market abortion.",
-        "releaseDate": "2007-08-24",
-        "runtime": 114,
-        "voteAverage": 7.546,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/acEtvzFPeOQwbzRWncjRLenhnKV.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/hNoAUhjs0kALlU8bJeBsdSXq7RQ.jpg",
-        "director": "Cristian Mungiu",
+        "id": 24395,
+        "title": "The Hill",
+        "tagline": "They went up like men! They came down like animals!",
+        "overview": "North Africa, World War II. British soldiers on the brink of collapse push beyond endurance to struggle up a brutal incline. It's not a military objective. It's The Hill, a manmade instrument of torture, a tower of sand seared by a white-hot sun. And the troops' tormentors are not the enemy, but their own comrades-at-arms.",
+        "releaseDate": "1965-06-17",
+        "runtime": 123,
+        "voteAverage": 7.502,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/cmBpImAjHJnuHXMVByzqnxtDcae.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/pBWAMf19IINuYbOODDDc59730C9.jpg",
+        "director": "Sidney Lumet",
         "cast": [
-            "Anamaria Marinca",
-            "Laura Vasiliu",
-            "Vlad Ivanov",
-            "Alexandru Potocean",
-            "Lumini\u021ba Gheorghiu"
+            "Sean Connery",
+            "Harry Andrews",
+            "Ian Bannen",
+            "Alfred Lynch",
+            "Ossie Davis"
         ],
         "genres": [
-            "Drama"
+            "Drama",
+            "War"
         ]
     }
 }
