@@ -1,29 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-04-07",
+    "lastUpdated": "2025-04-08",
     "movie": {
-        "id": 565743,
-        "title": "The Vast of Night",
-        "tagline": "There\u2019s something in the sky.",
-        "overview": "At the dawn of the space-race, two radio-obsessed teens discover a strange frequency over the airwaves in what becomes the most important night of their lives and in the history of their small town.",
-        "releaseDate": "2019-06-01",
-        "runtime": 91,
-        "voteAverage": 6.556,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/q2P9lYkctl5Ory71HEBMaFxbVlD.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/lVSMgZUBE4XTVaPBEBAczre4f1W.jpg",
-        "director": "Andrew Patterson",
+        "id": 48688,
+        "title": "Pigsty",
+        "tagline": "I killed my father, I ate human flesh, and I quiver with joy.",
+        "overview": "Two dramatic stories. In an undetermined past, a young cannibal (who killed his own father) is condemned to be torn to pieces by some wild beasts. In the second story, Julian, the young son of a post-war German industrialist, is on the way to lie down with his farm's pigs, because he doesn't like human relationships.",
+        "releaseDate": "1969-09-02",
+        "runtime": 99,
+        "voteAverage": 7.1,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/5JTUqzMliTawNRYjuSOhAj5eeVM.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/e1o66REVW5T3JY0N7mHAaoFr7D5.jpg",
+        "director": "Pier Paolo Pasolini",
         "cast": [
-            "Sierra McCormick",
-            "Jake Horowitz",
-            "Bruce Davis",
-            "Gail Cronauer",
-            "Cheyenne Barton"
+            "Pierre Cl\u00e9menti",
+            "Jean-Pierre L\u00e9aud",
+            "Alberto Lionello",
+            "Ugo Tognazzi",
+            "Anne Wiazemsky"
         ],
         "genres": [
-            "Drama",
-            "Mystery",
-            "Science Fiction",
-            "Thriller"
+            "Drama"
         ]
     }
 }
