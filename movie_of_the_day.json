@@ -1,26 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-04-08",
+    "lastUpdated": "2025-04-09",
     "movie": {
-        "id": 48688,
-        "title": "Pigsty",
-        "tagline": "I killed my father, I ate human flesh, and I quiver with joy.",
-        "overview": "Two dramatic stories. In an undetermined past, a young cannibal (who killed his own father) is condemned to be torn to pieces by some wild beasts. In the second story, Julian, the young son of a post-war German industrialist, is on the way to lie down with his farm's pigs, because he doesn't like human relationships.",
-        "releaseDate": "1969-09-02",
-        "runtime": 99,
-        "voteAverage": 7.1,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/5JTUqzMliTawNRYjuSOhAj5eeVM.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/e1o66REVW5T3JY0N7mHAaoFr7D5.jpg",
-        "director": "Pier Paolo Pasolini",
+        "id": 807,
+        "title": "Se7en",
+        "tagline": "Seven deadly sins. Seven ways to die.",
+        "overview": "Two homicide detectives are on a desperate hunt for a serial killer whose crimes are based on the \"seven deadly sins\" in this dark and haunting film that takes viewers from the tortured remains of one victim to the next. The seasoned Det. Somerset researches each sin in an effort to get inside the killer's mind, while his novice partner, Mills, scoffs at his efforts to unravel the case.",
+        "releaseDate": "1995-09-22",
+        "runtime": 127,
+        "voteAverage": 8.375,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/p1PLSI5Nw2krGxD7X4ulul1tDAk.jpg",
+        "director": "David Fincher",
         "cast": [
-            "Pierre Cl\u00e9menti",
-            "Jean-Pierre L\u00e9aud",
-            "Alberto Lionello",
-            "Ugo Tognazzi",
-            "Anne Wiazemsky"
+            "Morgan Freeman",
+            "Brad Pitt",
+            "Gwyneth Paltrow",
+            "John Cassini",
+            "Peter Crombie"
         ],
         "genres": [
-            "Drama"
+            "Crime",
+            "Mystery",
+            "Thriller"
         ]
     }
 }
