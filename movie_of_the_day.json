@@ -1,28 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-04-09",
+    "lastUpdated": "2025-04-10",
     "movie": {
-        "id": 807,
-        "title": "Se7en",
-        "tagline": "Seven deadly sins. Seven ways to die.",
-        "overview": "Two homicide detectives are on a desperate hunt for a serial killer whose crimes are based on the \"seven deadly sins\" in this dark and haunting film that takes viewers from the tortured remains of one victim to the next. The seasoned Det. Somerset researches each sin in an effort to get inside the killer's mind, while his novice partner, Mills, scoffs at his efforts to unravel the case.",
-        "releaseDate": "1995-09-22",
-        "runtime": 127,
-        "voteAverage": 8.375,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/p1PLSI5Nw2krGxD7X4ulul1tDAk.jpg",
-        "director": "David Fincher",
+        "id": 913823,
+        "title": "Fire of Love",
+        "tagline": "The greatest lava-fueled love story ever told.",
+        "overview": "A doomed love triangle between intrepid French scientists Katia and Maurice Krafft, and their beloved volcanoes.",
+        "releaseDate": "2022-07-06",
+        "runtime": 93,
+        "voteAverage": 7.538,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/9smEX8UP84yb2GisLwyAyQKvCWS.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/3oRwn7WIMt4Vtw65mnydDQHthwQ.jpg",
+        "director": "Sara Dosa",
         "cast": [
-            "Morgan Freeman",
-            "Brad Pitt",
-            "Gwyneth Paltrow",
-            "John Cassini",
-            "Peter Crombie"
+            "Katia Krafft",
+            "Maurice Krafft",
+            "Alka Balbir",
+            "Guillaume Tremblay",
+            "Miranda July"
         ],
         "genres": [
-            "Crime",
-            "Mystery",
-            "Thriller"
+            "Documentary"
         ]
     }
 }
