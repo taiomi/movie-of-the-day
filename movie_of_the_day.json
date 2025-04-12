@@ -1,27 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-04-11",
+    "lastUpdated": "2025-04-12",
     "movie": {
-        "id": 11096,
-        "title": "Hide and Seek",
-        "tagline": "Come out, come out, whatever you are.",
-        "overview": "David Callaway tries to piece together his life in the wake of his wife's suicide and has been left to raise his nine-year-old daughter, Emily on his own. David is at first amused to discover that Emily has created an imaginary friend named 'Charlie', but it isn't long before 'Charlie' develops a sinister and violent side, and as David struggles with his daughter's growing emotional problems, he comes to the frightening realisation that 'Charlie' isn't just a figment of Emily's imagination.",
-        "releaseDate": "2005-01-27",
-        "runtime": 101,
-        "voteAverage": 6.326,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/wB34bqPuEmeZUMm4OIXArBIA3er.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/4QwtFTo7e8pfh0HCklVng5xun3y.jpg",
-        "director": "John Polson",
+        "id": 559907,
+        "title": "The Green Knight",
+        "tagline": "When honor was everything.",
+        "overview": "An epic fantasy adventure based on the timeless Arthurian legend, The Green Knight tells the story of Sir Gawain, King Arthur's reckless and headstrong nephew, who embarks on a daring quest to confront the eponymous Green Knight, a gigantic emerald-skinned stranger and tester of men.",
+        "releaseDate": "2021-07-29",
+        "runtime": 130,
+        "voteAverage": 6.603,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/if4hw3Ou5Sav9Em7WWHj66mnywp.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/kIQc0kkqIYTo65x5XjlKgqdDQ6a.jpg",
+        "director": "David Lowery",
         "cast": [
-            "Robert De Niro",
-            "Dakota Fanning",
-            "Famke Janssen",
-            "Elisabeth Shue",
-            "Amy Irving"
+            "Dev Patel",
+            "Alicia Vikander",
+            "Joel Edgerton",
+            "Sarita Choudhury",
+            "Sean Harris"
         ],
         "genres": [
-            "Horror",
-            "Mystery"
+            "Adventure",
+            "Drama",
+            "Fantasy"
         ]
     }
 }
