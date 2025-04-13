@@ -1,28 +1,29 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-04-12",
+    "lastUpdated": "2025-04-13",
     "movie": {
-        "id": 559907,
-        "title": "The Green Knight",
-        "tagline": "When honor was everything.",
-        "overview": "An epic fantasy adventure based on the timeless Arthurian legend, The Green Knight tells the story of Sir Gawain, King Arthur's reckless and headstrong nephew, who embarks on a daring quest to confront the eponymous Green Knight, a gigantic emerald-skinned stranger and tester of men.",
-        "releaseDate": "2021-07-29",
-        "runtime": 130,
-        "voteAverage": 6.603,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/if4hw3Ou5Sav9Em7WWHj66mnywp.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/kIQc0kkqIYTo65x5XjlKgqdDQ6a.jpg",
-        "director": "David Lowery",
+        "id": 530915,
+        "title": "1917",
+        "tagline": "Time is the enemy",
+        "overview": "At the height of the First World War, two young British soldiers must cross enemy territory and deliver a message that will stop a deadly attack on hundreds of soldiers.",
+        "releaseDate": "2019-12-25",
+        "runtime": 119,
+        "voteAverage": 7.989,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/2lBOQK06tltt8SQaswgb8d657Mv.jpg",
+        "director": "Sam Mendes",
         "cast": [
-            "Dev Patel",
-            "Alicia Vikander",
-            "Joel Edgerton",
-            "Sarita Choudhury",
-            "Sean Harris"
+            "George MacKay",
+            "Dean-Charles Chapman",
+            "Mark Strong",
+            "Andrew Scott",
+            "Richard Madden"
         ],
         "genres": [
-            "Adventure",
-            "Drama",
-            "Fantasy"
+            "War",
+            "History",
+            "Thriller",
+            "Drama"
         ]
     }
 }
