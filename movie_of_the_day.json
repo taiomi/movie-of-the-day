@@ -1,26 +1,25 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-04-15",
+    "lastUpdated": "2025-04-16",
     "movie": {
-        "id": 555285,
-        "title": "Are You There God? It's Me, Margaret.",
-        "tagline": "Discovering who you are is a journey that lasts a lifetime.",
-        "overview": "When her family moves from New York City to New Jersey, an 11-year-old girl navigates new friends, feelings, and the beginning of adolescence.",
-        "releaseDate": "2023-03-29",
-        "runtime": 107,
-        "voteAverage": 7.252,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/yb6UB4WC3znlwU0L4AqMnjR9G9S.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/qNmLEOGZy37vKAPqcTuZ47uCOS9.jpg",
-        "director": "Kelly Fremon Craig",
+        "id": 661914,
+        "title": "One Night in Miami...",
+        "tagline": "Four legends. One legendary night.",
+        "overview": "In the aftermath of Cassius Clay's defeat of Sonny Liston in 1964, the boxer meets with Malcolm X, Sam Cooke and Jim Brown to change the course of history in the segregated South.",
+        "releaseDate": "2020-12-25",
+        "runtime": 114,
+        "voteAverage": 7.003,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/1DLUb9PTDqXMSgsD7RmiJs7ZJIx.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/yUyuDacqA0IhWqEbPQPXBsEIbPX.jpg",
+        "director": "Regina King",
         "cast": [
-            "Abby Ryder Fortson",
-            "Rachel McAdams",
-            "Kathy Bates",
-            "Elle Graham",
-            "Benny Safdie"
+            "Kingsley Ben-Adir",
+            "Eli Goree",
+            "Aldis Hodge",
+            "Leslie Odom Jr.",
+            "Joaquina Kalukango"
         ],
         "genres": [
-            "Comedy",
             "Drama"
         ]
     }
