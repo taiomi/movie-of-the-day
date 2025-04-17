@@ -1,26 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-04-16",
+    "lastUpdated": "2025-04-17",
     "movie": {
-        "id": 661914,
-        "title": "One Night in Miami...",
-        "tagline": "Four legends. One legendary night.",
-        "overview": "In the aftermath of Cassius Clay's defeat of Sonny Liston in 1964, the boxer meets with Malcolm X, Sam Cooke and Jim Brown to change the course of history in the segregated South.",
-        "releaseDate": "2020-12-25",
-        "runtime": 114,
-        "voteAverage": 7.003,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/1DLUb9PTDqXMSgsD7RmiJs7ZJIx.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/yUyuDacqA0IhWqEbPQPXBsEIbPX.jpg",
-        "director": "Regina King",
+        "id": 753342,
+        "title": "Napoleon",
+        "tagline": "He came from nothing. He conquered everything.",
+        "overview": "An epic that details the checkered rise and fall of French Emperor Napoleon Bonaparte and his relentless journey to power through the prism of his addictive, volatile relationship with his wife, Josephine.",
+        "releaseDate": "2023-11-22",
+        "runtime": 158,
+        "voteAverage": 6.351,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/ytFOXyghxLzAM4KZyazDdEkM66q.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/ye63eA7UvKDgUPcTbfQZezIA7cF.jpg",
+        "director": "Ridley Scott",
         "cast": [
-            "Kingsley Ben-Adir",
-            "Eli Goree",
-            "Aldis Hodge",
-            "Leslie Odom Jr.",
-            "Joaquina Kalukango"
+            "Joaquin Phoenix",
+            "Vanessa Kirby",
+            "Tahar Rahim",
+            "Rupert Everett",
+            "Mark Bonnar"
         ],
         "genres": [
-            "Drama"
+            "History",
+            "War",
+            "Romance"
         ]
     }
 }

@@ -146,3 +146,7 @@
 [2025-04-16 03:04:39] Selected movie: One Night in Miami (ID: 661914) for day 30 since start
 [2025-04-16 03:04:39] Successfully saved movie data for: One Night in Miami...
 [2025-04-16 03:04:39] Movie fetch process completed
+[2025-04-17 03:03:20] Starting movie fetch process
+[2025-04-17 03:03:20] Selected movie: Napoleon (ID: 753342) for day 31 since start
+[2025-04-17 03:03:20] Successfully saved movie data for: Napoleon
+[2025-04-17 03:03:20] Movie fetch process completed
