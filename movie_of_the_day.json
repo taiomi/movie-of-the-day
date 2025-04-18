@@ -1,28 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-04-17",
+    "lastUpdated": "2025-04-18",
     "movie": {
-        "id": 753342,
-        "title": "Napoleon",
-        "tagline": "He came from nothing. He conquered everything.",
-        "overview": "An epic that details the checkered rise and fall of French Emperor Napoleon Bonaparte and his relentless journey to power through the prism of his addictive, volatile relationship with his wife, Josephine.",
-        "releaseDate": "2023-11-22",
-        "runtime": 158,
-        "voteAverage": 6.351,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/ytFOXyghxLzAM4KZyazDdEkM66q.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/ye63eA7UvKDgUPcTbfQZezIA7cF.jpg",
-        "director": "Ridley Scott",
+        "id": 837881,
+        "title": "She Said",
+        "tagline": "\"Will you go on the record?\"",
+        "overview": "New York Times reporters Megan Twohey and Jodi Kantor break one of the most important stories in a generation \u2014 a story that helped launch the #MeToo movement and shattered decades of silence around the subject of sexual assault in Hollywood.",
+        "releaseDate": "2022-11-17",
+        "runtime": 129,
+        "voteAverage": 7.243,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/jG4UI2dbNWlWtTTupjeU3fRJ5Fn.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/5tb7RjF0OAAaiGDUXsuedvhoGqV.jpg",
+        "director": "Maria Schrader",
         "cast": [
-            "Joaquin Phoenix",
-            "Vanessa Kirby",
-            "Tahar Rahim",
-            "Rupert Everett",
-            "Mark Bonnar"
+            "Zoe Kazan",
+            "Carey Mulligan",
+            "Patricia Clarkson",
+            "Andre Braugher",
+            "Jennifer Ehle"
         ],
         "genres": [
-            "History",
-            "War",
-            "Romance"
+            "Drama",
+            "History"
         ]
     }
 }
