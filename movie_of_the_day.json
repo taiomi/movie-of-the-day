@@ -1,27 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-04-18",
+    "lastUpdated": "2025-04-19",
     "movie": {
-        "id": 837881,
-        "title": "She Said",
-        "tagline": "\"Will you go on the record?\"",
-        "overview": "New York Times reporters Megan Twohey and Jodi Kantor break one of the most important stories in a generation \u2014 a story that helped launch the #MeToo movement and shattered decades of silence around the subject of sexual assault in Hollywood.",
-        "releaseDate": "2022-11-17",
-        "runtime": 129,
-        "voteAverage": 7.243,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/jG4UI2dbNWlWtTTupjeU3fRJ5Fn.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/5tb7RjF0OAAaiGDUXsuedvhoGqV.jpg",
-        "director": "Maria Schrader",
+        "id": 25468,
+        "title": "My Dinner with Andre",
+        "tagline": "One meal, two men.",
+        "overview": "Wally, a struggling playwright and actor, reluctantly agrees to catch up with his old friend Andre, a theater director who disappeared several years prior in order to travel the world. Meeting at a posh Manhattan restaurant, the two share life stories, anecdotes and philosophical musings over the course of an evening meal.",
+        "releaseDate": "1981-10-11",
+        "runtime": 110,
+        "voteAverage": 7.494,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/u2KB70Xlzwg920mYWlGb18YIatd.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/h1ngZT7mWm5Moy4krWEUnlj0Ef.jpg",
+        "director": "Louis Malle",
         "cast": [
-            "Zoe Kazan",
-            "Carey Mulligan",
-            "Patricia Clarkson",
-            "Andre Braugher",
-            "Jennifer Ehle"
+            "Wallace Shawn",
+            "Andre Gregory",
+            "Jean Lenauer",
+            "Roy Butler",
+            "Cindy Lou Adkins"
         ],
         "genres": [
-            "Drama",
-            "History"
+            "Drama"
         ]
     }
 }
