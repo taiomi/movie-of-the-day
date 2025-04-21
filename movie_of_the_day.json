@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-04-20",
+    "lastUpdated": "2025-04-21",
     "movie": {
-        "id": 635731,
-        "title": "Pig",
-        "tagline": "We don\u2019t get a lot of things to really care about.",
-        "overview": "A truffle hunter who lives alone in the Oregon wilderness must visit Portland to find the mysterious person who stole his beloved foraging pig.",
-        "releaseDate": "2021-07-16",
-        "runtime": 92,
-        "voteAverage": 6.648,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/1InMm4Mbjx8wCKvIy5gglo5i3HN.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/uFvueAhlKsXQacjiKxGBgnBqarf.jpg",
-        "director": "Michael Sarnoski",
+        "id": 426,
+        "title": "Vertigo",
+        "tagline": "Alfred Hitchcock engulfs you in a whirlpool of terror and tension!",
+        "overview": "A retired San Francisco detective suffering from acrophobia investigates the strange activities of an old friend's wife, all the while becoming dangerously obsessed with her.",
+        "releaseDate": "1958-05-28",
+        "runtime": 128,
+        "voteAverage": 8.16,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/15uOEfqBNTVtDUT7hGBVCka0rZz.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/77aHwg1SCy89rfvQtiruPU58qEV.jpg",
+        "director": "Alfred Hitchcock",
         "cast": [
-            "Nicolas Cage",
-            "Alex Wolff",
-            "Adam Arkin",
-            "Nina Belforte",
-            "Gretchen Corbett"
+            "James Stewart",
+            "Kim Novak",
+            "Barbara Bel Geddes",
+            "Tom Helmore",
+            "Henry Jones"
         ],
         "genres": [
-            "Drama",
-            "Thriller",
-            "Mystery"
+            "Mystery",
+            "Romance",
+            "Thriller"
         ]
     }
 }
