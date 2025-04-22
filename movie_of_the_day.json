@@ -1,28 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-04-21",
+    "lastUpdated": "2025-04-22",
     "movie": {
-        "id": 426,
-        "title": "Vertigo",
-        "tagline": "Alfred Hitchcock engulfs you in a whirlpool of terror and tension!",
-        "overview": "A retired San Francisco detective suffering from acrophobia investigates the strange activities of an old friend's wife, all the while becoming dangerously obsessed with her.",
-        "releaseDate": "1958-05-28",
-        "runtime": 128,
-        "voteAverage": 8.16,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/15uOEfqBNTVtDUT7hGBVCka0rZz.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/77aHwg1SCy89rfvQtiruPU58qEV.jpg",
-        "director": "Alfred Hitchcock",
+        "id": 11020,
+        "title": "Picnic at Hanging Rock",
+        "tagline": "On St. Valentine's Day in 1900 a party of schoolgirls set out to picnic at Hanging Rock ... Some were never to return.",
+        "overview": "In the early 1900s, Miranda attends a girls boarding school in Australia. One Valentine's Day, the school's typically strict headmistress treats the girls to a picnic field trip to an unusual but scenic volcanic formation called Hanging Rock. Despite rules against it, Miranda and several other girls venture off. It's not until the end of the day that the faculty realizes the girls and one of the teachers have disappeared mysteriously.",
+        "releaseDate": "1975-09-02",
+        "runtime": 115,
+        "voteAverage": 7.2,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/7BAXwmFN4pZDNb9N6kzmAAwdssi.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/nCOKgcuM0xkclpyQm1mfyMT55iN.jpg",
+        "director": "Peter Weir",
         "cast": [
-            "James Stewart",
-            "Kim Novak",
-            "Barbara Bel Geddes",
-            "Tom Helmore",
-            "Henry Jones"
+            "Rachel Roberts",
+            "Vivean Gray",
+            "Helen Morse",
+            "Kirsty Child",
+            "Tony Llewellyn-Jones"
         ],
         "genres": [
-            "Mystery",
-            "Romance",
-            "Thriller"
+            "Drama",
+            "Mystery"
         ]
     }
 }
