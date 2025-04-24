@@ -1,29 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-04-23",
+    "lastUpdated": "2025-04-24",
     "movie": {
-        "id": 11826,
-        "title": "Sexy Beast",
-        "tagline": "Yes or yes?",
-        "overview": "Ex-safecracker Gal Dove has served his time behind bars and is blissfully retired to a Spanish villa paradise with a wife he adores. The idyll is shattered by the arrival of his nemesis Don Logan, intent on persuading Gal to return to London for one last big job.",
-        "releaseDate": "2000-09-13",
-        "runtime": 89,
-        "voteAverage": 6.988,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/9OlmWIEuSec27HiOPuMJASnff6f.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/h6g3bziXf9D9ieZlik0bwB56sjk.jpg",
-        "director": "Jonathan Glazer",
+        "id": 19101,
+        "title": "A Little Princess",
+        "tagline": "Every girl everywhere is a princess.",
+        "overview": "When her father enlists to fight for the British in WWI, young Sara Crewe goes to New York to attend the same boarding school her late mother attended. She soon clashes with the severe headmistress, Miss Minchin, who attempts to stifle Sara's creativity and sense of self-worth.",
+        "releaseDate": "1995-05-10",
+        "runtime": 97,
+        "voteAverage": 7.633,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/9V4bAVEskSNbEqjVI0YmeuB0n8I.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/tcMVpjdEpsXrbPtVrSmh4uDBSiy.jpg",
+        "director": "Alfonso Cuar\u00f3n",
         "cast": [
-            "Ray Winstone",
-            "Ben Kingsley",
-            "Ian McShane",
-            "Amanda Redman",
-            "James Fox"
+            "Liesel Matthews",
+            "Eleanor Bron",
+            "Liam Cunningham",
+            "Rusty Schwimmer",
+            "Vanessa Lee Chester"
         ],
         "genres": [
-            "Crime",
-            "Thriller",
-            "Comedy",
-            "Drama"
+            "Drama",
+            "Family",
+            "Fantasy"
         ]
     }
 }
