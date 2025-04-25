@@ -1,27 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-04-24",
+    "lastUpdated": "2025-04-25",
     "movie": {
-        "id": 19101,
-        "title": "A Little Princess",
-        "tagline": "Every girl everywhere is a princess.",
-        "overview": "When her father enlists to fight for the British in WWI, young Sara Crewe goes to New York to attend the same boarding school her late mother attended. She soon clashes with the severe headmistress, Miss Minchin, who attempts to stifle Sara's creativity and sense of self-worth.",
-        "releaseDate": "1995-05-10",
-        "runtime": 97,
-        "voteAverage": 7.633,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/9V4bAVEskSNbEqjVI0YmeuB0n8I.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/tcMVpjdEpsXrbPtVrSmh4uDBSiy.jpg",
-        "director": "Alfonso Cuar\u00f3n",
+        "id": 639933,
+        "title": "The Northman",
+        "tagline": "Conquer your fate.",
+        "overview": "Prince Amleth is on the verge of becoming a man when his father is brutally murdered by his uncle, who kidnaps the boy's mother. Two decades later, Amleth is now a Viking who's on a mission to save his mother, kill his uncle and avenge his father.",
+        "releaseDate": "2022-04-07",
+        "runtime": 137,
+        "voteAverage": 7.05,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/aSSJMnHknzKjlZ6zybwD7eyJ4Po.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/cqnVuxXe6vA7wfNWubak3x36DKJ.jpg",
+        "director": "Robert Eggers",
         "cast": [
-            "Liesel Matthews",
-            "Eleanor Bron",
-            "Liam Cunningham",
-            "Rusty Schwimmer",
-            "Vanessa Lee Chester"
+            "Alexander Skarsg\u00e5rd",
+            "Nicole Kidman",
+            "Claes Bang",
+            "Ethan Hawke",
+            "Anya Taylor-Joy"
         ],
         "genres": [
-            "Drama",
-            "Family",
+            "Action",
+            "Adventure",
             "Fantasy"
         ]
     }
