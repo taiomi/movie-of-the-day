@@ -182,3 +182,7 @@
 [2025-04-25 03:05:53] Selected movie: The Northman (ID: 639933) for day 39 since start
 [2025-04-25 03:05:53] Successfully saved movie data for: The Northman
 [2025-04-25 03:05:53] Movie fetch process completed
+[2025-04-26 02:59:31] Starting movie fetch process
+[2025-04-26 02:59:31] Selected movie: Once Upon a Time in Hollywood (ID: 466272) for day 40 since start
+[2025-04-26 02:59:32] Successfully saved movie data for: Once Upon a Time... in Hollywood
+[2025-04-26 02:59:32] Movie fetch process completed
