@@ -1,28 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-04-26",
+    "lastUpdated": "2025-04-27",
     "movie": {
-        "id": 466272,
-        "title": "Once Upon a Time... in Hollywood",
-        "tagline": "In this town, it can all change\u2026 Like that.",
-        "overview": "Los Angeles, 1969. TV star Rick Dalton, a struggling actor specializing in westerns, and stuntman Cliff Booth, his best friend, try to survive in a constantly changing movie industry. Dalton is the neighbor of the young and promising actress and model Sharon Tate, who has just married the prestigious Polish director Roman Polanski\u2026",
-        "releaseDate": "2019-07-24",
-        "runtime": 162,
-        "voteAverage": 7.428,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/xwgBHC2FgoIrQitl8jZwXXdsR9u.jpg",
-        "director": "Quentin Tarantino",
+        "id": 36054,
+        "title": "Champagne",
+        "tagline": "A Picture of the Finest Vintage",
+        "overview": "Betty, the rebellious daughter of a millionaire, decides to marry the penniless Jean\u2014against her father's will\u2014and runs away to France and lives a life of luxury on the profits from her father's business. Pretending his business is crashing, her father finally puts a stop to her behavior, which forces Betty to support herself by getting a job in a night club.",
+        "releaseDate": "1928-08-17",
+        "runtime": 93,
+        "voteAverage": 5.2,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/65rQoBoxM1H7HBTAGtWmn4N1Ztq.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/f6GI9jxs3Py7AqTARasofNp2RZ5.jpg",
+        "director": "Alfred Hitchcock",
         "cast": [
-            "Leonardo DiCaprio",
-            "Brad Pitt",
-            "Margot Robbie",
-            "Emile Hirsch",
-            "Margaret Qualley"
+            "Betty Balfour",
+            "Gordon Harker",
+            "Jean Bradin",
+            "Ferdinand von Alten",
+            "Fanny Wright"
         ],
         "genres": [
             "Comedy",
-            "Drama",
-            "Thriller"
+            "Drama"
         ]
     }
 }
