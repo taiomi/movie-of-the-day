@@ -1,27 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-04-27",
+    "lastUpdated": "2025-04-28",
     "movie": {
-        "id": 36054,
-        "title": "Champagne",
-        "tagline": "A Picture of the Finest Vintage",
-        "overview": "Betty, the rebellious daughter of a millionaire, decides to marry the penniless Jean\u2014against her father's will\u2014and runs away to France and lives a life of luxury on the profits from her father's business. Pretending his business is crashing, her father finally puts a stop to her behavior, which forces Betty to support herself by getting a job in a night club.",
-        "releaseDate": "1928-08-17",
-        "runtime": 93,
-        "voteAverage": 5.2,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/65rQoBoxM1H7HBTAGtWmn4N1Ztq.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/f6GI9jxs3Py7AqTARasofNp2RZ5.jpg",
-        "director": "Alfred Hitchcock",
+        "id": 55,
+        "title": "Amores Perros",
+        "tagline": "Love. Betrayal. Death.",
+        "overview": "A fatalistic car crash in Mexico city sets off a chain of events in the lives of three people: a supermodel, a young man wanting to run off with his sister-in-law, and a homeless man. Their lives are catapulted into unforeseen situations instigated by the seemingly inconsequential destiny of a dog.",
+        "releaseDate": "2000-06-16",
+        "runtime": 154,
+        "voteAverage": 7.622,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/tuyV4ceh80IBTbRJWX7jJ59UFxn.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/tJTRLtdKPeVT8HORSbeHpdb8BKg.jpg",
+        "director": "Alejandro Gonz\u00e1lez I\u00f1\u00e1rritu",
         "cast": [
-            "Betty Balfour",
-            "Gordon Harker",
-            "Jean Bradin",
-            "Ferdinand von Alten",
-            "Fanny Wright"
+            "Emilio Echevarr\u00eda",
+            "Gael Garc\u00eda Bernal",
+            "Vanessa Bauche",
+            "Goya Toledo",
+            "\u00c1lvaro Guerrero"
         ],
         "genres": [
-            "Comedy",
-            "Drama"
+            "Drama",
+            "Thriller"
         ]
     }
 }
