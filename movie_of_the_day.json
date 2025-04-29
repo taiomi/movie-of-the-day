@@ -1,27 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-04-28",
+    "lastUpdated": "2025-04-29",
     "movie": {
-        "id": 55,
-        "title": "Amores Perros",
-        "tagline": "Love. Betrayal. Death.",
-        "overview": "A fatalistic car crash in Mexico city sets off a chain of events in the lives of three people: a supermodel, a young man wanting to run off with his sister-in-law, and a homeless man. Their lives are catapulted into unforeseen situations instigated by the seemingly inconsequential destiny of a dog.",
-        "releaseDate": "2000-06-16",
-        "runtime": 154,
-        "voteAverage": 7.622,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/tuyV4ceh80IBTbRJWX7jJ59UFxn.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/tJTRLtdKPeVT8HORSbeHpdb8BKg.jpg",
-        "director": "Alejandro Gonz\u00e1lez I\u00f1\u00e1rritu",
+        "id": 11489,
+        "title": "Rosetta",
+        "tagline": "",
+        "overview": "Young, impulsive Rosetta lives a hard and stressful life as she struggles to support herself and her alcoholic mother. Refusing all charity, she is desperate to maintain a dignified job.",
+        "releaseDate": "1999-09-29",
+        "runtime": 95,
+        "voteAverage": 7.207,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/buwLjQPPA9FaATvKzeAppLXiGMB.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/uydYoYfnCbPWxNAG6VFbYwso3bB.jpg",
+        "director": "Luc Dardenne",
         "cast": [
-            "Emilio Echevarr\u00eda",
-            "Gael Garc\u00eda Bernal",
-            "Vanessa Bauche",
-            "Goya Toledo",
-            "\u00c1lvaro Guerrero"
+            "\u00c9milie Dequenne",
+            "Olivier Gourmet",
+            "Fabrizio Rongione",
+            "Anne Yernaux",
+            "Bernard Marbaix"
         ],
         "genres": [
-            "Drama",
-            "Thriller"
+            "Drama"
         ]
     }
 }
