@@ -1,23 +1,23 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-04-29",
+    "lastUpdated": "2025-04-30",
     "movie": {
-        "id": 11489,
-        "title": "Rosetta",
-        "tagline": "Moved by despair",
-        "overview": "Young, impulsive Rosetta lives a hard and stressful life as she struggles to support herself and her alcoholic mother. Refusing all charity, she is desperate to maintain a dignified job.",
-        "releaseDate": "1999-09-29",
-        "runtime": 95,
-        "voteAverage": 7.207,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/buwLjQPPA9FaATvKzeAppLXiGMB.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/uydYoYfnCbPWxNAG6VFbYwso3bB.jpg",
-        "director": "Luc Dardenne",
+        "id": 30970,
+        "title": "Code Unknown",
+        "tagline": "Love has a language all its own.",
+        "overview": "A series of events unfold like a chain reaction, all stemming from a minor event that brings the film's five characters together. Set in Paris, France, Anne is an actress whose boyfriend Georges photographs the war in Kosovo. Georges' brother, Jean, is looking for the entry code to Georges' apartment. These characters' lives interconnect with a Romanian immigrant and a deaf teacher.",
+        "releaseDate": "2000-11-15",
+        "runtime": 118,
+        "voteAverage": 6.7,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/kJJx2FNmiaep8WT21uMPY9qPzxL.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/bTUBuFR25xvTiFel7q6pq0ejacY.jpg",
+        "director": "Michael Haneke",
         "cast": [
-            "\u00c9milie Dequenne",
-            "Olivier Gourmet",
-            "Fabrizio Rongione",
-            "Anne Yernaux",
-            "Bernard Marbaix"
+            "Juliette Binoche",
+            "Thierry Neuvic",
+            "Josef Bierbichler",
+            "Alexandre Hamidi",
+            "Maimouna H\u00e9l\u00e8ne Diarra"
         ],
         "genres": [
             "Drama"
