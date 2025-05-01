@@ -1,26 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-04-30",
+    "lastUpdated": "2025-05-01",
     "movie": {
-        "id": 30970,
-        "title": "Code Unknown",
-        "tagline": "Love has a language all its own.",
-        "overview": "A series of events unfold like a chain reaction, all stemming from a minor event that brings the film's five characters together. Set in Paris, France, Anne is an actress whose boyfriend Georges photographs the war in Kosovo. Georges' brother, Jean, is looking for the entry code to Georges' apartment. These characters' lives interconnect with a Romanian immigrant and a deaf teacher.",
-        "releaseDate": "2000-11-15",
-        "runtime": 118,
-        "voteAverage": 6.7,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/kJJx2FNmiaep8WT21uMPY9qPzxL.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/bTUBuFR25xvTiFel7q6pq0ejacY.jpg",
-        "director": "Michael Haneke",
+        "id": 770,
+        "title": "Gone with the Wind",
+        "tagline": "The greatest romance of all time!",
+        "overview": "The spoiled daughter of a Georgia plantation owner conducts a tumultuous romance with a cynical profiteer during the American Civil War and Reconstruction Era.",
+        "releaseDate": "1939-12-15",
+        "runtime": 233,
+        "voteAverage": 7.934,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/lNz2Ow0wGCAvzckW7EOjE03KcYv.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/AfK1tyoO0i47mzKhA9BJVNGq1vg.jpg",
+        "director": "Victor Fleming",
         "cast": [
-            "Juliette Binoche",
-            "Thierry Neuvic",
-            "Josef Bierbichler",
-            "Alexandre Hamidi",
-            "Maimouna H\u00e9l\u00e8ne Diarra"
+            "Vivien Leigh",
+            "Clark Gable",
+            "Olivia de Havilland",
+            "Leslie Howard",
+            "Hattie McDaniel"
         ],
         "genres": [
-            "Drama"
+            "Drama",
+            "War",
+            "Romance"
         ]
     }
 }
