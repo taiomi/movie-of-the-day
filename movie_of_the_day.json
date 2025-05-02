@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-05-01",
+    "lastUpdated": "2025-05-02",
     "movie": {
-        "id": 770,
-        "title": "Gone with the Wind",
-        "tagline": "The greatest romance of all time!",
-        "overview": "The spoiled daughter of a Georgia plantation owner conducts a tumultuous romance with a cynical profiteer during the American Civil War and Reconstruction Era.",
-        "releaseDate": "1939-12-15",
-        "runtime": 233,
-        "voteAverage": 7.934,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/lNz2Ow0wGCAvzckW7EOjE03KcYv.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/AfK1tyoO0i47mzKhA9BJVNGq1vg.jpg",
-        "director": "Victor Fleming",
+        "id": 57283,
+        "title": "H\u00e4xan",
+        "tagline": "",
+        "overview": "Grave robbing, torture, possessed nuns, and a satanic Sabbath: Benjamin Christensen's legendary film uses a series of dramatic vignettes to explore the scientific hypothesis that the witches of the Middle Ages suffered the same hysteria as turn-of-the-century psychiatric patients. But the film itself is far from serious-- instead it's a witches' brew of the scary, gross, and darkly humorous.",
+        "releaseDate": "1922-09-18",
+        "runtime": 105,
+        "voteAverage": 7.608,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/3LtaPLlwlA5HX2FjqAb8lsaBI8P.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/gZwQip2KQRDNZZOEDe0Yi25tW9Z.jpg",
+        "director": "Benjamin Christensen",
         "cast": [
-            "Vivien Leigh",
-            "Clark Gable",
-            "Olivia de Havilland",
-            "Leslie Howard",
-            "Hattie McDaniel"
+            "Benjamin Christensen",
+            "Ella La Cour",
+            "Emmy Sch\u00f8nfeld",
+            "Kate Fabian",
+            "Oscar Stribolt"
         ],
         "genres": [
-            "Drama",
-            "War",
-            "Romance"
+            "Documentary",
+            "Horror",
+            "History"
         ]
     }
 }
