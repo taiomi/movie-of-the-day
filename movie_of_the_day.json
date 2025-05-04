@@ -1,28 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-05-03",
+    "lastUpdated": "2025-05-04",
     "movie": {
-        "id": 3175,
-        "title": "Barry Lyndon",
-        "tagline": "At long last Redmond Barry became a gentleman\u2014and that was his tragedy.",
-        "overview": "An Irish rogue uses his cunning and wit to work his way up the social classes of 18th century England, transforming himself from the humble Redmond Barry into the noble Barry Lyndon.",
-        "releaseDate": "1975-12-18",
-        "runtime": 185,
-        "voteAverage": 8.006,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/dOJtBSyI30wWc08UmyEKLsu4Rfk.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/okdg55jhsr9k1F2lxsZoQncrLZL.jpg",
-        "director": "Stanley Kubrick",
+        "id": 45978,
+        "title": "The 47 Ronin",
+        "tagline": "",
+        "overview": "In 1701, Lord Takuminokami Asano has a feud with Lord Kira and he tries to kill Kira in the corridors of the Shogun's palace. The Shogun sentences Lord Asano to commit suppuku and deprives the palace and lands from his clan, but does not punish Lord Kira. Lord Asano's vassals leave the land and his samurais become ronin and want to seek revenge against the dishonor of their Lord. But their leader Kuranosuke Oishi asks the Shogun to restore the Asano clan with his brother Daigaku Asano. One year later, the Shogun refuses his request and Oishi and forty-six ronin revenge their Lord.",
+        "releaseDate": "1941-12-08",
+        "runtime": 223,
+        "voteAverage": 7,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/9xCbHN8pITzOcJewSIPNxvxLT7k.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/v3sXtq2P6o086UV1LJ82agPASVa.jpg",
+        "director": "Kenji Mizoguchi",
         "cast": [
-            "Ryan O'Neal",
-            "Marisa Berenson",
-            "Patrick Magee",
-            "Hardy Kr\u00fcger",
-            "Steven Berkoff"
+            "Ch\u014dj\u016br\u014d Kawarasaki",
+            "Kan'emon Nakamura",
+            "Kunitar\u014d Kawarasaki",
+            "Ch\u014demon Band\u014d",
+            "Kikunojo Segawa"
         ],
         "genres": [
             "Drama",
-            "Romance",
-            "War",
             "History"
         ]
     }
