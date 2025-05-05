@@ -1,27 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-05-04",
+    "lastUpdated": "2025-05-05",
     "movie": {
-        "id": 45978,
-        "title": "The 47 Ronin",
-        "tagline": "",
-        "overview": "In 1701, Lord Takuminokami Asano has a feud with Lord Kira and he tries to kill Kira in the corridors of the Shogun's palace. The Shogun sentences Lord Asano to commit suppuku and deprives the palace and lands from his clan, but does not punish Lord Kira. Lord Asano's vassals leave the land and his samurais become ronin and want to seek revenge against the dishonor of their Lord. But their leader Kuranosuke Oishi asks the Shogun to restore the Asano clan with his brother Daigaku Asano. One year later, the Shogun refuses his request and Oishi and forty-six ronin revenge their Lord.",
-        "releaseDate": "1941-12-08",
-        "runtime": 223,
-        "voteAverage": 7,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/9xCbHN8pITzOcJewSIPNxvxLT7k.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/v3sXtq2P6o086UV1LJ82agPASVa.jpg",
-        "director": "Kenji Mizoguchi",
+        "id": 473033,
+        "title": "Uncut Gems",
+        "tagline": "This is how I win.",
+        "overview": "A charismatic New York City jeweler always on the lookout for the next big score makes a series of high-stakes bets that could lead to the windfall of a lifetime. Howard must perform a precarious high-wire act, balancing business, family, and encroaching adversaries on all sides in his relentless pursuit of the ultimate win.",
+        "releaseDate": "2019-08-30",
+        "runtime": 136,
+        "voteAverage": 7.2,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/6XN1vxHc7kUSqNWtaQKN45J5x2v.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/3gmXCrXHAfsdaNRScoXce6mMBL4.jpg",
+        "director": "Benny Safdie",
         "cast": [
-            "Ch\u014dj\u016br\u014d Kawarasaki",
-            "Kan'emon Nakamura",
-            "Kunitar\u014d Kawarasaki",
-            "Ch\u014demon Band\u014d",
-            "Kikunojo Segawa"
+            "Adam Sandler",
+            "LaKeith Stanfield",
+            "Julia Fox",
+            "Kevin Garnett",
+            "Idina Menzel"
         ],
         "genres": [
             "Drama",
-            "History"
+            "Thriller",
+            "Crime"
         ]
     }
 }
