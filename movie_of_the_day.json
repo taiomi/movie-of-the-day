@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-05-05",
+    "lastUpdated": "2025-05-06",
     "movie": {
-        "id": 473033,
-        "title": "Uncut Gems",
-        "tagline": "This is how I win.",
-        "overview": "A charismatic New York City jeweler always on the lookout for the next big score makes a series of high-stakes bets that could lead to the windfall of a lifetime. Howard must perform a precarious high-wire act, balancing business, family, and encroaching adversaries on all sides in his relentless pursuit of the ultimate win.",
-        "releaseDate": "2019-08-30",
-        "runtime": 136,
-        "voteAverage": 7.2,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/6XN1vxHc7kUSqNWtaQKN45J5x2v.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/3gmXCrXHAfsdaNRScoXce6mMBL4.jpg",
-        "director": "Benny Safdie",
+        "id": 545611,
+        "title": "Everything Everywhere All at Once",
+        "tagline": "The universe is so much bigger than you realize.",
+        "overview": "An aging Chinese immigrant is swept up in an insane adventure, where she alone can save what's important to her by connecting with the lives she could have led in other universes.",
+        "releaseDate": "2022-03-24",
+        "runtime": 140,
+        "voteAverage": 7.76,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/u68AjlvlutfEIcpmbYpKcdi09ut.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/ss0Os3uWJfQAENILHZUdX8Tt1OC.jpg",
+        "director": "Daniel Scheinert",
         "cast": [
-            "Adam Sandler",
-            "LaKeith Stanfield",
-            "Julia Fox",
-            "Kevin Garnett",
-            "Idina Menzel"
+            "Michelle Yeoh",
+            "Stephanie Hsu",
+            "Ke Huy Quan",
+            "James Hong",
+            "Jamie Lee Curtis"
         ],
         "genres": [
-            "Drama",
-            "Thriller",
-            "Crime"
+            "Action",
+            "Adventure",
+            "Science Fiction"
         ]
     }
 }
