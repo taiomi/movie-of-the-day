@@ -1,28 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-05-06",
+    "lastUpdated": "2025-05-07",
     "movie": {
-        "id": 545611,
-        "title": "Everything Everywhere All at Once",
-        "tagline": "The universe is so much bigger than you realize.",
-        "overview": "An aging Chinese immigrant is swept up in an insane adventure, where she alone can save what's important to her by connecting with the lives she could have led in other universes.",
-        "releaseDate": "2022-03-24",
-        "runtime": 140,
-        "voteAverage": 7.76,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/u68AjlvlutfEIcpmbYpKcdi09ut.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/ss0Os3uWJfQAENILHZUdX8Tt1OC.jpg",
-        "director": "Daniel Scheinert",
+        "id": 36040,
+        "title": "Walkabout",
+        "tagline": "A boy and girl face the challenge of the world's last frontier.",
+        "overview": "Under the pretense of having a picnic, a geologist takes his teenage daughter and 6-year-old son into the Australian outback and attempts to shoot them. When he fails, he turns the gun on himself, and the two city-bred children must contend with harsh wilderness alone. They are saved by a chance encounter with an Aboriginal boy who shows them how to survive, and in the process underscores the disharmony between nature and modern life.",
+        "releaseDate": "1971-07-01",
+        "runtime": 95,
+        "voteAverage": 7.293,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/24vooYt5StgtgcQObVr1GHuM5gy.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/lejpdSUB8aIhr1xkMgtFzJqpb2N.jpg",
+        "director": "Nicolas Roeg",
         "cast": [
-            "Michelle Yeoh",
-            "Stephanie Hsu",
-            "Ke Huy Quan",
-            "James Hong",
-            "Jamie Lee Curtis"
+            "Jenny Agutter",
+            "Luc Roeg",
+            "David Gulpilil",
+            "John Meillon",
+            "Robert McDarra"
         ],
         "genres": [
-            "Action",
             "Adventure",
-            "Science Fiction"
+            "Drama"
         ]
     }
 }
