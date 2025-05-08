@@ -1,27 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-05-07",
+    "lastUpdated": "2025-05-08",
     "movie": {
-        "id": 36040,
-        "title": "Walkabout",
-        "tagline": "A boy and girl face the challenge of the world's last frontier.",
-        "overview": "Under the pretense of having a picnic, a geologist takes his teenage daughter and 6-year-old son into the Australian outback and attempts to shoot them. When he fails, he turns the gun on himself, and the two city-bred children must contend with harsh wilderness alone. They are saved by a chance encounter with an Aboriginal boy who shows them how to survive, and in the process underscores the disharmony between nature and modern life.",
-        "releaseDate": "1971-07-01",
-        "runtime": 95,
-        "voteAverage": 7.293,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/24vooYt5StgtgcQObVr1GHuM5gy.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/lejpdSUB8aIhr1xkMgtFzJqpb2N.jpg",
-        "director": "Nicolas Roeg",
+        "id": 203,
+        "title": "Mean Streets",
+        "tagline": "Go to church on Sunday. Go to Hell on Monday.",
+        "overview": "A small-time hood must choose from among love, friendship and the chance to rise within the mob.",
+        "releaseDate": "1973-10-14",
+        "runtime": 111,
+        "voteAverage": 7.081,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/2t6RrPFGJjeKvI02OhKAg75bQUI.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/qdecDSIVoqctIoYoOhLH3TgSYLD.jpg",
+        "director": "Martin Scorsese",
         "cast": [
-            "Jenny Agutter",
-            "Luc Roeg",
-            "David Gulpilil",
-            "John Meillon",
-            "Robert McDarra"
+            "Harvey Keitel",
+            "Robert De Niro",
+            "David Proval",
+            "Richard Romanus",
+            "Amy Robinson"
         ],
         "genres": [
-            "Adventure",
-            "Drama"
+            "Drama",
+            "Crime"
         ]
     }
 }
