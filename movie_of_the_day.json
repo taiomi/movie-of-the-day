@@ -1,27 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-05-09",
+    "lastUpdated": "2025-05-10",
     "movie": {
-        "id": 716612,
-        "title": "Spencer",
-        "tagline": "Every fairy tale ends.",
-        "overview": "During her Christmas holidays with the royal family at the Sandringham estate in Norfolk, England, Diana decides to leave her marriage to Prince Charles.",
-        "releaseDate": "2021-11-04",
-        "runtime": 117,
-        "voteAverage": 6.759,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/j0XxLH1QcOrnyxBLvMYWJZSzLfH.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/uAf1Ua3UDm8cDR2CgNGbZepOqDV.jpg",
-        "director": "Pablo Larra\u00edn",
+        "id": 8741,
+        "title": "The Thin Red Line",
+        "tagline": "Every man fights his own war.",
+        "overview": "The story of a group of men, an Army Rifle company called C-for-Charlie, who change, suffer, and ultimately make essential discoveries about themselves during the fierce World War II battle of Guadalcanal. It follows their journey, from the surprise of an unopposed landing, through the bloody and exhausting battles that follow, to the ultimate departure of those who survived.",
+        "releaseDate": "1998-12-23",
+        "runtime": 171,
+        "voteAverage": 7.5,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/seMydAaoxQP6F0xbE1jOcTmn5Jr.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/hsDyfAk2ml82IrpPC4AHvxvuTsn.jpg",
+        "director": "Terrence Malick",
         "cast": [
-            "Kristen Stewart",
-            "Timothy Spall",
-            "Jack Nielen",
-            "Freddie Spry",
-            "Jack Farthing"
+            "Sean Penn",
+            "Jim Caviezel",
+            "Nick Nolte",
+            "Adrien Brody",
+            "George Clooney"
         ],
         "genres": [
             "Drama",
-            "History"
+            "History",
+            "War"
         ]
     }
 }
