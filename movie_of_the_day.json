@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-05-11",
+    "lastUpdated": "2025-05-12",
     "movie": {
-        "id": 2252,
-        "title": "Eastern Promises",
-        "tagline": "Every sin leaves a mark.",
-        "overview": "A Russian teenager living in London dies during childbirth but leaves clues in her diary that could tie her child to a rape involving a violent Russian mob family.",
-        "releaseDate": "2007-09-14",
-        "runtime": 101,
-        "voteAverage": 7.356,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/dpiJWb4NrWgcOg2rusuLhDM0hTm.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/mhgfOLtAiJk1nm3kKlkiUKl7e9M.jpg",
-        "director": "David Cronenberg",
+        "id": 62,
+        "title": "2001: A Space Odyssey",
+        "tagline": "An epic drama of adventure and exploration.",
+        "overview": "Humanity finds a mysterious object buried beneath the lunar surface and sets off to find its origins with the help of HAL 9000, the world's most advanced super computer.",
+        "releaseDate": "1968-04-02",
+        "runtime": 149,
+        "voteAverage": 8.1,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/w5IDXtifKntw0ajv2co7jFlTQDM.jpg",
+        "director": "Stanley Kubrick",
         "cast": [
-            "Viggo Mortensen",
-            "Naomi Watts",
-            "Vincent Cassel",
-            "Armin Mueller-Stahl",
-            "Sin\u00e9ad Cusack"
+            "Keir Dullea",
+            "Gary Lockwood",
+            "William Sylvester",
+            "Douglas Rain",
+            "Daniel Richter"
         ],
         "genres": [
-            "Thriller",
-            "Crime",
-            "Mystery"
+            "Science Fiction",
+            "Mystery",
+            "Adventure"
         ]
     }
 }
