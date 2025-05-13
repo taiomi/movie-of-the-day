@@ -1,28 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-05-12",
+    "lastUpdated": "2025-05-13",
     "movie": {
-        "id": 62,
-        "title": "2001: A Space Odyssey",
-        "tagline": "An epic drama of adventure and exploration.",
-        "overview": "Humanity finds a mysterious object buried beneath the lunar surface and sets off to find its origins with the help of HAL 9000, the world's most advanced super computer.",
-        "releaseDate": "1968-04-02",
-        "runtime": 149,
-        "voteAverage": 8.1,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/w5IDXtifKntw0ajv2co7jFlTQDM.jpg",
-        "director": "Stanley Kubrick",
+        "id": 581734,
+        "title": "Nomadland",
+        "tagline": "See you down the road.",
+        "overview": "A woman in her sixties embarks on a journey through the western United States after losing everything in the Great Recession, living as a van-dwelling modern-day nomad.",
+        "releaseDate": "2021-01-29",
+        "runtime": 108,
+        "voteAverage": 7.191,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/k5XzjWihzum1YgLMlqRDRZDmVMn.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/563sRDK3rZS31TXCdTY4lfcwrNK.jpg",
+        "director": "Chlo\u00e9 Zhao",
         "cast": [
-            "Keir Dullea",
-            "Gary Lockwood",
-            "William Sylvester",
-            "Douglas Rain",
-            "Daniel Richter"
+            "Frances McDormand",
+            "David Strathairn",
+            "Linda May",
+            "Swankie",
+            "Gay DeForest"
         ],
         "genres": [
-            "Science Fiction",
-            "Mystery",
-            "Adventure"
+            "Drama"
         ]
     }
 }
