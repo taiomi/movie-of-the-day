@@ -1,26 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-05-13",
+    "lastUpdated": "2025-05-14",
     "movie": {
-        "id": 581734,
-        "title": "Nomadland",
-        "tagline": "See you down the road.",
-        "overview": "A woman in her sixties embarks on a journey through the western United States after losing everything in the Great Recession, living as a van-dwelling modern-day nomad.",
-        "releaseDate": "2021-01-29",
-        "runtime": 108,
-        "voteAverage": 7.191,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/k5XzjWihzum1YgLMlqRDRZDmVMn.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/563sRDK3rZS31TXCdTY4lfcwrNK.jpg",
-        "director": "Chlo\u00e9 Zhao",
+        "id": 10747,
+        "title": "The Outlaw Josey Wales",
+        "tagline": "...an army of one.",
+        "overview": "After avenging his family's brutal murder, Wales is pursued by a pack of soldiers. He prefers to travel alone, but ragtag outcasts are drawn to him - and Wales can't bring himself to leave them unprotected.",
+        "releaseDate": "1976-06-30",
+        "runtime": 135,
+        "voteAverage": 7.4,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/92BZIFPbyCPNhExyFScxA3xF1dy.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/gyaWP5k6JbxTcaqQQFDF09cF9s9.jpg",
+        "director": "Clint Eastwood",
         "cast": [
-            "Frances McDormand",
-            "David Strathairn",
-            "Linda May",
-            "Swankie",
-            "Gay DeForest"
+            "Clint Eastwood",
+            "Chief Dan George",
+            "Sondra Locke",
+            "Bill McKinney",
+            "John Vernon"
         ],
         "genres": [
-            "Drama"
+            "Western"
         ]
     }
 }
