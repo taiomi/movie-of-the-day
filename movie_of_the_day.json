@@ -1,26 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-05-14",
+    "lastUpdated": "2025-05-15",
     "movie": {
-        "id": 10747,
-        "title": "The Outlaw Josey Wales",
-        "tagline": "...an army of one.",
-        "overview": "After avenging his family's brutal murder, Wales is pursued by a pack of soldiers. He prefers to travel alone, but ragtag outcasts are drawn to him - and Wales can't bring himself to leave them unprotected.",
-        "releaseDate": "1976-06-30",
-        "runtime": 135,
-        "voteAverage": 7.4,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/92BZIFPbyCPNhExyFScxA3xF1dy.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/gyaWP5k6JbxTcaqQQFDF09cF9s9.jpg",
-        "director": "Clint Eastwood",
+        "id": 20108,
+        "title": "Au Hasard Balthazar",
+        "tagline": "",
+        "overview": "The story of a donkey Balthazar as he is passed from owner to owner, some kind and some cruel but all with motivations beyond his understanding. Balthazar, whose life parallels that of his first keeper, Marie, is truly a beast of burden, suffering the sins of humankind. But despite his powerlessness, he accepts his fate nobly.",
+        "releaseDate": "1966-05-25",
+        "runtime": 96,
+        "voteAverage": 7.6,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/lkLO1HDzzaXpTXtAgnGpVqIQkvF.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/7LPz7NEYtLXcV44j0kRLLkZ54yH.jpg",
+        "director": "Robert Bresson",
         "cast": [
-            "Clint Eastwood",
-            "Chief Dan George",
-            "Sondra Locke",
-            "Bill McKinney",
-            "John Vernon"
+            "Anne Wiazemsky",
+            "Walter Green",
+            "Fran\u00e7ois Lafarge",
+            "Jean-Claude Guilbert",
+            "Philippe Asselin"
         ],
         "genres": [
-            "Western"
+            "Drama"
         ]
     }
 }
