@@ -1,27 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-05-16",
+    "lastUpdated": "2025-05-17",
     "movie": {
-        "id": 576845,
-        "title": "Last Night in Soho",
-        "tagline": "When the past lets you in, the truth will come out.",
-        "overview": "A young girl, passionate about fashion design, is mysteriously able to enter the 1960s where she encounters her idol, a dazzling wannabe singer. But 1960s London is not what it seems, and time seems to be falling apart with shady consequences.",
-        "releaseDate": "2021-10-21",
-        "runtime": 116,
-        "voteAverage": 7.296,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/n1ZRmjlk1BJTY7aASqACfPAaLn2.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/nPWy5KISy7BbUOQcg588dflKzTL.jpg",
-        "director": "Edgar Wright",
+        "id": 492188,
+        "title": "Marriage Story",
+        "tagline": "Where there's a love, there's a way.",
+        "overview": "A stage director and an actress struggle through a grueling, coast-to-coast divorce that pushes them to their personal extremes.",
+        "releaseDate": "2019-09-28",
+        "runtime": 137,
+        "voteAverage": 7.734,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/2JRyCKaRKyJAVpsIHeLvPw5nHmw.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/wu7nX9BQwDAnDdQutINEP2LfTSR.jpg",
+        "director": "Noah Baumbach",
         "cast": [
-            "Thomasin McKenzie",
-            "Anya Taylor-Joy",
-            "Matt Smith",
-            "Rita Tushingham",
-            "Michael Ajao"
+            "Adam Driver",
+            "Scarlett Johansson",
+            "Laura Dern",
+            "Alan Alda",
+            "Ray Liotta"
         ],
         "genres": [
-            "Horror",
-            "Mystery"
+            "Drama"
         ]
     }
 }
