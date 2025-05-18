@@ -1,23 +1,23 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-05-17",
+    "lastUpdated": "2025-05-18",
     "movie": {
-        "id": 492188,
-        "title": "Marriage Story",
-        "tagline": "Where there's a love, there's a way.",
-        "overview": "A stage director and an actress struggle through a grueling, coast-to-coast divorce that pushes them to their personal extremes.",
-        "releaseDate": "2019-09-28",
-        "runtime": 137,
-        "voteAverage": 7.734,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/2JRyCKaRKyJAVpsIHeLvPw5nHmw.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/wu7nX9BQwDAnDdQutINEP2LfTSR.jpg",
-        "director": "Noah Baumbach",
+        "id": 11490,
+        "title": "The Child",
+        "tagline": "",
+        "overview": "Bruno and Sonia, a young couple living off her benefit and the thefts committed by his gang, have a new source of money: their newborn son.\r Bruno, 20, and Sonia, 18, live off the young girl's allowance and the petty thefts committed by him and his gang. Sonia has just given birth to Jimmy, their child. The carefree Bruno, who until then had only cared about the here and now, must now learn to become a father.",
+        "releaseDate": "2005-10-19",
+        "runtime": 95,
+        "voteAverage": 7.1,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/dk7ZpsVKLt2nwjQZZIde0WP4oQV.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/rCNR48c7ysIXmF2uqn8alwF4HKi.jpg",
+        "director": "Luc Dardenne",
         "cast": [
-            "Adam Driver",
-            "Scarlett Johansson",
-            "Laura Dern",
-            "Alan Alda",
-            "Ray Liotta"
+            "J\u00e9r\u00e9mie Renier",
+            "D\u00e9borah Fran\u00e7ois",
+            "Olivier Gourmet",
+            "J\u00e9r\u00e9mie Segard",
+            "St\u00e9phane Bissot"
         ],
         "genres": [
             "Drama"
