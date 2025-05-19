@@ -1,26 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-05-18",
+    "lastUpdated": "2025-05-19",
     "movie": {
-        "id": 11490,
-        "title": "The Child",
-        "tagline": "Children",
-        "overview": "Bruno and Sonia, a young couple living off her benefit and the thefts committed by his gang, have a new source of money: their newborn son.\r Bruno, 20, and Sonia, 18, live off the young girl's allowance and the petty thefts committed by him and his gang. Sonia has just given birth to Jimmy, their child. The carefree Bruno, who until then had only cared about the here and now, must now learn to become a father.",
-        "releaseDate": "2005-10-19",
-        "runtime": 95,
-        "voteAverage": 7.1,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/dk7ZpsVKLt2nwjQZZIde0WP4oQV.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/rCNR48c7ysIXmF2uqn8alwF4HKi.jpg",
-        "director": "Luc Dardenne",
+        "id": 13320,
+        "title": "Funny Face",
+        "tagline": "'S Wonderful! 'S Marvelous!",
+        "overview": "A shy Greenwich Village book clerk is discovered by a fashion photographer and whisked off to Paris where she becomes a reluctant model.",
+        "releaseDate": "1957-02-13",
+        "runtime": 103,
+        "voteAverage": 7,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/7yFRrAAClKMycrOB4500hqQEx53.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/9VJh0YPms8QM8GYDvt5wtmRsCU5.jpg",
+        "director": "Stanley Donen",
         "cast": [
-            "J\u00e9r\u00e9mie Renier",
-            "D\u00e9borah Fran\u00e7ois",
-            "Olivier Gourmet",
-            "J\u00e9r\u00e9mie Segard",
-            "St\u00e9phane Bissot"
+            "Audrey Hepburn",
+            "Fred Astaire",
+            "Kay Thompson",
+            "Michel Auclair",
+            "Robert Flemyng"
         ],
         "genres": [
-            "Drama"
+            "Music",
+            "Comedy",
+            "Romance"
         ]
     }
 }
