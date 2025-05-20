@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-05-19",
+    "lastUpdated": "2025-05-20",
     "movie": {
-        "id": 13320,
-        "title": "Funny Face",
-        "tagline": "'S Wonderful! 'S Marvelous!",
-        "overview": "A shy Greenwich Village book clerk is discovered by a fashion photographer and whisked off to Paris where she becomes a reluctant model.",
-        "releaseDate": "1957-02-13",
-        "runtime": 103,
-        "voteAverage": 7,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/7yFRrAAClKMycrOB4500hqQEx53.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/9VJh0YPms8QM8GYDvt5wtmRsCU5.jpg",
-        "director": "Stanley Donen",
+        "id": 46326,
+        "title": "Port of Shadows",
+        "tagline": "Tender... frankly adult. Filled with almost every emotion known to man",
+        "overview": "Down a foggy, desolate road to the port city of Le Havre travels Jean, an army deserter looking for another chance to make good on life. Fate, however, has a different plan for him, as acts of both revenge and kindness render him front-page news.",
+        "releaseDate": "1938-05-17",
+        "runtime": 93,
+        "voteAverage": 7.4,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/2S8O2V50TZlXV8uabOvGUJ1i5CZ.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/tdRp4HCCw4YoWtZuqlePNcZ0nCA.jpg",
+        "director": "Marcel Carn\u00e9",
         "cast": [
-            "Audrey Hepburn",
-            "Fred Astaire",
-            "Kay Thompson",
-            "Michel Auclair",
-            "Robert Flemyng"
+            "Jean Gabin",
+            "Michel Simon",
+            "Mich\u00e8le Morgan",
+            "Pierre Brasseur",
+            "\u00c9douard Delmont"
         ],
         "genres": [
-            "Music",
-            "Comedy",
-            "Romance"
+            "Romance",
+            "Drama",
+            "Crime"
         ]
     }
 }
