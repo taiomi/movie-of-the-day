@@ -1,28 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-05-20",
+    "lastUpdated": "2025-05-21",
     "movie": {
-        "id": 46326,
-        "title": "Port of Shadows",
-        "tagline": "Tender... frankly adult. Filled with almost every emotion known to man",
-        "overview": "Down a foggy, desolate road to the port city of Le Havre travels Jean, an army deserter looking for another chance to make good on life. Fate, however, has a different plan for him, as acts of both revenge and kindness render him front-page news.",
-        "releaseDate": "1938-05-17",
-        "runtime": 93,
-        "voteAverage": 7.4,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/2S8O2V50TZlXV8uabOvGUJ1i5CZ.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/tdRp4HCCw4YoWtZuqlePNcZ0nCA.jpg",
-        "director": "Marcel Carn\u00e9",
+        "id": 10858,
+        "title": "Nixon",
+        "tagline": "Triumphant in Victory, Bitter in Defeat. He Changed the World, But Lost a Nation.",
+        "overview": "A look at President Richard M. Nixon\u2014a man carrying the fate of the world on his shoulders while battling the self-destructive demands from within\u2014spanning his troubled boyhood in California to the shocking Watergate scandal that would end his Presidency.",
+        "releaseDate": "1995-12-22",
+        "runtime": 192,
+        "voteAverage": 6.874,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/8O2sBYJq0K0EMpw67cU1PjVJ7w3.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/zAaFQHZV23SJgSwRBvW5PeD219H.jpg",
+        "director": "Oliver Stone",
         "cast": [
-            "Jean Gabin",
-            "Michel Simon",
-            "Mich\u00e8le Morgan",
-            "Pierre Brasseur",
-            "\u00c9douard Delmont"
+            "Anthony Hopkins",
+            "Joan Allen",
+            "Powers Boothe",
+            "Ed Harris",
+            "Bob Hoskins"
         ],
         "genres": [
-            "Romance",
             "Drama",
-            "Crime"
+            "History"
         ]
     }
 }
