@@ -1,27 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-05-21",
+    "lastUpdated": "2025-05-22",
     "movie": {
-        "id": 10858,
-        "title": "Nixon",
-        "tagline": "Triumphant in Victory, Bitter in Defeat. He Changed the World, But Lost a Nation.",
-        "overview": "A look at President Richard M. Nixon\u2014a man carrying the fate of the world on his shoulders while battling the self-destructive demands from within\u2014spanning his troubled boyhood in California to the shocking Watergate scandal that would end his Presidency.",
-        "releaseDate": "1995-12-22",
-        "runtime": 192,
-        "voteAverage": 6.874,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/8O2sBYJq0K0EMpw67cU1PjVJ7w3.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/zAaFQHZV23SJgSwRBvW5PeD219H.jpg",
-        "director": "Oliver Stone",
+        "id": 109,
+        "title": "Three Colors: White",
+        "tagline": "",
+        "overview": "Polish immigrant Karol Karol finds himself out of a marriage, a job and a country when his French wife, Dominique, divorces him after six months due to his impotence. Forced to leave France after losing the business they jointly owned, Karol enlists fellow Polish expatriate Miko\u0142aj to smuggle him back to their homeland.",
+        "releaseDate": "1994-01-26",
+        "runtime": 92,
+        "voteAverage": 7.453,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/fdIet3NSa27gobMbaUml66oCQNT.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/yOpNvGSsT0YECuhhrlGBLIshh0u.jpg",
+        "director": "Krzysztof Kie\u015blowski",
         "cast": [
-            "Anthony Hopkins",
-            "Joan Allen",
-            "Powers Boothe",
-            "Ed Harris",
-            "Bob Hoskins"
+            "Zbigniew Zamachowski",
+            "Julie Delpy",
+            "Janusz Gajos",
+            "Jerzy Stuhr",
+            "Grzegorz Warcho\u0142"
         ],
         "genres": [
+            "Comedy",
             "Drama",
-            "History"
+            "Mystery"
         ]
     }
 }
