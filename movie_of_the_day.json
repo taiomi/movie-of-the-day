@@ -1,26 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-05-23",
+    "lastUpdated": "2025-05-24",
     "movie": {
-        "id": 11772,
-        "title": "The Haunting",
-        "tagline": "You may not believe in ghosts but you cannot deny terror.",
-        "overview": "Dr. Markway, doing research to prove the existence of ghosts, investigates Hill House, a large, eerie mansion with a lurid history of violent death and insanity.",
-        "releaseDate": "1963-08-21",
-        "runtime": 112,
-        "voteAverage": 7.081,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/fmpTnUKTcrpuxLSY23gQMUf9qu7.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/9CVUzIPyBMnHsDDighQNgkDYsP9.jpg",
-        "director": "Robert Wise",
+        "id": 122081,
+        "title": "Spring Breakers",
+        "tagline": "A little sun can bring out your dark side.",
+        "overview": "After four college girls rob a restaurant to fund their spring break in Florida, they get entangled with a weird dude with his own criminal agenda.",
+        "releaseDate": "2013-03-06",
+        "runtime": 94,
+        "voteAverage": 5.2,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/9tyPnyEkL44qbAliM9jMRWc6bjg.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/3eMxTkvHM6G1lHugBvFGVpcJFUa.jpg",
+        "director": "Harmony Korine",
         "cast": [
-            "Julie Harris",
-            "Claire Bloom",
-            "Richard Johnson",
-            "Russ Tamblyn",
-            "Fay Compton"
+            "James Franco",
+            "Selena Gomez",
+            "Vanessa Hudgens",
+            "Ashley Benson",
+            "Rachel Korine"
         ],
         "genres": [
-            "Horror"
+            "Drama",
+            "Crime"
         ]
     }
 }
