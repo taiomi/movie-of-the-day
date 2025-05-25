@@ -298,3 +298,7 @@
 [2025-05-24 03:06:32] Selected movie: Spring Breakers (ID: 122081) for day 68 since start
 [2025-05-24 03:06:32] Successfully saved movie data for: Spring Breakers
 [2025-05-24 03:06:32] Movie fetch process completed
+[2025-05-25 03:20:22] Starting movie fetch process
+[2025-05-25 03:20:22] Selected movie: The Wizard of Oz (ID: 630) for day 69 since start
+[2025-05-25 03:20:22] Successfully saved movie data for: The Wizard of Oz
+[2025-05-25 03:20:22] Movie fetch process completed
