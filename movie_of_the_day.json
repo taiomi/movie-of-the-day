@@ -1,27 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-05-28",
+    "lastUpdated": "2025-05-29",
     "movie": {
-        "id": 18333,
-        "title": "Hour of the Wolf",
-        "tagline": "The hour of the wolf is the hour between night and dawn. It is the hour when most people die, when sleep is the deepest, when nightmares feel most real.",
-        "overview": "While vacationing on a remote German island with his pregnant wife, an artist has an emotional breakdown while confronting his repressed desires.",
-        "releaseDate": "1968-02-19",
-        "runtime": 88,
-        "voteAverage": 7.4,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/jSqTnEP1x1OcOglqrInYvGSF1tL.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/pEHxojfy6EGOZ3e7TU9lREpWvNN.jpg",
-        "director": "Ingmar Bergman",
+        "id": 241,
+        "title": "Natural Born Killers",
+        "tagline": "The media made them superstars.",
+        "overview": "Two victims of traumatized childhoods become lovers and serial murderers irresponsibly glorified by the mass media.",
+        "releaseDate": "1994-08-26",
+        "runtime": 118,
+        "voteAverage": 7.1,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/fEKZwT91gxvkAoyPgpNXo8W5fu0.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/k3TOt50cHvTLXWYPnXP0szhiXB8.jpg",
+        "director": "Oliver Stone",
         "cast": [
-            "Max von Sydow",
-            "Liv Ullmann",
-            "Gertrud Fridh",
-            "Georg Rydeberg",
-            "Erland Josephson"
+            "Woody Harrelson",
+            "Juliette Lewis",
+            "Robert Downey Jr.",
+            "Tommy Lee Jones",
+            "Tom Sizemore"
         ],
         "genres": [
-            "Drama",
-            "Horror"
+            "Crime",
+            "Thriller",
+            "Drama"
         ]
     }
 }
