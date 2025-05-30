@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-05-29",
+    "lastUpdated": "2025-05-30",
     "movie": {
-        "id": 241,
-        "title": "Natural Born Killers",
-        "tagline": "The media made them superstars.",
-        "overview": "Two victims of traumatized childhoods become lovers and serial murderers irresponsibly glorified by the mass media.",
-        "releaseDate": "1994-08-26",
-        "runtime": 118,
-        "voteAverage": 7.1,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/fEKZwT91gxvkAoyPgpNXo8W5fu0.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/k3TOt50cHvTLXWYPnXP0szhiXB8.jpg",
-        "director": "Oliver Stone",
+        "id": 905,
+        "title": "Pandora's Box",
+        "tagline": "",
+        "overview": "Lulu is a young woman so beautiful and alluring that few can resist her siren charms. The men drawn into her web include respectable newspaper publisher Dr. Ludwig Sch\u00f6n, his musical producer son Alwa, circus performer Rodrigo Quast, and seedy old Schigolch. When Lulu's charms inevitably lead to tragedy, the downward spiral encompasses them all.",
+        "releaseDate": "1929-01-30",
+        "runtime": 133,
+        "voteAverage": 7.5,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/qlAMlgm8lm859GkxSpbr2ziixXE.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/y3WwIEEDcbT88MxjCjM8mlBEF04.jpg",
+        "director": "G.W. Pabst",
         "cast": [
-            "Woody Harrelson",
-            "Juliette Lewis",
-            "Robert Downey Jr.",
-            "Tommy Lee Jones",
-            "Tom Sizemore"
+            "Louise Brooks",
+            "Fritz Kortner",
+            "Francis Lederer",
+            "Carl Goetz",
+            "Krafft-Raschig"
         ],
         "genres": [
+            "Drama",
             "Crime",
-            "Thriller",
-            "Drama"
+            "Romance"
         ]
     }
 }
