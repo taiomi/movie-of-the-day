@@ -1,28 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-05-30",
+    "lastUpdated": "2025-05-31",
     "movie": {
-        "id": 905,
-        "title": "Pandora's Box",
-        "tagline": "",
-        "overview": "Lulu is a young woman so beautiful and alluring that few can resist her siren charms. The men drawn into her web include respectable newspaper publisher Dr. Ludwig Sch\u00f6n, his musical producer son Alwa, circus performer Rodrigo Quast, and seedy old Schigolch. When Lulu's charms inevitably lead to tragedy, the downward spiral encompasses them all.",
-        "releaseDate": "1929-01-30",
-        "runtime": 133,
-        "voteAverage": 7.5,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/qlAMlgm8lm859GkxSpbr2ziixXE.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/y3WwIEEDcbT88MxjCjM8mlBEF04.jpg",
-        "director": "G.W. Pabst",
+        "id": 935,
+        "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "tagline": "The hot-line suspense comedy.",
+        "overview": "After the insane General Jack D. Ripper initiates a nuclear strike on the Soviet Union, a war room full of politicians, generals and a Russian diplomat all frantically try to stop the nuclear strike.",
+        "releaseDate": "1964-01-29",
+        "runtime": 95,
+        "voteAverage": 8.118,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/6x7MzQ6BOMlRzam1StcmPO9v61g.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/sTp8K0SfcC2RQef1Tu160z3niHO.jpg",
+        "director": "Stanley Kubrick",
         "cast": [
-            "Louise Brooks",
-            "Fritz Kortner",
-            "Francis Lederer",
-            "Carl Goetz",
-            "Krafft-Raschig"
+            "Peter Sellers",
+            "George C. Scott",
+            "Sterling Hayden",
+            "Keenan Wynn",
+            "Slim Pickens"
         ],
         "genres": [
-            "Drama",
-            "Crime",
-            "Romance"
+            "Comedy",
+            "War"
         ]
     }
 }
