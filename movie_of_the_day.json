@@ -1,28 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-06-01",
+    "lastUpdated": "2025-06-02",
     "movie": {
-        "id": 10728,
-        "title": "Faust",
-        "tagline": "The Voice of the Tempter.",
-        "overview": "God and Satan war over earth; to settle things, they wager on the soul of Faust, a learned and prayerful alchemist.",
-        "releaseDate": "1926-10-13",
-        "runtime": 116,
-        "voteAverage": 7.898,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/rN703hMFxmkZfyEzsXvFtuFhkXE.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/vBOKLF3nhdaKRiCvmdoIUTikG2X.jpg",
-        "director": "F. W. Murnau",
+        "id": 11778,
+        "title": "The Deer Hunter",
+        "tagline": "God bless America.",
+        "overview": "A group of working-class friends decide to enlist in the Army during the Vietnam War and finds it to be hellish chaos -- not the noble venture they imagined. Before they left, Steven married his pregnant girlfriend -- and Michael and Nick were in love with the same woman. But all three are different men upon their return.",
+        "releaseDate": "1978-12-08",
+        "runtime": 183,
+        "voteAverage": 7.991,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/bbGtogDZOg09bm42KIpCXUXICkh.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/ojG57hVx69vhk5DDGPIcfyRR55I.jpg",
+        "director": "Michael Cimino",
         "cast": [
-            "G\u00f6sta Ekman",
-            "Emil Jannings",
-            "Camilla Horn",
-            "Frida Richard",
-            "William Dieterle"
+            "Robert De Niro",
+            "Christopher Walken",
+            "John Cazale",
+            "John Savage",
+            "Meryl Streep"
         ],
         "genres": [
-            "Fantasy",
             "Drama",
-            "Horror"
+            "War"
         ]
     }
 }
