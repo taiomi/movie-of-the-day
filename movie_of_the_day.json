@@ -1,27 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-06-04",
+    "lastUpdated": "2025-06-05",
     "movie": {
-        "id": 36758,
-        "title": "The Portrait of a Lady",
-        "tagline": "Based on the Novel by Henry James.",
-        "overview": "Ms. Isabel Archer isn't afraid to challenge societal norms. Impressed by her free spirit, her kindhearted cousin writes her into his fatally ill father's will. Suddenly rich and independent, Isabelle ventures into the world, along the way befriending a cynical intellectual and romancing an art enthusiast. However, the advantage of her affluence is called into question when she realizes the extent to which her money colors her relationships.",
-        "releaseDate": "1996-10-17",
-        "runtime": 144,
-        "voteAverage": 6,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/yoUuMtWTQXzfARYE0nF7Nn7gRuS.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/8Dc6WVeJjJcl9muNJmuuoOgkiB7.jpg",
-        "director": "Jane Campion",
+        "id": 1675,
+        "title": "Day for Night",
+        "tagline": "A movie for people who love movies.",
+        "overview": "A committed film director struggles to complete his movie while coping with a myriad of crises, personal and professional, among the cast and crew.",
+        "releaseDate": "1973-05-24",
+        "runtime": 116,
+        "voteAverage": 7.8,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/e5xDrSx6zDEUlMe2dWKGhv88PDZ.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/6MbFN88F27WvGC9WhAXq5KUIgTj.jpg",
+        "director": "Fran\u00e7ois Truffaut",
         "cast": [
-            "Nicole Kidman",
-            "John Malkovich",
-            "Barbara Hershey",
-            "Mary-Louise Parker",
-            "Christian Bale"
+            "Jacqueline Bisset",
+            "Jean-Pierre L\u00e9aud",
+            "Fran\u00e7ois Truffaut",
+            "Jean-Pierre Aumont",
+            "Valentina Cortese"
         ],
         "genres": [
-            "Drama",
-            "Romance"
+            "Comedy",
+            "Drama"
         ]
     }
 }
