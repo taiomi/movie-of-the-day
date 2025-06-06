@@ -346,3 +346,7 @@
 [2025-06-05 03:16:34] Selected movie: Day for Night (ID: 1675) for day 80 since start
 [2025-06-05 03:16:34] Successfully saved movie data for: Day for Night
 [2025-06-05 03:16:34] Movie fetch process completed
+[2025-06-06 03:16:04] Starting movie fetch process
+[2025-06-06 03:16:04] Selected movie: Mystic River (ID: 322) for day 81 since start
+[2025-06-06 03:16:04] Successfully saved movie data for: Mystic River
+[2025-06-06 03:16:04] Movie fetch process completed

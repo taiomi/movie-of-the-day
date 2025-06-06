@@ -1,27 +1,29 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-06-05",
+    "lastUpdated": "2025-06-06",
     "movie": {
-        "id": 1675,
-        "title": "Day for Night",
-        "tagline": "A movie for people who love movies.",
-        "overview": "A committed film director struggles to complete his movie while coping with a myriad of crises, personal and professional, among the cast and crew.",
-        "releaseDate": "1973-05-24",
-        "runtime": 116,
-        "voteAverage": 7.8,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/e5xDrSx6zDEUlMe2dWKGhv88PDZ.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/6MbFN88F27WvGC9WhAXq5KUIgTj.jpg",
-        "director": "Fran\u00e7ois Truffaut",
+        "id": 322,
+        "title": "Mystic River",
+        "tagline": "We bury our sins, we wash them clean.",
+        "overview": "The lives of three men who were childhood friends are shattered when one of them suffers a family tragedy.",
+        "releaseDate": "2003-10-07",
+        "runtime": 138,
+        "voteAverage": 7.744,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/hCHVDbo6XJGj3r2i4hVjKhE0GKF.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/4ycpMe25LYpzGW42U9amyW9gM53.jpg",
+        "director": "Clint Eastwood",
         "cast": [
-            "Jacqueline Bisset",
-            "Jean-Pierre L\u00e9aud",
-            "Fran\u00e7ois Truffaut",
-            "Jean-Pierre Aumont",
-            "Valentina Cortese"
+            "Sean Penn",
+            "Tim Robbins",
+            "Kevin Bacon",
+            "Laurence Fishburne",
+            "Marcia Gay Harden"
         ],
         "genres": [
-            "Comedy",
-            "Drama"
+            "Thriller",
+            "Crime",
+            "Drama",
+            "Mystery"
         ]
     }
 }
