@@ -1,28 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-06-07",
+    "lastUpdated": "2025-06-08",
     "movie": {
-        "id": 483,
-        "title": "Wild at Heart",
-        "tagline": "A wild and crazy love story.",
-        "overview": "Young lovers Sailor and Lula hit the road to start a new life together away from the wrath of Lula\u2019s deranged, disapproving mother, who has hired a team of hitmen to cut the lovers\u2019 surreal honeymoon short.",
-        "releaseDate": "1990-08-17",
-        "runtime": 125,
-        "voteAverage": 7.041,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/uLUFI5sJIfWrBUWB2Y1dEuyvvVy.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/gy4RzOcJsRpJXOnZ7bWJEbE9UZ2.jpg",
-        "director": "David Lynch",
+        "id": 48231,
+        "title": "A Dangerous Method",
+        "tagline": "Why deny what you desire the most.",
+        "overview": "Seduced by the challenge of an impossible case, the driven Dr. Carl Jung takes the unbalanced yet beautiful Sabina Spielrein as his patient. Jung\u2019s weapon is the method of his master, the renowned Sigmund Freud. Both men fall under Sabina\u2019s spell.",
+        "releaseDate": "2011-09-30",
+        "runtime": 99,
+        "voteAverage": 6.353,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/7aU2xjjFhZzQzYXa0UM5JW01N4m.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/iGMz1vJEVZNdBafpE7vrHIj1Quo.jpg",
+        "director": "David Cronenberg",
         "cast": [
-            "Nicolas Cage",
-            "Laura Dern",
-            "Diane Ladd",
-            "Willem Dafoe",
-            "Harry Dean Stanton"
+            "Keira Knightley",
+            "Viggo Mortensen",
+            "Michael Fassbender",
+            "Sarah Gadon",
+            "Vincent Cassel"
         ],
         "genres": [
-            "Crime",
-            "Thriller",
-            "Romance"
+            "Drama",
+            "Thriller"
         ]
     }
 }
