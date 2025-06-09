@@ -1,27 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-06-08",
+    "lastUpdated": "2025-06-09",
     "movie": {
-        "id": 48231,
-        "title": "A Dangerous Method",
-        "tagline": "Why deny what you desire the most.",
-        "overview": "Seduced by the challenge of an impossible case, the driven Dr. Carl Jung takes the unbalanced yet beautiful Sabina Spielrein as his patient. Jung\u2019s weapon is the method of his master, the renowned Sigmund Freud. Both men fall under Sabina\u2019s spell.",
-        "releaseDate": "2011-09-30",
-        "runtime": 99,
-        "voteAverage": 6.353,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/7aU2xjjFhZzQzYXa0UM5JW01N4m.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/iGMz1vJEVZNdBafpE7vrHIj1Quo.jpg",
-        "director": "David Cronenberg",
+        "id": 309,
+        "title": "The Celebration",
+        "tagline": "Every family has a secret.",
+        "overview": "The family of a wealthy businessman gather to celebrate his 60th birthday. During the course of the party, his eldest son presents a speech that reveals a shocking secret.",
+        "releaseDate": "1998-06-19",
+        "runtime": 105,
+        "voteAverage": 7.727,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/2LRzNq41yrY8EjCnD1S8sCCPvKk.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/fENWhR8FPuQcBfFX752jlmmMqPU.jpg",
+        "director": "Thomas Vinterberg",
         "cast": [
-            "Keira Knightley",
-            "Viggo Mortensen",
-            "Michael Fassbender",
-            "Sarah Gadon",
-            "Vincent Cassel"
+            "Ulrich Thomsen",
+            "Henning Moritzen",
+            "Thomas Bo Larsen",
+            "Paprika Steen",
+            "Birthe Neumann"
         ],
         "genres": [
-            "Drama",
-            "Thriller"
+            "Drama"
         ]
     }
 }
