@@ -1,26 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-06-09",
+    "lastUpdated": "2025-06-10",
     "movie": {
-        "id": 309,
-        "title": "The Celebration",
-        "tagline": "Every family has a secret.",
-        "overview": "The family of a wealthy businessman gather to celebrate his 60th birthday. During the course of the party, his eldest son presents a speech that reveals a shocking secret.",
-        "releaseDate": "1998-06-19",
-        "runtime": 105,
-        "voteAverage": 7.727,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/2LRzNq41yrY8EjCnD1S8sCCPvKk.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/fENWhR8FPuQcBfFX752jlmmMqPU.jpg",
-        "director": "Thomas Vinterberg",
+        "id": 41050,
+        "title": "La Notte",
+        "tagline": "A new genre of motion picture... to make you think and feel.",
+        "overview": "A day in the life of an unfaithful married couple and their steadily deteriorating relationship in Milan.",
+        "releaseDate": "1961-01-24",
+        "runtime": 122,
+        "voteAverage": 7.971,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/xkd7wPJSIC76scBRHCFZ85uOH5d.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/8PevhwNGs33NhWdTgw49cG343jN.jpg",
+        "director": "Michelangelo Antonioni",
         "cast": [
-            "Ulrich Thomsen",
-            "Henning Moritzen",
-            "Thomas Bo Larsen",
-            "Paprika Steen",
-            "Birthe Neumann"
+            "Marcello Mastroianni",
+            "Jeanne Moreau",
+            "Monica Vitti",
+            "Bernhard Wicki",
+            "Rosy Mazzacurati"
         ],
         "genres": [
-            "Drama"
+            "Drama",
+            "Romance"
         ]
     }
 }
