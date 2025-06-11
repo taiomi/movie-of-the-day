@@ -1,27 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-06-10",
+    "lastUpdated": "2025-06-11",
     "movie": {
-        "id": 41050,
-        "title": "La Notte",
-        "tagline": "A new genre of motion picture... to make you think and feel.",
-        "overview": "A day in the life of an unfaithful married couple and their steadily deteriorating relationship in Milan.",
-        "releaseDate": "1961-01-24",
-        "runtime": 122,
-        "voteAverage": 7.971,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/xkd7wPJSIC76scBRHCFZ85uOH5d.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/8PevhwNGs33NhWdTgw49cG343jN.jpg",
-        "director": "Michelangelo Antonioni",
+        "id": 2841,
+        "title": "A Very Long Engagement",
+        "tagline": "Never let go.",
+        "overview": "Young Frenchwoman Mathilde searches for the truth about her missing fianc\u00e9, lost during World War I, and learns many unexpected things along the way. The love of her life is gone. But she refuses to believe he's gone forever \u2014 and she needs to know for sure.",
+        "releaseDate": "2004-10-27",
+        "runtime": 133,
+        "voteAverage": 7.32,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/t73m7lX0eFYDjlB1Gcb7r3S5Yt.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/vOpm4wQk5qIl8UepoKrpaloqaPC.jpg",
+        "director": "Jean-Pierre Jeunet",
         "cast": [
-            "Marcello Mastroianni",
-            "Jeanne Moreau",
-            "Monica Vitti",
-            "Bernhard Wicki",
-            "Rosy Mazzacurati"
+            "Audrey Tautou",
+            "Gaspard Ulliel",
+            "Dominique Pinon",
+            "Chantal Neuwirth",
+            "Andr\u00e9 Dussollier"
         ],
         "genres": [
             "Drama",
-            "Romance"
+            "Romance",
+            "War"
         ]
     }
 }
