@@ -1,23 +1,23 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-06-12",
+    "lastUpdated": "2025-06-13",
     "movie": {
-        "id": 18602,
-        "title": "Morvern Callar",
-        "tagline": "An urban girl tries to cope with her boyfriend's death.",
-        "overview": "After her boyfriend commits suicide, a young woman attempts to use the unpublished manuscript of a novel and a sum of money he left behind to reinvent her life.",
-        "releaseDate": "2002-11-01",
-        "runtime": 97,
-        "voteAverage": 6.648,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/mQqOG4w5xAlmtIxRUqodECYuJ5l.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/aRFsgk8X8J6mRvgStvUDBIaDdlX.jpg",
-        "director": "Lynne Ramsay",
+        "id": 8416,
+        "title": "The Conformist",
+        "tagline": "A dazzling movie.",
+        "overview": "A weak-willed Italian man becomes a fascist flunky who goes abroad to arrange the assassination of his old teacher, now a political dissident.",
+        "releaseDate": "1970-07-01",
+        "runtime": 108,
+        "voteAverage": 7.7,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/nLJjFRqIJAK8qz0OKYnpKCblZNK.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/xKhnjQA5wrAUaopEKegdKD3Yi26.jpg",
+        "director": "Bernardo Bertolucci",
         "cast": [
-            "Samantha Morton",
-            "Kathleen McDermott",
-            "Raife Patrick Burchell",
-            "Dan Cadan",
-            "Carolyn Calder"
+            "Jean-Louis Trintignant",
+            "Stefania Sandrelli",
+            "Gastone Moschin",
+            "Dominique Sanda",
+            "Enzo Tarascio"
         ],
         "genres": [
             "Drama"
