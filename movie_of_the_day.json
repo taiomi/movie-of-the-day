@@ -1,26 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-06-13",
+    "lastUpdated": "2025-06-14",
     "movie": {
-        "id": 8416,
-        "title": "The Conformist",
-        "tagline": "A dazzling movie.",
-        "overview": "A weak-willed Italian man becomes a fascist flunky who goes abroad to arrange the assassination of his old teacher, now a political dissident.",
-        "releaseDate": "1970-07-01",
-        "runtime": 108,
-        "voteAverage": 7.7,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/nLJjFRqIJAK8qz0OKYnpKCblZNK.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/xKhnjQA5wrAUaopEKegdKD3Yi26.jpg",
-        "director": "Bernardo Bertolucci",
+        "id": 1554,
+        "title": "Down by Law",
+        "tagline": "It's not where you start - It's where you start again.",
+        "overview": "A disc jockey, a pimp and an Italian tourist escape from jail in New Orleans.",
+        "releaseDate": "1986-09-20",
+        "runtime": 106,
+        "voteAverage": 7.342,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/4IyxoUQ7BB5kcSd7gASe2dTyWu7.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/8kVPLOzuZ1G9EBYxcOrzaHbxCeC.jpg",
+        "director": "Jim Jarmusch",
         "cast": [
-            "Jean-Louis Trintignant",
-            "Stefania Sandrelli",
-            "Gastone Moschin",
-            "Dominique Sanda",
-            "Enzo Tarascio"
+            "Tom Waits",
+            "John Lurie",
+            "Roberto Benigni",
+            "Nicoletta Braschi",
+            "Ellen Barkin"
         ],
         "genres": [
-            "Drama"
+            "Crime",
+            "Drama",
+            "Comedy"
         ]
     }
 }
