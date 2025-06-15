@@ -1,28 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-06-14",
+    "lastUpdated": "2025-06-15",
     "movie": {
-        "id": 1554,
-        "title": "Down by Law",
-        "tagline": "It's not where you start - It's where you start again.",
-        "overview": "A disc jockey, a pimp and an Italian tourist escape from jail in New Orleans.",
-        "releaseDate": "1986-09-20",
-        "runtime": 106,
-        "voteAverage": 7.342,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/4IyxoUQ7BB5kcSd7gASe2dTyWu7.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/8kVPLOzuZ1G9EBYxcOrzaHbxCeC.jpg",
-        "director": "Jim Jarmusch",
+        "id": 26372,
+        "title": "Shame",
+        "tagline": "",
+        "overview": "In the midst of a civil war, former violinists Jan and Eva Rosenberg, who have a tempestuous marriage, run a farm on a rural island. In spite of their best efforts to escape their homeland, the war impinges on every aspect of their lives.",
+        "releaseDate": "1968-09-29",
+        "runtime": 103,
+        "voteAverage": 7.538,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/cRJFOadujA7COrBV4HqB6bWcpLs.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/mq8Vguqv4GjHfpSVIWFkIsOS6YK.jpg",
+        "director": "Ingmar Bergman",
         "cast": [
-            "Tom Waits",
-            "John Lurie",
-            "Roberto Benigni",
-            "Nicoletta Braschi",
-            "Ellen Barkin"
+            "Liv Ullmann",
+            "Max von Sydow",
+            "Sigge F\u00fcrst",
+            "Gunnar Bj\u00f6rnstrand",
+            "Birgitta Valberg"
         ],
         "genres": [
-            "Crime",
-            "Drama",
-            "Comedy"
+            "War",
+            "Drama"
         ]
     }
 }
