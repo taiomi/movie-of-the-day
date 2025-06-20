@@ -1,28 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-06-19",
+    "lastUpdated": "2025-06-20",
     "movie": {
-        "id": 2760,
-        "title": "The Lodger: A Story of the London Fog",
-        "tagline": "",
-        "overview": "London. A mysterious serial killer brutally murders young blond women by stalking them in the night fog. One foggy, sinister night, a young man who claims his name is Jonathan Drew arrives at the guest house run by the Bunting family and rents a room.",
-        "releaseDate": "1927-02-14",
-        "runtime": 91,
-        "voteAverage": 7.105,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/tD84zwFeFRf3zG98x558N3PBMV.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/8svHeSlKssWjscBaa2HnFZR9oo4.jpg",
+        "id": 571,
+        "title": "The Birds",
+        "tagline": "...and remember, the next scream you hear may be your own!",
+        "overview": "Thousands of birds flock into a seaside town and terrorize the residents in a series of deadly attacks.",
+        "releaseDate": "1963-03-28",
+        "runtime": 120,
+        "voteAverage": 7.517,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/eClg8QPg8mwB6INIC4pyR5pAbDr.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/il5zDHC5sGe3ZHLhVi3tNFZ9Tt5.jpg",
         "director": "Alfred Hitchcock",
         "cast": [
-            "Ivor Novello",
-            "Marie Ault",
-            "Arthur Chesney",
-            "June Tripp",
-            "Malcolm Keen"
+            "Tippi Hedren",
+            "Rod Taylor",
+            "Jessica Tandy",
+            "Suzanne Pleshette",
+            "Veronica Cartwright"
         ],
         "genres": [
-            "Crime",
-            "Thriller",
-            "Mystery"
+            "Horror",
+            "Thriller"
         ]
     }
 }
