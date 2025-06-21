@@ -1,27 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-06-20",
+    "lastUpdated": "2025-06-21",
     "movie": {
-        "id": 571,
-        "title": "The Birds",
-        "tagline": "...and remember, the next scream you hear may be your own!",
-        "overview": "Thousands of birds flock into a seaside town and terrorize the residents in a series of deadly attacks.",
-        "releaseDate": "1963-03-28",
-        "runtime": 120,
-        "voteAverage": 7.517,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/eClg8QPg8mwB6INIC4pyR5pAbDr.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/il5zDHC5sGe3ZHLhVi3tNFZ9Tt5.jpg",
-        "director": "Alfred Hitchcock",
+        "id": 64,
+        "title": "Talk to Her",
+        "tagline": "",
+        "overview": "Two men share an odd friendship while they care for two women who are both in deep comas.",
+        "releaseDate": "2002-03-15",
+        "runtime": 112,
+        "voteAverage": 7.584,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/fWDbQlOWOqjR5jZm98KjGyYmUOw.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/9aCRXFWT1rd1nZDcEtWILKb2Sap.jpg",
+        "director": "Pedro Almod\u00f3var",
         "cast": [
-            "Tippi Hedren",
-            "Rod Taylor",
-            "Jessica Tandy",
-            "Suzanne Pleshette",
-            "Veronica Cartwright"
+            "Leonor Watling",
+            "Rosario Flores",
+            "Javier C\u00e1mara",
+            "Dar\u00edo Grandinetti",
+            "Mariola Fuentes"
         ],
         "genres": [
-            "Horror",
-            "Thriller"
+            "Drama",
+            "Romance"
         ]
     }
 }
