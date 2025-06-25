@@ -1,28 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-06-24",
+    "lastUpdated": "2025-06-25",
     "movie": {
-        "id": 31217,
-        "title": "The Human Condition I: No Greater Love",
-        "tagline": "The Immortal Story.",
-        "overview": "After handing in a report on the treatment of Chinese colonial labor, Kaji is offered the post of labor chief at a large mining operation in Manchuria, which also grants him exemption from military service. He accepts, and moves to Manchuria with his newly-wed wife Michiko, but when he tries to put his ideas of more humane treatment into practice, he finds himself at odds with scheming officials, cruel foremen, and the military police.",
-        "releaseDate": "1959-01-15",
-        "runtime": 206,
-        "voteAverage": 8.097,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/q7godavx5XEbeVxEeqi4pmiOKdI.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/d9IXxTrra12erdjVXoWUhuTVzTH.jpg",
-        "director": "Masaki Kobayashi",
+        "id": 31587,
+        "title": "Scarecrow",
+        "tagline": "The road leads itself to somewhere.",
+        "overview": "Two drifters bum around, visit earthy women and discuss opening a car wash in Pittsburgh.",
+        "releaseDate": "1973-04-11",
+        "runtime": 112,
+        "voteAverage": 7,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/njGxAaBy6JGIq2Z2CWW1JcgZ8mv.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/8de5iKR6zSRV4anMIcTmhJE0Mx.jpg",
+        "director": "Jerry Schatzberg",
         "cast": [
-            "Tatsuya Nakadai",
-            "Michiyo Aratama",
-            "Chikage Awashima",
-            "Ineko Arima",
-            "S\u014d Yamamura"
+            "Gene Hackman",
+            "Al Pacino",
+            "Dorothy Tristan",
+            "Ann Wedgeworth",
+            "Richard Lynch"
         ],
         "genres": [
-            "War",
-            "Drama",
-            "History"
+            "Drama"
         ]
     }
 }
