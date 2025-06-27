@@ -1,27 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-06-26",
+    "lastUpdated": "2025-06-27",
     "movie": {
-        "id": 10935,
-        "title": "Heaven's Gate",
-        "tagline": "What one loves about life are the things that fade.",
-        "overview": "Harvard graduate James Averill serves as the sheriff of prosperous Jackson County, Wyo., standing at the center of a conflict between impoverished immigrants and affluent cattle farmers. Politically connected ranchers enlist mercenary Nathan Champion\u2014who is also vying for the affections of local madam Ella Watson\u2014to combat the immigrant uprising. As tensions escalate, both Averill and Champion start to question their decisions.",
-        "releaseDate": "1980-11-19",
-        "runtime": 218,
-        "voteAverage": 6.796,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/kW4Vk31nhtKPKGuYMaVATq3wcHC.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/v0DsJiF7LAeJtqFObQfq3eU6rag.jpg",
-        "director": "Michael Cimino",
+        "id": 76025,
+        "title": "Shame",
+        "tagline": "",
+        "overview": "Brandon, a thirty-something man living in New York, eludes intimacy with women but feeds his deepest desires with a compulsive addiction to sex. When his younger sister temporarily moves into his apartment, stirring up bitter memories of their shared painful past, Brandon's life, like his fragile mind, gets out of control.",
+        "releaseDate": "2011-10-02",
+        "runtime": 102,
+        "voteAverage": 6.931,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/cAWLz9kFv4xc6IsEXTj2DrcqD55.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/chW0eMD6RlPhRnoVRFWc3zWk3Uh.jpg",
+        "director": "Steve McQueen",
         "cast": [
-            "Kris Kristofferson",
-            "Christopher Walken",
-            "John Hurt",
-            "Sam Waterston",
-            "Brad Dourif"
+            "Michael Fassbender",
+            "Carey Mulligan",
+            "James Badge Dale",
+            "Nicole Beharie",
+            "Lucy Walters"
         ],
         "genres": [
-            "Drama",
-            "Western"
+            "Drama"
         ]
     }
 }
