@@ -1,26 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-06-27",
+    "lastUpdated": "2025-06-28",
     "movie": {
-        "id": 76025,
-        "title": "Shame",
-        "tagline": "Man is not what he thinks he is, he is what he hides,",
-        "overview": "Brandon, a thirty-something man living in New York, eludes intimacy with women but feeds his deepest desires with a compulsive addiction to sex. When his younger sister temporarily moves into his apartment, stirring up bitter memories of their shared painful past, Brandon's life, like his fragile mind, gets out of control.",
-        "releaseDate": "2011-10-02",
-        "runtime": 102,
-        "voteAverage": 6.931,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/cAWLz9kFv4xc6IsEXTj2DrcqD55.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/chW0eMD6RlPhRnoVRFWc3zWk3Uh.jpg",
-        "director": "Steve McQueen",
+        "id": 963,
+        "title": "The Maltese Falcon",
+        "tagline": "A story as EXPLOSIVE as his BLAZING automatics!",
+        "overview": "A private detective takes on a case that involves him with three eccentric criminals, a beautiful liar, and their quest for a priceless statuette.",
+        "releaseDate": "1941-10-18",
+        "runtime": 100,
+        "voteAverage": 7.709,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/bf4o6Uzw5wqLjdKwRuiDrN1xyvl.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/9xzVKUGbVKrrgwlmshJ8SxI5mL7.jpg",
+        "director": "John Huston",
         "cast": [
-            "Michael Fassbender",
-            "Carey Mulligan",
-            "James Badge Dale",
-            "Nicole Beharie",
-            "Lucy Walters"
+            "Humphrey Bogart",
+            "Mary Astor",
+            "Gladys George",
+            "Peter Lorre",
+            "Barton MacLane"
         ],
         "genres": [
-            "Drama"
+            "Mystery",
+            "Crime",
+            "Thriller"
         ]
     }
 }
