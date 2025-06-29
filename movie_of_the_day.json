@@ -1,28 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-06-28",
+    "lastUpdated": "2025-06-29",
     "movie": {
-        "id": 963,
-        "title": "The Maltese Falcon",
-        "tagline": "A story as EXPLOSIVE as his BLAZING automatics!",
-        "overview": "A private detective takes on a case that involves him with three eccentric criminals, a beautiful liar, and their quest for a priceless statuette.",
-        "releaseDate": "1941-10-18",
-        "runtime": 100,
-        "voteAverage": 7.709,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/bf4o6Uzw5wqLjdKwRuiDrN1xyvl.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/9xzVKUGbVKrrgwlmshJ8SxI5mL7.jpg",
-        "director": "John Huston",
+        "id": 965,
+        "title": "The Magnificent Ambersons",
+        "tagline": "Real life screened more daringly than it\u2019s ever been before!",
+        "overview": "The spoiled young heir to the decaying Amberson fortune comes between his widowed mother and the man she has always loved.",
+        "releaseDate": "1942-07-10",
+        "runtime": 88,
+        "voteAverage": 7.314,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/4QvsFW2cRY20GVpMQNcG406YVxP.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/uqHhfOMbh5oiCXGijo1cYso0eR0.jpg",
+        "director": "Orson Welles",
         "cast": [
-            "Humphrey Bogart",
-            "Mary Astor",
-            "Gladys George",
-            "Peter Lorre",
-            "Barton MacLane"
+            "Joseph Cotten",
+            "Dolores Costello",
+            "Anne Baxter",
+            "Tim Holt",
+            "Agnes Moorehead"
         ],
         "genres": [
-            "Mystery",
-            "Crime",
-            "Thriller"
+            "Drama",
+            "Romance"
         ]
     }
 }
