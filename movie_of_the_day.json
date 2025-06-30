@@ -1,27 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-06-29",
+    "lastUpdated": "2025-06-30",
     "movie": {
-        "id": 965,
-        "title": "The Magnificent Ambersons",
-        "tagline": "Real life screened more daringly than it\u2019s ever been before!",
-        "overview": "The spoiled young heir to the decaying Amberson fortune comes between his widowed mother and the man she has always loved.",
-        "releaseDate": "1942-07-10",
-        "runtime": 88,
-        "voteAverage": 7.314,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/4QvsFW2cRY20GVpMQNcG406YVxP.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/uqHhfOMbh5oiCXGijo1cYso0eR0.jpg",
-        "director": "Orson Welles",
+        "id": 962,
+        "title": "The Gold Rush",
+        "tagline": "The World's Greatest Laughing Picture!",
+        "overview": "A gold prospector in Alaska struggles to survive the elements and win the heart of a dance hall girl.",
+        "releaseDate": "1925-07-13",
+        "runtime": 95,
+        "voteAverage": 7.984,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/eQRFo1qwRREYwj47Yoe1PisgOle.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/hZHeDPQGNKN9NN9GuW7qVbM2tDx.jpg",
+        "director": "Charlie Chaplin",
         "cast": [
-            "Joseph Cotten",
-            "Dolores Costello",
-            "Anne Baxter",
-            "Tim Holt",
-            "Agnes Moorehead"
+            "Charlie Chaplin",
+            "Mack Swain",
+            "Tom Murray",
+            "Henry Bergman",
+            "Malcolm Waite"
         ],
         "genres": [
-            "Drama",
-            "Romance"
+            "Adventure",
+            "Comedy",
+            "Drama"
         ]
     }
 }
