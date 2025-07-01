@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-06-30",
+    "lastUpdated": "2025-07-01",
     "movie": {
-        "id": 962,
-        "title": "The Gold Rush",
-        "tagline": "The World's Greatest Laughing Picture!",
-        "overview": "A gold prospector in Alaska struggles to survive the elements and win the heart of a dance hall girl.",
-        "releaseDate": "1925-07-13",
-        "runtime": 95,
-        "voteAverage": 7.984,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/eQRFo1qwRREYwj47Yoe1PisgOle.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/hZHeDPQGNKN9NN9GuW7qVbM2tDx.jpg",
-        "director": "Charlie Chaplin",
+        "id": 49842,
+        "title": "Jenny Lamour",
+        "tagline": "",
+        "overview": "Paris, France, December 1946. Jenny Lamour, an ambitious cabaret singer, and Maurice, her extremely jealous pianist husband, become involved in the thorough investigation of the murder of a shady businessman, led by Antoine, a peculiar and methodical police inspector.",
+        "releaseDate": "1947-10-04",
+        "runtime": 108,
+        "voteAverage": 7.536,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/1z7v34MT4pXYwiRGHRovlzuL6xp.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/yBNounwKZfu291XkoRZZeWGwFpx.jpg",
+        "director": "Henri-Georges Clouzot",
         "cast": [
-            "Charlie Chaplin",
-            "Mack Swain",
-            "Tom Murray",
-            "Henry Bergman",
-            "Malcolm Waite"
+            "Louis Jouvet",
+            "Simone Renant",
+            "Bernard Blier",
+            "Suzy Delair",
+            "Pierre Larquey"
         ],
         "genres": [
-            "Adventure",
-            "Comedy",
-            "Drama"
+            "Drama",
+            "Mystery",
+            "Thriller"
         ]
     }
 }
