@@ -1,28 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-07-01",
+    "lastUpdated": "2025-07-02",
     "movie": {
-        "id": 49842,
-        "title": "Jenny Lamour",
-        "tagline": "Fame is a dangerous game.",
-        "overview": "Paris, France, December 1946. Jenny Lamour, an ambitious cabaret singer, and Maurice, her extremely jealous pianist husband, become involved in the thorough investigation of the murder of a shady businessman, led by Antoine, a peculiar and methodical police inspector.",
-        "releaseDate": "1947-10-04",
-        "runtime": 108,
-        "voteAverage": 7.536,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/1z7v34MT4pXYwiRGHRovlzuL6xp.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/yBNounwKZfu291XkoRZZeWGwFpx.jpg",
-        "director": "Henri-Georges Clouzot",
+        "id": 50759,
+        "title": "An Autumn Afternoon",
+        "tagline": "",
+        "overview": "Shuhei Hirayama is a widower with a 24-year-old daughter. Gradually, he comes to realize that she should not be obliged to look after him for the rest of his life, so he arranges a marriage for her.",
+        "releaseDate": "1962-11-18",
+        "runtime": 113,
+        "voteAverage": 7.857,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/4RtWkqywkzxonlnGBwv4RpSw4Rb.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/iyds0L5AY11YwoyZzJAFExtut5U.jpg",
+        "director": "Yasujir\u014d Ozu",
         "cast": [
-            "Louis Jouvet",
-            "Simone Renant",
-            "Bernard Blier",
-            "Suzy Delair",
-            "Pierre Larquey"
+            "Chish\u016b Ry\u016b",
+            "Shima Iwashita",
+            "Keiji Sada",
+            "Mariko Okada",
+            "Teruo Yoshida"
         ],
         "genres": [
-            "Drama",
-            "Mystery",
-            "Thriller"
+            "Drama"
         ]
     }
 }
