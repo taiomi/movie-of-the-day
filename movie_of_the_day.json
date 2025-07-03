@@ -1,23 +1,23 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-07-02",
+    "lastUpdated": "2025-07-03",
     "movie": {
-        "id": 50759,
-        "title": "An Autumn Afternoon",
+        "id": 29698,
+        "title": "Ratcatcher",
         "tagline": "",
-        "overview": "Shuhei Hirayama is a widower with a 24-year-old daughter. Gradually, he comes to realize that she should not be obliged to look after him for the rest of his life, so he arranges a marriage for her.",
-        "releaseDate": "1962-11-18",
-        "runtime": 113,
-        "voteAverage": 7.857,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/4RtWkqywkzxonlnGBwv4RpSw4Rb.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/iyds0L5AY11YwoyZzJAFExtut5U.jpg",
-        "director": "Yasujir\u014d Ozu",
+        "overview": "James Gillespie is 12 years old. The world he knew is changing. Haunted by a secret, he has become a stranger in his own family. He is drawn to the canal where he creates a world of his own. He finds an awkward tenderness with Margaret Anne, a vulnerable 14 year old expressing a need for love in all the wrong ways, and befriends Kenny, who possesses an unusual innocence in spite of the harsh surroundings.",
+        "releaseDate": "1999-11-12",
+        "runtime": 94,
+        "voteAverage": 7.1,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/lNLJZTxEtoDN73GF9lq3FQ1E23y.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/A5j7Q6ltJRYPZ3Wz2azcGZtwPem.jpg",
+        "director": "Lynne Ramsay",
         "cast": [
-            "Chish\u016b Ry\u016b",
-            "Shima Iwashita",
-            "Keiji Sada",
-            "Mariko Okada",
-            "Teruo Yoshida"
+            "William Eadie",
+            "Tommy Flanagan",
+            "Mandy Matthews",
+            "Michelle Stewart",
+            "Lynne Ramsay Jr."
         ],
         "genres": [
             "Drama"
