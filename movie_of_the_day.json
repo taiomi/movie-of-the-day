@@ -1,26 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-07-03",
+    "lastUpdated": "2025-07-04",
     "movie": {
-        "id": 29698,
-        "title": "Ratcatcher",
-        "tagline": "",
-        "overview": "James Gillespie is 12 years old. The world he knew is changing. Haunted by a secret, he has become a stranger in his own family. He is drawn to the canal where he creates a world of his own. He finds an awkward tenderness with Margaret Anne, a vulnerable 14 year old expressing a need for love in all the wrong ways, and befriends Kenny, who possesses an unusual innocence in spite of the harsh surroundings.",
-        "releaseDate": "1999-11-12",
-        "runtime": 94,
-        "voteAverage": 7.1,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/lNLJZTxEtoDN73GF9lq3FQ1E23y.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/A5j7Q6ltJRYPZ3Wz2azcGZtwPem.jpg",
-        "director": "Lynne Ramsay",
+        "id": 638,
+        "title": "Lost Highway",
+        "tagline": "A lost road on the edge of strange\u2026",
+        "overview": "A tormented jazz musician finds himself lost in an enigmatic story involving murder, surveillance, gangsters, doppelg\u00e4ngers, and an impossible transformation inside a prison cell.",
+        "releaseDate": "1997-01-15",
+        "runtime": 134,
+        "voteAverage": 7.545,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/fdTtij6H0sX9AzIjUeynh5zbfm7.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/hGnJhGSeyWlerHcLNnD06sbX5wU.jpg",
+        "director": "David Lynch",
         "cast": [
-            "William Eadie",
-            "Tommy Flanagan",
-            "Mandy Matthews",
-            "Michelle Stewart",
-            "Lynne Ramsay Jr."
+            "Patricia Arquette",
+            "Bill Pullman",
+            "Balthazar Getty",
+            "Robert Blake",
+            "Robert Loggia"
         ],
         "genres": [
-            "Drama"
+            "Drama",
+            "Thriller",
+            "Mystery"
         ]
     }
 }
