@@ -1,28 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-07-04",
+    "lastUpdated": "2025-07-05",
     "movie": {
-        "id": 638,
-        "title": "Lost Highway",
-        "tagline": "A lost road on the edge of strange\u2026",
-        "overview": "A tormented jazz musician finds himself lost in an enigmatic story involving murder, surveillance, gangsters, doppelg\u00e4ngers, and an impossible transformation inside a prison cell.",
-        "releaseDate": "1997-01-15",
-        "runtime": 134,
-        "voteAverage": 7.545,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/fdTtij6H0sX9AzIjUeynh5zbfm7.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/hGnJhGSeyWlerHcLNnD06sbX5wU.jpg",
-        "director": "David Lynch",
+        "id": 500,
+        "title": "Reservoir Dogs",
+        "tagline": "Every dog has his day.",
+        "overview": "A botched robbery indicates a police informant, and the pressure mounts in the aftermath at a warehouse. Crime begets violence as the survivors -- veteran Mr. White, newcomer Mr. Orange, psychopathic parolee Mr. Blonde, bickering weasel Mr. Pink and Nice Guy Eddie -- unravel.",
+        "releaseDate": "1992-09-02",
+        "runtime": 99,
+        "voteAverage": 8.12,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/xi8Iu6qyTfyZVDVy60raIOYJJmk.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/jqFjgNnxpXIXWuPsyfqmcLXRo9p.jpg",
+        "director": "Quentin Tarantino",
         "cast": [
-            "Patricia Arquette",
-            "Bill Pullman",
-            "Balthazar Getty",
-            "Robert Blake",
-            "Robert Loggia"
+            "Harvey Keitel",
+            "Tim Roth",
+            "Michael Madsen",
+            "Chris Penn",
+            "Steve Buscemi"
         ],
         "genres": [
-            "Drama",
-            "Thriller",
-            "Mystery"
+            "Crime",
+            "Thriller"
         ]
     }
 }
