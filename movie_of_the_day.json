@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-07-07",
+    "lastUpdated": "2025-07-08",
     "movie": {
-        "id": 11368,
-        "title": "Blood Simple",
-        "tagline": "",
-        "overview": "The owner of a seedy small-town Texas bar discovers that one of his employees is having an affair with his wife. A chaotic chain of misunderstandings, lies and mischief ensues after he devises a plot to have them murdered.",
-        "releaseDate": "1984-03-26",
-        "runtime": 97,
-        "voteAverage": 7.239,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/svU6pu4lfHn0T5BVZchVxL58HB5.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/rGPoNNk4fvgG2mvkNAxJJPlszOu.jpg",
-        "director": "Joel Coen",
+        "id": 539,
+        "title": "Psycho",
+        "tagline": "A new and altogether different screen excitement!",
+        "overview": "When larcenous real estate clerk Marion Crane goes on the lam with a wad of cash and hopes of starting a new life, she ends up at the notorious Bates Motel, where manager Norman Bates cares for his housebound mother.",
+        "releaseDate": "1960-06-22",
+        "runtime": 109,
+        "voteAverage": 8.422,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/yz4QVqPx3h1hD1DfqqQkCq3rmxW.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/uif5fUshJrXyyDzfpzp1DLw3N0S.jpg",
+        "director": "Alfred Hitchcock",
         "cast": [
-            "John Getz",
-            "Frances McDormand",
-            "Dan Hedaya",
-            "M. Emmet Walsh",
-            "Samm-Art Williams"
+            "Anthony Perkins",
+            "Janet Leigh",
+            "Vera Miles",
+            "John Gavin",
+            "Martin Balsam"
         ],
         "genres": [
-            "Crime",
-            "Drama",
-            "Thriller"
+            "Horror",
+            "Thriller",
+            "Mystery"
         ]
     }
 }
