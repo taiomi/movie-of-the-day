@@ -1,27 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-07-08",
+    "lastUpdated": "2025-07-09",
     "movie": {
-        "id": 539,
-        "title": "Psycho",
-        "tagline": "A new and altogether different screen excitement!",
-        "overview": "When larcenous real estate clerk Marion Crane goes on the lam with a wad of cash and hopes of starting a new life, she ends up at the notorious Bates Motel, where manager Norman Bates cares for his housebound mother.",
-        "releaseDate": "1960-06-22",
-        "runtime": 109,
-        "voteAverage": 8.422,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/yz4QVqPx3h1hD1DfqqQkCq3rmxW.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/uif5fUshJrXyyDzfpzp1DLw3N0S.jpg",
-        "director": "Alfred Hitchcock",
+        "id": 992,
+        "title": "Sherlock Jr.",
+        "tagline": "Every inch of footage holds such a laugh!",
+        "overview": "A film projectionist longs to be a detective, and puts his meagre skills to work when he is framed by a rival for stealing his girlfriend's father's pocketwatch.",
+        "releaseDate": "1924-04-17",
+        "runtime": 45,
+        "voteAverage": 8.058,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/1G9r3rqtbFAQuyWKOZm4Y5J5s7Q.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/tSipsYTp565LkopntX1lZNLPYHP.jpg",
+        "director": "Buster Keaton",
         "cast": [
-            "Anthony Perkins",
-            "Janet Leigh",
-            "Vera Miles",
-            "John Gavin",
-            "Martin Balsam"
+            "Buster Keaton",
+            "Kathryn McGuire",
+            "Joe Keaton",
+            "Erwin Connelly",
+            "Ward Crane"
         ],
         "genres": [
-            "Horror",
-            "Thriller",
+            "Action",
+            "Comedy",
             "Mystery"
         ]
     }
