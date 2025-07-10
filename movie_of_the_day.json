@@ -1,28 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-07-09",
+    "lastUpdated": "2025-07-10",
     "movie": {
-        "id": 992,
-        "title": "Sherlock Jr.",
-        "tagline": "Every inch of footage holds such a laugh!",
-        "overview": "A film projectionist longs to be a detective, and puts his meagre skills to work when he is framed by a rival for stealing his girlfriend's father's pocketwatch.",
-        "releaseDate": "1924-04-17",
-        "runtime": 45,
-        "voteAverage": 8.058,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/1G9r3rqtbFAQuyWKOZm4Y5J5s7Q.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/tSipsYTp565LkopntX1lZNLPYHP.jpg",
-        "director": "Buster Keaton",
+        "id": 329,
+        "title": "Jurassic Park",
+        "tagline": "An adventure 65 million years in the making.",
+        "overview": "A wealthy entrepreneur secretly creates a theme park featuring living dinosaurs drawn from prehistoric DNA. Before opening day, he invites a team of experts and his two eager grandchildren to experience the park and help calm anxious investors. However, the park is anything but amusing as the security systems go off-line and the dinosaurs escape.",
+        "releaseDate": "1993-06-11",
+        "runtime": 127,
+        "voteAverage": 8,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/63viWuPfYQjRYLSZSZNq7dglJP5.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/jzt9HuhIAdH9qp0K2MA1m5V8sgq.jpg",
+        "director": "Steven Spielberg",
         "cast": [
-            "Buster Keaton",
-            "Kathryn McGuire",
-            "Joe Keaton",
-            "Erwin Connelly",
-            "Ward Crane"
+            "Sam Neill",
+            "Laura Dern",
+            "Jeff Goldblum",
+            "Richard Attenborough",
+            "Bob Peck"
         ],
         "genres": [
-            "Action",
-            "Comedy",
-            "Mystery"
+            "Adventure",
+            "Science Fiction"
         ]
     }
 }
