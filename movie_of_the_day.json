@@ -1,27 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-07-10",
+    "lastUpdated": "2025-07-11",
     "movie": {
-        "id": 329,
-        "title": "Jurassic Park",
-        "tagline": "An adventure 65 million years in the making.",
-        "overview": "A wealthy entrepreneur secretly creates a theme park featuring living dinosaurs drawn from prehistoric DNA. Before opening day, he invites a team of experts and his two eager grandchildren to experience the park and help calm anxious investors. However, the park is anything but amusing as the security systems go off-line and the dinosaurs escape.",
-        "releaseDate": "1993-06-11",
-        "runtime": 127,
-        "voteAverage": 8,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/63viWuPfYQjRYLSZSZNq7dglJP5.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/jzt9HuhIAdH9qp0K2MA1m5V8sgq.jpg",
-        "director": "Steven Spielberg",
+        "id": 31532,
+        "title": "Love Me Tonight",
+        "tagline": "Warm Love! Hilarious fun! Sweet music! Hot lyrics!",
+        "overview": "A Parisian tailor goes to a ch\u00e2teau to collect a bill, only to fall for an aloof young princess living there.",
+        "releaseDate": "1932-08-18",
+        "runtime": 89,
+        "voteAverage": 6.579,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/3wjHj3LmmezUsBHxFL8xpRdMxVX.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/tl1m11MJhHfSJHg9m5CCIlJvkNj.jpg",
+        "director": "Rouben Mamoulian",
         "cast": [
-            "Sam Neill",
-            "Laura Dern",
-            "Jeff Goldblum",
-            "Richard Attenborough",
-            "Bob Peck"
+            "Maurice Chevalier",
+            "Jeanette MacDonald",
+            "Charles Ruggles",
+            "Charles Butterworth",
+            "Myrna Loy"
         ],
         "genres": [
-            "Adventure",
-            "Science Fiction"
+            "Comedy",
+            "Romance"
         ]
     }
 }
