@@ -1,27 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-07-11",
+    "lastUpdated": "2025-07-12",
     "movie": {
-        "id": 31532,
-        "title": "Love Me Tonight",
-        "tagline": "Warm Love! Hilarious fun! Sweet music! Hot lyrics!",
-        "overview": "A Parisian tailor goes to a ch\u00e2teau to collect a bill, only to fall for an aloof young princess living there.",
-        "releaseDate": "1932-08-18",
-        "runtime": 89,
-        "voteAverage": 6.579,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/3wjHj3LmmezUsBHxFL8xpRdMxVX.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/tl1m11MJhHfSJHg9m5CCIlJvkNj.jpg",
-        "director": "Rouben Mamoulian",
+        "id": 32317,
+        "title": "Le Million",
+        "tagline": "You MUST see it to know how indescribably clever and enormously \"smart\" a movie CAN be!",
+        "overview": "Debt-ridden painter Michel is overcome with joy at discovering that he has just won 1 million florins in the Dutch lottery, but almost immediately, he discovers that his softhearted girlfriend, B\u00e9atrice, has given away his jacket containing the winning ticket to an elderly petty thief. Soon Michel, Beatrice and Michel's artistic rival, Prosper, are hurtling through the streets of Paris on the trail of the missing jacket.",
+        "releaseDate": "1931-02-04",
+        "runtime": 83,
+        "voteAverage": 6.896,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/tNxaR9GBrQVBsGVc5CUxXrUWWxd.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/130w48OEfsipXXvBfVo6J8KTcFm.jpg",
+        "director": "Ren\u00e9 Clair",
         "cast": [
-            "Maurice Chevalier",
-            "Jeanette MacDonald",
-            "Charles Ruggles",
-            "Charles Butterworth",
-            "Myrna Loy"
+            "Ren\u00e9 Lef\u00e8vre",
+            "Annabella",
+            "Jean-Louis Allibert",
+            "Paul Ollivier",
+            "Vanda Gr\u00e9ville"
         ],
         "genres": [
             "Comedy",
-            "Romance"
+            "Music"
         ]
     }
 }
