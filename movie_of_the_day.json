@@ -1,27 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-07-12",
+    "lastUpdated": "2025-07-13",
     "movie": {
-        "id": 32317,
-        "title": "Le Million",
-        "tagline": "You MUST see it to know how indescribably clever and enormously \"smart\" a movie CAN be!",
-        "overview": "Debt-ridden painter Michel is overcome with joy at discovering that he has just won 1 million florins in the Dutch lottery, but almost immediately, he discovers that his softhearted girlfriend, B\u00e9atrice, has given away his jacket containing the winning ticket to an elderly petty thief. Soon Michel, Beatrice and Michel's artistic rival, Prosper, are hurtling through the streets of Paris on the trail of the missing jacket.",
-        "releaseDate": "1931-02-04",
-        "runtime": 83,
-        "voteAverage": 6.896,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/tNxaR9GBrQVBsGVc5CUxXrUWWxd.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/130w48OEfsipXXvBfVo6J8KTcFm.jpg",
-        "director": "Ren\u00e9 Clair",
+        "id": 142,
+        "title": "Brokeback Mountain",
+        "tagline": "Love is a force of nature.",
+        "overview": "In 1960s Wyoming, two men develop a strong emotional and sexual relationship that endures as a lifelong connection complicating their lives as they get married and start families of their own.",
+        "releaseDate": "2005-10-22",
+        "runtime": 134,
+        "voteAverage": 7.786,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/aByfQOQBNa4CMFwIgq3QrqY2ZHh.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/vXzqV2RtJlT9WhNEM4NYWCEC6ZI.jpg",
+        "director": "Ang Lee",
         "cast": [
-            "Ren\u00e9 Lef\u00e8vre",
-            "Annabella",
-            "Jean-Louis Allibert",
-            "Paul Ollivier",
-            "Vanda Gr\u00e9ville"
+            "Heath Ledger",
+            "Jake Gyllenhaal",
+            "Michelle Williams",
+            "Anne Hathaway",
+            "Randy Quaid"
         ],
         "genres": [
-            "Comedy",
-            "Music"
+            "Drama",
+            "Romance"
         ]
     }
 }
