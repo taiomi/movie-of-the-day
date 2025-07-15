@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-07-14",
+    "lastUpdated": "2025-07-15",
     "movie": {
-        "id": 6977,
-        "title": "No Country for Old Men",
-        "tagline": "There Are No Clean Getaways",
-        "overview": "Llewelyn Moss stumbles upon dead bodies, $2 million and a hoard of heroin in a Texas desert, but methodical killer Anton Chigurh comes looking for it, with local sheriff Ed Tom Bell hot on his trail. The roles of prey and predator blur as the violent pursuit of money and justice collide.",
-        "releaseDate": "2007-06-13",
-        "runtime": 122,
-        "voteAverage": 7.947,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/6d5XOczc226jECq0LIX0siKtgHR.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/mkXwF7FFWpf2dkOGCzQoeWX7M6R.jpg",
-        "director": "Joel Coen",
+        "id": 63,
+        "title": "Twelve Monkeys",
+        "tagline": "The future is history.",
+        "overview": "In the year 2035, convict James Cole reluctantly volunteers to be sent back in time to discover the origin of a deadly virus that wiped out nearly all of the earth's population and forced the survivors into underground communities. But when Cole is mistakenly sent to 1990 instead of 1996, he's arrested and locked up in a mental hospital. There he meets psychiatrist Dr. Kathryn Railly and the son of a famous virus expert who may hold the key to the Army of the 12 Monkeys; thought to be responsible for unleashing the killer disease.",
+        "releaseDate": "1995-12-29",
+        "runtime": 129,
+        "voteAverage": 7.6,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/gt3iyguaCIw8DpQZI1LIN5TohM2.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/1IWaKG7AWiYMhADxhGtnElDJAGI.jpg",
+        "director": "Terry Gilliam",
         "cast": [
-            "Javier Bardem",
-            "Tommy Lee Jones",
-            "Josh Brolin",
-            "Woody Harrelson",
-            "Kelly Macdonald"
+            "Bruce Willis",
+            "Madeleine Stowe",
+            "Brad Pitt",
+            "Christopher Plummer",
+            "David Morse"
         ],
         "genres": [
-            "Crime",
-            "Drama",
-            "Thriller"
+            "Science Fiction",
+            "Thriller",
+            "Mystery"
         ]
     }
 }
