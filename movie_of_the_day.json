@@ -1,28 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-07-16",
+    "lastUpdated": "2025-07-17",
     "movie": {
-        "id": 239,
-        "title": "Some Like It Hot",
-        "tagline": "The movie too HOT for words!",
-        "overview": "Two musicians witness a mob hit and struggle to find a way out of the city before they are found by the gangsters. Their only opportunity is to join an all-girl band as they leave on a tour. To make their getaway they must first disguise themselves as women, then keep their identities secret and deal with the problems this brings - such as an attractive bandmate and a very determined suitor.",
-        "releaseDate": "1959-03-19",
-        "runtime": 122,
-        "voteAverage": 8.096,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/hVIKyTK13AvOGv7ICmJjK44DTzp.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/5zTwAcnI3zCJ0mucPPnoBtkSWEV.jpg",
-        "director": "Billy Wilder",
+        "id": 859,
+        "title": "Dangerous Liaisons",
+        "tagline": "Lust. Seduction. Revenge. The game as you've never seen it played before.",
+        "overview": "In 18th century France, Marquise de Merteuil asks her ex-lover Vicomte de Valmont to seduce the future wife of another ex-lover of hers in return for one last night with her. Yet things don\u2019t go as planned.",
+        "releaseDate": "1988-12-21",
+        "runtime": 119,
+        "voteAverage": 7.201,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/7etDozwd9Pf5oCcyo4h1Hki6U13.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/gVw5NVGsGDhEeYUS1DeFWeLdQ16.jpg",
+        "director": "Stephen Frears",
         "cast": [
-            "Tony Curtis",
-            "Jack Lemmon",
-            "Marilyn Monroe",
-            "George Raft",
-            "Pat O\u2019Brien"
+            "Glenn Close",
+            "John Malkovich",
+            "Michelle Pfeiffer",
+            "Swoosie Kurtz",
+            "Keanu Reeves"
         ],
         "genres": [
-            "Comedy",
-            "Romance",
-            "Crime"
+            "Drama",
+            "Romance"
         ]
     }
 }
