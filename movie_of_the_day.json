@@ -1,27 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-07-17",
+    "lastUpdated": "2025-07-18",
     "movie": {
-        "id": 859,
-        "title": "Dangerous Liaisons",
-        "tagline": "Lust. Seduction. Revenge. The game as you've never seen it played before.",
-        "overview": "In 18th century France, Marquise de Merteuil asks her ex-lover Vicomte de Valmont to seduce the future wife of another ex-lover of hers in return for one last night with her. Yet things don\u2019t go as planned.",
-        "releaseDate": "1988-12-21",
-        "runtime": 119,
-        "voteAverage": 7.201,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/7etDozwd9Pf5oCcyo4h1Hki6U13.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/gVw5NVGsGDhEeYUS1DeFWeLdQ16.jpg",
-        "director": "Stephen Frears",
+        "id": 68718,
+        "title": "Django Unchained",
+        "tagline": "Life, liberty, and the pursuit of vengeance.",
+        "overview": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
+        "releaseDate": "2012-12-25",
+        "runtime": 165,
+        "voteAverage": 8.183,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/2oZklIzUbvZXXzIFzv7Hi68d6xf.jpg",
+        "director": "Quentin Tarantino",
         "cast": [
-            "Glenn Close",
-            "John Malkovich",
-            "Michelle Pfeiffer",
-            "Swoosie Kurtz",
-            "Keanu Reeves"
+            "Jamie Foxx",
+            "Christoph Waltz",
+            "Leonardo DiCaprio",
+            "Kerry Washington",
+            "Samuel L. Jackson"
         ],
         "genres": [
             "Drama",
-            "Romance"
+            "Western"
         ]
     }
 }
