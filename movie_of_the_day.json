@@ -1,29 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-07-19",
+    "lastUpdated": "2025-07-20",
     "movie": {
-        "id": 506,
-        "title": "Marnie",
-        "tagline": "The more he loved her . . . The more she hated him . . . For trying to unravel her secret!",
-        "overview": "Marnie is a thief, a liar, and a cheat. When her new boss, Mark Rutland, catches on to her routine kleptomania, she finds herself being blackmailed.",
-        "releaseDate": "1964-07-17",
-        "runtime": 130,
-        "voteAverage": 7.136,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/nRRy4VO2A3Py7wiZBPz11PAlogp.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/exk2xDI2YT5UHs5Bow79AVRGOnP.jpg",
-        "director": "Alfred Hitchcock",
+        "id": 27430,
+        "title": "Touchez Pas au Grisbi",
+        "tagline": "It Bristles With Violence!",
+        "overview": "Gentleman gangster Max and his partner, Riton, pull off their last, most successful heist and find themselves comfortable enough to retire in the style they enjoy. However, Max confides the details of the theft to his younger mistress, Josey -- who has secretly taken up with ambitious young rival gangster Angelo. Angelo then has Riton kidnapped and demands the stash of gold as ransom, which threatens Max's dreams of the perfect retirement.",
+        "releaseDate": "1954-03-17",
+        "runtime": 95,
+        "voteAverage": 7.193,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/svG2UuJ3SPrCp8O0RGPaKbECilq.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/lz8Tbe00QsXrLJ412zY8gezVclx.jpg",
+        "director": "Jacques Becker",
         "cast": [
-            "Tippi Hedren",
-            "Sean Connery",
-            "Diane Baker",
-            "Martin Gabel",
-            "Louise Latham"
+            "Jean Gabin",
+            "Ren\u00e9 Dary",
+            "Lino Ventura",
+            "Paul Frankeur",
+            "Michel Jourdan"
         ],
         "genres": [
-            "Thriller",
-            "Mystery",
-            "Romance",
-            "Crime"
+            "Crime",
+            "Thriller"
         ]
     }
 }
