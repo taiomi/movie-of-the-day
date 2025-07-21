@@ -1,27 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-07-20",
+    "lastUpdated": "2025-07-21",
     "movie": {
-        "id": 27430,
-        "title": "Touchez Pas au Grisbi",
-        "tagline": "It Bristles With Violence!",
-        "overview": "Gentleman gangster Max and his partner, Riton, pull off their last, most successful heist and find themselves comfortable enough to retire in the style they enjoy. However, Max confides the details of the theft to his younger mistress, Josey -- who has secretly taken up with ambitious young rival gangster Angelo. Angelo then has Riton kidnapped and demands the stash of gold as ransom, which threatens Max's dreams of the perfect retirement.",
-        "releaseDate": "1954-03-17",
-        "runtime": 95,
-        "voteAverage": 7.193,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/svG2UuJ3SPrCp8O0RGPaKbECilq.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/lz8Tbe00QsXrLJ412zY8gezVclx.jpg",
-        "director": "Jacques Becker",
+        "id": 43316,
+        "title": "All That Heaven Allows",
+        "tagline": "How much does Heaven Allow a Woman in Love?",
+        "overview": "Two different social classes collide when Cary Scott, a wealthy upper-class widow, falls in love with her much younger and down-to-earth gardener, prompting disapproval and criticism from her children and country club friends.",
+        "releaseDate": "1955-12-25",
+        "runtime": 89,
+        "voteAverage": 7.313,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/wlSmIk6iQ8yQhBG795UOOBUs4gF.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/iQQ4jjYV8fgdEHDgkgSrc4mWgUx.jpg",
+        "director": "Douglas Sirk",
         "cast": [
-            "Jean Gabin",
-            "Ren\u00e9 Dary",
-            "Lino Ventura",
-            "Paul Frankeur",
-            "Michel Jourdan"
+            "Jane Wyman",
+            "Rock Hudson",
+            "Agnes Moorehead",
+            "Conrad Nagel",
+            "Virginia Grey"
         ],
         "genres": [
-            "Crime",
-            "Thriller"
+            "Drama",
+            "Romance"
         ]
     }
 }

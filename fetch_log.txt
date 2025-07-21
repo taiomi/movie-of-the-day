@@ -526,3 +526,7 @@
 [2025-07-20 03:46:29] Selected movie: Touchez Pas au Grisbi (ID: 27430) for day 125 since start
 [2025-07-20 03:46:29] Successfully saved movie data for: Touchez Pas au Grisbi
 [2025-07-20 03:46:29] Movie fetch process completed
+[2025-07-21 03:45:09] Starting movie fetch process
+[2025-07-21 03:45:09] Selected movie: All that Heaven Allows (ID: 43316) for day 126 since start
+[2025-07-21 03:45:09] Successfully saved movie data for: All That Heaven Allows
+[2025-07-21 03:45:09] Movie fetch process completed
