@@ -1,27 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-07-21",
+    "lastUpdated": "2025-07-22",
     "movie": {
-        "id": 43316,
-        "title": "All That Heaven Allows",
-        "tagline": "How much does Heaven Allow a Woman in Love?",
-        "overview": "Two different social classes collide when Cary Scott, a wealthy upper-class widow, falls in love with her much younger and down-to-earth gardener, prompting disapproval and criticism from her children and country club friends.",
-        "releaseDate": "1955-12-25",
-        "runtime": 89,
-        "voteAverage": 7.313,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/wlSmIk6iQ8yQhBG795UOOBUs4gF.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/iQQ4jjYV8fgdEHDgkgSrc4mWgUx.jpg",
-        "director": "Douglas Sirk",
+        "id": 780,
+        "title": "The Passion of Joan of Arc",
+        "tagline": "An Immortal Screen Classic that will live Forever!",
+        "overview": "A classic of the silent age, this film tells the story of the doomed but ultimately canonized 15th-century teenage warrior. On trial for claiming she'd spoken to God, Jeanne d'Arc is subjected to inhumane treatment and scare tactics at the hands of church court officials. Initially bullied into changing her story, Jeanne eventually opts for what she sees as the truth. Her punishment, a famously brutal execution, earns her perpetual martyrdom.",
+        "releaseDate": "1928-04-21",
+        "runtime": 82,
+        "voteAverage": 7.987,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/plzI7N52uHhERUZLNSVbGGakFwR.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/5YyWhr5cgVeYYHbsWjyQ0OGKkmu.jpg",
+        "director": "Carl Theodor Dreyer",
         "cast": [
-            "Jane Wyman",
-            "Rock Hudson",
-            "Agnes Moorehead",
-            "Conrad Nagel",
-            "Virginia Grey"
+            "Maria Falconetti",
+            "Eug\u00e8ne Silvain",
+            "Andr\u00e9 Berley",
+            "Maurice Schutz",
+            "Antonin Artaud"
         ],
         "genres": [
             "Drama",
-            "Romance"
+            "History"
         ]
     }
 }
