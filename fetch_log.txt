@@ -538,3 +538,7 @@
 [2025-07-23 03:40:32] Selected movie: Green Book (ID: 490132) for day 128 since start
 [2025-07-23 03:40:32] Successfully saved movie data for: Green Book
 [2025-07-23 03:40:32] Movie fetch process completed
+[2025-07-24 03:38:47] Starting movie fetch process
+[2025-07-24 03:38:47] Selected movie: Day of Wrath (ID: 41391) for day 129 since start
+[2025-07-24 03:38:47] Successfully saved movie data for: Day of Wrath
+[2025-07-24 03:38:47] Movie fetch process completed
