@@ -542,3 +542,7 @@
 [2025-07-24 03:38:47] Selected movie: Day of Wrath (ID: 41391) for day 129 since start
 [2025-07-24 03:38:47] Successfully saved movie data for: Day of Wrath
 [2025-07-24 03:38:47] Movie fetch process completed
+[2025-07-25 03:39:02] Starting movie fetch process
+[2025-07-25 03:39:02] Selected movie: Winchester ’73 A. (ID: 14551) for day 130 since start
+[2025-07-25 03:39:02] Successfully saved movie data for: Winchester '73
+[2025-07-25 03:39:02] Movie fetch process completed

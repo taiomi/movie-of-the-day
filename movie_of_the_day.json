@@ -1,27 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-07-24",
+    "lastUpdated": "2025-07-25",
     "movie": {
-        "id": 41391,
-        "title": "Day of Wrath",
-        "tagline": "A Drama of Fear and Superstition in the 20th Century",
-        "overview": "In a Danish village in the early 1600s, a young woman named Anne, whose mother was thought to be a witch, develops sympathy toward an old woman, Marte, who is accused of witchcraft. The intervention of Anne's older but kindly husband, Pastor Absalon saved her mother -- but now, urged on by his overbearing mother, he refuses to help Marte. When Absalon's son returns home and is attracted to Anne, it's a matter of time before her family destiny catches up with her.",
-        "releaseDate": "1943-11-13",
-        "runtime": 97,
-        "voteAverage": 7.994,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/jEOqbGLFo8fxHHgYoZVTMVYMoQG.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/kKZ9kUZ1mMthbjgp1VS7x3fBeRl.jpg",
-        "director": "Carl Theodor Dreyer",
+        "id": 14551,
+        "title": "Winchester '73",
+        "tagline": "The Gun That Won The West!",
+        "overview": "Lin McAdam rides into town on the trail of Dutch Henry Brown, only to find himself in a shooting competition against him. McAdam wins the prize, a one-in-a-thousand Winchester rifle, but Dutch steals it and leaves town. McAdam follows, intent on settling his old quarrel, while the rifle keeps changing hands and touching a number of lives.",
+        "releaseDate": "1950-07-12",
+        "runtime": 92,
+        "voteAverage": 7.3,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/rqRgjWqSmK9oI6duvigPmn49aVG.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/f9dWvVRwJEcsK7PxCONRAl1DcZe.jpg",
+        "director": "Anthony Mann",
         "cast": [
-            "Thorkild Roose",
-            "Lisbeth Movin",
-            "Preben Lerdorff Rye",
-            "Sigrid Neiiendam",
-            "Anna Svierkier"
+            "James Stewart",
+            "Shelley Winters",
+            "Dan Duryea",
+            "Stephen McNally",
+            "Millard Mitchell"
         ],
         "genres": [
-            "Drama",
-            "History"
+            "Western"
         ]
     }
 }
