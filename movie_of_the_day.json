@@ -1,26 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-07-25",
+    "lastUpdated": "2025-07-26",
     "movie": {
-        "id": 14551,
-        "title": "Winchester '73",
-        "tagline": "The Gun That Won The West!",
-        "overview": "Lin McAdam rides into town on the trail of Dutch Henry Brown, only to find himself in a shooting competition against him. McAdam wins the prize, a one-in-a-thousand Winchester rifle, but Dutch steals it and leaves town. McAdam follows, intent on settling his old quarrel, while the rifle keeps changing hands and touching a number of lives.",
-        "releaseDate": "1950-07-12",
-        "runtime": 92,
-        "voteAverage": 7.3,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/rqRgjWqSmK9oI6duvigPmn49aVG.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/f9dWvVRwJEcsK7PxCONRAl1DcZe.jpg",
-        "director": "Anthony Mann",
+        "id": 502033,
+        "title": "Sound of Metal",
+        "tagline": "Music was his world. Then silence revealed a new one.",
+        "overview": "Metal drummer Ruben begins to lose his hearing. When a doctor tells him his condition will worsen, he thinks his career and life is over. His girlfriend Lou checks the former addict into a rehab for the deaf hoping it will prevent a relapse and help him adapt to his new life. After being welcomed and accepted just as he is, Ruben must choose between his new normal and the life he once knew.",
+        "releaseDate": "2020-11-20",
+        "runtime": 120,
+        "voteAverage": 7.7,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/3178oOJKKPDeQ2legWQvMPpllv.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/7b5R8FfGUzlxfhOkPpL3xyIeuyF.jpg",
+        "director": "Darius Marder",
         "cast": [
-            "James Stewart",
-            "Shelley Winters",
-            "Dan Duryea",
-            "Stephen McNally",
-            "Millard Mitchell"
+            "Riz Ahmed",
+            "Olivia Cooke",
+            "Paul Raci",
+            "Lauren Ridloff",
+            "Mathieu Amalric"
         ],
         "genres": [
-            "Western"
+            "Drama",
+            "Music"
         ]
     }
 }
