@@ -550,3 +550,7 @@
 [2025-07-26 03:27:06] Selected movie: Sound of Metal (ID: 502033) for day 131 since start
 [2025-07-26 03:27:07] Successfully saved movie data for: Sound of Metal
 [2025-07-26 03:27:07] Movie fetch process completed
+[2025-07-27 03:47:41] Starting movie fetch process
+[2025-07-27 03:47:41] Selected movie: Accattone (ID: 12491) for day 132 since start
+[2025-07-27 03:47:42] Successfully saved movie data for: Accattone
+[2025-07-27 03:47:42] Movie fetch process completed
