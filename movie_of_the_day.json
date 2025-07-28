@@ -1,26 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-07-27",
+    "lastUpdated": "2025-07-28",
     "movie": {
-        "id": 12491,
-        "title": "Accattone",
-        "tagline": "The Poor Man's \"Dolce Vita\"",
-        "overview": "A pimp with no other means to provide for himself finds his life spiralling out of control when his prostitute is sent to prison.",
-        "releaseDate": "1961-09-25",
-        "runtime": 117,
-        "voteAverage": 7.746,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/113ts2Bmm5CZ3YJMwfCU9XGFCAf.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/rJSCS5EP9JGjNECa5hEB9Bsibjf.jpg",
-        "director": "Pier Paolo Pasolini",
+        "id": 703,
+        "title": "Annie Hall",
+        "tagline": "A nervous romance.",
+        "overview": "New York comedian Alvy Singer falls in love with the ditsy Annie Hall.",
+        "releaseDate": "1977-04-19",
+        "runtime": 93,
+        "voteAverage": 7.737,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/dEtjPywhDbAXYjoFfhBC4U9unU7.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/4Q2HGxNsegPVvyhXQOdXtODmwDc.jpg",
+        "director": "Woody Allen",
         "cast": [
-            "Franco Citti",
-            "Franca Pasut",
-            "Silvana Corsini",
-            "Paola Guidi",
-            "Adriana Asti"
+            "Woody Allen",
+            "Diane Keaton",
+            "Tony Roberts",
+            "Carol Kane",
+            "Paul Simon"
         ],
         "genres": [
-            "Drama"
+            "Comedy",
+            "Drama",
+            "Romance"
         ]
     }
 }
