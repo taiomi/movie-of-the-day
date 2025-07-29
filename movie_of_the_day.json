@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-07-28",
+    "lastUpdated": "2025-07-29",
     "movie": {
-        "id": 703,
-        "title": "Annie Hall",
-        "tagline": "A nervous romance.",
-        "overview": "New York comedian Alvy Singer falls in love with the ditsy Annie Hall.",
-        "releaseDate": "1977-04-19",
-        "runtime": 93,
-        "voteAverage": 7.737,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/dEtjPywhDbAXYjoFfhBC4U9unU7.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/4Q2HGxNsegPVvyhXQOdXtODmwDc.jpg",
-        "director": "Woody Allen",
+        "id": 375262,
+        "title": "The Favourite",
+        "tagline": "It\u2019s fun to be Queen sometimes",
+        "overview": "England, early 18th century. The close relationship between Queen Anne and Sarah Churchill is threatened by the arrival of Sarah's cousin, Abigail Hill, resulting in a bitter rivalry between the two cousins to be the Queen's favourite.",
+        "releaseDate": "2018-11-23",
+        "runtime": 120,
+        "voteAverage": 7.503,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/cwBq0onfmeilU5xgqNNjJAMPfpw.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/ph5fElfh4U7O3jwhFljxz2LDp1l.jpg",
+        "director": "Yorgos Lanthimos",
         "cast": [
-            "Woody Allen",
-            "Diane Keaton",
-            "Tony Roberts",
-            "Carol Kane",
-            "Paul Simon"
+            "Emma Stone",
+            "Olivia Colman",
+            "Rachel Weisz",
+            "Nicholas Hoult",
+            "Joe Alwyn"
         ],
         "genres": [
+            "History",
             "Comedy",
-            "Drama",
-            "Romance"
+            "Drama"
         ]
     }
 }
