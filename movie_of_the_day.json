@@ -1,28 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-07-29",
+    "lastUpdated": "2025-07-30",
     "movie": {
-        "id": 375262,
-        "title": "The Favourite",
-        "tagline": "It\u2019s fun to be Queen sometimes",
-        "overview": "England, early 18th century. The close relationship between Queen Anne and Sarah Churchill is threatened by the arrival of Sarah's cousin, Abigail Hill, resulting in a bitter rivalry between the two cousins to be the Queen's favourite.",
-        "releaseDate": "2018-11-23",
-        "runtime": 120,
-        "voteAverage": 7.503,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/cwBq0onfmeilU5xgqNNjJAMPfpw.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/ph5fElfh4U7O3jwhFljxz2LDp1l.jpg",
-        "director": "Yorgos Lanthimos",
+        "id": 11305,
+        "title": "Mystery Train",
+        "tagline": "",
+        "overview": "In Memphis, Tennessee, over the course of a single night, the Arcade Hotel, run by an eccentric night clerk and a clueless bellboy, is visited by a young Japanese couple traveling in search of the roots of rock; an Italian woman in mourning who stumbles upon a fleeing charlatan girl; and a comical trio of accidental thieves looking for a place to hide.",
+        "releaseDate": "1989-09-06",
+        "runtime": 106,
+        "voteAverage": 7.332,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/f11xq7dBGhz9UDc3dabldAGeXVH.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/t0GxYLiPkTtFBuzoPLmLU3HSKEN.jpg",
+        "director": "Jim Jarmusch",
         "cast": [
-            "Emma Stone",
-            "Olivia Colman",
-            "Rachel Weisz",
-            "Nicholas Hoult",
-            "Joe Alwyn"
+            "Youki Kudoh",
+            "Masatoshi Nagase",
+            "Screamin' Jay Hawkins",
+            "Cinqu\u00e9 Lee",
+            "Nicoletta Braschi"
         ],
         "genres": [
-            "History",
-            "Comedy",
-            "Drama"
+            "Comedy"
         ]
     }
 }
