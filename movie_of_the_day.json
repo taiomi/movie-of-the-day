@@ -1,28 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-08-02",
+    "lastUpdated": "2025-08-03",
     "movie": {
-        "id": 18671,
-        "title": "Gun Crazy",
-        "tagline": "Thrill Crazy... Kill Crazy... Gun Crazy",
-        "overview": "Bart Tare is an ex-Army man who has a lifelong fixation with guns, he meets a kindred spirit in sharpshooter Annie Starr and goes to work at a carnival. After upsetting the carnival owner who lusts after Starr, they both get fired. Soon, on Starr's behest, they embark on a crime spree for cash.",
-        "releaseDate": "1950-01-20",
-        "runtime": 87,
-        "voteAverage": 7.429,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/kC1IIitCJTZLwZyuQnKw4zaOaXc.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/eR9S6iMbk4ycV7DcqvVxFp8lNFV.jpg",
-        "director": "Joseph H. Lewis",
+        "id": 391,
+        "title": "A Fistful of Dollars",
+        "tagline": "In his own way he is, perhaps, the most dangerous man who ever lived!",
+        "overview": "The Man With No Name enters the Mexican village of San Miguel in the midst of a power struggle among the three Rojo brothers and sheriff John Baxter. When a regiment of Mexican soldiers bearing gold intended to pay for new weapons is waylaid by the Rojo brothers, the stranger inserts himself into the middle of the long-simmering battle, selling false information to both sides for his own benefit.",
+        "releaseDate": "1964-09-12",
+        "runtime": 99,
+        "voteAverage": 7.832,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/lBwOEpwVeUAmrmglcstnaGcJq3Y.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/rTJRWO9zHcB29JecTXHg0wUa4Xs.jpg",
+        "director": "Sergio Leone",
         "cast": [
-            "Peggy Cummins",
-            "John Dall",
-            "Berry Kroeger",
-            "Morris Carnovsky",
-            "Anabel Shaw"
+            "Clint Eastwood",
+            "Marianne Koch",
+            "Gian Maria Volont\u00e9",
+            "Wolfgang Lukschy",
+            "Sieghardt Rupp"
         ],
         "genres": [
-            "Crime",
-            "Romance",
-            "Thriller"
+            "Western"
         ]
     }
 }

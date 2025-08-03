@@ -578,3 +578,7 @@
 [2025-08-02 03:26:31] Selected movie: Gun Crazy (ID: 18671) for day 138 since start
 [2025-08-02 03:26:31] Successfully saved movie data for: Gun Crazy
 [2025-08-02 03:26:31] Movie fetch process completed
+[2025-08-03 03:51:23] Starting movie fetch process
+[2025-08-03 03:51:23] Selected movie: A Fistful of Dollars (ID: 391) for day 139 since start
+[2025-08-03 03:51:24] Successfully saved movie data for: A Fistful of Dollars
+[2025-08-03 03:51:24] Movie fetch process completed
