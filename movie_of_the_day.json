@@ -1,26 +1,23 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-08-03",
+    "lastUpdated": "2025-08-04",
     "movie": {
-        "id": 391,
-        "title": "A Fistful of Dollars",
-        "tagline": "In his own way he is, perhaps, the most dangerous man who ever lived!",
-        "overview": "The Man With No Name enters the Mexican village of San Miguel in the midst of a power struggle among the three Rojo brothers and sheriff John Baxter. When a regiment of Mexican soldiers bearing gold intended to pay for new weapons is waylaid by the Rojo brothers, the stranger inserts himself into the middle of the long-simmering battle, selling false information to both sides for his own benefit.",
-        "releaseDate": "1964-09-12",
-        "runtime": 99,
-        "voteAverage": 7.832,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/lBwOEpwVeUAmrmglcstnaGcJq3Y.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/rTJRWO9zHcB29JecTXHg0wUa4Xs.jpg",
-        "director": "Sergio Leone",
+        "id": 26317,
+        "title": "Man with a Movie Camera",
+        "tagline": "The Greatest Documentary Ever Made",
+        "overview": "A cameraman wanders around with a camera slung over his shoulder, documenting urban life with dazzling inventiveness.",
+        "releaseDate": "1929-05-12",
+        "runtime": 68,
+        "voteAverage": 7.839,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/vJgAdgJWX54v0oXfIvhwjlZnmgn.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/byRNEm1QwfQC1Mn0K4gLM2fIfWO.jpg",
+        "director": "Dziga Vertov",
         "cast": [
-            "Clint Eastwood",
-            "Marianne Koch",
-            "Gian Maria Volont\u00e9",
-            "Wolfgang Lukschy",
-            "Sieghardt Rupp"
+            "Mikhail Kaufman",
+            "Elizaveta Svilova"
         ],
         "genres": [
-            "Western"
+            "Documentary"
         ]
     }
 }
