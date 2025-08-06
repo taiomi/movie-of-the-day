@@ -1,29 +1,29 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-08-05",
+    "lastUpdated": "2025-08-06",
     "movie": {
-        "id": 7459,
-        "title": "Speed Racer",
-        "tagline": "A world built for speed.",
-        "overview": "Speed Racer is a young and brilliant racing driver. When corruption in the racing leagues costs his brother his life, Speed must team up with the police and the mysterious Racer X to bring an end to the corruption and criminal activities.",
-        "releaseDate": "2008-05-07",
-        "runtime": 135,
-        "voteAverage": 6.31,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/fxRIpx9Op9h71q3tvuabx4GryyP.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/kH14XvCHKfMRz1sNsAMY0KpAKb0.jpg",
-        "director": "Lana Wachowski",
+        "id": 1433,
+        "title": "The Devil's Backbone",
+        "tagline": "What is a ghost?",
+        "overview": "Spain, 1939. In the last days of the Spanish Civil War, the young Carlos arrives at the Santa Luc\u00eda orphanage, where he will make friends and enemies as he follows the quiet footsteps of a mysterious presence eager for revenge.",
+        "releaseDate": "2001-04-20",
+        "runtime": 108,
+        "voteAverage": 7.28,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/iP1z1aJzPnkP8FHg77TS7ukqoEZ.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/bjF9mcP7IuD4x01T7W70gKzSkxx.jpg",
+        "director": "Guillermo del Toro",
         "cast": [
-            "Emile Hirsch",
-            "Christina Ricci",
-            "John Goodman",
-            "Susan Sarandon",
-            "Matthew Fox"
+            "Marisa Paredes",
+            "Eduardo Noriega",
+            "Federico Luppi",
+            "Fernando Tielve",
+            "\u00cd\u00f1igo Garc\u00e9s"
         ],
         "genres": [
-            "Family",
-            "Action",
-            "Adventure",
-            "Comedy"
+            "Fantasy",
+            "Drama",
+            "Horror",
+            "Thriller"
         ]
     }
 }
