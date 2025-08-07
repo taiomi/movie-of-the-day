@@ -1,29 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-08-06",
+    "lastUpdated": "2025-08-07",
     "movie": {
-        "id": 1433,
-        "title": "The Devil's Backbone",
-        "tagline": "What is a ghost?",
-        "overview": "Spain, 1939. In the last days of the Spanish Civil War, the young Carlos arrives at the Santa Luc\u00eda orphanage, where he will make friends and enemies as he follows the quiet footsteps of a mysterious presence eager for revenge.",
-        "releaseDate": "2001-04-20",
-        "runtime": 108,
-        "voteAverage": 7.28,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/iP1z1aJzPnkP8FHg77TS7ukqoEZ.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/bjF9mcP7IuD4x01T7W70gKzSkxx.jpg",
-        "director": "Guillermo del Toro",
+        "id": 24276,
+        "title": "Matewan",
+        "tagline": "It takes more than guns to kill a man.",
+        "overview": "Filmed in the coal country of West Virginia, \"Matewan\" celebrates labor organizing in the context of a 1920s work stoppage. Union organizer, Joe Kenehan, a scab named \"Few Clothes\" Johnson and a sympathetic mayor and police chief heroically fight the power represented by a coal company and Matewan's vested interests so that justice and workers' rights need not take a back seat to squalid working conditions, exploitation and the bottom line.",
+        "releaseDate": "1987-08-28",
+        "runtime": 132,
+        "voteAverage": 7.354,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/cESTph19WGOoOPjpqjyl7mPdL3T.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/7Z2448JzjPf2THI0oJ0dsfSz56y.jpg",
+        "director": "John Sayles",
         "cast": [
-            "Marisa Paredes",
-            "Eduardo Noriega",
-            "Federico Luppi",
-            "Fernando Tielve",
-            "\u00cd\u00f1igo Garc\u00e9s"
+            "Chris Cooper",
+            "James Earl Jones",
+            "Mary McDonnell",
+            "Will Oldham",
+            "David Strathairn"
         ],
         "genres": [
-            "Fantasy",
             "Drama",
-            "Horror",
-            "Thriller"
+            "History"
         ]
     }
 }
