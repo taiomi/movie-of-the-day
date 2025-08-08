@@ -1,27 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-08-07",
+    "lastUpdated": "2025-08-08",
     "movie": {
-        "id": 24276,
-        "title": "Matewan",
-        "tagline": "It takes more than guns to kill a man.",
-        "overview": "Filmed in the coal country of West Virginia, \"Matewan\" celebrates labor organizing in the context of a 1920s work stoppage. Union organizer, Joe Kenehan, a scab named \"Few Clothes\" Johnson and a sympathetic mayor and police chief heroically fight the power represented by a coal company and Matewan's vested interests so that justice and workers' rights need not take a back seat to squalid working conditions, exploitation and the bottom line.",
-        "releaseDate": "1987-08-28",
-        "runtime": 132,
-        "voteAverage": 7.354,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/cESTph19WGOoOPjpqjyl7mPdL3T.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/7Z2448JzjPf2THI0oJ0dsfSz56y.jpg",
-        "director": "John Sayles",
+        "id": 51994,
+        "title": "The Deep Blue Sea",
+        "tagline": "",
+        "overview": "The wife of a British Judge is caught in a self-destructive love affair with a Royal Air Force pilot.",
+        "releaseDate": "2011-11-25",
+        "runtime": 98,
+        "voteAverage": 5.917,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/tZAXsFxxYWWSpEy5XQtdBaETYoc.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/iAyzpvldbIxLdDIjRMOJoBORola.jpg",
+        "director": "Terence Davies",
         "cast": [
-            "Chris Cooper",
-            "James Earl Jones",
-            "Mary McDonnell",
-            "Will Oldham",
-            "David Strathairn"
+            "Rachel Weisz",
+            "Tom Hiddleston",
+            "Simon Russell Beale",
+            "Harry Hadden-Paton",
+            "Jolyon Coy"
         ],
         "genres": [
             "Drama",
-            "History"
+            "Romance"
         ]
     }
 }
