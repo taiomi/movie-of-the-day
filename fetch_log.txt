@@ -606,3 +606,7 @@
 [2025-08-09 03:20:36] Selected movie: My Night at Maud’s (ID: 48831) for day 145 since start
 [2025-08-09 03:20:36] Successfully saved movie data for: My Night at Maud's
 [2025-08-09 03:20:36] Movie fetch process completed
+[2025-08-10 03:44:27] Starting movie fetch process
+[2025-08-10 03:44:27] Selected movie: The Man Who Would Be King (ID: 983) for day 146 since start
+[2025-08-10 03:44:27] Successfully saved movie data for: The Man Who Would Be King
+[2025-08-10 03:44:27] Movie fetch process completed

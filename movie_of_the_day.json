@@ -1,27 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-08-09",
+    "lastUpdated": "2025-08-10",
     "movie": {
-        "id": 48831,
-        "title": "My Night at Maud's",
-        "tagline": "",
-        "overview": "The Catholic Jean-Louis runs into an old friend, the Marxist Vidal, in Clermont-Ferrand around Christmas. Vidal introduces Jean-Louis to the modestly libertine, recently divorced Maud and the three engage in conversation on religion, atheism, love, morality and Blaise Pascal's life and writings on philosophy, faith and mathematics. Jean-Louis ends up spending a night at Maud's. Jean-Louis' Catholic views on marriage, fidelity and obligation make his situation a dilemma, as he has already, at the very beginning of the film, proclaimed his love for a young woman whom, however, he has never yet spoken to.",
-        "releaseDate": "1969-06-04",
-        "runtime": 110,
-        "voteAverage": 7.713,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/9usKgth3ROn4LwPQ7tTvxKnpBGL.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/9qRp6mYwyDBVzxNJN4xvpSxFvyR.jpg",
-        "director": "\u00c9ric Rohmer",
+        "id": 983,
+        "title": "The Man Who Would Be King",
+        "tagline": "Rudyard Kipling's epic of splendor, spectacle and high adventure at the top of a legendary world.",
+        "overview": "A robust adventure about two British adventurers who take over primitive Kafiristan as \"godlike\" rulers, meeting a tragic end through their desire for a native girl. Based on a short story by Rudyard Kipling.",
+        "releaseDate": "1975-12-03",
+        "runtime": 129,
+        "voteAverage": 7.498,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/gc5fS9UfNrGm5cBlbAI560YbDSF.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/1Jgefbg5cKfCrppNbP0nPJm2TdR.jpg",
+        "director": "John Huston",
         "cast": [
-            "Jean-Louis Trintignant",
-            "Fran\u00e7oise Fabian",
-            "Marie-Christine Barrault",
-            "Antoine Vitez",
-            "L\u00e9onide Kogan"
+            "Sean Connery",
+            "Michael Caine",
+            "Christopher Plummer",
+            "Saeed Jaffrey",
+            "Doghmi Larbi"
         ],
         "genres": [
-            "Romance",
-            "Comedy",
+            "Adventure",
             "Drama"
         ]
     }
