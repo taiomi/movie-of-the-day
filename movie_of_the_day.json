@@ -1,27 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-08-10",
+    "lastUpdated": "2025-08-11",
     "movie": {
-        "id": 983,
-        "title": "The Man Who Would Be King",
-        "tagline": "Rudyard Kipling's epic of splendor, spectacle and high adventure at the top of a legendary world.",
-        "overview": "A robust adventure about two British adventurers who take over primitive Kafiristan as \"godlike\" rulers, meeting a tragic end through their desire for a native girl. Based on a short story by Rudyard Kipling.",
-        "releaseDate": "1975-12-03",
+        "id": 42512,
+        "title": "Die Nibelungen: Kriemhild's Revenge",
+        "tagline": "",
+        "overview": "When Kriemhild, thirsty for revenge, marries to Etzel, king of the Huns, she invites King Gunther and his court to visit them, intending to finally take the life of the man responsible of her disgrace.",
+        "releaseDate": "1924-04-26",
         "runtime": 129,
-        "voteAverage": 7.498,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/gc5fS9UfNrGm5cBlbAI560YbDSF.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/1Jgefbg5cKfCrppNbP0nPJm2TdR.jpg",
-        "director": "John Huston",
+        "voteAverage": 7.5,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/fQ74KhKpjVrxvWJT69EnCIKFaH3.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/b7oxSGGzPgvAhtUAl4yvaWTt4lw.jpg",
+        "director": "Fritz Lang",
         "cast": [
-            "Sean Connery",
-            "Michael Caine",
-            "Christopher Plummer",
-            "Saeed Jaffrey",
-            "Doghmi Larbi"
+            "Margarete Sch\u00f6n",
+            "Gertrud Arnold",
+            "Theodor Loos",
+            "Hans Carl Mueller",
+            "Erwin Biswanger"
         ],
         "genres": [
             "Adventure",
-            "Drama"
+            "Drama",
+            "Fantasy"
         ]
     }
 }
