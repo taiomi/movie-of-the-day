@@ -1,26 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-08-12",
+    "lastUpdated": "2025-08-13",
     "movie": {
-        "id": 37347,
-        "title": "Fort Apache",
-        "tagline": "John Ford's Masterpiece of the Frontier!",
-        "overview": "Owen Thursday sees his new posting to the desolate Fort Apache as a chance to claim the military honour which he believes is rightfully his. Arrogant, obsessed with military form and ultimately self-destructive, he attempts to destroy the Apache chief Cochise after luring him across the border from Mexico, against the advice of his subordinates.",
-        "releaseDate": "1948-05-21",
-        "runtime": 128,
-        "voteAverage": 7,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/5PqKsWVlyIFuMeV1UkK6Q9Q8y9k.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/lJyDK0shCLOVa7OZQrcYkM9MKmq.jpg",
-        "director": "John Ford",
+        "id": 23160,
+        "title": "Werckmeister Harmonies",
+        "tagline": "A total eclipse has come upon us.",
+        "overview": "A naive young man witnesses an escalation of violence in his small hometown following the arrival of a mysterious circus attraction.",
+        "releaseDate": "2001-02-01",
+        "runtime": 139,
+        "voteAverage": 7.9,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/fzG0xks6HNSnQg6atlF98brHvIT.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/pyCUjcPHZrMY125lWpWAxEexe7C.jpg",
+        "director": "B\u00e9la Tarr",
         "cast": [
-            "John Wayne",
-            "Henry Fonda",
-            "Shirley Temple",
-            "Pedro Armend\u00e1riz",
-            "Ward Bond"
+            "Lars Rudolph",
+            "Peter Fitz",
+            "Hanna Schygulla",
+            "Alfr\u00e9d J\u00e1rai",
+            "Gyula Pauer"
         ],
         "genres": [
-            "Western"
+            "Drama"
         ]
     }
 }
