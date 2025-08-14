@@ -1,25 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-08-13",
+    "lastUpdated": "2025-08-14",
     "movie": {
-        "id": 23160,
-        "title": "Werckmeister Harmonies",
-        "tagline": "A total eclipse has come upon us.",
-        "overview": "A naive young man witnesses an escalation of violence in his small hometown following the arrival of a mysterious circus attraction.",
-        "releaseDate": "2001-02-01",
-        "runtime": 139,
-        "voteAverage": 7.9,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/fzG0xks6HNSnQg6atlF98brHvIT.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/pyCUjcPHZrMY125lWpWAxEexe7C.jpg",
-        "director": "B\u00e9la Tarr",
+        "id": 496243,
+        "title": "Parasite",
+        "tagline": "Act like you own the place.",
+        "overview": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+        "releaseDate": "2019-05-30",
+        "runtime": 133,
+        "voteAverage": 8.498,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/hiKmpZMGZsrkA3cdce8a7Dpos1j.jpg",
+        "director": "Bong Joon Ho",
         "cast": [
-            "Lars Rudolph",
-            "Peter Fitz",
-            "Hanna Schygulla",
-            "Alfr\u00e9d J\u00e1rai",
-            "Gyula Pauer"
+            "Song Kang-ho",
+            "Lee Sun-kyun",
+            "Cho Yeo-jeong",
+            "Choi Woo-shik",
+            "Park So-dam"
         ],
         "genres": [
+            "Comedy",
+            "Thriller",
             "Drama"
         ]
     }
