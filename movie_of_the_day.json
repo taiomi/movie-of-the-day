@@ -1,28 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-08-14",
+    "lastUpdated": "2025-08-15",
     "movie": {
-        "id": 496243,
-        "title": "Parasite",
-        "tagline": "Act like you own the place.",
-        "overview": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
-        "releaseDate": "2019-05-30",
-        "runtime": 133,
-        "voteAverage": 8.498,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/hiKmpZMGZsrkA3cdce8a7Dpos1j.jpg",
-        "director": "Bong Joon Ho",
+        "id": 3478,
+        "title": "Ludwig",
+        "tagline": "Ludwig. He loved women. He loved men. He lived as controversially as he ruled. But he did not care what the world thought. He was the world.",
+        "overview": "Historical evocation of Ludwig, king of Bavaria, from his crowning in 1864 until his death in 1886, as a romantic hero. Fan of Richard Wagner, betrayed by him, in love with his cousin Elisabeth of Austria, abandoned by her, tormented by his homosexuality, he will little by little slip towards madness.",
+        "releaseDate": "1973-03-07",
+        "runtime": 238,
+        "voteAverage": 7.5,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/9ruh503sW0dkIcWdTKkvY01B8rc.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/2liRXUfoFDCBA9lUAQy6juakzAZ.jpg",
+        "director": "Luchino Visconti",
         "cast": [
-            "Song Kang-ho",
-            "Lee Sun-kyun",
-            "Cho Yeo-jeong",
-            "Choi Woo-shik",
-            "Park So-dam"
+            "Helmut Berger",
+            "Romy Schneider",
+            "Trevor Howard",
+            "Silvana Mangano",
+            "Gert Fr\u00f6be"
         ],
         "genres": [
-            "Comedy",
-            "Thriller",
-            "Drama"
+            "Drama",
+            "History"
         ]
     }
 }
