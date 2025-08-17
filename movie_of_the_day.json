@@ -1,28 +1,25 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-08-16",
+    "lastUpdated": "2025-08-17",
     "movie": {
-        "id": 555604,
-        "title": "Guillermo del Toro's Pinocchio",
-        "tagline": "Love will give you life.",
-        "overview": "During the rise of fascism in Mussolini's Italy, a wooden boy brought magically to life struggles to live up to his father's expectations.",
-        "releaseDate": "2022-11-09",
-        "runtime": 117,
-        "voteAverage": 8.048,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/e782pDRAlu4BG0ahd777n8zfPzZ.jpg",
-        "director": "Mark Gustafson",
+        "id": 797,
+        "title": "Persona",
+        "tagline": "Ingmar Bergman's most personal and original film",
+        "overview": "A young nurse, Alma, is put in charge of Elisabeth Vogler: an actress who is seemingly healthy in all respects, but will not talk. As they spend time together, Alma speaks to Elisabeth constantly, never receiving any answer.",
+        "releaseDate": "1966-10-18",
+        "runtime": 84,
+        "voteAverage": 8.1,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/v2KsLNChpT6vLf0YFhkJmAtGkNq.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/sj2aZDetPE8RoOCAm5QJitCNfLr.jpg",
+        "director": "Ingmar Bergman",
         "cast": [
-            "Ewan McGregor",
-            "David Bradley",
-            "Gregory Mann",
-            "Burn Gorman",
-            "Ron Perlman"
+            "Bibi Andersson",
+            "Liv Ullmann",
+            "Margaretha Krook",
+            "Gunnar Bj\u00f6rnstrand",
+            "J\u00f6rgen Lindstr\u00f6m"
         ],
         "genres": [
-            "Animation",
-            "Fantasy",
-            "Adventure",
             "Drama"
         ]
     }
