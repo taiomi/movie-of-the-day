@@ -1,26 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-08-17",
+    "lastUpdated": "2025-08-18",
     "movie": {
-        "id": 797,
-        "title": "Persona",
-        "tagline": "Ingmar Bergman's most personal and original film",
-        "overview": "A young nurse, Alma, is put in charge of Elisabeth Vogler: an actress who is seemingly healthy in all respects, but will not talk. As they spend time together, Alma speaks to Elisabeth constantly, never receiving any answer.",
-        "releaseDate": "1966-10-18",
-        "runtime": 84,
-        "voteAverage": 8.1,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/v2KsLNChpT6vLf0YFhkJmAtGkNq.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/sj2aZDetPE8RoOCAm5QJitCNfLr.jpg",
-        "director": "Ingmar Bergman",
+        "id": 27031,
+        "title": "Samurai Rebellion",
+        "tagline": "In the end, we had no choice but to have it this way. We just took a roundabout path.",
+        "overview": "The mother of a feudal lord's only heir is kidnapped away from her husband by the lord. The husband and his samurai father must decide whether to accept the unjust decision, or risk death to get her back.",
+        "releaseDate": "1967-05-27",
+        "runtime": 121,
+        "voteAverage": 8.222,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/bKySGFUTgsZyn5i7s5htMVy4Xd2.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/rOmuV9occ2BKOJtca4JflEP7g8I.jpg",
+        "director": "Masaki Kobayashi",
         "cast": [
-            "Bibi Andersson",
-            "Liv Ullmann",
-            "Margaretha Krook",
-            "Gunnar Bj\u00f6rnstrand",
-            "J\u00f6rgen Lindstr\u00f6m"
+            "Toshir\u014d Mifune",
+            "Y\u014dko Tsukasa",
+            "G\u014d Kat\u014d",
+            "Tatsuyoshi Ehara",
+            "Etsuko Ichihara"
         ],
         "genres": [
-            "Drama"
+            "Drama",
+            "History",
+            "Action"
         ]
     }
 }
