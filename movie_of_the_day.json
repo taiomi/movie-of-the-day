@@ -1,28 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-08-18",
+    "lastUpdated": "2025-08-19",
     "movie": {
-        "id": 27031,
-        "title": "Samurai Rebellion",
-        "tagline": "In the end, we had no choice but to have it this way. We just took a roundabout path.",
-        "overview": "The mother of a feudal lord's only heir is kidnapped away from her husband by the lord. The husband and his samurai father must decide whether to accept the unjust decision, or risk death to get her back.",
-        "releaseDate": "1967-05-27",
+        "id": 27064,
+        "title": "Mishima: A Life in Four Chapters",
+        "tagline": "On November 25, 1970, Japan's most celebrated writer, Yukio Mishima, shocked the world.",
+        "overview": "A fictional account of the life of Japanese author Yukio Mishima, combining dramatizations of three of his novels and a depiction of the events of November 25th, 1970.",
+        "releaseDate": "1985-09-20",
         "runtime": 121,
-        "voteAverage": 8.222,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/bKySGFUTgsZyn5i7s5htMVy4Xd2.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/rOmuV9occ2BKOJtca4JflEP7g8I.jpg",
-        "director": "Masaki Kobayashi",
+        "voteAverage": 7.8,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/4kIXsE4SwUjO0eUqpolsHNO5GLH.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/qoVogSFeGN65DJousXdIeBcOIzu.jpg",
+        "director": "Paul Schrader",
         "cast": [
-            "Toshir\u014d Mifune",
-            "Y\u014dko Tsukasa",
-            "G\u014d Kat\u014d",
-            "Tatsuyoshi Ehara",
-            "Etsuko Ichihara"
+            "Ken Ogata",
+            "Kenji Sawada",
+            "Band\u014d Mitsugor\u014d X",
+            "Toshiyuki Nagashima",
+            "Masayuki Shionoya"
         ],
         "genres": [
-            "Drama",
-            "History",
-            "Action"
+            "Drama"
         ]
     }
 }
