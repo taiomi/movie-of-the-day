@@ -1,26 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-08-19",
+    "lastUpdated": "2025-08-20",
     "movie": {
-        "id": 27064,
-        "title": "Mishima: A Life in Four Chapters",
-        "tagline": "On November 25, 1970, Japan's most celebrated writer, Yukio Mishima, shocked the world.",
-        "overview": "A fictional account of the life of Japanese author Yukio Mishima, combining dramatizations of three of his novels and a depiction of the events of November 25th, 1970.",
-        "releaseDate": "1985-09-20",
-        "runtime": 121,
-        "voteAverage": 7.8,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/4kIXsE4SwUjO0eUqpolsHNO5GLH.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/qoVogSFeGN65DJousXdIeBcOIzu.jpg",
-        "director": "Paul Schrader",
+        "id": 872585,
+        "title": "Oppenheimer",
+        "tagline": "The world forever changes.",
+        "overview": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.",
+        "releaseDate": "2023-07-19",
+        "runtime": 181,
+        "voteAverage": 8.052,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/neeNHeXjMF5fXoCJRsOmkNGC7q.jpg",
+        "director": "Christopher Nolan",
         "cast": [
-            "Ken Ogata",
-            "Kenji Sawada",
-            "Band\u014d Mitsugor\u014d X",
-            "Toshiyuki Nagashima",
-            "Masayuki Shionoya"
+            "Cillian Murphy",
+            "Emily Blunt",
+            "Matt Damon",
+            "Robert Downey Jr.",
+            "Florence Pugh"
         ],
         "genres": [
-            "Drama"
+            "Drama",
+            "History"
         ]
     }
 }
