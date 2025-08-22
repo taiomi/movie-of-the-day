@@ -1,28 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-08-21",
+    "lastUpdated": "2025-08-22",
     "movie": {
-        "id": 44214,
-        "title": "Black Swan",
-        "tagline": "The pressure of perfection.",
-        "overview": "The story of Nina, a ballerina in a New York City ballet company whose life, like all those in her profession, is completely consumed with dance. She lives with her retired ballerina mother Erica who zealously supports her daughter's professional ambition. When artistic director Thomas Leroy decides to replace prima ballerina Beth MacIntyre for the opening production of their new season, Swan Lake, Nina is his first choice.",
-        "releaseDate": "2010-12-03",
-        "runtime": 109,
-        "voteAverage": 7.7,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/viWheBd44bouiLCHgNMvahLThqx.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/qxTw8OKJLRX1Xb5nR5CcIDnLKoq.jpg",
-        "director": "Darren Aronofsky",
+        "id": 30020,
+        "title": "Taste of Cherry",
+        "tagline": "You want to give up the taste of cherries?",
+        "overview": "A middle-aged Tehranian man, Mr. Badii is intent on killing himself and seeks someone to bury him after his demise. Driving around the city, the seemingly well-to-do Badii meets with numerous people, including a Muslim student, asking them to take on the job, but initially he has little luck. Eventually, Badii finds a man who is up for the task because he needs the money, but his new associate soon tries to talk him out of committing suicide.",
+        "releaseDate": "1997-09-28",
+        "runtime": 99,
+        "voteAverage": 7.675,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/u6GYH4HyR0BVwpqFuTOc2g4KB1L.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/44SNTCSZTdbF5bzgUy4IfPV3DUq.jpg",
+        "director": "Abbas Kiarostami",
         "cast": [
-            "Natalie Portman",
-            "Mila Kunis",
-            "Vincent Cassel",
-            "Barbara Hershey",
-            "Winona Ryder"
+            "Homayoun Ershadi",
+            "Abdolrahman Bagheri",
+            "Safar Ali Moradi",
+            "Mir Hossein Noori",
+            "Elham Imani"
         ],
         "genres": [
-            "Drama",
-            "Thriller",
-            "Horror"
+            "Drama"
         ]
     }
 }
