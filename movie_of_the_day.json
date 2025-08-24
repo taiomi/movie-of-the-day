@@ -1,26 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-08-23",
+    "lastUpdated": "2025-08-24",
     "movie": {
-        "id": 10217,
-        "title": "The Sweet Hereafter",
-        "tagline": "There is no such thing as the simple truth.",
-        "overview": "A small mountain community in Canada is devastated when a school bus accident leaves more than a dozen of its children dead. A big-city lawyer arrives to help the survivors' and victims' families prepare a class-action suit, but his efforts only seem to push the townspeople further apart. At the same time, one teenage survivor of the accident has to reckon with the loss of innocence brought about by a different kind of damage.",
-        "releaseDate": "1997-09-25",
-        "runtime": 112,
-        "voteAverage": 6.9,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/gJy7LMq4b5qO5fsSUSoBgm24BHf.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/7zRAZFZ4xVMyoLEvCb4Au41uvny.jpg",
-        "director": "Atom Egoyan",
+        "id": 44264,
+        "title": "True Grit",
+        "tagline": "Punishment comes one way or another.",
+        "overview": "Following the murder of her father by a hired hand, a 14-year-old farm girl sets out to capture the killer. To aid her, she hires the toughest U.S. Marshal she can find\u2014a man with 'true grit'\u2014Reuben J. 'Rooster' Cogburn.",
+        "releaseDate": "2010-12-22",
+        "runtime": 110,
+        "voteAverage": 7.307,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/tCrB8pcjadZjsDk7rleGJaIv78k.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/5dwlH8Krm2bsuc2Pubw2cBb03g5.jpg",
+        "director": "Ethan Coen",
         "cast": [
-            "Ian Holm",
-            "Sarah Polley",
-            "Tom McCamus",
-            "Gabrielle Rose",
-            "Alberta Watson"
+            "Jeff Bridges",
+            "Hailee Steinfeld",
+            "Matt Damon",
+            "Josh Brolin",
+            "Barry Pepper"
         ],
         "genres": [
-            "Drama"
+            "Drama",
+            "Adventure",
+            "Western"
         ]
     }
 }
