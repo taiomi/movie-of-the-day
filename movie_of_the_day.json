@@ -1,28 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-08-24",
+    "lastUpdated": "2025-08-25",
     "movie": {
-        "id": 44264,
-        "title": "True Grit",
-        "tagline": "Punishment comes one way or another.",
-        "overview": "Following the murder of her father by a hired hand, a 14-year-old farm girl sets out to capture the killer. To aid her, she hires the toughest U.S. Marshal she can find\u2014a man with 'true grit'\u2014Reuben J. 'Rooster' Cogburn.",
-        "releaseDate": "2010-12-22",
-        "runtime": 110,
-        "voteAverage": 7.307,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/tCrB8pcjadZjsDk7rleGJaIv78k.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/5dwlH8Krm2bsuc2Pubw2cBb03g5.jpg",
-        "director": "Ethan Coen",
+        "id": 2998,
+        "title": "Zabriskie Point",
+        "tagline": "How you get there depends on where you're at.",
+        "overview": "Anthropology student Daria, who's helping a property developer build a village in the Los Angeles desert, and dropout Mark, who's wanted by the authorities for allegedly killing a policeman during a student riot, accidentally encounter each other in Death Valley and soon begin an unrestrained romance.",
+        "releaseDate": "1970-03-26",
+        "runtime": 113,
+        "voteAverage": 7.071,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/uelo2oMg4fM51LAm4eEArEwOHXZ.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/nLb3TOTjgvvjmHnUmlkg4Rwq9jG.jpg",
+        "director": "Michelangelo Antonioni",
         "cast": [
-            "Jeff Bridges",
-            "Hailee Steinfeld",
-            "Matt Damon",
-            "Josh Brolin",
-            "Barry Pepper"
+            "Mark Frechette",
+            "Daria Halprin",
+            "Paul Fix",
+            "G. D. Spradlin",
+            "Bill Garaway"
         ],
         "genres": [
-            "Drama",
-            "Adventure",
-            "Western"
+            "Drama"
         ]
     }
 }
