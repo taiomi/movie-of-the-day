@@ -1,26 +1,30 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-08-25",
+    "lastUpdated": "2025-08-26",
     "movie": {
-        "id": 2998,
-        "title": "Zabriskie Point",
-        "tagline": "How you get there depends on where you're at.",
-        "overview": "Anthropology student Daria, who's helping a property developer build a village in the Los Angeles desert, and dropout Mark, who's wanted by the authorities for allegedly killing a policeman during a student riot, accidentally encounter each other in Death Valley and soon begin an unrestrained romance.",
-        "releaseDate": "1970-03-26",
-        "runtime": 113,
-        "voteAverage": 7.071,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/uelo2oMg4fM51LAm4eEArEwOHXZ.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/nLb3TOTjgvvjmHnUmlkg4Rwq9jG.jpg",
-        "director": "Michelangelo Antonioni",
+        "id": 1847,
+        "title": "The Long Goodbye",
+        "tagline": "Nothing says goodbye like a bullet\u2026",
+        "overview": "In 1970s Hollywood, Detective Philip Marlowe tries to help a friend who is accused of murdering his wife.",
+        "releaseDate": "1973-03-08",
+        "runtime": 112,
+        "voteAverage": 7.397,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/oBhUK54yBJ0aH6u9zCzSV5iV7OP.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/g3KOnOycUThwV4PRjtiAK0CuzID.jpg",
+        "director": "Robert Altman",
         "cast": [
-            "Mark Frechette",
-            "Daria Halprin",
-            "Paul Fix",
-            "G. D. Spradlin",
-            "Bill Garaway"
+            "Elliott Gould",
+            "Nina van Pallandt",
+            "Sterling Hayden",
+            "Mark Rydell",
+            "Henry Gibson"
         ],
         "genres": [
-            "Drama"
+            "Mystery",
+            "Crime",
+            "Comedy",
+            "Drama",
+            "Thriller"
         ]
     }
 }
