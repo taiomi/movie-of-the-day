@@ -1,28 +1,25 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-08-26",
+    "lastUpdated": "2025-08-27",
     "movie": {
-        "id": 1847,
-        "title": "The Long Goodbye",
-        "tagline": "Nothing says goodbye like a bullet\u2026",
-        "overview": "In 1970s Hollywood, Detective Philip Marlowe tries to help a friend who is accused of murdering his wife.",
-        "releaseDate": "1973-03-08",
-        "runtime": 112,
-        "voteAverage": 7.397,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/oBhUK54yBJ0aH6u9zCzSV5iV7OP.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/g3KOnOycUThwV4PRjtiAK0CuzID.jpg",
-        "director": "Robert Altman",
+        "id": 43344,
+        "title": "\u00c9l",
+        "tagline": "",
+        "overview": "Gloria encounters Francisco, a man whose social veneer betrays a truer self burrowed underneath.",
+        "releaseDate": "1953-07-09",
+        "runtime": 92,
+        "voteAverage": 7.7,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/xf5BbuOKw8hgHbhSl7OjrbGz1q4.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/dDWSK0xdXiOdzKY7ZT0TEoR4isb.jpg",
+        "director": "Luis Bu\u00f1uel",
         "cast": [
-            "Elliott Gould",
-            "Nina van Pallandt",
-            "Sterling Hayden",
-            "Mark Rydell",
-            "Henry Gibson"
+            "Arturo de C\u00f3rdova",
+            "Delia Garc\u00e9s",
+            "Aurora Walker",
+            "Carlos Mart\u00ednez Baena",
+            "Manuel Dond\u00e9"
         ],
         "genres": [
-            "Mystery",
-            "Crime",
-            "Comedy",
             "Drama",
             "Thriller"
         ]
