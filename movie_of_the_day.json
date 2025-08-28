@@ -1,27 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-08-27",
+    "lastUpdated": "2025-08-28",
     "movie": {
-        "id": 43344,
-        "title": "\u00c9l",
+        "id": 591538,
+        "title": "The Tragedy of Macbeth",
         "tagline": "",
-        "overview": "Gloria encounters Francisco, a man whose social veneer betrays a truer self burrowed underneath.",
-        "releaseDate": "1953-07-09",
-        "runtime": 92,
-        "voteAverage": 7.7,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/xf5BbuOKw8hgHbhSl7OjrbGz1q4.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/dDWSK0xdXiOdzKY7ZT0TEoR4isb.jpg",
-        "director": "Luis Bu\u00f1uel",
+        "overview": "Macbeth, the Thane of Glamis, receives a prophecy from a trio of witches that one day he will become King of Scotland. Consumed by ambition and spurred to action by his wife, Macbeth murders his king and takes the throne for himself.",
+        "releaseDate": "2021-12-05",
+        "runtime": 105,
+        "voteAverage": 6.922,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/tDNJEhcLbX3jIk3BMCur9pCdaVD.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/lMjY6kMBOHhloz2Ul16fLJn8xuw.jpg",
+        "director": "Joel Coen",
         "cast": [
-            "Arturo de C\u00f3rdova",
-            "Delia Garc\u00e9s",
-            "Aurora Walker",
-            "Carlos Mart\u00ednez Baena",
-            "Manuel Dond\u00e9"
+            "Denzel Washington",
+            "Frances McDormand",
+            "Alex Hassell",
+            "Bertie Carvel",
+            "Brendan Gleeson"
         ],
         "genres": [
             "Drama",
-            "Thriller"
+            "War"
         ]
     }
 }
