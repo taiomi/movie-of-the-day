@@ -1,27 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-08-28",
+    "lastUpdated": "2025-08-29",
     "movie": {
-        "id": 591538,
-        "title": "The Tragedy of Macbeth",
-        "tagline": "",
-        "overview": "Macbeth, the Thane of Glamis, receives a prophecy from a trio of witches that one day he will become King of Scotland. Consumed by ambition and spurred to action by his wife, Macbeth murders his king and takes the throne for himself.",
-        "releaseDate": "2021-12-05",
-        "runtime": 105,
-        "voteAverage": 6.922,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/tDNJEhcLbX3jIk3BMCur9pCdaVD.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/lMjY6kMBOHhloz2Ul16fLJn8xuw.jpg",
-        "director": "Joel Coen",
+        "id": 194,
+        "title": "Am\u00e9lie",
+        "tagline": "She\u2019ll change your life.",
+        "overview": "At a tiny Parisian caf\u00e9, the adorable yet painfully shy Am\u00e9lie accidentally discovers a gift for helping others. Soon Amelie is spending her days as a matchmaker, guardian angel, and all-around do-gooder. But when she bumps into a handsome stranger, will she find the courage to become the star of her very own love story?",
+        "releaseDate": "2001-04-25",
+        "runtime": 122,
+        "voteAverage": 7.914,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/oTKduWL2tpIKEmkAqF4mFEAWAsv.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/6n53UI4mX9QMfe2S0Pgt8mGebY1.jpg",
+        "director": "Jean-Pierre Jeunet",
         "cast": [
-            "Denzel Washington",
-            "Frances McDormand",
-            "Alex Hassell",
-            "Bertie Carvel",
-            "Brendan Gleeson"
+            "Audrey Tautou",
+            "Mathieu Kassovitz",
+            "Rufus",
+            "Serge Merlin",
+            "Jamel Debbouze"
         ],
         "genres": [
-            "Drama",
-            "War"
+            "Comedy",
+            "Romance"
         ]
     }
 }
