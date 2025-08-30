@@ -1,27 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-08-29",
+    "lastUpdated": "2025-08-30",
     "movie": {
-        "id": 194,
-        "title": "Am\u00e9lie",
-        "tagline": "She\u2019ll change your life.",
-        "overview": "At a tiny Parisian caf\u00e9, the adorable yet painfully shy Am\u00e9lie accidentally discovers a gift for helping others. Soon Amelie is spending her days as a matchmaker, guardian angel, and all-around do-gooder. But when she bumps into a handsome stranger, will she find the courage to become the star of her very own love story?",
-        "releaseDate": "2001-04-25",
-        "runtime": 122,
-        "voteAverage": 7.914,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/oTKduWL2tpIKEmkAqF4mFEAWAsv.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/6n53UI4mX9QMfe2S0Pgt8mGebY1.jpg",
-        "director": "Jean-Pierre Jeunet",
+        "id": 14696,
+        "title": "Ugetsu",
+        "tagline": "",
+        "overview": "In 16th century Japan, peasants Genjuro and Tobei sell their earthenware pots to a group of soldiers in a nearby village, in defiance of a local sage's warning against seeking to profit from warfare. Genjuro's pursuit of both riches and the mysterious Lady Wakasa, as well as Tobei's desire to become a samurai, run the risk of destroying both themselves and their wives, Miyagi and Ohama.",
+        "releaseDate": "1953-03-26",
+        "runtime": 96,
+        "voteAverage": 8,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/r8RiuKTIYIJBjczBVsfeP5C00CJ.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/iB1tCWl4MKl6OO1kMBD5LxM5BmJ.jpg",
+        "director": "Kenji Mizoguchi",
         "cast": [
-            "Audrey Tautou",
-            "Mathieu Kassovitz",
-            "Rufus",
-            "Serge Merlin",
-            "Jamel Debbouze"
+            "Machiko Ky\u014d",
+            "Mitsuko Mito",
+            "Kinuyo Tanaka",
+            "Masayuki Mori",
+            "Eitar\u014d Ozawa"
         ],
         "genres": [
-            "Comedy",
-            "Romance"
+            "Fantasy",
+            "Drama",
+            "Mystery"
         ]
     }
 }
