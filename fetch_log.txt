@@ -690,3 +690,7 @@
 [2025-08-30 02:56:27] Selected movie: Ugetsu (ID: 14696) for day 166 since start
 [2025-08-30 02:56:27] Successfully saved movie data for: Ugetsu
 [2025-08-30 02:56:27] Movie fetch process completed
+[2025-08-31 03:07:12] Starting movie fetch process
+[2025-08-31 03:07:12] Selected movie: Die Austernprinzessin (ID: 48591) for day 167 since start
+[2025-08-31 03:07:12] Successfully saved movie data for: The Oyster Princess
+[2025-08-31 03:07:12] Movie fetch process completed

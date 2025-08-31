@@ -1,28 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-08-30",
+    "lastUpdated": "2025-08-31",
     "movie": {
-        "id": 14696,
-        "title": "Ugetsu",
+        "id": 48591,
+        "title": "The Oyster Princess",
         "tagline": "",
-        "overview": "In 16th century Japan, peasants Genjuro and Tobei sell their earthenware pots to a group of soldiers in a nearby village, in defiance of a local sage's warning against seeking to profit from warfare. Genjuro's pursuit of both riches and the mysterious Lady Wakasa, as well as Tobei's desire to become a samurai, run the risk of destroying both themselves and their wives, Miyagi and Ohama.",
-        "releaseDate": "1953-03-26",
-        "runtime": 96,
-        "voteAverage": 8,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/r8RiuKTIYIJBjczBVsfeP5C00CJ.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/iB1tCWl4MKl6OO1kMBD5LxM5BmJ.jpg",
-        "director": "Kenji Mizoguchi",
+        "overview": "A pampered American oyster tycoon decides to buy a husband for his daughter, but things don\u2019t go quite as planned. Along the way there are mishaps, misunderstandings and a foxtrot sequence that must be seen to be believed.",
+        "releaseDate": "1919-06-26",
+        "runtime": 58,
+        "voteAverage": 6.782,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/n4ifmOMaw415Lt4YAYfBb7Cdjh0.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/xk8AV0zO10DKkPA5ZJgeM8nWwci.jpg",
+        "director": "Ernst Lubitsch",
         "cast": [
-            "Machiko Ky\u014d",
-            "Mitsuko Mito",
-            "Kinuyo Tanaka",
-            "Masayuki Mori",
-            "Eitar\u014d Ozawa"
+            "Victor Janson",
+            "Ossi Oswalda",
+            "Harry Liedtke",
+            "Julius Falkenstein",
+            "Max Kronert"
         ],
         "genres": [
-            "Fantasy",
-            "Drama",
-            "Mystery"
+            "Comedy"
         ]
     }
 }
