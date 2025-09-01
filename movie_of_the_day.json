@@ -1,26 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-08-31",
+    "lastUpdated": "2025-09-01",
     "movie": {
-        "id": 48591,
-        "title": "The Oyster Princess",
+        "id": 53767,
+        "title": "Kaagaz Ke Phool",
         "tagline": "",
-        "overview": "A pampered American oyster tycoon decides to buy a husband for his daughter, but things don\u2019t go quite as planned. Along the way there are mishaps, misunderstandings and a foxtrot sequence that must be seen to be believed.",
-        "releaseDate": "1919-06-26",
-        "runtime": 58,
-        "voteAverage": 6.782,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/n4ifmOMaw415Lt4YAYfBb7Cdjh0.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/xk8AV0zO10DKkPA5ZJgeM8nWwci.jpg",
-        "director": "Ernst Lubitsch",
+        "overview": "The film tells, in flashback, the story of Suresh Sinha, a famous film director and his relationship with an aspiring actress.",
+        "releaseDate": "1959-02-01",
+        "runtime": 142,
+        "voteAverage": 6.9,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/aBdEEAKEuzcvk8IKsHfbz3KSitZ.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/jKmX5N1jr36MCYbW9XOi93xymGM.jpg",
+        "director": "Guru Dutt",
         "cast": [
-            "Victor Janson",
-            "Ossi Oswalda",
-            "Harry Liedtke",
-            "Julius Falkenstein",
-            "Max Kronert"
+            "Waheeda Rehman",
+            "Guru Dutt",
+            "Kumari Naaz",
+            "Johnny Walker",
+            "Mahesh Kaul"
         ],
         "genres": [
-            "Comedy"
+            "Drama",
+            "Romance"
         ]
     }
 }
