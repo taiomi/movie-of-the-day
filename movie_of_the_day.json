@@ -1,27 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-09-01",
+    "lastUpdated": "2025-09-02",
     "movie": {
-        "id": 53767,
-        "title": "Kaagaz Ke Phool",
-        "tagline": "",
-        "overview": "The film tells, in flashback, the story of Suresh Sinha, a famous film director and his relationship with an aspiring actress.",
-        "releaseDate": "1959-02-01",
-        "runtime": 142,
-        "voteAverage": 6.9,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/aBdEEAKEuzcvk8IKsHfbz3KSitZ.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/jKmX5N1jr36MCYbW9XOi93xymGM.jpg",
-        "director": "Guru Dutt",
+        "id": 429,
+        "title": "The Good, the Bad and the Ugly",
+        "tagline": "For three men the Civil War wasn't hell. It was practice.",
+        "overview": "While the Civil War rages on between the Union and the Confederacy, three men \u2013 a quiet loner, a ruthless hitman, and a Mexican bandit \u2013 comb the American Southwest in search of a strongbox containing $200,000 in stolen gold.",
+        "releaseDate": "1966-12-22",
+        "runtime": 161,
+        "voteAverage": 8.465,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/bX2xnavhMYjWDoZp1VM6VnU1xwe.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/x4biAVdPVCghBlsVIzB6NmbghIz.jpg",
+        "director": "Sergio Leone",
         "cast": [
-            "Waheeda Rehman",
-            "Guru Dutt",
-            "Kumari Naaz",
-            "Johnny Walker",
-            "Mahesh Kaul"
+            "Clint Eastwood",
+            "Eli Wallach",
+            "Lee Van Cleef",
+            "Aldo Giuffr\u00e8",
+            "Luigi Pistilli"
         ],
         "genres": [
-            "Drama",
-            "Romance"
+            "Western"
         ]
     }
 }
