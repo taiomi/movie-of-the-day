@@ -1,26 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-09-02",
+    "lastUpdated": "2025-09-03",
     "movie": {
-        "id": 429,
-        "title": "The Good, the Bad and the Ugly",
-        "tagline": "For three men the Civil War wasn't hell. It was practice.",
-        "overview": "While the Civil War rages on between the Union and the Confederacy, three men \u2013 a quiet loner, a ruthless hitman, and a Mexican bandit \u2013 comb the American Southwest in search of a strongbox containing $200,000 in stolen gold.",
-        "releaseDate": "1966-12-22",
-        "runtime": 161,
-        "voteAverage": 8.465,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/bX2xnavhMYjWDoZp1VM6VnU1xwe.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/x4biAVdPVCghBlsVIzB6NmbghIz.jpg",
-        "director": "Sergio Leone",
+        "id": 17801,
+        "title": "The Letter",
+        "tagline": "Fascinating, Tantalizing and DANGEROUS!",
+        "overview": "After a woman shoots a man to death, a damning letter she wrote raises suspicions.",
+        "releaseDate": "1940-11-21",
+        "runtime": 95,
+        "voteAverage": 7.296,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/fe43qXp2sRAZbPDKX1puKGEwOon.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/o03816KjEc3SzqP93xamC44xrOL.jpg",
+        "director": "William Wyler",
         "cast": [
-            "Clint Eastwood",
-            "Eli Wallach",
-            "Lee Van Cleef",
-            "Aldo Giuffr\u00e8",
-            "Luigi Pistilli"
+            "Bette Davis",
+            "Herbert Marshall",
+            "James Stephenson",
+            "Frieda Inescort",
+            "Gale Sondergaard"
         ],
         "genres": [
-            "Western"
+            "Crime",
+            "Drama"
         ]
     }
 }
