@@ -1,27 +1,29 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-09-03",
+    "lastUpdated": "2025-09-04",
     "movie": {
-        "id": 17801,
-        "title": "The Letter",
-        "tagline": "Fascinating, Tantalizing and DANGEROUS!",
-        "overview": "After a woman shoots a man to death, a damning letter she wrote raises suspicions.",
-        "releaseDate": "1940-11-21",
-        "runtime": 95,
-        "voteAverage": 7.296,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/fe43qXp2sRAZbPDKX1puKGEwOon.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/o03816KjEc3SzqP93xamC44xrOL.jpg",
-        "director": "William Wyler",
+        "id": 79,
+        "title": "Hero",
+        "tagline": "One man's strength will unite an empire.",
+        "overview": "During China's Warring States period, a district prefect arrives at the palace of Qin Shi Huang, claiming to have killed the three assassins who had made an attempt on the king's life three years ago.",
+        "releaseDate": "2002-07-22",
+        "runtime": 99,
+        "voteAverage": 7.5,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/vxgZto2Cz7ILHAlmRXt50I2brB2.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/jDz6RYN3nKYtlo7J9IMvGoJit7B.jpg",
+        "director": "Zhang Yimou",
         "cast": [
-            "Bette Davis",
-            "Herbert Marshall",
-            "James Stephenson",
-            "Frieda Inescort",
-            "Gale Sondergaard"
+            "Jet Li",
+            "Tony Leung Chiu-wai",
+            "Maggie Cheung",
+            "Donnie Yen",
+            "Zhang Ziyi"
         ],
         "genres": [
-            "Crime",
-            "Drama"
+            "Drama",
+            "Adventure",
+            "Action",
+            "History"
         ]
     }
 }
