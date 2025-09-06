@@ -1,27 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-09-05",
+    "lastUpdated": "2025-09-06",
     "movie": {
-        "id": 840430,
-        "title": "The Holdovers",
-        "tagline": "Discomfort and joy.",
-        "overview": "A curmudgeonly instructor at a New England prep school is forced to remain on campus during Christmas break to babysit the handful of students with nowhere to go. Eventually, he forms an unlikely bond with one of them \u2014 a damaged, brainy troublemaker \u2014 and with the school\u2019s head cook, who has just lost a son in Vietnam.",
-        "releaseDate": "2023-10-27",
-        "runtime": 133,
-        "voteAverage": 7.67,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/VHSzNBTwxV8vh7wylo7O9CLdac.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/A99WMiz0ASpH9coOFrxSEuwTWx0.jpg",
-        "director": "Alexander Payne",
+        "id": 25319,
+        "title": "The Masque of the Red Death",
+        "tagline": "Horror has a face.",
+        "overview": "A European prince terrorizes the local peasantry while using his castle as a refuge against the \"Red Death\" plague that stalks the land.",
+        "releaseDate": "1964-06-24",
+        "runtime": 90,
+        "voteAverage": 6.588,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/sSYceyGZrWskWDsn3MHtipJ1wFM.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/wWfazEPvQCUrSOnaLOClATQAWD4.jpg",
+        "director": "Roger Corman",
         "cast": [
-            "Paul Giamatti",
-            "Dominic Sessa",
-            "Da'Vine Joy Randolph",
-            "Carrie Preston",
-            "Brady Hepner"
+            "Vincent Price",
+            "Hazel Court",
+            "Jane Asher",
+            "David Weston",
+            "Nigel Green"
         ],
         "genres": [
-            "Comedy",
-            "Drama"
+            "Drama",
+            "Horror"
         ]
     }
 }

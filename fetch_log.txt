@@ -714,3 +714,7 @@
 [2025-09-05 02:58:46] Selected movie: The Holdovers (ID: 840430) for day 172 since start
 [2025-09-05 02:58:47] Successfully saved movie data for: The Holdovers
 [2025-09-05 02:58:47] Movie fetch process completed
+[2025-09-06 02:54:01] Starting movie fetch process
+[2025-09-06 02:54:01] Selected movie: The Masque of the Red Death (ID: 25319) for day 173 since start
+[2025-09-06 02:54:01] Successfully saved movie data for: The Masque of the Red Death
+[2025-09-06 02:54:01] Movie fetch process completed
