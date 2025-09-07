@@ -718,3 +718,7 @@
 [2025-09-06 02:54:01] Selected movie: The Masque of the Red Death (ID: 25319) for day 173 since start
 [2025-09-06 02:54:01] Successfully saved movie data for: The Masque of the Red Death
 [2025-09-06 02:54:01] Movie fetch process completed
+[2025-09-07 03:03:52] Starting movie fetch process
+[2025-09-07 03:03:52] Selected movie: Glass Onion: A Knives Out Mystery (ID: 661374) for day 174 since start
+[2025-09-07 03:03:53] Successfully saved movie data for: Glass Onion: A Knives Out Mystery
+[2025-09-07 03:03:53] Movie fetch process completed

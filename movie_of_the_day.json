@@ -1,27 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-09-06",
+    "lastUpdated": "2025-09-07",
     "movie": {
-        "id": 25319,
-        "title": "The Masque of the Red Death",
-        "tagline": "Horror has a face.",
-        "overview": "A European prince terrorizes the local peasantry while using his castle as a refuge against the \"Red Death\" plague that stalks the land.",
-        "releaseDate": "1964-06-24",
-        "runtime": 90,
-        "voteAverage": 6.588,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/sSYceyGZrWskWDsn3MHtipJ1wFM.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/wWfazEPvQCUrSOnaLOClATQAWD4.jpg",
-        "director": "Roger Corman",
+        "id": 661374,
+        "title": "Glass Onion: A Knives Out Mystery",
+        "tagline": "When the game ends, the mystery begins.",
+        "overview": "World-famous detective Benoit Blanc heads to Greece to peel back the layers of a mystery surrounding a tech billionaire and his eclectic crew of friends.",
+        "releaseDate": "2022-11-23",
+        "runtime": 140,
+        "voteAverage": 7.042,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/dKqa850uvbNSCaQCV4Im1XlzEtQ.jpg",
+        "director": "Rian Johnson",
         "cast": [
-            "Vincent Price",
-            "Hazel Court",
-            "Jane Asher",
-            "David Weston",
-            "Nigel Green"
+            "Daniel Craig",
+            "Edward Norton",
+            "Janelle Mon\u00e1e",
+            "Kathryn Hahn",
+            "Leslie Odom Jr."
         ],
         "genres": [
-            "Drama",
-            "Horror"
+            "Comedy",
+            "Crime",
+            "Mystery"
         ]
     }
 }
