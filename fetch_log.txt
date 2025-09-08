@@ -722,3 +722,7 @@
 [2025-09-07 03:03:52] Selected movie: Glass Onion: A Knives Out Mystery (ID: 661374) for day 174 since start
 [2025-09-07 03:03:53] Successfully saved movie data for: Glass Onion: A Knives Out Mystery
 [2025-09-07 03:03:53] Movie fetch process completed
+[2025-09-08 03:06:40] Starting movie fetch process
+[2025-09-08 03:06:40] Selected movie: High and Low (ID: 12493) for day 175 since start
+[2025-09-08 03:06:40] Successfully saved movie data for: High and Low
+[2025-09-08 03:06:40] Movie fetch process completed

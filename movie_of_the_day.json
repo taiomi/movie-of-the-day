@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-09-07",
+    "lastUpdated": "2025-09-08",
     "movie": {
-        "id": 661374,
-        "title": "Glass Onion: A Knives Out Mystery",
-        "tagline": "When the game ends, the mystery begins.",
-        "overview": "World-famous detective Benoit Blanc heads to Greece to peel back the layers of a mystery surrounding a tech billionaire and his eclectic crew of friends.",
-        "releaseDate": "2022-11-23",
-        "runtime": 140,
-        "voteAverage": 7.042,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/dKqa850uvbNSCaQCV4Im1XlzEtQ.jpg",
-        "director": "Rian Johnson",
+        "id": 12493,
+        "title": "High and Low",
+        "tagline": "Stark, intense drama almost beyond belief!",
+        "overview": "In the midst of an attempt to take over his company, a powerhouse executive is hit with a huge ransom demand when his chauffeur's son is kidnapped by mistake.",
+        "releaseDate": "1963-03-01",
+        "runtime": 142,
+        "voteAverage": 8.3,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/tgNjemQPG96uIezpiUiXFcer5ga.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/A62quSOB8otoZvGiLvMVZ9G4BiO.jpg",
+        "director": "Akira Kurosawa",
         "cast": [
-            "Daniel Craig",
-            "Edward Norton",
-            "Janelle Mon\u00e1e",
-            "Kathryn Hahn",
-            "Leslie Odom Jr."
+            "Toshir\u014d Mifune",
+            "Tatsuya Nakadai",
+            "Ky\u014dko Kagawa",
+            "Tatsuya Mihashi",
+            "Isao Kimura"
         ],
         "genres": [
-            "Comedy",
+            "Drama",
             "Crime",
-            "Mystery"
+            "Thriller"
         ]
     }
 }
