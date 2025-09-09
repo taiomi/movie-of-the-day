@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-09-08",
+    "lastUpdated": "2025-09-09",
     "movie": {
-        "id": 12493,
-        "title": "High and Low",
-        "tagline": "Stark, intense drama almost beyond belief!",
-        "overview": "In the midst of an attempt to take over his company, a powerhouse executive is hit with a huge ransom demand when his chauffeur's son is kidnapped by mistake.",
-        "releaseDate": "1963-03-01",
-        "runtime": 142,
-        "voteAverage": 8.3,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/tgNjemQPG96uIezpiUiXFcer5ga.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/A62quSOB8otoZvGiLvMVZ9G4BiO.jpg",
-        "director": "Akira Kurosawa",
+        "id": 11324,
+        "title": "Shutter Island",
+        "tagline": "Some places never let you go.",
+        "overview": "World War II soldier-turned-U.S. Marshal Teddy Daniels investigates the disappearance of a patient from a hospital for the criminally insane, but his efforts are compromised by troubling visions and a mysterious doctor.",
+        "releaseDate": "2010-02-14",
+        "runtime": 138,
+        "voteAverage": 8.202,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/nrmXQ0zcZUL8jFLrakWc90IR8z9.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/rbZvGN1A1QyZuoKzhCw8QPmf2q0.jpg",
+        "director": "Martin Scorsese",
         "cast": [
-            "Toshir\u014d Mifune",
-            "Tatsuya Nakadai",
-            "Ky\u014dko Kagawa",
-            "Tatsuya Mihashi",
-            "Isao Kimura"
+            "Leonardo DiCaprio",
+            "Mark Ruffalo",
+            "Ben Kingsley",
+            "Max von Sydow",
+            "Michelle Williams"
         ],
         "genres": [
             "Drama",
-            "Crime",
-            "Thriller"
+            "Thriller",
+            "Mystery"
         ]
     }
 }
