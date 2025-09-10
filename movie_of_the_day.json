@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-09-09",
+    "lastUpdated": "2025-09-10",
     "movie": {
-        "id": 11324,
-        "title": "Shutter Island",
-        "tagline": "Some places never let you go.",
-        "overview": "World War II soldier-turned-U.S. Marshal Teddy Daniels investigates the disappearance of a patient from a hospital for the criminally insane, but his efforts are compromised by troubling visions and a mysterious doctor.",
-        "releaseDate": "2010-02-14",
-        "runtime": 138,
-        "voteAverage": 8.202,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/nrmXQ0zcZUL8jFLrakWc90IR8z9.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/rbZvGN1A1QyZuoKzhCw8QPmf2q0.jpg",
-        "director": "Martin Scorsese",
+        "id": 280,
+        "title": "Terminator 2: Judgment Day",
+        "tagline": "It's nothing personal.",
+        "overview": "Ten years after the events of the original, a reprogrammed T-800 is sent back in time to protect young John Connor from the shape-shifting T-1000. Together with his mother Sarah, he fights to stop Skynet from triggering a nuclear apocalypse.",
+        "releaseDate": "1991-07-03",
+        "runtime": 137,
+        "voteAverage": 8.1,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/weVXMD5QBGeQil4HEATZqAkXeEc.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/vINgGecnz95iDL6fjQMARDsocgG.jpg",
+        "director": "James Cameron",
         "cast": [
-            "Leonardo DiCaprio",
-            "Mark Ruffalo",
-            "Ben Kingsley",
-            "Max von Sydow",
-            "Michelle Williams"
+            "Arnold Schwarzenegger",
+            "Linda Hamilton",
+            "Edward Furlong",
+            "Robert Patrick",
+            "Earl Boen"
         ],
         "genres": [
-            "Drama",
+            "Action",
             "Thriller",
-            "Mystery"
+            "Science Fiction"
         ]
     }
 }
