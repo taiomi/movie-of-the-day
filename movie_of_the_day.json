@@ -1,28 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-09-10",
+    "lastUpdated": "2025-09-11",
     "movie": {
-        "id": 280,
-        "title": "Terminator 2: Judgment Day",
-        "tagline": "It's nothing personal.",
-        "overview": "Ten years after the events of the original, a reprogrammed T-800 is sent back in time to protect young John Connor from the shape-shifting T-1000. Together with his mother Sarah, he fights to stop Skynet from triggering a nuclear apocalypse.",
-        "releaseDate": "1991-07-03",
-        "runtime": 137,
-        "voteAverage": 8.1,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/weVXMD5QBGeQil4HEATZqAkXeEc.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/vINgGecnz95iDL6fjQMARDsocgG.jpg",
-        "director": "James Cameron",
+        "id": 7857,
+        "title": "Amarcord",
+        "tagline": "The Fantastic World of Fellini!",
+        "overview": "In an Italian seaside town, young Titta gets into trouble with his friends and watches various local eccentrics as they engage in often absurd behavior. Frequently clashing with his stern father and defended by his doting mother, Titta witnesses the actions of a wide range of characters, from his extended family to Fascist loyalists to sensual women, with certain moments shifting into fantastical scenarios.",
+        "releaseDate": "1973-12-18",
+        "runtime": 123,
+        "voteAverage": 7.9,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/6PcyPeenUgVb0S7htBKnW5xcVHy.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/iFQzlUmO5QmMPcSHHDdfd522x33.jpg",
+        "director": "Federico Fellini",
         "cast": [
-            "Arnold Schwarzenegger",
-            "Linda Hamilton",
-            "Edward Furlong",
-            "Robert Patrick",
-            "Earl Boen"
+            "Pupella Maggio",
+            "Armando Brancia",
+            "Magali No\u00ebl",
+            "Ciccio Ingrassia",
+            "Nando Orfei"
         ],
         "genres": [
-            "Action",
-            "Thriller",
-            "Science Fiction"
+            "Comedy",
+            "Drama"
         ]
     }
 }
