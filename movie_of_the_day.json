@@ -1,27 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-09-11",
+    "lastUpdated": "2025-09-12",
     "movie": {
-        "id": 7857,
-        "title": "Amarcord",
-        "tagline": "The Fantastic World of Fellini!",
-        "overview": "In an Italian seaside town, young Titta gets into trouble with his friends and watches various local eccentrics as they engage in often absurd behavior. Frequently clashing with his stern father and defended by his doting mother, Titta witnesses the actions of a wide range of characters, from his extended family to Fascist loyalists to sensual women, with certain moments shifting into fantastical scenarios.",
-        "releaseDate": "1973-12-18",
-        "runtime": 123,
-        "voteAverage": 7.9,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/6PcyPeenUgVb0S7htBKnW5xcVHy.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/iFQzlUmO5QmMPcSHHDdfd522x33.jpg",
-        "director": "Federico Fellini",
+        "id": 11868,
+        "title": "Dracula",
+        "tagline": "Who will his bride be tonight?",
+        "overview": "After Jonathan Harker attacks Dracula at his castle, the vampire travels to a nearby city, where he preys on the family of Harker's fianc\u00e9e. The only one who may be able to protect them is Dr. van Helsing, Harker's friend and fellow-student of vampires, who is determined to destroy Dracula, whatever the cost.",
+        "releaseDate": "1958-04-21",
+        "runtime": 82,
+        "voteAverage": 7.3,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/9UHOATvzXQWbElSGygOY1ar3vpp.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/ijbBzlKSKwWNRpebLUGfmXhBrvg.jpg",
+        "director": "Terence Fisher",
         "cast": [
-            "Pupella Maggio",
-            "Armando Brancia",
-            "Magali No\u00ebl",
-            "Ciccio Ingrassia",
-            "Nando Orfei"
+            "Peter Cushing",
+            "Christopher Lee",
+            "Michael Gough",
+            "Melissa Stribling",
+            "Carol Marsh"
         ],
         "genres": [
-            "Comedy",
-            "Drama"
+            "Horror"
         ]
     }
 }
