@@ -1,26 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-09-12",
+    "lastUpdated": "2025-09-13",
     "movie": {
-        "id": 11868,
-        "title": "Dracula",
-        "tagline": "Who will his bride be tonight?",
-        "overview": "After Jonathan Harker attacks Dracula at his castle, the vampire travels to a nearby city, where he preys on the family of Harker's fianc\u00e9e. The only one who may be able to protect them is Dr. van Helsing, Harker's friend and fellow-student of vampires, who is determined to destroy Dracula, whatever the cost.",
-        "releaseDate": "1958-04-21",
-        "runtime": 82,
-        "voteAverage": 7.3,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/9UHOATvzXQWbElSGygOY1ar3vpp.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/ijbBzlKSKwWNRpebLUGfmXhBrvg.jpg",
-        "director": "Terence Fisher",
+        "id": 29082,
+        "title": "The Vampires or, The Arch Criminals of Paris",
+        "tagline": "Every second exciting \u2014 every second thrilling \u2014 every episode sensational",
+        "overview": "Paris is prey to an invisible terror against which the police can do nothing: a sinister organization that sows chaos and death. The intrepid journalist Philippe Gu\u00e9rande and his partner embark on a long crusade to put an end to the crimes of the Great Vampire and Irma Vep, his dangerous accomplice. (A ten episode movie serial.)",
+        "releaseDate": "1915-11-13",
+        "runtime": 422,
+        "voteAverage": 7,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/8jO0Zmd468zS9WRLHpwsKUowZAX.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/oaiVvkTYroYhLPIDd2Xcry72QAB.jpg",
+        "director": "Louis Feuillade",
         "cast": [
-            "Peter Cushing",
-            "Christopher Lee",
-            "Michael Gough",
-            "Melissa Stribling",
-            "Carol Marsh"
+            "Jean Aym\u00e9",
+            "\u00c9douard Math\u00e9",
+            "Marcel L\u00e9vesque",
+            "Th\u00e9odore Thal\u00e8s",
+            "Rita Herlor"
         ],
         "genres": [
-            "Horror"
+            "Drama",
+            "Thriller"
         ]
     }
 }
