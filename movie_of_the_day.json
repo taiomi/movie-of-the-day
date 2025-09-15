@@ -1,26 +1,25 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-09-14",
+    "lastUpdated": "2025-09-15",
     "movie": {
-        "id": 15,
-        "title": "Citizen Kane",
-        "tagline": "Some called him a hero...others called him a heel.",
-        "overview": "Newspaper magnate Charles Foster Kane is taken from his mother as a boy and made the ward of a rich industrialist. As a result, every well-meaning, tyrannical or self-destructive move he makes for the rest of his life appears in some way to be a reaction to that deeply wounding event.",
-        "releaseDate": "1941-04-17",
-        "runtime": 119,
-        "voteAverage": 8.001,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/sav0jxhqiH0bPr2vZFU0Kjt2nZL.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/ruF3Lmd4A8MHbnEBE6lxPMbsHGL.jpg",
-        "director": "Orson Welles",
+        "id": 17238,
+        "title": "The Belly of an Architect",
+        "tagline": "Art is the food for madness.",
+        "overview": "The American architect Kracklite arrives in Italy, supervising an exhibiton for a French architect, Boull\u00e9e, famous for his oval structures. Tirelessly dedicated to the project, Kracklite's marriage quickly dissolves along with his health.",
+        "releaseDate": "1987-09-23",
+        "runtime": 118,
+        "voteAverage": 6.8,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/gjS08AHtZ7b44WC2NCuYWpJRoCM.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/cLSMoqNcBtwIAvyG5rirqfRkkkP.jpg",
+        "director": "Peter Greenaway",
         "cast": [
-            "Orson Welles",
-            "Joseph Cotten",
-            "Dorothy Comingore",
-            "Ray Collins",
-            "George Coulouris"
+            "Brian Dennehy",
+            "Chloe Webb",
+            "Lambert Wilson",
+            "Sergio Fantoni",
+            "Stefania Casini"
         ],
         "genres": [
-            "Mystery",
             "Drama"
         ]
     }
