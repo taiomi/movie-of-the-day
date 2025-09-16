@@ -1,26 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-09-15",
+    "lastUpdated": "2025-09-16",
     "movie": {
-        "id": 17238,
-        "title": "The Belly of an Architect",
-        "tagline": "Art is the food for madness.",
-        "overview": "The American architect Kracklite arrives in Italy, supervising an exhibiton for a French architect, Boull\u00e9e, famous for his oval structures. Tirelessly dedicated to the project, Kracklite's marriage quickly dissolves along with his health.",
-        "releaseDate": "1987-09-23",
-        "runtime": 118,
-        "voteAverage": 6.8,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/gjS08AHtZ7b44WC2NCuYWpJRoCM.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/cLSMoqNcBtwIAvyG5rirqfRkkkP.jpg",
-        "director": "Peter Greenaway",
+        "id": 26242,
+        "title": "Park Row",
+        "tagline": "Street of rogues... reporters... and romance!",
+        "overview": "In New York's 1880s newspaper district, a dedicated journalist manages to set up his own paper. It is an immediate success but attracts increasing opposition from one of the bigger papers and its newspaper heiress owner.",
+        "releaseDate": "1952-09-01",
+        "runtime": 83,
+        "voteAverage": 6.7,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/qHx9RhWqr7MndUhJqd6Bs4Gs0jp.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/dYPs1E7bNFsbBnb085aCXbpjOTv.jpg",
+        "director": "Samuel Fuller",
         "cast": [
-            "Brian Dennehy",
-            "Chloe Webb",
-            "Lambert Wilson",
-            "Sergio Fantoni",
-            "Stefania Casini"
+            "Gene Evans",
+            "Mary Welch",
+            "Bela Kovacs",
+            "Herbert Heyes",
+            "Tina Pine"
         ],
         "genres": [
-            "Drama"
+            "Drama",
+            "History",
+            "Thriller"
         ]
     }
 }
