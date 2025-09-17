@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-09-16",
+    "lastUpdated": "2025-09-17",
     "movie": {
-        "id": 26242,
-        "title": "Park Row",
-        "tagline": "Street of rogues... reporters... and romance!",
-        "overview": "In New York's 1880s newspaper district, a dedicated journalist manages to set up his own paper. It is an immediate success but attracts increasing opposition from one of the bigger papers and its newspaper heiress owner.",
-        "releaseDate": "1952-09-01",
-        "runtime": 83,
-        "voteAverage": 6.7,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/qHx9RhWqr7MndUhJqd6Bs4Gs0jp.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/dYPs1E7bNFsbBnb085aCXbpjOTv.jpg",
-        "director": "Samuel Fuller",
+        "id": 18030,
+        "title": "Kiss Me Deadly",
+        "tagline": "Blood red kisses! White hot thrills! Mickey Spillane\u2019s latest H-bomb!",
+        "overview": "One evening, Hammer gives a ride to Christina, an attractive hitchhiker on a lonely country road, who has escaped from the nearby lunatic asylum. Thugs waylay them and force his car to crash. When Hammer returns to semi-consciousness, he hears Christina being tortured until she dies. Hammer, both for vengeance and in hopes that \"something big\" is behind it all, decides to pursue the case.",
+        "releaseDate": "1955-04-28",
+        "runtime": 106,
+        "voteAverage": 7.2,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/z7me91nrpWLHY1mZOB2v20cK0zY.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/4768HzjdlNZOl1r9zKhz6mlqCMv.jpg",
+        "director": "Robert Aldrich",
         "cast": [
-            "Gene Evans",
-            "Mary Welch",
-            "Bela Kovacs",
-            "Herbert Heyes",
-            "Tina Pine"
+            "Ralph Meeker",
+            "Albert Dekker",
+            "Paul Stewart",
+            "Juano Hern\u00e1ndez",
+            "Wesley Addy"
         ],
         "genres": [
-            "Drama",
-            "History",
-            "Thriller"
+            "Mystery",
+            "Thriller",
+            "Crime"
         ]
     }
 }
