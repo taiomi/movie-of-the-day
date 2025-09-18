@@ -1,28 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-09-17",
+    "lastUpdated": "2025-09-18",
     "movie": {
-        "id": 18030,
-        "title": "Kiss Me Deadly",
-        "tagline": "Blood red kisses! White hot thrills! Mickey Spillane\u2019s latest H-bomb!",
-        "overview": "One evening, Hammer gives a ride to Christina, an attractive hitchhiker on a lonely country road, who has escaped from the nearby lunatic asylum. Thugs waylay them and force his car to crash. When Hammer returns to semi-consciousness, he hears Christina being tortured until she dies. Hammer, both for vengeance and in hopes that \"something big\" is behind it all, decides to pursue the case.",
-        "releaseDate": "1955-04-28",
-        "runtime": 106,
-        "voteAverage": 7.2,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/z7me91nrpWLHY1mZOB2v20cK0zY.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/4768HzjdlNZOl1r9zKhz6mlqCMv.jpg",
-        "director": "Robert Aldrich",
+        "id": 110160,
+        "title": "Laurence Anyways",
+        "tagline": "",
+        "overview": "The story of an impossible love between a woman named Fred and a transgender woman named Laurence who reveals her inner desire to become her true self.",
+        "releaseDate": "2012-05-18",
+        "runtime": 168,
+        "voteAverage": 7.6,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/d8BpJ9qOQE7VFFqaV1XDdGfMsP7.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/lNUP9ymEHolzjLIHyoAkpHRQZxq.jpg",
+        "director": "Xavier Dolan",
         "cast": [
-            "Ralph Meeker",
-            "Albert Dekker",
-            "Paul Stewart",
-            "Juano Hern\u00e1ndez",
-            "Wesley Addy"
+            "Melvil Poupaud",
+            "Suzanne Cl\u00e9ment",
+            "Nathalie Baye",
+            "Monia Chokri",
+            "Susan Almgren"
         ],
         "genres": [
-            "Mystery",
-            "Thriller",
-            "Crime"
+            "Drama",
+            "Romance"
         ]
     }
 }
