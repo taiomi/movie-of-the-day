@@ -1,23 +1,23 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-09-18",
+    "lastUpdated": "2025-09-19",
     "movie": {
-        "id": 110160,
-        "title": "Laurence Anyways",
+        "id": 2748,
+        "title": "Journey to Italy",
         "tagline": "",
-        "overview": "The story of an impossible love between a woman named Fred and a transgender woman named Laurence who reveals her inner desire to become her true self.",
-        "releaseDate": "2012-05-18",
-        "runtime": 168,
-        "voteAverage": 7.6,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/d8BpJ9qOQE7VFFqaV1XDdGfMsP7.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/lNUP9ymEHolzjLIHyoAkpHRQZxq.jpg",
-        "director": "Xavier Dolan",
+        "overview": "Married for eight years with no children, Brits Katherine and Alex Joyce are driving to Italy, their ultimate destination just outside of Naples to sell the villa they have just inherited from his uncle, the villa where they will be staying during their time there. On the drive, they come to the realization that this trip marks the first time that they have truly been alone together, and as such don't really know one another in the true sense.",
+        "releaseDate": "1954-09-07",
+        "runtime": 85,
+        "voteAverage": 7.305,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/tjli2Rjwkn8fivuynxwthnnEzeo.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/5SDqKj8AfUazPqXvOCDL1nmE8Zb.jpg",
+        "director": "Roberto Rossellini",
         "cast": [
-            "Melvil Poupaud",
-            "Suzanne Cl\u00e9ment",
-            "Nathalie Baye",
-            "Monia Chokri",
-            "Susan Almgren"
+            "Ingrid Bergman",
+            "George Sanders",
+            "Jackie Frost",
+            "Maria Mauban",
+            "Anna Proclemer"
         ],
         "genres": [
             "Drama",
