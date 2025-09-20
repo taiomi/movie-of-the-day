@@ -1,27 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-09-19",
+    "lastUpdated": "2025-09-20",
     "movie": {
-        "id": 2748,
-        "title": "Journey to Italy",
-        "tagline": "",
-        "overview": "Married for eight years with no children, Brits Katherine and Alex Joyce are driving to Italy, their ultimate destination just outside of Naples to sell the villa they have just inherited from his uncle, the villa where they will be staying during their time there. On the drive, they come to the realization that this trip marks the first time that they have truly been alone together, and as such don't really know one another in the true sense.",
-        "releaseDate": "1954-09-07",
-        "runtime": 85,
-        "voteAverage": 7.305,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/tjli2Rjwkn8fivuynxwthnnEzeo.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/5SDqKj8AfUazPqXvOCDL1nmE8Zb.jpg",
-        "director": "Roberto Rossellini",
+        "id": 435615,
+        "title": "Possessor",
+        "tagline": "No body is safe.",
+        "overview": "Tasya Vos, an elite corporate assassin, uses brain-implant technology to take control of other people\u2019s bodies to terminate high profile targets. As she sinks deeper into her latest assignment, Vos becomes trapped inside a mind that threatens to obliterate her.",
+        "releaseDate": "2020-10-02",
+        "runtime": 103,
+        "voteAverage": 6.374,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/xC9GZeJZ3NagdkGg9nLQx0aPG6J.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/owTL741kAuvJDKYnXKJCgTRGRud.jpg",
+        "director": "Brandon Cronenberg",
         "cast": [
-            "Ingrid Bergman",
-            "George Sanders",
-            "Jackie Frost",
-            "Maria Mauban",
-            "Anna Proclemer"
+            "Andrea Riseborough",
+            "Christopher Abbott",
+            "Jennifer Jason Leigh",
+            "Sean Bean",
+            "Tuppence Middleton"
         ],
         "genres": [
-            "Drama",
-            "Romance"
+            "Horror",
+            "Thriller",
+            "Science Fiction"
         ]
     }
 }
