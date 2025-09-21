@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-09-20",
+    "lastUpdated": "2025-09-21",
     "movie": {
-        "id": 435615,
-        "title": "Possessor",
-        "tagline": "No body is safe.",
-        "overview": "Tasya Vos, an elite corporate assassin, uses brain-implant technology to take control of other people\u2019s bodies to terminate high profile targets. As she sinks deeper into her latest assignment, Vos becomes trapped inside a mind that threatens to obliterate her.",
-        "releaseDate": "2020-10-02",
-        "runtime": 103,
-        "voteAverage": 6.374,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/xC9GZeJZ3NagdkGg9nLQx0aPG6J.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/owTL741kAuvJDKYnXKJCgTRGRud.jpg",
-        "director": "Brandon Cronenberg",
+        "id": 8592,
+        "title": "Dick Tracy",
+        "tagline": "Their turf. Their game. Their rules. They didn't count on HIS law...",
+        "overview": "The comic strip detective finds his life vastly complicated when Breathless Mahoney makes advances towards him while he is trying to battle Big Boy Caprice's united mob.",
+        "releaseDate": "1990-04-05",
+        "runtime": 105,
+        "voteAverage": 6.2,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/sjeP4bpgsUvAGE8oFcICy2GaHxw.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/zkIMr5t0B95nZPhY4AvI4v3qYH.jpg",
+        "director": "Warren Beatty",
         "cast": [
-            "Andrea Riseborough",
-            "Christopher Abbott",
-            "Jennifer Jason Leigh",
-            "Sean Bean",
-            "Tuppence Middleton"
+            "Warren Beatty",
+            "Al Pacino",
+            "Madonna",
+            "Dustin Hoffman",
+            "James Caan"
         ],
         "genres": [
-            "Horror",
-            "Thriller",
-            "Science Fiction"
+            "Adventure",
+            "Comedy",
+            "Crime"
         ]
     }
 }
