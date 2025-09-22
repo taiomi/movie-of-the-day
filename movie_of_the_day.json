@@ -1,28 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-09-21",
+    "lastUpdated": "2025-09-22",
     "movie": {
-        "id": 8592,
-        "title": "Dick Tracy",
-        "tagline": "Their turf. Their game. Their rules. They didn't count on HIS law...",
-        "overview": "The comic strip detective finds his life vastly complicated when Breathless Mahoney makes advances towards him while he is trying to battle Big Boy Caprice's united mob.",
-        "releaseDate": "1990-04-05",
-        "runtime": 105,
-        "voteAverage": 6.2,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/sjeP4bpgsUvAGE8oFcICy2GaHxw.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/zkIMr5t0B95nZPhY4AvI4v3qYH.jpg",
-        "director": "Warren Beatty",
+        "id": 1626,
+        "title": "Vivre Sa Vie",
+        "tagline": "The many faces of a woman trying to find herself.",
+        "overview": "Twelve episodic tales in the life of a Parisian woman and her slow descent into prostitution.",
+        "releaseDate": "1962-09-20",
+        "runtime": 84,
+        "voteAverage": 7.73,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/A0BjScjASfMFgyGI5sU0CwfKh3l.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/68NGFE8zD2gaQVH6MqJeKzojFJM.jpg",
+        "director": "Jean-Luc Godard",
         "cast": [
-            "Warren Beatty",
-            "Al Pacino",
-            "Madonna",
-            "Dustin Hoffman",
-            "James Caan"
+            "Anna Karina",
+            "Sady Rebbot",
+            "Andr\u00e9 S. Labarthe",
+            "Guylaine Schlumberger",
+            "G\u00e9rard Hoffmann"
         ],
         "genres": [
-            "Adventure",
-            "Comedy",
-            "Crime"
+            "Drama"
         ]
     }
 }
