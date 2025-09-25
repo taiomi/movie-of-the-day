@@ -1,28 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-09-24",
+    "lastUpdated": "2025-09-25",
     "movie": {
-        "id": 152,
-        "title": "Star Trek: The Motion Picture",
-        "tagline": "The human adventure is just beginning.",
-        "overview": "When an unidentified alien destroys three powerful Klingon cruisers, Captain James T. Kirk returns to the newly transformed U.S.S. Enterprise to take command.",
-        "releaseDate": "1979-12-07",
-        "runtime": 131,
-        "voteAverage": 6.472,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/wfiAfNwH6CMKxz4vRaW8CPTabtk.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/rPaOAtK6OpnHQ9r61WPM4WWNxaH.jpg",
-        "director": "Robert Wise",
+        "id": 11898,
+        "title": "Kind Hearts and Coronets",
+        "tagline": "He chopped down the family tree...",
+        "overview": "When his mother eloped with an Italian opera singer, Louis Mazzini was cut off from her aristocratic family. After the family refuses to let her be buried in the family mausoleum, Louis avenges his mother's death by attempting to murder every family member who stands between himself and the family fortune. But when he finds himself torn between his longtime love and the widow of one of his victims, his plans go awry.",
+        "releaseDate": "1949-06-21",
+        "runtime": 104,
+        "voteAverage": 7.652,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/eBvpyRjD3DcCsWgdV6Y9oqPS7dO.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/r7jtS16I3vgVvqapgCa7RMkZnvj.jpg",
+        "director": "Robert Hamer",
         "cast": [
-            "William Shatner",
-            "Leonard Nimoy",
-            "DeForest Kelley",
-            "James Doohan",
-            "George Takei"
+            "Dennis Price",
+            "Alec Guinness",
+            "Joan Greenwood",
+            "Valerie Hobson",
+            "Audrey Fildes"
         ],
         "genres": [
-            "Science Fiction",
-            "Adventure",
-            "Mystery"
+            "Comedy",
+            "Crime"
         ]
     }
 }
