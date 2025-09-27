@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-09-26",
+    "lastUpdated": "2025-09-27",
     "movie": {
-        "id": 59,
-        "title": "A History of Violence",
-        "tagline": "Tom Stall had the perfect life...until he became a hero.",
-        "overview": "An average family is thrust into the spotlight after the father commits a seemingly self-defense murder at his diner.",
-        "releaseDate": "2005-09-23",
-        "runtime": 96,
-        "voteAverage": 7.16,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/A26rcvipOqptVs7i5uRmKicXRxE.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/b6zLmqCKUFBqrc9zmMVT50YWhjK.jpg",
-        "director": "David Cronenberg",
+        "id": 654,
+        "title": "On the Waterfront",
+        "tagline": "The man lived by the jungle law of the docks!",
+        "overview": "A prizefighter-turned-longshoreman with a conscience goes up against labor leaders to expose corruption, extortion, and murder among the union ranks.",
+        "releaseDate": "1954-06-22",
+        "runtime": 108,
+        "voteAverage": 7.882,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/fKjLZy9W8VxMOp5OoyWojmLVCQw.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/pxkQAIhC7LXN5s5B23lnvCMgva5.jpg",
+        "director": "Elia Kazan",
         "cast": [
-            "Viggo Mortensen",
-            "Maria Bello",
-            "Ed Harris",
-            "William Hurt",
-            "Ashton Holmes"
+            "Marlon Brando",
+            "Karl Malden",
+            "Lee J. Cobb",
+            "Eva Marie Saint",
+            "Rod Steiger"
         ],
         "genres": [
+            "Crime",
             "Drama",
-            "Thriller",
-            "Crime"
+            "Romance"
         ]
     }
 }
