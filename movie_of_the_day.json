@@ -1,28 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-09-27",
+    "lastUpdated": "2025-09-28",
     "movie": {
-        "id": 654,
-        "title": "On the Waterfront",
-        "tagline": "The man lived by the jungle law of the docks!",
-        "overview": "A prizefighter-turned-longshoreman with a conscience goes up against labor leaders to expose corruption, extortion, and murder among the union ranks.",
-        "releaseDate": "1954-06-22",
-        "runtime": 108,
-        "voteAverage": 7.882,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/fKjLZy9W8VxMOp5OoyWojmLVCQw.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/pxkQAIhC7LXN5s5B23lnvCMgva5.jpg",
-        "director": "Elia Kazan",
+        "id": 213,
+        "title": "North by Northwest",
+        "tagline": "It's a deadly game of \"tag\" and Cary Grant is \"it\"!",
+        "overview": "Advertising man Roger Thornhill is mistaken for a spy, triggering a deadly cross-country chase.",
+        "releaseDate": "1959-08-06",
+        "runtime": 136,
+        "voteAverage": 7.982,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/kNOFPQrel9YFCVzI0DF8FnCEpCw.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/fONtQBk12LGjQo4q6bXDROVQmTy.jpg",
+        "director": "Alfred Hitchcock",
         "cast": [
-            "Marlon Brando",
-            "Karl Malden",
-            "Lee J. Cobb",
+            "Cary Grant",
             "Eva Marie Saint",
-            "Rod Steiger"
+            "James Mason",
+            "Jessie Royce Landis",
+            "Leo G. Carroll"
         ],
         "genres": [
-            "Crime",
-            "Drama",
-            "Romance"
+            "Thriller",
+            "Adventure"
         ]
     }
 }
