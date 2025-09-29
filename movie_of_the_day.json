@@ -1,27 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-09-28",
+    "lastUpdated": "2025-09-29",
     "movie": {
-        "id": 213,
-        "title": "North by Northwest",
-        "tagline": "It's a deadly game of \"tag\" and Cary Grant is \"it\"!",
-        "overview": "Advertising man Roger Thornhill is mistaken for a spy, triggering a deadly cross-country chase.",
-        "releaseDate": "1959-08-06",
-        "runtime": 136,
-        "voteAverage": 7.982,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/kNOFPQrel9YFCVzI0DF8FnCEpCw.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/fONtQBk12LGjQo4q6bXDROVQmTy.jpg",
-        "director": "Alfred Hitchcock",
+        "id": 766507,
+        "title": "Prey",
+        "tagline": "They hunt to live. It lives to hunt.",
+        "overview": "When danger threatens her camp, the fierce and highly skilled Comanche warrior Naru sets out to protect her people. But the prey she stalks turns out to be a highly evolved alien predator with a technically advanced arsenal.",
+        "releaseDate": "2022-08-02",
+        "runtime": 100,
+        "voteAverage": 7.677,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/ujr5pztc1oitbe7ViMUOilFaJ7s.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/7ZO9yoEU2fAHKhmJWfAc2QIPWJg.jpg",
+        "director": "Dan Trachtenberg",
         "cast": [
-            "Cary Grant",
-            "Eva Marie Saint",
-            "James Mason",
-            "Jessie Royce Landis",
-            "Leo G. Carroll"
+            "Amber Midthunder",
+            "Dakota Beavers",
+            "Michelle Thrush",
+            "Stormee Kipp",
+            "Julian Black Antelope"
         ],
         "genres": [
             "Thriller",
-            "Adventure"
+            "Action",
+            "Science Fiction"
         ]
     }
 }
