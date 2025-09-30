@@ -1,28 +1,29 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-09-29",
+    "lastUpdated": "2025-09-30",
     "movie": {
-        "id": 766507,
-        "title": "Prey",
-        "tagline": "They hunt to live. It lives to hunt.",
-        "overview": "When danger threatens her camp, the fierce and highly skilled Comanche warrior Naru sets out to protect her people. But the prey she stalks turns out to be a highly evolved alien predator with a technically advanced arsenal.",
-        "releaseDate": "2022-08-02",
-        "runtime": 100,
-        "voteAverage": 7.677,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/ujr5pztc1oitbe7ViMUOilFaJ7s.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/7ZO9yoEU2fAHKhmJWfAc2QIPWJg.jpg",
-        "director": "Dan Trachtenberg",
+        "id": 447365,
+        "title": "Guardians of the Galaxy Vol. 3",
+        "tagline": "Once more with feeling.",
+        "overview": "Peter Quill, still reeling from the loss of Gamora, must rally his team around him to defend the universe along with protecting one of their own. A mission that, if not completed successfully, could quite possibly lead to the end of the Guardians as we know them.",
+        "releaseDate": "2023-05-03",
+        "runtime": 150,
+        "voteAverage": 7.929,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/5YZbUmjbMa3ClvSW1Wj3D6XGolb.jpg",
+        "director": "James Gunn",
         "cast": [
-            "Amber Midthunder",
-            "Dakota Beavers",
-            "Michelle Thrush",
-            "Stormee Kipp",
-            "Julian Black Antelope"
+            "Chris Pratt",
+            "Zoe Salda\u00f1a",
+            "Dave Bautista",
+            "Karen Gillan",
+            "Pom Klementieff"
         ],
         "genres": [
-            "Thriller",
+            "Science Fiction",
+            "Adventure",
             "Action",
-            "Science Fiction"
+            "Comedy"
         ]
     }
 }
