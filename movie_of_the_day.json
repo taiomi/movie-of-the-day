@@ -1,29 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-09-30",
+    "lastUpdated": "2025-10-01",
     "movie": {
-        "id": 447365,
-        "title": "Guardians of the Galaxy Vol. 3",
-        "tagline": "Once more with feeling.",
-        "overview": "Peter Quill, still reeling from the loss of Gamora, must rally his team around him to defend the universe along with protecting one of their own. A mission that, if not completed successfully, could quite possibly lead to the end of the Guardians as we know them.",
-        "releaseDate": "2023-05-03",
-        "runtime": 150,
-        "voteAverage": 7.929,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/5YZbUmjbMa3ClvSW1Wj3D6XGolb.jpg",
-        "director": "James Gunn",
+        "id": 4203,
+        "title": "Women on the Verge of a Nervous Breakdown",
+        "tagline": "A comedy about someone you know.",
+        "overview": "Pepa resolves to kill herself with a batch of sleeping-pill-laced gazpacho after her lover leaves her. Fortunately, she is interrupted by a deliciously chaotic series of events.",
+        "releaseDate": "1988-03-25",
+        "runtime": 88,
+        "voteAverage": 7.413,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/8C5FJlUo96pj1xAs2BKnB58PYzi.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/ebTjxejFXMIjl2UjoFn0I1RDXJx.jpg",
+        "director": "Pedro Almod\u00f3var",
         "cast": [
-            "Chris Pratt",
-            "Zoe Salda\u00f1a",
-            "Dave Bautista",
-            "Karen Gillan",
-            "Pom Klementieff"
+            "Carmen Maura",
+            "Antonio Banderas",
+            "Julieta Serrano",
+            "Mar\u00eda Barranco",
+            "Rossy de Palma"
         ],
         "genres": [
-            "Science Fiction",
-            "Adventure",
-            "Action",
-            "Comedy"
+            "Comedy",
+            "Drama"
         ]
     }
 }
