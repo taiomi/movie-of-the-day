@@ -1,27 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-10-01",
+    "lastUpdated": "2025-10-02",
     "movie": {
-        "id": 4203,
-        "title": "Women on the Verge of a Nervous Breakdown",
-        "tagline": "A comedy about someone you know.",
-        "overview": "Pepa resolves to kill herself with a batch of sleeping-pill-laced gazpacho after her lover leaves her. Fortunately, she is interrupted by a deliciously chaotic series of events.",
-        "releaseDate": "1988-03-25",
-        "runtime": 88,
-        "voteAverage": 7.413,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/8C5FJlUo96pj1xAs2BKnB58PYzi.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/ebTjxejFXMIjl2UjoFn0I1RDXJx.jpg",
-        "director": "Pedro Almod\u00f3var",
+        "id": 5781,
+        "title": "That Obscure Object of Desire",
+        "tagline": "Luis Bu\u00f1uel's masterpiece",
+        "overview": "After dumping a bucket of water on a beautiful young woman from the window of a train car, wealthy Frenchman Mathieu, regales his fellow passengers with the story of the dysfunctional relationship between himself and the young woman in question, a fiery 19-year-old flamenco dancer named Conchita. What follows is a tale of cruelty, depravity and lies -- the very building blocks of love.",
+        "releaseDate": "1977-08-17",
+        "runtime": 103,
+        "voteAverage": 7.444,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/9iUdC4dftkjYSBUJq5DAxC6WqB9.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/rtRlUcs1GxWcdLgkuZhd8y314tg.jpg",
+        "director": "Luis Bu\u00f1uel",
         "cast": [
-            "Carmen Maura",
-            "Antonio Banderas",
-            "Julieta Serrano",
-            "Mar\u00eda Barranco",
-            "Rossy de Palma"
+            "Fernando Rey",
+            "Carole Bouquet",
+            "\u00c1ngela Molina",
+            "Julien Bertheau",
+            "Andr\u00e9 Weber"
         ],
         "genres": [
             "Comedy",
-            "Drama"
+            "Drama",
+            "Romance"
         ]
     }
 }
