@@ -1,28 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-10-02",
+    "lastUpdated": "2025-10-03",
     "movie": {
-        "id": 5781,
-        "title": "That Obscure Object of Desire",
-        "tagline": "Luis Bu\u00f1uel's masterpiece",
-        "overview": "After dumping a bucket of water on a beautiful young woman from the window of a train car, wealthy Frenchman Mathieu, regales his fellow passengers with the story of the dysfunctional relationship between himself and the young woman in question, a fiery 19-year-old flamenco dancer named Conchita. What follows is a tale of cruelty, depravity and lies -- the very building blocks of love.",
-        "releaseDate": "1977-08-17",
-        "runtime": 103,
-        "voteAverage": 7.444,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/9iUdC4dftkjYSBUJq5DAxC6WqB9.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/rtRlUcs1GxWcdLgkuZhd8y314tg.jpg",
-        "director": "Luis Bu\u00f1uel",
+        "id": 11327,
+        "title": "Midnight Express",
+        "tagline": "Walk into the incredible true experience of Billy Hayes. And bring all the courage you can.",
+        "overview": "Billy Hayes is caught attempting to smuggle drugs out of Turkey. The Turkish courts decide to make an example of him, sentencing him to more than 30 years in prison. Hayes has two opportunities for release: the appeals made by his lawyer, his family, and the American government, or the \"Midnight Express\".",
+        "releaseDate": "1978-08-31",
+        "runtime": 121,
+        "voteAverage": 7.47,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/mW54BtqVRxrPnoO9gQQjTLJlnuU.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/dIeD6Sgnpkwu3pkuEQ3rsVsvNCE.jpg",
+        "director": "Alan Parker",
         "cast": [
-            "Fernando Rey",
-            "Carole Bouquet",
-            "\u00c1ngela Molina",
-            "Julien Bertheau",
-            "Andr\u00e9 Weber"
+            "Brad Davis",
+            "Irene Miracle",
+            "Bo Hopkins",
+            "Paolo Bonacelli",
+            "Paul L. Smith"
         ],
         "genres": [
-            "Comedy",
             "Drama",
-            "Romance"
+            "Crime"
         ]
     }
 }
