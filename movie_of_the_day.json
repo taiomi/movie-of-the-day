@@ -1,27 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-10-03",
+    "lastUpdated": "2025-10-04",
     "movie": {
-        "id": 11327,
-        "title": "Midnight Express",
-        "tagline": "Walk into the incredible true experience of Billy Hayes. And bring all the courage you can.",
-        "overview": "Billy Hayes is caught attempting to smuggle drugs out of Turkey. The Turkish courts decide to make an example of him, sentencing him to more than 30 years in prison. Hayes has two opportunities for release: the appeals made by his lawyer, his family, and the American government, or the \"Midnight Express\".",
-        "releaseDate": "1978-08-31",
-        "runtime": 121,
-        "voteAverage": 7.47,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/mW54BtqVRxrPnoO9gQQjTLJlnuU.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/dIeD6Sgnpkwu3pkuEQ3rsVsvNCE.jpg",
-        "director": "Alan Parker",
+        "id": 29449,
+        "title": "Images",
+        "tagline": "A motion picture of the extra senses.",
+        "overview": "While holidaying in Ireland, a pregnant children's author finds her mental state becoming increasingly unstable, resulting in paranoia, hallucinations, and visions of a doppelg\u00e4nger.",
+        "releaseDate": "1972-12-18",
+        "runtime": 101,
+        "voteAverage": 6.829,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/aTezEYoe3hKPGva8yY4M7b24F3D.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/yL4nA0MtGqWQdqkquhEdQ3O0tBN.jpg",
+        "director": "Robert Altman",
         "cast": [
-            "Brad Davis",
-            "Irene Miracle",
-            "Bo Hopkins",
-            "Paolo Bonacelli",
-            "Paul L. Smith"
+            "Susannah York",
+            "Ren\u00e9 Auberjonois",
+            "Marcel Bozzuffi",
+            "Hugh Millais",
+            "Cathryn Harrison"
         ],
         "genres": [
-            "Drama",
-            "Crime"
+            "Thriller",
+            "Mystery",
+            "Horror"
         ]
     }
 }
