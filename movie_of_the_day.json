@@ -1,28 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-10-04",
+    "lastUpdated": "2025-10-05",
     "movie": {
-        "id": 29449,
-        "title": "Images",
-        "tagline": "A motion picture of the extra senses.",
-        "overview": "While holidaying in Ireland, a pregnant children's author finds her mental state becoming increasingly unstable, resulting in paranoia, hallucinations, and visions of a doppelg\u00e4nger.",
-        "releaseDate": "1972-12-18",
-        "runtime": 101,
-        "voteAverage": 6.829,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/aTezEYoe3hKPGva8yY4M7b24F3D.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/yL4nA0MtGqWQdqkquhEdQ3O0tBN.jpg",
-        "director": "Robert Altman",
+        "id": 10331,
+        "title": "Night of the Living Dead",
+        "tagline": "If it doesn't scare you, you're already dead!",
+        "overview": "A ragtag group barricade themselves in an old Pennsylvania farmhouse to remain safe from a horde of flesh-eating ghouls ravaging the Northeast.",
+        "releaseDate": "1968-10-04",
+        "runtime": 96,
+        "voteAverage": 7.615,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/rb2NWyb008u1EcKCOyXs2Nmj0ra.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/d0NwvSRJQQzkubWKsidX4caQ6Yi.jpg",
+        "director": "George A. Romero",
         "cast": [
-            "Susannah York",
-            "Ren\u00e9 Auberjonois",
-            "Marcel Bozzuffi",
-            "Hugh Millais",
-            "Cathryn Harrison"
+            "Judith O'Dea",
+            "Duane Jones",
+            "Marilyn Eastman",
+            "Karl Hardman",
+            "Judith Ridley"
         ],
         "genres": [
-            "Thriller",
-            "Mystery",
-            "Horror"
+            "Horror",
+            "Thriller"
         ]
     }
 }
