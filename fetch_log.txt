@@ -834,3 +834,7 @@
 [2025-10-05 03:07:48] Selected movie: Night of the Living Dead (ID: 10331) for day 202 since start
 [2025-10-05 03:07:48] Successfully saved movie data for: Night of the Living Dead
 [2025-10-05 03:07:48] Movie fetch process completed
+[2025-10-06 03:01:57] Starting movie fetch process
+[2025-10-06 03:01:57] Selected movie: Brute Force (ID: 28297) for day 203 since start
+[2025-10-06 03:01:57] Successfully saved movie data for: Brute Force
+[2025-10-06 03:01:57] Movie fetch process completed
