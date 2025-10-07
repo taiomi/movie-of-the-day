@@ -1,28 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-10-06",
+    "lastUpdated": "2025-10-07",
     "movie": {
-        "id": 28297,
-        "title": "Brute Force",
-        "tagline": "Power Packed Picture!",
-        "overview": "Timeworn Joe Collins and his fellow inmates live under the heavy thumb of the sadistic, power-tripping guard Captain Munsey. Only Collins' dreams of escape keep him going, but how can he possibly bust out of Munsey's chains?",
-        "releaseDate": "1947-07-16",
-        "runtime": 98,
-        "voteAverage": 7.3,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/lpKW8JG2IEJlz7WIyqLSsPHGnrd.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/aJcr2XzbFt2jqKtCnlw9Po1ZA2f.jpg",
-        "director": "Jules Dassin",
+        "id": 497828,
+        "title": "Triangle of Sadness",
+        "tagline": "",
+        "overview": "A celebrity model couple are invited on a luxury cruise for the uber-rich, helmed by an unhinged, alcoholic captain. What first appears Instagrammable ends catastrophically, leaving the survivors stranded on a desert island in a struggle of hierarchy.",
+        "releaseDate": "2022-09-18",
+        "runtime": 147,
+        "voteAverage": 7.041,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/k9eLozCgCed5FGTSdHu0bBElAV8.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/vNPY4oCSUp7CxbHkKJNRx1fmCl0.jpg",
+        "director": "Ruben \u00d6stlund",
         "cast": [
-            "Burt Lancaster",
-            "Hume Cronyn",
-            "Charles Bickford",
-            "Yvonne De Carlo",
-            "Ann Blyth"
+            "Harris Dickinson",
+            "Charlbi Dean",
+            "Dolly de Leon",
+            "Woody Harrelson",
+            "Zlatko Buri\u0107"
         ],
         "genres": [
-            "Crime",
-            "Drama",
-            "Thriller"
+            "Comedy",
+            "Drama"
         ]
     }
 }
