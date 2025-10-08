@@ -842,3 +842,7 @@
 [2025-10-07 02:58:05] Selected movie: Triangle of Sadness (ID: 497828) for day 204 since start
 [2025-10-07 02:58:05] Successfully saved movie data for: Triangle of Sadness
 [2025-10-07 02:58:05] Movie fetch process completed
+[2025-10-08 02:58:02] Starting movie fetch process
+[2025-10-08 02:58:02] Selected movie: The Menu (ID: 593643) for day 205 since start
+[2025-10-08 02:58:02] Successfully saved movie data for: The Menu
+[2025-10-08 02:58:02] Movie fetch process completed

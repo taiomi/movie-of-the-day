@@ -1,27 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-10-07",
+    "lastUpdated": "2025-10-08",
     "movie": {
-        "id": 497828,
-        "title": "Triangle of Sadness",
-        "tagline": "",
-        "overview": "A celebrity model couple are invited on a luxury cruise for the uber-rich, helmed by an unhinged, alcoholic captain. What first appears Instagrammable ends catastrophically, leaving the survivors stranded on a desert island in a struggle of hierarchy.",
-        "releaseDate": "2022-09-18",
-        "runtime": 147,
-        "voteAverage": 7.041,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/k9eLozCgCed5FGTSdHu0bBElAV8.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/vNPY4oCSUp7CxbHkKJNRx1fmCl0.jpg",
-        "director": "Ruben \u00d6stlund",
+        "id": 593643,
+        "title": "The Menu",
+        "tagline": "Painstakingly prepared. Brilliantly executed.",
+        "overview": "A young couple travels to a remote island to eat at an exclusive restaurant where the chef has prepared a lavish menu, with some shocking surprises.",
+        "releaseDate": "2022-11-17",
+        "runtime": 107,
+        "voteAverage": 7.173,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/fPtUgMcLIboqlTlPrq0bQpKK8eq.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/mSyQoValhBsJdq3JNGXJww2Q5yL.jpg",
+        "director": "Mark Mylod",
         "cast": [
-            "Harris Dickinson",
-            "Charlbi Dean",
-            "Dolly de Leon",
-            "Woody Harrelson",
-            "Zlatko Buri\u0107"
+            "Anya Taylor-Joy",
+            "Ralph Fiennes",
+            "Nicholas Hoult",
+            "Janet McTeer",
+            "Paul Adelstein"
         ],
         "genres": [
             "Comedy",
-            "Drama"
+            "Horror",
+            "Thriller"
         ]
     }
 }
