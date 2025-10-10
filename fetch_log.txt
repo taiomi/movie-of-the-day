@@ -850,3 +850,7 @@
 [2025-10-09 03:00:27] Selected movie: Sleepy Hollow (ID: 2668) for day 206 since start
 [2025-10-09 03:00:27] Successfully saved movie data for: Sleepy Hollow
 [2025-10-09 03:00:27] Movie fetch process completed
+[2025-10-10 03:00:49] Starting movie fetch process
+[2025-10-10 03:00:49] Selected movie: Dead Ringers (ID: 9540) for day 207 since start
+[2025-10-10 03:00:49] Successfully saved movie data for: Dead Ringers
+[2025-10-10 03:00:49] Movie fetch process completed

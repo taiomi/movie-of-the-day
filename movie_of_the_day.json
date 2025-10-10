@@ -1,28 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-10-09",
+    "lastUpdated": "2025-10-10",
     "movie": {
-        "id": 2668,
-        "title": "Sleepy Hollow",
-        "tagline": "Heads will roll.",
-        "overview": "Skeptical young detective Ichabod Crane gets transferred to the hamlet of Sleepy Hollow, New York, where he is tasked with investigating the decapitations of three people \u2013 murders the townsfolk attribute to a legendary specter, The Headless Horseman.",
-        "releaseDate": "1999-11-19",
-        "runtime": 105,
-        "voteAverage": 7.187,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/1GuK965FLJxqUw9fd1pmvjbFAlv.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/npFK2ywM4Bs96768eLeNLBmKktb.jpg",
-        "director": "Tim Burton",
+        "id": 9540,
+        "title": "Dead Ringers",
+        "tagline": "Two bodies. Two minds. One soul.",
+        "overview": "Elliot, a successful gynecologist, works at the same practice as his identical twin, Beverly. Elliot is attracted to many of his patients and has affairs with them. When he inevitably loses interest, he will give the woman over to Beverly, the meeker of the two, without the woman knowing the difference. Beverly falls hard for one of the patients, Claire, but when she inadvertently deceives him, he slips into a state of madness.",
+        "releaseDate": "1988-09-23",
+        "runtime": 115,
+        "voteAverage": 7.122,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/ofXwDfM8uYAaftD7cBPcIWdCpMn.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/n3QtJ6tqE0fnf4Qaxb0iujBk0lH.jpg",
+        "director": "David Cronenberg",
         "cast": [
-            "Johnny Depp",
-            "Christina Ricci",
-            "Miranda Richardson",
-            "Michael Gambon",
-            "Casper Van Dien"
+            "Jeremy Irons",
+            "Genevi\u00e8ve Bujold",
+            "Heidi von Palleske",
+            "Barbara Gordon",
+            "Shirley Douglas"
         ],
         "genres": [
-            "Fantasy",
             "Thriller",
-            "Mystery",
             "Horror"
         ]
     }
