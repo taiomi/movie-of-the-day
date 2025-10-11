@@ -1,27 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-10-10",
+    "lastUpdated": "2025-10-11",
     "movie": {
-        "id": 9540,
-        "title": "Dead Ringers",
-        "tagline": "Two bodies. Two minds. One soul.",
-        "overview": "Elliot, a successful gynecologist, works at the same practice as his identical twin, Beverly. Elliot is attracted to many of his patients and has affairs with them. When he inevitably loses interest, he will give the woman over to Beverly, the meeker of the two, without the woman knowing the difference. Beverly falls hard for one of the patients, Claire, but when she inadvertently deceives him, he slips into a state of madness.",
-        "releaseDate": "1988-09-23",
+        "id": 41054,
+        "title": "Il Grido",
+        "tagline": "",
+        "overview": "A sugar-refinery worker flees his Northern Italy town after a woman refuses his marriage proposal.",
+        "releaseDate": "1957-09-26",
         "runtime": 115,
-        "voteAverage": 7.122,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/ofXwDfM8uYAaftD7cBPcIWdCpMn.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/n3QtJ6tqE0fnf4Qaxb0iujBk0lH.jpg",
-        "director": "David Cronenberg",
+        "voteAverage": 7.494,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/anUoCgC45XL1nmLJoXD1kVKnwka.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/9o4dGUgFpI1aYKzkYLkQk8BfxQM.jpg",
+        "director": "Michelangelo Antonioni",
         "cast": [
-            "Jeremy Irons",
-            "Genevi\u00e8ve Bujold",
-            "Heidi von Palleske",
-            "Barbara Gordon",
-            "Shirley Douglas"
+            "Steve Cochran",
+            "Alida Valli",
+            "Dorian Gray",
+            "Jacqueline Jones",
+            "Gabriella Pallotta"
         ],
         "genres": [
-            "Thriller",
-            "Horror"
+            "Drama"
         ]
     }
 }
