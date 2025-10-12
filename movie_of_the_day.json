@@ -1,26 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-10-11",
+    "lastUpdated": "2025-10-12",
     "movie": {
-        "id": 41054,
-        "title": "Il Grido",
-        "tagline": "",
-        "overview": "A sugar-refinery worker flees his Northern Italy town after a woman refuses his marriage proposal.",
-        "releaseDate": "1957-09-26",
-        "runtime": 115,
-        "voteAverage": 7.494,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/anUoCgC45XL1nmLJoXD1kVKnwka.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/9o4dGUgFpI1aYKzkYLkQk8BfxQM.jpg",
-        "director": "Michelangelo Antonioni",
+        "id": 10772,
+        "title": "Django",
+        "tagline": "The movie that spawned a genre.",
+        "overview": "A coffin-dragging gunslinger and a prostitute become embroiled in a bitter feud between a merciless masked clan and a band of Mexican revolutionaries.",
+        "releaseDate": "1966-04-06",
+        "runtime": 93,
+        "voteAverage": 7.207,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/vs4vieNstSEfbgLFEelXXOPvr6h.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/klreYbgIdSROmfXd1SlCWMgMBn1.jpg",
+        "director": "Sergio Corbucci",
         "cast": [
-            "Steve Cochran",
-            "Alida Valli",
-            "Dorian Gray",
-            "Jacqueline Jones",
-            "Gabriella Pallotta"
+            "Franco Nero",
+            "Jos\u00e9 B\u00f3dalo",
+            "Loredana Nusciak",
+            "\u00c1ngel \u00c1lvarez",
+            "Eduardo Fajardo"
         ],
         "genres": [
-            "Drama"
+            "Action",
+            "Western"
         ]
     }
 }
