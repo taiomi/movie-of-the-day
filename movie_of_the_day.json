@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-10-13",
+    "lastUpdated": "2025-10-14",
     "movie": {
-        "id": 3090,
-        "title": "The Treasure of the Sierra Madre",
-        "tagline": "The nearer they get to their treasure, the farther they get from the law.",
-        "overview": "Two jobless Americans convince a prospector to travel to the mountains of Mexico with them in search of gold. But the hostile wilderness, local bandits, and greed all get in the way of their journey.",
-        "releaseDate": "1948-01-15",
-        "runtime": 126,
-        "voteAverage": 7.957,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/pWcst7zVbi8Z8W6GFrdNE7HHRxL.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/sj5R5SGor3YMFBuabMj8gPbyBmh.jpg",
-        "director": "John Huston",
+        "id": 12501,
+        "title": "The Big Country",
+        "tagline": "Big they fought! Big they loved! Big their story!",
+        "overview": "Retired wealthy sea captain Jim McKay arrives in the Old West, where he becomes embroiled in a feud between his future father-in-law, Major Terrill, and the rough and lawless Hannasseys over a valuable patch of land.",
+        "releaseDate": "1958-09-30",
+        "runtime": 166,
+        "voteAverage": 7.6,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/aTjIUBmo7qbiu5FuvSoBA0UONWk.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/59CrKyFYuutLMNFKiw1BkolF1Bp.jpg",
+        "director": "William Wyler",
         "cast": [
-            "Humphrey Bogart",
-            "Walter Huston",
-            "Tim Holt",
-            "Bruce Bennett",
-            "Barton MacLane"
+            "Gregory Peck",
+            "Jean Simmons",
+            "Carroll Baker",
+            "Charlton Heston",
+            "Burl Ives"
         ],
         "genres": [
-            "Adventure",
             "Drama",
-            "Western"
+            "Western",
+            "Romance"
         ]
     }
 }
