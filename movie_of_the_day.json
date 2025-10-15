@@ -1,28 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-10-14",
+    "lastUpdated": "2025-10-15",
     "movie": {
-        "id": 12501,
-        "title": "The Big Country",
-        "tagline": "Big they fought! Big they loved! Big their story!",
-        "overview": "Retired wealthy sea captain Jim McKay arrives in the Old West, where he becomes embroiled in a feud between his future father-in-law, Major Terrill, and the rough and lawless Hannasseys over a valuable patch of land.",
-        "releaseDate": "1958-09-30",
-        "runtime": 166,
-        "voteAverage": 7.6,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/aTjIUBmo7qbiu5FuvSoBA0UONWk.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/59CrKyFYuutLMNFKiw1BkolF1Bp.jpg",
-        "director": "William Wyler",
+        "id": 976,
+        "title": "Sweet Smell of Success",
+        "tagline": "Beware these \u201cGentlemen\u201d of the press!",
+        "overview": "New York City newspaper writer J.J. Hunsecker holds considerable sway over public opinion with his Broadway column, but one thing that he can't control is his younger sister, Susan, who is in a relationship with aspiring jazz guitarist Steve Dallas. Hunsecker strongly disapproves of the romance and recruits publicist Sidney Falco to find a way to split the couple, no matter how ruthless the method.",
+        "releaseDate": "1957-07-04",
+        "runtime": 97,
+        "voteAverage": 7.613,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/akzvV8JasNrgEl5iAP9K6zPHGJe.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/6L1Co3uRWuoaqDxpWvGDvgXms7T.jpg",
+        "director": "Alexander Mackendrick",
         "cast": [
-            "Gregory Peck",
-            "Jean Simmons",
-            "Carroll Baker",
-            "Charlton Heston",
-            "Burl Ives"
+            "Burt Lancaster",
+            "Tony Curtis",
+            "Susan Harrison",
+            "Martin Milner",
+            "Jeff Donnell"
         ],
         "genres": [
-            "Drama",
-            "Western",
-            "Romance"
+            "Drama"
         ]
     }
 }
