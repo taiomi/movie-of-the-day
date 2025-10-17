@@ -1,26 +1,25 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-10-16",
+    "lastUpdated": "2025-10-17",
     "movie": {
-        "id": 31522,
-        "title": "A Woman Is a Woman",
-        "tagline": "Is this a tragedy or a comedy? Either way, it's a masterpiece.",
-        "overview": "Longing for a baby, a stripper pursues another man in order to make her boyfriend jealous.",
-        "releaseDate": "1961-09-06",
-        "runtime": 83,
-        "voteAverage": 7.346,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/xrZu21hriGJQY3qY8nifh2smVHu.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/oseBXGQMYWTWzAVHJaUEwGgrjGA.jpg",
-        "director": "Jean-Luc Godard",
+        "id": 152599,
+        "title": "The Immigrant",
+        "tagline": "",
+        "overview": "1921 New York. An immigrant woman is tricked into a life of burlesque and vaudeville until a dazzling magician tries to save her and reunite her with her sister who is being held in the confines of Ellis Island.",
+        "releaseDate": "2013-11-27",
+        "runtime": 117,
+        "voteAverage": 6.326,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/ArWRRQYeXL3nG4jYpMOPoBvgmy9.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/mqIheOKqtRD7Z9l4kEmic7BDqEZ.jpg",
+        "director": "James Gray",
         "cast": [
-            "Anna Karina",
-            "Jean-Claude Brialy",
-            "Jean-Paul Belmondo",
-            "Henri Attal",
-            "Karyn Balm"
+            "Marion Cotillard",
+            "Joaquin Phoenix",
+            "Jeremy Renner",
+            "Dagmara Dominczyk",
+            "Yelena Solovey"
         ],
         "genres": [
-            "Comedy",
             "Drama",
             "Romance"
         ]
