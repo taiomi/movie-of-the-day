@@ -1,25 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-10-17",
+    "lastUpdated": "2025-10-18",
     "movie": {
-        "id": 152599,
-        "title": "The Immigrant",
-        "tagline": "",
-        "overview": "1921 New York. An immigrant woman is tricked into a life of burlesque and vaudeville until a dazzling magician tries to save her and reunite her with her sister who is being held in the confines of Ellis Island.",
-        "releaseDate": "2013-11-27",
-        "runtime": 117,
-        "voteAverage": 6.326,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/ArWRRQYeXL3nG4jYpMOPoBvgmy9.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/mqIheOKqtRD7Z9l4kEmic7BDqEZ.jpg",
-        "director": "James Gray",
+        "id": 3088,
+        "title": "My Darling Clementine",
+        "tagline": "She was everything the West was - young, fiery, exciting!",
+        "overview": "Three brothers stop off for a night in the town of Tombstone. The next morning they find one of their brothers dead and their cattle stolen. They decide to take revenge on the culprits.",
+        "releaseDate": "1946-10-17",
+        "runtime": 97,
+        "voteAverage": 7.439,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/o7G5klSt9i8LQZdUNvrWUJbbxAO.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/q4OPVRS5a55BOcUtGcQh81Idsgt.jpg",
+        "director": "John Ford",
         "cast": [
-            "Marion Cotillard",
-            "Joaquin Phoenix",
-            "Jeremy Renner",
-            "Dagmara Dominczyk",
-            "Yelena Solovey"
+            "Henry Fonda",
+            "Linda Darnell",
+            "Victor Mature",
+            "Cathy Downs",
+            "Walter Brennan"
         ],
         "genres": [
+            "Western",
             "Drama",
             "Romance"
         ]
