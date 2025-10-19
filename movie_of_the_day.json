@@ -1,28 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-10-18",
+    "lastUpdated": "2025-10-19",
     "movie": {
-        "id": 3088,
-        "title": "My Darling Clementine",
-        "tagline": "She was everything the West was - young, fiery, exciting!",
-        "overview": "Three brothers stop off for a night in the town of Tombstone. The next morning they find one of their brothers dead and their cattle stolen. They decide to take revenge on the culprits.",
-        "releaseDate": "1946-10-17",
-        "runtime": 97,
-        "voteAverage": 7.439,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/o7G5klSt9i8LQZdUNvrWUJbbxAO.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/q4OPVRS5a55BOcUtGcQh81Idsgt.jpg",
-        "director": "John Ford",
+        "id": 301,
+        "title": "Rio Bravo",
+        "tagline": "They fought back to back... No quarter given... No quarter asked... No way in... No way out... of Rio Bravo!",
+        "overview": "A small-town sheriff in the American West enlists the help of a disabled man, a drunk, and a young gunfighter in his efforts to hold in jail the brother of the local bad guy.",
+        "releaseDate": "1959-03-18",
+        "runtime": 141,
+        "voteAverage": 7.8,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/4gI4KKmoi0d3yfsF71YU3S0I5t8.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/38uM6QuI06znUCELfOSiVQy05CX.jpg",
+        "director": "Howard Hawks",
         "cast": [
-            "Henry Fonda",
-            "Linda Darnell",
-            "Victor Mature",
-            "Cathy Downs",
+            "John Wayne",
+            "Dean Martin",
+            "Ricky Nelson",
+            "Angie Dickinson",
             "Walter Brennan"
         ],
         "genres": [
-            "Western",
-            "Drama",
-            "Romance"
+            "Western"
         ]
     }
 }
