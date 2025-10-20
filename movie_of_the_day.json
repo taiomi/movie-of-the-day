@@ -1,26 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-10-19",
+    "lastUpdated": "2025-10-20",
     "movie": {
-        "id": 301,
-        "title": "Rio Bravo",
-        "tagline": "They fought back to back... No quarter given... No quarter asked... No way in... No way out... of Rio Bravo!",
-        "overview": "A small-town sheriff in the American West enlists the help of a disabled man, a drunk, and a young gunfighter in his efforts to hold in jail the brother of the local bad guy.",
-        "releaseDate": "1959-03-18",
-        "runtime": 141,
-        "voteAverage": 7.8,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/4gI4KKmoi0d3yfsF71YU3S0I5t8.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/38uM6QuI06znUCELfOSiVQy05CX.jpg",
-        "director": "Howard Hawks",
+        "id": 218,
+        "title": "The Terminator",
+        "tagline": "Your future is in its hands.",
+        "overview": "In the post-apocalyptic future, reigning tyrannical supercomputers teleport a cyborg assassin known as the \"Terminator\" back to 1984 to kill Sarah Connor, whose unborn son is destined to lead insurgents against 21st century mechanical hegemony. Meanwhile, the human-resistance movement dispatches a lone warrior to safeguard Sarah. Can he stop the virtually indestructible killing machine?",
+        "releaseDate": "1984-10-26",
+        "runtime": 108,
+        "voteAverage": 7.672,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/hzXSE66v6KthZ8nPoLZmsi2G05j.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/ffdqHMWkh1h9MABwIfbfRJhgFW6.jpg",
+        "director": "James Cameron",
         "cast": [
-            "John Wayne",
-            "Dean Martin",
-            "Ricky Nelson",
-            "Angie Dickinson",
-            "Walter Brennan"
+            "Arnold Schwarzenegger",
+            "Michael Biehn",
+            "Linda Hamilton",
+            "Paul Winfield",
+            "Lance Henriksen"
         ],
         "genres": [
-            "Western"
+            "Action",
+            "Thriller",
+            "Science Fiction"
         ]
     }
 }
