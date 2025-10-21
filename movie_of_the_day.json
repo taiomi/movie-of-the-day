@@ -1,28 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-10-20",
+    "lastUpdated": "2025-10-21",
     "movie": {
-        "id": 218,
-        "title": "The Terminator",
-        "tagline": "Your future is in its hands.",
-        "overview": "In the post-apocalyptic future, reigning tyrannical supercomputers teleport a cyborg assassin known as the \"Terminator\" back to 1984 to kill Sarah Connor, whose unborn son is destined to lead insurgents against 21st century mechanical hegemony. Meanwhile, the human-resistance movement dispatches a lone warrior to safeguard Sarah. Can he stop the virtually indestructible killing machine?",
-        "releaseDate": "1984-10-26",
-        "runtime": 108,
-        "voteAverage": 7.672,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/hzXSE66v6KthZ8nPoLZmsi2G05j.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/ffdqHMWkh1h9MABwIfbfRJhgFW6.jpg",
-        "director": "James Cameron",
+        "id": 48764,
+        "title": "The Trial of Joan of Arc",
+        "tagline": "",
+        "overview": "Rouen, Normandy, 1431, during the Hundred Years' War. After being captured by French soldiers from an opposing faction, Joan of Arc, the Maid of Orl\u00e9ans, is unjustly tried by an ecclesiastical court overseen by her English enemies.",
+        "releaseDate": "1963-02-13",
+        "runtime": 62,
+        "voteAverage": 7.2,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/gHb9UUow3j25sMCb3wDIZatfIg1.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/kpjWEZvoMhiinhDArNJ31VXvgh5.jpg",
+        "director": "Robert Bresson",
         "cast": [
-            "Arnold Schwarzenegger",
-            "Michael Biehn",
-            "Linda Hamilton",
-            "Paul Winfield",
-            "Lance Henriksen"
+            "Florence Delay",
+            "Jean-Claude Fourneau",
+            "Roger Honorat",
+            "Marc Jacquier",
+            "Jean Gillibert"
         ],
         "genres": [
-            "Action",
-            "Thriller",
-            "Science Fiction"
+            "Drama",
+            "History"
         ]
     }
 }
