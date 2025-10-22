@@ -1,27 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-10-21",
+    "lastUpdated": "2025-10-22",
     "movie": {
-        "id": 48764,
-        "title": "The Trial of Joan of Arc",
-        "tagline": "",
-        "overview": "Rouen, Normandy, 1431, during the Hundred Years' War. After being captured by French soldiers from an opposing faction, Joan of Arc, the Maid of Orl\u00e9ans, is unjustly tried by an ecclesiastical court overseen by her English enemies.",
-        "releaseDate": "1963-02-13",
-        "runtime": 62,
-        "voteAverage": 7.2,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/gHb9UUow3j25sMCb3wDIZatfIg1.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/kpjWEZvoMhiinhDArNJ31VXvgh5.jpg",
-        "director": "Robert Bresson",
+        "id": 21734,
+        "title": "Shadow of a Doubt",
+        "tagline": "What horror did her secret life hold\u2026 that made her dread this man of her dreams?",
+        "overview": "In sleepy Santa Rosa, restless young Charlie\u2019s world brightens when her sophisticated Uncle Charlie arrives for a long visit. But as his behavior grows increasingly strange, she begins to suspect that her beloved uncle may be hiding a terrible secret\u2014and that danger has quietly entered her home.",
+        "releaseDate": "1943-01-15",
+        "runtime": 107,
+        "voteAverage": 7.507,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/ptyWagbWE8jSGyV2tGEzAdVbRCj.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/lV4504ucv4Y0AtNMSrlgk7TwiIC.jpg",
+        "director": "Alfred Hitchcock",
         "cast": [
-            "Florence Delay",
-            "Jean-Claude Fourneau",
-            "Roger Honorat",
-            "Marc Jacquier",
-            "Jean Gillibert"
+            "Teresa Wright",
+            "Joseph Cotten",
+            "Macdonald Carey",
+            "Henry Travers",
+            "Patricia Collinge"
         ],
         "genres": [
-            "Drama",
-            "History"
+            "Thriller",
+            "Mystery"
         ]
     }
 }

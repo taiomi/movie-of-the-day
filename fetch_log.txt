@@ -898,3 +898,7 @@
 [2025-10-21 03:06:02] Selected movie: The Trial (ID: 48764) for day 218 since start
 [2025-10-21 03:06:02] Successfully saved movie data for: The Trial of Joan of Arc
 [2025-10-21 03:06:02] Movie fetch process completed
+[2025-10-22 03:11:43] Starting movie fetch process
+[2025-10-22 03:11:43] Selected movie: Shadow of a Doubt (ID: 21734) for day 219 since start
+[2025-10-22 03:11:43] Successfully saved movie data for: Shadow of a Doubt
+[2025-10-22 03:11:43] Movie fetch process completed
