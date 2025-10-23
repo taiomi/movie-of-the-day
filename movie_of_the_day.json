@@ -1,27 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-10-22",
+    "lastUpdated": "2025-10-23",
     "movie": {
-        "id": 21734,
-        "title": "Shadow of a Doubt",
-        "tagline": "What horror did her secret life hold\u2026 that made her dread this man of her dreams?",
-        "overview": "In sleepy Santa Rosa, restless young Charlie\u2019s world brightens when her sophisticated Uncle Charlie arrives for a long visit. But as his behavior grows increasingly strange, she begins to suspect that her beloved uncle may be hiding a terrible secret\u2014and that danger has quietly entered her home.",
-        "releaseDate": "1943-01-15",
-        "runtime": 107,
-        "voteAverage": 7.507,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/ptyWagbWE8jSGyV2tGEzAdVbRCj.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/lV4504ucv4Y0AtNMSrlgk7TwiIC.jpg",
-        "director": "Alfred Hitchcock",
+        "id": 11549,
+        "title": "Invasion of the Body Snatchers",
+        "tagline": "There was nothing to hold onto - except each other.",
+        "overview": "A small-town doctor learns that the population of his community is being replaced by emotionless alien duplicates.",
+        "releaseDate": "1956-02-05",
+        "runtime": 80,
+        "voteAverage": 7.463,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/8BrMQmgwGzIHSyBjCDOLOdi79fJ.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/6sipzSCPO2jgxmvDGsPRuzsFvyE.jpg",
+        "director": "Don Siegel",
         "cast": [
-            "Teresa Wright",
-            "Joseph Cotten",
-            "Macdonald Carey",
-            "Henry Travers",
-            "Patricia Collinge"
+            "Kevin McCarthy",
+            "Dana Wynter",
+            "King Donovan",
+            "Carolyn Jones",
+            "Larry Gates"
         ],
         "genres": [
-            "Thriller",
-            "Mystery"
+            "Science Fiction",
+            "Horror",
+            "Thriller"
         ]
     }
 }
