@@ -1,28 +1,30 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-10-23",
+    "lastUpdated": "2025-10-24",
     "movie": {
-        "id": 11549,
-        "title": "Invasion of the Body Snatchers",
-        "tagline": "There was nothing to hold onto - except each other.",
-        "overview": "A small-town doctor learns that the population of his community is being replaced by emotionless alien duplicates.",
-        "releaseDate": "1956-02-05",
-        "runtime": 80,
-        "voteAverage": 7.463,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/8BrMQmgwGzIHSyBjCDOLOdi79fJ.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/6sipzSCPO2jgxmvDGsPRuzsFvyE.jpg",
-        "director": "Don Siegel",
+        "id": 10372,
+        "title": "Ewoks: The Battle for Endor",
+        "tagline": "An adventure on a world beyond the stars.",
+        "overview": "The army of the Marauders, led by King Terak and the witch Charal, attack the Ewoks village, killing Cindel's family. Cindel and the Ewok Wicket escape and meet Teek in the forest, a naughty and very fast animal. Teek takes them to a house in which an old man, Noa, lives. Like Cindel, he also crashed with his Starcruiser on Endor. Together they fight Terak and Charal.",
+        "releaseDate": "1985-11-24",
+        "runtime": 100,
+        "voteAverage": 5.4,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/ntgKdekb7xMKscyh2Hei706LBLf.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/xdH8k2O6mpLv4szeLkQGiM1aSOC.jpg",
+        "director": "Jim Wheat",
         "cast": [
-            "Kevin McCarthy",
-            "Dana Wynter",
-            "King Donovan",
-            "Carolyn Jones",
-            "Larry Gates"
+            "Wilford Brimley",
+            "Warwick Davis",
+            "Aubree Miller",
+            "Si\u00e2n Phillips",
+            "Carel Struycken"
         ],
         "genres": [
+            "Adventure",
+            "Family",
+            "TV Movie",
             "Science Fiction",
-            "Horror",
-            "Thriller"
+            "Fantasy"
         ]
     }
 }
