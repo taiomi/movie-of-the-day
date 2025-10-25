@@ -1,30 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-10-24",
+    "lastUpdated": "2025-10-25",
     "movie": {
-        "id": 10372,
-        "title": "Ewoks: The Battle for Endor",
-        "tagline": "An adventure on a world beyond the stars.",
-        "overview": "The army of the Marauders, led by King Terak and the witch Charal, attack the Ewoks village, killing Cindel's family. Cindel and the Ewok Wicket escape and meet Teek in the forest, a naughty and very fast animal. Teek takes them to a house in which an old man, Noa, lives. Like Cindel, he also crashed with his Starcruiser on Endor. Together they fight Terak and Charal.",
-        "releaseDate": "1985-11-24",
-        "runtime": 100,
-        "voteAverage": 5.4,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/ntgKdekb7xMKscyh2Hei706LBLf.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/xdH8k2O6mpLv4szeLkQGiM1aSOC.jpg",
-        "director": "Jim Wheat",
+        "id": 1900,
+        "title": "Traffic",
+        "tagline": "No one gets away clean",
+        "overview": "An exploration of the United States of America's war on drugs from multiple perspectives. For the new head of the Office of National Drug Control Policy, the war becomes personal when he discovers his well-educated daughter is abusing cocaine within their comfortable suburban home. In Mexico, a flawed, but noble policeman agrees to testify against a powerful general in league with a cartel, and in San Diego, a drug kingpin's sheltered trophy wife must learn her husband's ruthless business after he is arrested, endangering her luxurious lifestyle.",
+        "releaseDate": "2000-12-27",
+        "runtime": 147,
+        "voteAverage": 7.078,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/v6YrfR1e2OUAYbXrJ7hv3EiGNcg.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/syapU4X3vYBCdARyAOtz3g90hMt.jpg",
+        "director": "Steven Soderbergh",
         "cast": [
-            "Wilford Brimley",
-            "Warwick Davis",
-            "Aubree Miller",
-            "Si\u00e2n Phillips",
-            "Carel Struycken"
+            "Michael Douglas",
+            "Benicio del Toro",
+            "Catherine Zeta-Jones",
+            "Erika Christensen",
+            "Don Cheadle"
         ],
         "genres": [
-            "Adventure",
-            "Family",
-            "TV Movie",
-            "Science Fiction",
-            "Fantasy"
+            "Thriller",
+            "Drama",
+            "Crime"
         ]
     }
 }
