@@ -914,3 +914,7 @@
 [2025-10-25 03:02:19] Selected movie: Traffic (ID: 1900) for day 222 since start
 [2025-10-25 03:02:19] Successfully saved movie data for: Traffic
 [2025-10-25 03:02:19] Movie fetch process completed
+[2025-10-26 03:11:00] Starting movie fetch process
+[2025-10-26 03:11:00] Selected movie: Nosferatu the Vampyre (ID: 6404) for day 223 since start
+[2025-10-26 03:11:00] Successfully saved movie data for: Nosferatu the Vampyre
+[2025-10-26 03:11:00] Movie fetch process completed
