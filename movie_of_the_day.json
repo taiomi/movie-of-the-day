@@ -1,27 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-10-26",
+    "lastUpdated": "2025-10-27",
     "movie": {
-        "id": 6404,
-        "title": "Nosferatu the Vampyre",
-        "tagline": "It is fear and fun. It is a scream of horror and a cry of delight. It is Nosferatu, the Vampyre.",
-        "overview": "A real estate agent leaves behind his beautiful wife to go to Transylvania to visit the mysterious Count Dracula and formalize the purchase of a property in Wismar.",
-        "releaseDate": "1979-01-17",
-        "runtime": 107,
-        "voteAverage": 7.282,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/jHKzGYwf7P34vz8MhJBTN6cnaYD.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/uHudMff1vp2GDXqHD8QOA78QpNW.jpg",
-        "director": "Werner Herzog",
+        "id": 43364,
+        "title": "The Life of Oharu",
+        "tagline": "",
+        "overview": "In Edo Period Japan, a noblewoman's banishment for her love affair with a lowly page signals the beginning of her inexorable fall.",
+        "releaseDate": "1952-04-17",
+        "runtime": 136,
+        "voteAverage": 7.682,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/8sIZjJdLrXPxrSERSLese1gUIwt.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/2abzWmOGC1KNISvLlLZ6IIp1PoE.jpg",
+        "director": "Kenji Mizoguchi",
         "cast": [
-            "Klaus Kinski",
-            "Isabelle Adjani",
-            "Bruno Ganz",
-            "Roland Topor",
-            "Walter Ladengast"
+            "Kinuyo Tanaka",
+            "Tsukie Matsuura",
+            "Ichir\u014d Sugai",
+            "Hisako Yamane",
+            "Toshir\u014d Mifune"
         ],
         "genres": [
-            "Drama",
-            "Horror"
+            "Drama"
         ]
     }
 }
