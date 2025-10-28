@@ -1,25 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-10-27",
+    "lastUpdated": "2025-10-28",
     "movie": {
-        "id": 43364,
-        "title": "The Life of Oharu",
+        "id": 2487,
+        "title": "Lady Snowblood",
         "tagline": "",
-        "overview": "In Edo Period Japan, a noblewoman's banishment for her love affair with a lowly page signals the beginning of her inexorable fall.",
-        "releaseDate": "1952-04-17",
-        "runtime": 136,
-        "voteAverage": 7.682,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/8sIZjJdLrXPxrSERSLese1gUIwt.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/2abzWmOGC1KNISvLlLZ6IIp1PoE.jpg",
-        "director": "Kenji Mizoguchi",
+        "overview": "Yuki's family is nearly wiped out before she is born due to the machinations of a band of criminals. These criminals kidnap and brutalize her mother but leave her alive. Later her mother ends up in prison with only revenge to keep her alive. She creates an instrument for this revenge by purposefully getting pregnant. Yuki never knows the love of a family but only killing and revenge.",
+        "releaseDate": "1973-12-01",
+        "runtime": 97,
+        "voteAverage": 7.525,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/wkcbaqCoYEXDUnSQ6NTnB2C7H05.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/u2fkLndVDFA0ie4a8k6GpWWsm0N.jpg",
+        "director": "Toshiya Fujita",
         "cast": [
-            "Kinuyo Tanaka",
-            "Tsukie Matsuura",
-            "Ichir\u014d Sugai",
-            "Hisako Yamane",
-            "Toshir\u014d Mifune"
+            "Meiko Kaji",
+            "Toshio Kurosawa",
+            "Masaaki Daimon",
+            "Miyoko Akaza",
+            "Shinichi Uchida"
         ],
         "genres": [
+            "Action",
+            "Crime",
             "Drama"
         ]
     }
