@@ -926,3 +926,7 @@
 [2025-10-28 03:08:02] Selected movie: Lady Snowblood (ID: 2487) for day 225 since start
 [2025-10-28 03:08:02] Successfully saved movie data for: Lady Snowblood
 [2025-10-28 03:08:02] Movie fetch process completed
+[2025-10-29 03:16:13] Starting movie fetch process
+[2025-10-29 03:16:13] Selected movie: Cape Fear (ID: 1598) for day 226 since start
+[2025-10-29 03:16:14] Successfully saved movie data for: Cape Fear
+[2025-10-29 03:16:14] Movie fetch process completed
