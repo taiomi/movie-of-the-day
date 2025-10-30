@@ -1,28 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-10-29",
+    "lastUpdated": "2025-10-30",
     "movie": {
-        "id": 1598,
-        "title": "Cape Fear",
-        "tagline": "Sam Bowden has always provided for his family's future. But the past is coming back to haunt them.",
-        "overview": "Sam Bowden is a small-town corporate attorney. Max Cady is a tattooed, cigar-smoking, Bible-quoting, psychotic rapist. What do they have in common? 14 years ago, Sam was a public defender assigned to Max Cady's rape trial, and he made a serious error: he hid a document from his illiterate client that could have gotten him acquitted. Now, the cagey Cady has been released, and he intends to teach Sam Bowden and his family a thing or two about loss.",
-        "releaseDate": "1991-11-13",
-        "runtime": 128,
-        "voteAverage": 7.247,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/meJZAAuVcjic2ipvbOPz5UlE4P9.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/ntgpger7OwFNlEldxuvvFHDKzjW.jpg",
-        "director": "Martin Scorsese",
+        "id": 140,
+        "title": "Bad Education",
+        "tagline": "",
+        "overview": "An examination on the effect of Franco-era religious schooling and sexual abuse on the lives of two longtime friends.",
+        "releaseDate": "2004-03-19",
+        "runtime": 105,
+        "voteAverage": 7.357,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/du716YH0PKiL2kZgIPLkEblgHLX.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/wNFiDhGnrnSfyqYxzeAa8mFnUhj.jpg",
+        "director": "Pedro Almod\u00f3var",
         "cast": [
-            "Robert De Niro",
-            "Nick Nolte",
-            "Jessica Lange",
-            "Juliette Lewis",
-            "Joe Don Baker"
+            "Gael Garc\u00eda Bernal",
+            "Fele Mart\u00ednez",
+            "Daniel Gim\u00e9nez Cacho",
+            "Llu\u00eds Homar",
+            "Francisco Maestre"
         ],
         "genres": [
             "Drama",
-            "Crime",
-            "Thriller"
+            "Crime"
         ]
     }
 }
