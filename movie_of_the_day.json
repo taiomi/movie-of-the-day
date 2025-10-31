@@ -1,27 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-10-30",
+    "lastUpdated": "2025-10-31",
     "movie": {
-        "id": 140,
-        "title": "Bad Education",
-        "tagline": "",
-        "overview": "An examination on the effect of Franco-era religious schooling and sexual abuse on the lives of two longtime friends.",
-        "releaseDate": "2004-03-19",
-        "runtime": 105,
-        "voteAverage": 7.357,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/du716YH0PKiL2kZgIPLkEblgHLX.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/wNFiDhGnrnSfyqYxzeAa8mFnUhj.jpg",
-        "director": "Pedro Almod\u00f3var",
+        "id": 13,
+        "title": "Forrest Gump",
+        "tagline": "The world will never be the same once you've seen it through the eyes of Forrest Gump.",
+        "overview": "A man with a low IQ has accomplished great things in his life and been present during significant historic events\u2014in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+        "releaseDate": "1994-06-23",
+        "runtime": 142,
+        "voteAverage": 8.464,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/saHP97rTPS5eLmrLQEcANmKrsFl.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/67HggiWaP9ZLv5sPYmyRV37yAJM.jpg",
+        "director": "Robert Zemeckis",
         "cast": [
-            "Gael Garc\u00eda Bernal",
-            "Fele Mart\u00ednez",
-            "Daniel Gim\u00e9nez Cacho",
-            "Llu\u00eds Homar",
-            "Francisco Maestre"
+            "Tom Hanks",
+            "Robin Wright",
+            "Gary Sinise",
+            "Sally Field",
+            "Mykelti Williamson"
         ],
         "genres": [
+            "Comedy",
             "Drama",
-            "Crime"
+            "Romance"
         ]
     }
 }
