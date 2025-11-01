@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-10-31",
+    "lastUpdated": "2025-11-01",
     "movie": {
-        "id": 13,
-        "title": "Forrest Gump",
-        "tagline": "The world will never be the same once you've seen it through the eyes of Forrest Gump.",
-        "overview": "A man with a low IQ has accomplished great things in his life and been present during significant historic events\u2014in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
-        "releaseDate": "1994-06-23",
-        "runtime": 142,
-        "voteAverage": 8.464,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/saHP97rTPS5eLmrLQEcANmKrsFl.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/67HggiWaP9ZLv5sPYmyRV37yAJM.jpg",
-        "director": "Robert Zemeckis",
+        "id": 272,
+        "title": "Batman Begins",
+        "tagline": "Evil fears the knight.",
+        "overview": "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
+        "releaseDate": "2005-06-10",
+        "runtime": 140,
+        "voteAverage": 7.718,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/sPX89Td70IDDjVr85jdSBb4rWGr.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/ew5FcYiRhTYNJAkxoVPMNlCOdVn.jpg",
+        "director": "Christopher Nolan",
         "cast": [
-            "Tom Hanks",
-            "Robin Wright",
-            "Gary Sinise",
-            "Sally Field",
-            "Mykelti Williamson"
+            "Christian Bale",
+            "Michael Caine",
+            "Liam Neeson",
+            "Katie Holmes",
+            "Gary Oldman"
         ],
         "genres": [
-            "Comedy",
             "Drama",
-            "Romance"
+            "Crime",
+            "Action"
         ]
     }
 }
