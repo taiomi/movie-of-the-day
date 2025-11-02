@@ -1,28 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-11-01",
+    "lastUpdated": "2025-11-02",
     "movie": {
-        "id": 272,
-        "title": "Batman Begins",
-        "tagline": "Evil fears the knight.",
-        "overview": "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
-        "releaseDate": "2005-06-10",
-        "runtime": 140,
-        "voteAverage": 7.718,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/sPX89Td70IDDjVr85jdSBb4rWGr.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/ew5FcYiRhTYNJAkxoVPMNlCOdVn.jpg",
-        "director": "Christopher Nolan",
+        "id": 8075,
+        "title": "Weekend",
+        "tagline": "",
+        "overview": "A supposedly idyllic weekend trip to the countryside turns into a never-ending nightmare of traffic jams, revolution, cannibalism and murder as French bourgeois society starts to collapse under the weight of its own consumer preoccupations.",
+        "releaseDate": "1967-12-29",
+        "runtime": 104,
+        "voteAverage": 6.89,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/e9p8VdsAKXz1GoVXD36Lg5e3YKo.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/beRcdPSD4cYcmMilMpsdrChpNGt.jpg",
+        "director": "Jean-Luc Godard",
         "cast": [
-            "Christian Bale",
-            "Michael Caine",
-            "Liam Neeson",
-            "Katie Holmes",
-            "Gary Oldman"
+            "Mireille Darc",
+            "Jean Yanne",
+            "Jean-Pierre Kalfon",
+            "Yves Afonso",
+            "Yves Beneyton"
         ],
         "genres": [
-            "Drama",
-            "Crime",
-            "Action"
+            "Comedy"
         ]
     }
 }
