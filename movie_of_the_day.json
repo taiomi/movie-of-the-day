@@ -1,26 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-11-02",
+    "lastUpdated": "2025-11-03",
     "movie": {
-        "id": 8075,
-        "title": "Weekend",
-        "tagline": "",
-        "overview": "A supposedly idyllic weekend trip to the countryside turns into a never-ending nightmare of traffic jams, revolution, cannibalism and murder as French bourgeois society starts to collapse under the weight of its own consumer preoccupations.",
-        "releaseDate": "1967-12-29",
-        "runtime": 104,
-        "voteAverage": 6.89,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/e9p8VdsAKXz1GoVXD36Lg5e3YKo.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/beRcdPSD4cYcmMilMpsdrChpNGt.jpg",
-        "director": "Jean-Luc Godard",
+        "id": 103,
+        "title": "Taxi Driver",
+        "tagline": "On every street in every city in this country, there's a nobody who dreams of being a somebody. He's a lonely forgotten man desperate to prove that he's alive.",
+        "overview": "Suffering from insomnia, disturbed loner Travis Bickle takes a job as a New York City cabbie, haunting the streets nightly, growing increasingly detached from reality as he dreams of cleaning up the filthy city.",
+        "releaseDate": "1976-02-09",
+        "runtime": 114,
+        "voteAverage": 8.133,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/6aoyUbvu0419XLKLIMoH0TkEicH.jpg",
+        "director": "Martin Scorsese",
         "cast": [
-            "Mireille Darc",
-            "Jean Yanne",
-            "Jean-Pierre Kalfon",
-            "Yves Afonso",
-            "Yves Beneyton"
+            "Robert De Niro",
+            "Jodie Foster",
+            "Cybill Shepherd",
+            "Harvey Keitel",
+            "Peter Boyle"
         ],
         "genres": [
-            "Comedy"
+            "Crime",
+            "Drama"
         ]
     }
 }
