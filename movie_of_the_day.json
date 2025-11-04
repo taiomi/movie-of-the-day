@@ -1,26 +1,25 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-11-03",
+    "lastUpdated": "2025-11-04",
     "movie": {
-        "id": 103,
-        "title": "Taxi Driver",
-        "tagline": "On every street in every city in this country, there's a nobody who dreams of being a somebody. He's a lonely forgotten man desperate to prove that he's alive.",
-        "overview": "Suffering from insomnia, disturbed loner Travis Bickle takes a job as a New York City cabbie, haunting the streets nightly, growing increasingly detached from reality as he dreams of cleaning up the filthy city.",
-        "releaseDate": "1976-02-09",
-        "runtime": 114,
-        "voteAverage": 8.133,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/6aoyUbvu0419XLKLIMoH0TkEicH.jpg",
-        "director": "Martin Scorsese",
+        "id": 389,
+        "title": "12 Angry Men",
+        "tagline": "It explodes like 12 sticks of dynamite!",
+        "overview": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.",
+        "releaseDate": "1957-04-10",
+        "runtime": 97,
+        "voteAverage": 8.548,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/ow3wq89wM8qd5X7hWKxiRfsFf9C.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/tj6iPnz18hGfr0LKqWmG6Cp3niO.jpg",
+        "director": "Sidney Lumet",
         "cast": [
-            "Robert De Niro",
-            "Jodie Foster",
-            "Cybill Shepherd",
-            "Harvey Keitel",
-            "Peter Boyle"
+            "Martin Balsam",
+            "John Fiedler",
+            "Lee J. Cobb",
+            "E.G. Marshall",
+            "Jack Klugman"
         ],
         "genres": [
-            "Crime",
             "Drama"
         ]
     }
