@@ -1,25 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-11-04",
+    "lastUpdated": "2025-11-05",
     "movie": {
-        "id": 389,
-        "title": "12 Angry Men",
-        "tagline": "It explodes like 12 sticks of dynamite!",
-        "overview": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.",
-        "releaseDate": "1957-04-10",
-        "runtime": 97,
-        "voteAverage": 8.548,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/ow3wq89wM8qd5X7hWKxiRfsFf9C.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/tj6iPnz18hGfr0LKqWmG6Cp3niO.jpg",
-        "director": "Sidney Lumet",
+        "id": 274,
+        "title": "The Silence of the Lambs",
+        "tagline": "To enter the mind of a killer she must challenge the mind of a madman.",
+        "overview": "Clarice Starling is a top student at the FBI's training academy.  Jack Crawford wants Clarice to interview Dr. Hannibal Lecter, a brilliant psychiatrist who is also a violent psychopath, serving life behind bars for various acts of murder and cannibalism.  Crawford believes that Lecter may have insight into a case and that Starling, as an attractive young woman, may be just the bait to draw him out.",
+        "releaseDate": "1991-02-14",
+        "runtime": 119,
+        "voteAverage": 8.346,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/aYcnDyLMnpKce1FOYUpZrXtgUye.jpg",
+        "director": "Jonathan Demme",
         "cast": [
-            "Martin Balsam",
-            "John Fiedler",
-            "Lee J. Cobb",
-            "E.G. Marshall",
-            "Jack Klugman"
+            "Jodie Foster",
+            "Anthony Hopkins",
+            "Scott Glenn",
+            "Ted Levine",
+            "Anthony Heald"
         ],
         "genres": [
+            "Crime",
+            "Thriller",
             "Drama"
         ]
     }
