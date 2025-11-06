@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-11-05",
+    "lastUpdated": "2025-11-06",
     "movie": {
-        "id": 274,
-        "title": "The Silence of the Lambs",
-        "tagline": "To enter the mind of a killer she must challenge the mind of a madman.",
-        "overview": "Clarice Starling is a top student at the FBI's training academy.  Jack Crawford wants Clarice to interview Dr. Hannibal Lecter, a brilliant psychiatrist who is also a violent psychopath, serving life behind bars for various acts of murder and cannibalism.  Crawford believes that Lecter may have insight into a case and that Starling, as an attractive young woman, may be just the bait to draw him out.",
-        "releaseDate": "1991-02-14",
-        "runtime": 119,
-        "voteAverage": 8.346,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/aYcnDyLMnpKce1FOYUpZrXtgUye.jpg",
-        "director": "Jonathan Demme",
+        "id": 545611,
+        "title": "Everything Everywhere All at Once",
+        "tagline": "The universe is so much bigger than you realize.",
+        "overview": "An aging Chinese immigrant is swept up in an insane adventure, where she alone can save what's important to her by connecting with the lives she could have led in other universes.",
+        "releaseDate": "2022-03-24",
+        "runtime": 140,
+        "voteAverage": 7.729,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/u68AjlvlutfEIcpmbYpKcdi09ut.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/ss0Os3uWJfQAENILHZUdX8Tt1OC.jpg",
+        "director": "Daniel Scheinert",
         "cast": [
-            "Jodie Foster",
-            "Anthony Hopkins",
-            "Scott Glenn",
-            "Ted Levine",
-            "Anthony Heald"
+            "Michelle Yeoh",
+            "Stephanie Hsu",
+            "Ke Huy Quan",
+            "James Hong",
+            "Jamie Lee Curtis"
         ],
         "genres": [
-            "Crime",
-            "Thriller",
-            "Drama"
+            "Action",
+            "Adventure",
+            "Science Fiction"
         ]
     }
 }
