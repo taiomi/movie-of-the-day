@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-11-06",
+    "lastUpdated": "2025-11-07",
     "movie": {
-        "id": 545611,
-        "title": "Everything Everywhere All at Once",
-        "tagline": "The universe is so much bigger than you realize.",
-        "overview": "An aging Chinese immigrant is swept up in an insane adventure, where she alone can save what's important to her by connecting with the lives she could have led in other universes.",
-        "releaseDate": "2022-03-24",
-        "runtime": 140,
-        "voteAverage": 7.729,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/u68AjlvlutfEIcpmbYpKcdi09ut.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/ss0Os3uWJfQAENILHZUdX8Tt1OC.jpg",
-        "director": "Daniel Scheinert",
+        "id": 3082,
+        "title": "Modern Times",
+        "tagline": "He stands alone as the greatest entertainer of modern times! No one on earth can make you laugh as heartily or touch your heart as deeply...the whole world laughs, cries and thrills to his priceless genius!",
+        "overview": "A bumbling tramp desires to build a home with a young woman, yet is thwarted time and time again by his lack of experience and habit of being in the wrong place at the wrong time..",
+        "releaseDate": "1936-02-05",
+        "runtime": 87,
+        "voteAverage": 8.3,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/7uoiKOEjxBBW0AgDGQWrlfGQ90w.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/kSlO1pHpwQfPQdgVPr7dJiJNtJ8.jpg",
+        "director": "Charlie Chaplin",
         "cast": [
-            "Michelle Yeoh",
-            "Stephanie Hsu",
-            "Ke Huy Quan",
-            "James Hong",
-            "Jamie Lee Curtis"
+            "Charlie Chaplin",
+            "Paulette Goddard",
+            "Henry Bergman",
+            "Tiny Sandford",
+            "Chester Conklin"
         ],
         "genres": [
-            "Action",
-            "Adventure",
-            "Science Fiction"
+            "Comedy",
+            "Drama",
+            "Romance"
         ]
     }
 }
