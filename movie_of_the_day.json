@@ -1,28 +1,25 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-11-07",
+    "lastUpdated": "2025-11-08",
     "movie": {
-        "id": 3082,
-        "title": "Modern Times",
-        "tagline": "He stands alone as the greatest entertainer of modern times! No one on earth can make you laugh as heartily or touch your heart as deeply...the whole world laughs, cries and thrills to his priceless genius!",
-        "overview": "A bumbling tramp desires to build a home with a young woman, yet is thwarted time and time again by his lack of experience and habit of being in the wrong place at the wrong time..",
-        "releaseDate": "1936-02-05",
-        "runtime": 87,
-        "voteAverage": 8.3,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/7uoiKOEjxBBW0AgDGQWrlfGQ90w.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/kSlO1pHpwQfPQdgVPr7dJiJNtJ8.jpg",
-        "director": "Charlie Chaplin",
+        "id": 1045696,
+        "title": "The Elephant Vanishes",
+        "tagline": "",
+        "overview": "Adapted from Haruki Murakami's short stories, The Elephant Vanishes reveals a strange and beautiful world lurking beneath the surface of Tokyo's bright bustle.  The Elephant Vanishes was performed in Japanese by an all-Japanese cast.",
+        "releaseDate": "2003-06-07",
+        "runtime": 0,
+        "voteAverage": 0,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/3N2hQNkjCDKwuS1gUiInHh4EaTg.jpg",
+        "backdropPath": "",
+        "director": "Simon McBurney",
         "cast": [
-            "Charlie Chaplin",
-            "Paulette Goddard",
-            "Henry Bergman",
-            "Tiny Sandford",
-            "Chester Conklin"
+            "Mitsuru Fukikoshi",
+            "Atsuko Takaizumi",
+            "Yuko Miyamoto",
+            "Masato Sakai"
         ],
         "genres": [
-            "Comedy",
-            "Drama",
-            "Romance"
+            "Drama"
         ]
     }
 }
