@@ -1,24 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-11-08",
+    "lastUpdated": "2025-11-09",
     "movie": {
-        "id": 1045696,
-        "title": "The Elephant Vanishes",
-        "tagline": "",
-        "overview": "Adapted from Haruki Murakami's short stories, The Elephant Vanishes reveals a strange and beautiful world lurking beneath the surface of Tokyo's bright bustle.  The Elephant Vanishes was performed in Japanese by an all-Japanese cast.",
-        "releaseDate": "2003-06-07",
-        "runtime": 0,
-        "voteAverage": 0,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/3N2hQNkjCDKwuS1gUiInHh4EaTg.jpg",
-        "backdropPath": "",
-        "director": "Simon McBurney",
+        "id": 111,
+        "title": "Scarface",
+        "tagline": "He loved the American Dream. With a vengeance.",
+        "overview": "After getting a green card in exchange for assassinating a Cuban government official, Tony Montana stakes a claim on the drug trade in Miami. Viciously murdering anyone who stands in his way, Tony eventually becomes the biggest drug lord in the state, controlling nearly all the cocaine that comes through Miami. But increased pressure from the police, wars with Colombian drug cartels and his own drug-fueled paranoia serve to fuel the flames of his eventual downfall.",
+        "releaseDate": "1983-12-09",
+        "runtime": 170,
+        "voteAverage": 8.159,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/iQ5ztdjvteGeboxtmRdXEChJOHh.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/sctvs9cUwJD15qlTlrsh2BXsK75.jpg",
+        "director": "Brian De Palma",
         "cast": [
-            "Mitsuru Fukikoshi",
-            "Atsuko Takaizumi",
-            "Yuko Miyamoto",
-            "Masato Sakai"
+            "Al Pacino",
+            "Steven Bauer",
+            "Michelle Pfeiffer",
+            "Mary Elizabeth Mastrantonio",
+            "Robert Loggia"
         ],
         "genres": [
+            "Action",
+            "Crime",
             "Drama"
         ]
     }
