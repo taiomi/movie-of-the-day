@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-11-09",
+    "lastUpdated": "2025-11-10",
     "movie": {
-        "id": 111,
-        "title": "Scarface",
-        "tagline": "He loved the American Dream. With a vengeance.",
-        "overview": "After getting a green card in exchange for assassinating a Cuban government official, Tony Montana stakes a claim on the drug trade in Miami. Viciously murdering anyone who stands in his way, Tony eventually becomes the biggest drug lord in the state, controlling nearly all the cocaine that comes through Miami. But increased pressure from the police, wars with Colombian drug cartels and his own drug-fueled paranoia serve to fuel the flames of his eventual downfall.",
-        "releaseDate": "1983-12-09",
-        "runtime": 170,
-        "voteAverage": 8.159,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/iQ5ztdjvteGeboxtmRdXEChJOHh.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/sctvs9cUwJD15qlTlrsh2BXsK75.jpg",
-        "director": "Brian De Palma",
+        "id": 60437,
+        "title": "Lilith",
+        "tagline": "Before Eve there was Evil\u2026 and her name was Lilith!",
+        "overview": "Vincent Bruce, a war veteran, begins working as an occupational therapist at Poplar Lodge, a private psychiatric facility for wealthy people where he meets Lilith Arthur, a charming young woman suffering from schizophrenia, whose fragile beauty captivates all who meet her.",
+        "releaseDate": "1964-10-01",
+        "runtime": 114,
+        "voteAverage": 6.4,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/zBTRVBpWZkkXkhfqqFTh59i4XjU.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/lCYHPp0jDN87AG4Gy4ZXHxfmf2G.jpg",
+        "director": "Robert Rossen",
         "cast": [
-            "Al Pacino",
-            "Steven Bauer",
-            "Michelle Pfeiffer",
-            "Mary Elizabeth Mastrantonio",
-            "Robert Loggia"
+            "Warren Beatty",
+            "Jean Seberg",
+            "Peter Fonda",
+            "Kim Hunter",
+            "Anne Meacham"
         ],
         "genres": [
-            "Action",
-            "Crime",
-            "Drama"
+            "Drama",
+            "Romance",
+            "Thriller"
         ]
     }
 }
