@@ -1,27 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-11-11",
+    "lastUpdated": "2025-11-12",
     "movie": {
-        "id": 9343,
-        "title": "Fitzcarraldo",
-        "tagline": "Dare to dream the impossible.",
-        "overview": "Fitzcarraldo is a dreamer who plans to build an opera house in Iquitos, in the Peruvian Amazon, so, in order to finance his project, he embarks on an epic adventure to collect rubber, a very profitable product, in a remote and unexplored region of the rainforest.",
-        "releaseDate": "1982-03-02",
-        "runtime": 157,
-        "voteAverage": 7.619,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/oBCnYEKcg1rMhr5JjDnrRpilvDd.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/46iMqI1qzAtnXJxGRNCFwYNYqOo.jpg",
-        "director": "Werner Herzog",
+        "id": 16372,
+        "title": "The Innocents",
+        "tagline": "Apparitions? Evils? Corruptions?",
+        "overview": "A young governess for two children becomes convinced that the house and grounds are haunted by ghosts and that the children are being possessed.",
+        "releaseDate": "1961-11-24",
+        "runtime": 100,
+        "voteAverage": 7.466,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/idqvLBmlEHUITMnQ0EJ6Yb5TpVw.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/oog0DJtSuPnWoSTYM7cKmAFbeuU.jpg",
+        "director": "Jack Clayton",
         "cast": [
-            "Klaus Kinski",
-            "Claudia Cardinale",
-            "Jos\u00e9 Lewgoy",
-            "Miguel \u00c1ngel Fuentes",
-            "Paul Hittscher"
+            "Deborah Kerr",
+            "Peter Wyngarde",
+            "Megs Jenkins",
+            "Michael Redgrave",
+            "Martin Stephens"
         ],
         "genres": [
-            "Drama",
-            "Adventure"
+            "Horror",
+            "Mystery",
+            "Drama"
         ]
     }
 }

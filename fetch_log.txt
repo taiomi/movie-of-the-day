@@ -982,3 +982,7 @@
 [2025-11-11 03:14:39] Selected movie: Fitzcarraldo (ID: 9343) for day 239 since start
 [2025-11-11 03:14:39] Successfully saved movie data for: Fitzcarraldo
 [2025-11-11 03:14:39] Movie fetch process completed
+[2025-11-12 03:12:53] Starting movie fetch process
+[2025-11-12 03:12:53] Selected movie: The Innocents (ID: 16372) for day 240 since start
+[2025-11-12 03:12:53] Successfully saved movie data for: The Innocents
+[2025-11-12 03:12:53] Movie fetch process completed
