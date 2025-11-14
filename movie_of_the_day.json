@@ -1,29 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-11-13",
+    "lastUpdated": "2025-11-14",
     "movie": {
-        "id": 508947,
-        "title": "Turning Red",
-        "tagline": "Growing up is a beast.",
-        "overview": "Thirteen-year-old Mei is experiencing the awkwardness of being a teenager with a twist \u2013 when she gets too excited, she transforms into a giant red panda.",
-        "releaseDate": "2022-03-10",
-        "runtime": 100,
-        "voteAverage": 7.33,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/qsdjk9oAKSQMWs0Vt5Pyfh6O4GZ.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/b8Ma7TkasTDpMIkoIngzHVcgANa.jpg",
-        "director": "Domee Shi",
+        "id": 58925,
+        "title": "Mr. Klein",
+        "tagline": "In the nightmare labyrinth of the Occupation",
+        "overview": "Paris, France, 1942, during the Nazi occupation. Robert Klein, a successful art dealer who benefits from the misfortunes of those who are ruthlessly persecuted, discovers by chance that there is another Robert Klein, apparently a Jewish man; someone with whom he could be mistakenly identified, something dangerous in such harsh times.",
+        "releaseDate": "1976-09-23",
+        "runtime": 123,
+        "voteAverage": 7.22,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/oa4MzaXlXJSMvcHhJ9FbBLwbuQb.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/d6ELJEiJDoOZhoGe48o4L7qTQKa.jpg",
+        "director": "Joseph Losey",
         "cast": [
-            "Rosalie Chiang",
-            "Sandra Oh",
-            "Ava Morse",
-            "Hyein Park",
-            "Maitreyi Ramakrishnan"
+            "Alain Delon",
+            "Jeanne Moreau",
+            "Francine Berg\u00e9",
+            "Juliet Berto",
+            "Jean Bouise"
         ],
         "genres": [
-            "Animation",
-            "Family",
-            "Comedy",
-            "Fantasy"
+            "Mystery",
+            "Drama",
+            "Thriller"
         ]
     }
 }
