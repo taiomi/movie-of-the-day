@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-11-14",
+    "lastUpdated": "2025-11-15",
     "movie": {
-        "id": 58925,
-        "title": "Mr. Klein",
-        "tagline": "In the nightmare labyrinth of the Occupation",
-        "overview": "Paris, France, 1942, during the Nazi occupation. Robert Klein, a successful art dealer who benefits from the misfortunes of those who are ruthlessly persecuted, discovers by chance that there is another Robert Klein, apparently a Jewish man; someone with whom he could be mistakenly identified, something dangerous in such harsh times.",
-        "releaseDate": "1976-09-23",
-        "runtime": 123,
-        "voteAverage": 7.22,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/oa4MzaXlXJSMvcHhJ9FbBLwbuQb.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/d6ELJEiJDoOZhoGe48o4L7qTQKa.jpg",
-        "director": "Joseph Losey",
+        "id": 71283,
+        "title": "Aar Paar",
+        "tagline": "",
+        "overview": "Kalu is a taxi-driver in Bombay, India. He has two women who love him and would like to marry him. Kalu first wants to establish himself, and become rich, before he can even think of marriage. One of the women who loves him, has a father who is involved in gangster-type activities, and would like Kalu also to join him so that he can get rich soon. Kalu has now to decide to become rich quick or sleep better.",
+        "releaseDate": "1954-07-09",
+        "runtime": 146,
+        "voteAverage": 5,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/fp6kIni6k7X1ZJnH6oKNbwm8aZP.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/8EEpTV3qmpsKGkDIUNuL0rfCUA6.jpg",
+        "director": "Guru Dutt",
         "cast": [
-            "Alain Delon",
-            "Jeanne Moreau",
-            "Francine Berg\u00e9",
-            "Juliet Berto",
-            "Jean Bouise"
+            "Guru Dutt",
+            "Shyama",
+            "Jagdish Sethi",
+            "Johnny Walker",
+            "Jagdeep"
         ],
         "genres": [
-            "Mystery",
             "Drama",
-            "Thriller"
+            "Romance",
+            "Crime"
         ]
     }
 }
