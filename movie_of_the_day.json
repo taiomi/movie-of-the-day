@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-11-15",
+    "lastUpdated": "2025-11-16",
     "movie": {
-        "id": 71283,
-        "title": "Aar Paar",
-        "tagline": "",
-        "overview": "Kalu is a taxi-driver in Bombay, India. He has two women who love him and would like to marry him. Kalu first wants to establish himself, and become rich, before he can even think of marriage. One of the women who loves him, has a father who is involved in gangster-type activities, and would like Kalu also to join him so that he can get rich soon. Kalu has now to decide to become rich quick or sleep better.",
-        "releaseDate": "1954-07-09",
-        "runtime": 146,
-        "voteAverage": 5,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/fp6kIni6k7X1ZJnH6oKNbwm8aZP.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/8EEpTV3qmpsKGkDIUNuL0rfCUA6.jpg",
-        "director": "Guru Dutt",
+        "id": 910,
+        "title": "The Big Sleep",
+        "tagline": "The picture they were born for!",
+        "overview": "Private Investigator Philip Marlowe is hired by wealthy General Sternwood regarding a matter involving his youngest daughter Carmen. Before the complex case is over, Marlowe sees murder, blackmail, deception, and what might be love.",
+        "releaseDate": "1946-08-23",
+        "runtime": 114,
+        "voteAverage": 7.6,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/lraHo9D8c0YWfxsKqT5P5sVqMKN.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/hSmX0ZyYZk2ECIWtJ1JSHINPZIK.jpg",
+        "director": "Howard Hawks",
         "cast": [
-            "Guru Dutt",
-            "Shyama",
-            "Jagdish Sethi",
-            "Johnny Walker",
-            "Jagdeep"
+            "Humphrey Bogart",
+            "Lauren Bacall",
+            "John Ridgely",
+            "Martha Vickers",
+            "Louis Jean Heydt"
         ],
         "genres": [
-            "Drama",
-            "Romance",
-            "Crime"
+            "Mystery",
+            "Crime",
+            "Thriller"
         ]
     }
 }
