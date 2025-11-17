@@ -1,27 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-11-16",
+    "lastUpdated": "2025-11-17",
     "movie": {
-        "id": 910,
-        "title": "The Big Sleep",
-        "tagline": "The picture they were born for!",
-        "overview": "Private Investigator Philip Marlowe is hired by wealthy General Sternwood regarding a matter involving his youngest daughter Carmen. Before the complex case is over, Marlowe sees murder, blackmail, deception, and what might be love.",
-        "releaseDate": "1946-08-23",
-        "runtime": 114,
-        "voteAverage": 7.6,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/lraHo9D8c0YWfxsKqT5P5sVqMKN.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/hSmX0ZyYZk2ECIWtJ1JSHINPZIK.jpg",
-        "director": "Howard Hawks",
+        "id": 891,
+        "title": "All the President's Men",
+        "tagline": "The most devastating detective story of this century.",
+        "overview": "During the 1972 elections, two reporters' investigation sheds light on the controversial Watergate scandal that compels President Nixon to resign from his post.",
+        "releaseDate": "1976-04-09",
+        "runtime": 138,
+        "voteAverage": 7.651,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/qwdcIdiTAk8iANsJEK2JmrYQx5o.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/eHUsvxdZzHyjdPbppBkYkW9EQUx.jpg",
+        "director": "Alan J. Pakula",
         "cast": [
-            "Humphrey Bogart",
-            "Lauren Bacall",
-            "John Ridgely",
-            "Martha Vickers",
-            "Louis Jean Heydt"
+            "Dustin Hoffman",
+            "Robert Redford",
+            "Jack Warden",
+            "Martin Balsam",
+            "Hal Holbrook"
         ],
         "genres": [
+            "Drama",
             "Mystery",
-            "Crime",
             "Thriller"
         ]
     }
