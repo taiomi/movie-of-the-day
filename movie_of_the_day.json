@@ -1,27 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-11-17",
+    "lastUpdated": "2025-11-18",
     "movie": {
-        "id": 891,
-        "title": "All the President's Men",
-        "tagline": "The most devastating detective story of this century.",
-        "overview": "During the 1972 elections, two reporters' investigation sheds light on the controversial Watergate scandal that compels President Nixon to resign from his post.",
-        "releaseDate": "1976-04-09",
-        "runtime": 138,
-        "voteAverage": 7.651,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/qwdcIdiTAk8iANsJEK2JmrYQx5o.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/eHUsvxdZzHyjdPbppBkYkW9EQUx.jpg",
-        "director": "Alan J. Pakula",
+        "id": 10363,
+        "title": "Purple Noon",
+        "tagline": "Passion at ten. Envy at eleven. Murder at noon.",
+        "overview": "Tom Ripley is a talented mimic, moocher, forger and all-around criminal improviser; but there's more to Tom Ripley than even he can guess.",
+        "releaseDate": "1960-03-10",
+        "runtime": 118,
+        "voteAverage": 7.569,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/xGVRU34izQwG8YQNfVOSfKPhD3S.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/d34za8faZk2zeSnrXEthF0h7a8r.jpg",
+        "director": "Ren\u00e9 Cl\u00e9ment",
         "cast": [
-            "Dustin Hoffman",
-            "Robert Redford",
-            "Jack Warden",
-            "Martin Balsam",
-            "Hal Holbrook"
+            "Alain Delon",
+            "Marie Lafor\u00eat",
+            "Maurice Ronet",
+            "Erno Crisa",
+            "Frank Latimore"
         ],
         "genres": [
+            "Crime",
             "Drama",
-            "Mystery",
             "Thriller"
         ]
     }
