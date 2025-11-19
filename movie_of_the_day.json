@@ -1,28 +1,29 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-11-18",
+    "lastUpdated": "2025-11-19",
     "movie": {
-        "id": 10363,
-        "title": "Purple Noon",
-        "tagline": "Passion at ten. Envy at eleven. Murder at noon.",
-        "overview": "Tom Ripley is a talented mimic, moocher, forger and all-around criminal improviser; but there's more to Tom Ripley than even he can guess.",
-        "releaseDate": "1960-03-10",
-        "runtime": 118,
-        "voteAverage": 7.569,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/xGVRU34izQwG8YQNfVOSfKPhD3S.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/d34za8faZk2zeSnrXEthF0h7a8r.jpg",
-        "director": "Ren\u00e9 Cl\u00e9ment",
+        "id": 11953,
+        "title": "Kagemusha",
+        "tagline": "The Shadow of a man can never stand up and walk on its own.",
+        "overview": "Akira Kurosawa's lauded feudal epic presents the tale of a petty thief who is recruited to impersonate Shingen, an aging warlord, in order to avoid attacks by competing clans. When Shingen dies, his generals reluctantly agree to have the impostor take over as the powerful ruler. He soon begins to appreciate life as Shingen, but his commitment to the role is tested when he must lead his troops into battle against the forces of a rival warlord.",
+        "releaseDate": "1980-04-26",
+        "runtime": 180,
+        "voteAverage": 7.8,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/fJgqj9s8HNZz9zwX6femVJn8HEB.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/7qsKE8GsgjreeQ2mTLd5oKZ7Tbf.jpg",
+        "director": "Akira Kurosawa",
         "cast": [
-            "Alain Delon",
-            "Marie Lafor\u00eat",
-            "Maurice Ronet",
-            "Erno Crisa",
-            "Frank Latimore"
+            "Tatsuya Nakadai",
+            "Tsutomu Yamazaki",
+            "Kenichi Hagiwara",
+            "Jinpachi Nezu",
+            "Hideji \u014ctaki"
         ],
         "genres": [
-            "Crime",
+            "Action",
             "Drama",
-            "Thriller"
+            "History",
+            "War"
         ]
     }
 }
