@@ -1,29 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-11-19",
+    "lastUpdated": "2025-11-20",
     "movie": {
-        "id": 11953,
-        "title": "Kagemusha",
-        "tagline": "The Shadow of a man can never stand up and walk on its own.",
-        "overview": "Akira Kurosawa's lauded feudal epic presents the tale of a petty thief who is recruited to impersonate Shingen, an aging warlord, in order to avoid attacks by competing clans. When Shingen dies, his generals reluctantly agree to have the impostor take over as the powerful ruler. He soon begins to appreciate life as Shingen, but his commitment to the role is tested when he must lead his troops into battle against the forces of a rival warlord.",
-        "releaseDate": "1980-04-26",
-        "runtime": 180,
-        "voteAverage": 7.8,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/fJgqj9s8HNZz9zwX6femVJn8HEB.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/7qsKE8GsgjreeQ2mTLd5oKZ7Tbf.jpg",
-        "director": "Akira Kurosawa",
+        "id": 785084,
+        "title": "The Whale",
+        "tagline": "People are amazing",
+        "overview": "A reclusive English teacher suffering from severe obesity attempts to reconnect with his estranged teenage daughter for one last chance at redemption.",
+        "releaseDate": "2022-12-09",
+        "runtime": 117,
+        "voteAverage": 7.793,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/jQ0gylJMxWSL490sy0RrPj1Lj7e.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/46FRuCeAn6TrS4F1P4F9zhyCpyo.jpg",
+        "director": "Darren Aronofsky",
         "cast": [
-            "Tatsuya Nakadai",
-            "Tsutomu Yamazaki",
-            "Kenichi Hagiwara",
-            "Jinpachi Nezu",
-            "Hideji \u014ctaki"
+            "Brendan Fraser",
+            "Sadie Sink",
+            "Ty Simpkins",
+            "Hong Chau",
+            "Samantha Morton"
         ],
         "genres": [
-            "Action",
-            "Drama",
-            "History",
-            "War"
+            "Drama"
         ]
     }
 }
