@@ -1,26 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-11-20",
+    "lastUpdated": "2025-11-21",
     "movie": {
-        "id": 785084,
-        "title": "The Whale",
-        "tagline": "People are amazing",
-        "overview": "A reclusive English teacher suffering from severe obesity attempts to reconnect with his estranged teenage daughter for one last chance at redemption.",
-        "releaseDate": "2022-12-09",
-        "runtime": 117,
-        "voteAverage": 7.793,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/jQ0gylJMxWSL490sy0RrPj1Lj7e.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/46FRuCeAn6TrS4F1P4F9zhyCpyo.jpg",
-        "director": "Darren Aronofsky",
+        "id": 43195,
+        "title": "Senso",
+        "tagline": "A passionate doomed love affair among the corrupt aristocracy",
+        "overview": "A troubled and neurotic Italian Countess betrays her entire country for a self-destructive love affair with an Austrian Lieutenant.",
+        "releaseDate": "1954-12-30",
+        "runtime": 123,
+        "voteAverage": 7.195,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/iyWApADv4UD9KtVQvJ1mkKn9WXV.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/q2ve97XH53hEUaWEUhD9AQcnn1A.jpg",
+        "director": "Luchino Visconti",
         "cast": [
-            "Brendan Fraser",
-            "Sadie Sink",
-            "Ty Simpkins",
-            "Hong Chau",
-            "Samantha Morton"
+            "Farley Granger",
+            "Alida Valli",
+            "Massimo Girotti",
+            "Heinz Moog",
+            "Rina Morelli"
         ],
         "genres": [
-            "Drama"
+            "Romance",
+            "Drama",
+            "War"
         ]
     }
 }
