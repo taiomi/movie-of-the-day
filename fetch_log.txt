@@ -1022,3 +1022,7 @@
 [2025-11-21 03:11:36] Selected movie: Senso (ID: 43195) for day 249 since start
 [2025-11-21 03:11:37] Successfully saved movie data for: Senso
 [2025-11-21 03:11:37] Movie fetch process completed
+[2025-11-22 03:05:12] Starting movie fetch process
+[2025-11-22 03:05:12] Selected movie: Peeping Tom (ID: 11167) for day 250 since start
+[2025-11-22 03:05:13] Successfully saved movie data for: Peeping Tom
+[2025-11-22 03:05:13] Movie fetch process completed
