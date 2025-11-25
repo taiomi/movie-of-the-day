@@ -1,27 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-11-24",
+    "lastUpdated": "2025-11-25",
     "movie": {
-        "id": 85,
-        "title": "Raiders of the Lost Ark",
-        "tagline": "The return of the great adventure.",
-        "overview": "When Dr. Indiana Jones \u2013 the tweed-suited professor who just happens to be a celebrated archaeologist \u2013 is hired by the government to locate the legendary Ark of the Covenant, he finds himself up against the entire Nazi regime.",
-        "releaseDate": "1981-06-12",
-        "runtime": 115,
-        "voteAverage": 7.922,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/ueDw7djPgKPZfph0vC43aD2EMyF.jpg",
-        "director": "Steven Spielberg",
+        "id": 5780,
+        "title": "Torn Curtain",
+        "tagline": "It tears you apart with suspense!",
+        "overview": "During the Cold War, an American scientist appears to defect to East Germany as part of a cloak and dagger mission to find the formula for a resin solution\u2014but the plan goes awry when his fiancee, unaware of his motivation, follows him across the border.",
+        "releaseDate": "1966-07-15",
+        "runtime": 127,
+        "voteAverage": 6.6,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/7XC1l9eP2TBYMEdA4KRUqKAFmbm.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/84jdp4kDVL9jm5VmWyELd7K13jw.jpg",
+        "director": "Alfred Hitchcock",
         "cast": [
-            "Harrison Ford",
-            "Karen Allen",
-            "Paul Freeman",
-            "John Rhys-Davies",
-            "Ronald Lacey"
+            "Paul Newman",
+            "Julie Andrews",
+            "Lila Kedrova",
+            "Hansj\u00f6rg Felmy",
+            "Tamara Toumanova"
         ],
         "genres": [
-            "Adventure",
-            "Action"
+            "Thriller"
         ]
     }
 }
