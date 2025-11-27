@@ -1042,3 +1042,7 @@
 [2025-11-26 03:15:52] Selected movie: Another Round (ID: 580175) for day 254 since start
 [2025-11-26 03:15:52] Successfully saved movie data for: Another Round
 [2025-11-26 03:15:52] Movie fetch process completed
+[2025-11-27 03:12:20] Starting movie fetch process
+[2025-11-27 03:12:20] Selected movie: Prince of the City (ID: 32047) for day 255 since start
+[2025-11-27 03:12:21] Successfully saved movie data for: Prince of the City
+[2025-11-27 03:12:21] Movie fetch process completed

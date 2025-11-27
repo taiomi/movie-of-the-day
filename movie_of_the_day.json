@@ -1,27 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-11-26",
+    "lastUpdated": "2025-11-27",
     "movie": {
-        "id": 580175,
-        "title": "Another Round",
-        "tagline": "What is youth? A dream. What is love? The content of the dream.",
-        "overview": "Four stagnant high school teachers decide to test out a theory that maintaining a constant level of intoxication will improve their overall lives.",
-        "releaseDate": "2020-09-24",
-        "runtime": 117,
-        "voteAverage": 7.6,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/aDcIt4NHURLKnAEu7gow51Yd00Q.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/a2pPepVPtKY7E4XEkT7W3ZxUOY5.jpg",
-        "director": "Thomas Vinterberg",
+        "id": 32047,
+        "title": "Prince of the City",
+        "tagline": "A cop is turning. Nobody's safe.",
+        "overview": "New York City detective Daniel Ciello agrees to help the United States Department of Justice help eliminate corruption in the police department, as long as he will not have to turn in any close friends. In doing so, Ciello uncovers a conspiracy within the force to smuggle drugs to street informants.",
+        "releaseDate": "1981-08-19",
+        "runtime": 167,
+        "voteAverage": 7,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/tdERW77zecB5pkKWWeqbSkns0t4.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/sGaUzT2oHRyeuNTLc5rzP2O52Aa.jpg",
+        "director": "Sidney Lumet",
         "cast": [
-            "Mads Mikkelsen",
-            "Thomas Bo Larsen",
-            "Magnus Millang",
-            "Lars Ranthe",
-            "Maria Bonnevie"
+            "Treat Williams",
+            "Jerry Orbach",
+            "Richard Foronjy",
+            "Don Billett",
+            "Kenny Marino"
         ],
         "genres": [
-            "Comedy",
-            "Drama"
+            "Drama",
+            "Thriller",
+            "Crime"
         ]
     }
 }
