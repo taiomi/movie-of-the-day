@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-11-27",
+    "lastUpdated": "2025-11-28",
     "movie": {
-        "id": 32047,
-        "title": "Prince of the City",
-        "tagline": "A cop is turning. Nobody's safe.",
-        "overview": "New York City detective Daniel Ciello agrees to help the United States Department of Justice help eliminate corruption in the police department, as long as he will not have to turn in any close friends. In doing so, Ciello uncovers a conspiracy within the force to smuggle drugs to street informants.",
-        "releaseDate": "1981-08-19",
-        "runtime": 167,
-        "voteAverage": 7,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/tdERW77zecB5pkKWWeqbSkns0t4.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/sGaUzT2oHRyeuNTLc5rzP2O52Aa.jpg",
-        "director": "Sidney Lumet",
+        "id": 505642,
+        "title": "Black Panther: Wakanda Forever",
+        "tagline": "Forever.",
+        "overview": "Queen Ramonda, Shuri, M\u2019Baku, Okoye and the Dora Milaje fight to protect their nation from intervening world powers in the wake of King T\u2019Challa\u2019s death.  As the Wakandans strive to embrace their next chapter, the heroes must band together with the help of War Dog Nakia and Everett Ross and forge a new path for the kingdom of Wakanda.",
+        "releaseDate": "2022-11-09",
+        "runtime": 162,
+        "voteAverage": 7.027,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/xDMIl84Qo5Tsu62c9DGWhmPI67A.jpg",
+        "director": "Ryan Coogler",
         "cast": [
-            "Treat Williams",
-            "Jerry Orbach",
-            "Richard Foronjy",
-            "Don Billett",
-            "Kenny Marino"
+            "Letitia Wright",
+            "Tenoch Huerta Mej\u00eda",
+            "Lupita Nyong'o",
+            "Danai Gurira",
+            "Winston Duke"
         ],
         "genres": [
-            "Drama",
-            "Thriller",
-            "Crime"
+            "Action",
+            "Adventure",
+            "Science Fiction"
         ]
     }
 }
