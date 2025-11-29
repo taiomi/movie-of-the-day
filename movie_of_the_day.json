@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-11-28",
+    "lastUpdated": "2025-11-29",
     "movie": {
-        "id": 505642,
-        "title": "Black Panther: Wakanda Forever",
-        "tagline": "Forever.",
-        "overview": "Queen Ramonda, Shuri, M\u2019Baku, Okoye and the Dora Milaje fight to protect their nation from intervening world powers in the wake of King T\u2019Challa\u2019s death.  As the Wakandans strive to embrace their next chapter, the heroes must band together with the help of War Dog Nakia and Everett Ross and forge a new path for the kingdom of Wakanda.",
-        "releaseDate": "2022-11-09",
-        "runtime": 162,
-        "voteAverage": 7.027,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/xDMIl84Qo5Tsu62c9DGWhmPI67A.jpg",
-        "director": "Ryan Coogler",
+        "id": 20334,
+        "title": "The Shop Around the Corner",
+        "tagline": "EVERY GIRL OR FELLOW WHO EVER KEPT A \u201cBLIND DATE\u201d",
+        "overview": "Two employees at a gift shop can barely stand one another, without realising that they are falling in love through the post as each other's anonymous pen pal.",
+        "releaseDate": "1940-01-12",
+        "runtime": 99,
+        "voteAverage": 8.1,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/dZ1aEzGYRiqJwPfjS6VL7wUkHmF.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/wqgZSvgoctaadgwUdPYVsksivxn.jpg",
+        "director": "Ernst Lubitsch",
         "cast": [
-            "Letitia Wright",
-            "Tenoch Huerta Mej\u00eda",
-            "Lupita Nyong'o",
-            "Danai Gurira",
-            "Winston Duke"
+            "Margaret Sullavan",
+            "James Stewart",
+            "Frank Morgan",
+            "Joseph Schildkraut",
+            "Sara Haden"
         ],
         "genres": [
-            "Action",
-            "Adventure",
-            "Science Fiction"
+            "Comedy",
+            "Drama",
+            "Romance"
         ]
     }
 }
