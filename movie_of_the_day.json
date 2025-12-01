@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-11-30",
+    "lastUpdated": "2025-12-01",
     "movie": {
-        "id": 110,
-        "title": "Three Colors: Red",
-        "tagline": "The invisible thread of destinies.",
-        "overview": "Part-time model Valentine unexpectedly befriends a retired judge after she runs over his dog. At first, the grumpy man shows no concern about the dog, and Valentine decides to keep it. But the two form a bond when she returns to his house and catches him listening to his neighbors\u2019 phone calls.",
-        "releaseDate": "1994-05-12",
-        "runtime": 100,
-        "voteAverage": 7.909,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/JHmsBiX1tjCKqAul1lzC20WcAW.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/pZcoSJUb3Lgr9Rzg2shg1PtTBP9.jpg",
-        "director": "Krzysztof Kie\u015blowski",
+        "id": 370172,
+        "title": "No Time to Die",
+        "tagline": "The mission that changes everything begins\u2026",
+        "overview": "Bond has left active service and is enjoying a tranquil life in Jamaica. His peace is short-lived when his old friend Felix Leiter from the CIA turns up asking for help. The mission to rescue a kidnapped scientist turns out to be far more treacherous than expected, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.",
+        "releaseDate": "2021-09-29",
+        "runtime": 163,
+        "voteAverage": 7.355,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/x9td0NQha0t44K2qgcMipLOGjVi.jpg",
+        "director": "Cary Joji Fukunaga",
         "cast": [
-            "Ir\u00e8ne Jacob",
-            "Jean-Louis Trintignant",
-            "Fr\u00e9d\u00e9rique Feder",
-            "Jean-Pierre Lorit",
-            "Samuel Le Bihan"
+            "Daniel Craig",
+            "L\u00e9a Seydoux",
+            "Rami Malek",
+            "Lashana Lynch",
+            "Ralph Fiennes"
         ],
         "genres": [
-            "Drama",
-            "Mystery",
-            "Romance"
+            "Action",
+            "Thriller",
+            "Adventure"
         ]
     }
 }
