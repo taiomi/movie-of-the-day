@@ -1,28 +1,29 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-12-01",
+    "lastUpdated": "2025-12-02",
     "movie": {
-        "id": 370172,
-        "title": "No Time to Die",
-        "tagline": "The mission that changes everything begins\u2026",
-        "overview": "Bond has left active service and is enjoying a tranquil life in Jamaica. His peace is short-lived when his old friend Felix Leiter from the CIA turns up asking for help. The mission to rescue a kidnapped scientist turns out to be far more treacherous than expected, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.",
-        "releaseDate": "2021-09-29",
-        "runtime": 163,
-        "voteAverage": 7.355,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/x9td0NQha0t44K2qgcMipLOGjVi.jpg",
-        "director": "Cary Joji Fukunaga",
+        "id": 146,
+        "title": "Crouching Tiger, Hidden Dragon",
+        "tagline": "A timeless story of strength, secrets and two warriors who would never surrender.",
+        "overview": "Two warriors in pursuit of a stolen sword and a notorious fugitive are led to an impetuous, physically-skilled, teenage nobleman's daughter, who is at a crossroads in her life.",
+        "releaseDate": "2000-07-06",
+        "runtime": 120,
+        "voteAverage": 7.434,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/iNDVBFNz4XyYzM9Lwip6atSTFqf.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/nSm9cij9VRrGDoZoS16CPnX0FqK.jpg",
+        "director": "Ang Lee",
         "cast": [
-            "Daniel Craig",
-            "L\u00e9a Seydoux",
-            "Rami Malek",
-            "Lashana Lynch",
-            "Ralph Fiennes"
+            "Chow Yun-Fat",
+            "Michelle Yeoh",
+            "Zhang Ziyi",
+            "Chang Chen",
+            "Lung Sihung"
         ],
         "genres": [
+            "Adventure",
+            "Drama",
             "Action",
-            "Thriller",
-            "Adventure"
+            "Romance"
         ]
     }
 }
