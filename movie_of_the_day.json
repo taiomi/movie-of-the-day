@@ -1,29 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-12-02",
+    "lastUpdated": "2025-12-03",
     "movie": {
-        "id": 146,
-        "title": "Crouching Tiger, Hidden Dragon",
-        "tagline": "A timeless story of strength, secrets and two warriors who would never surrender.",
-        "overview": "Two warriors in pursuit of a stolen sword and a notorious fugitive are led to an impetuous, physically-skilled, teenage nobleman's daughter, who is at a crossroads in her life.",
-        "releaseDate": "2000-07-06",
-        "runtime": 120,
-        "voteAverage": 7.434,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/iNDVBFNz4XyYzM9Lwip6atSTFqf.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/nSm9cij9VRrGDoZoS16CPnX0FqK.jpg",
-        "director": "Ang Lee",
+        "id": 20367,
+        "title": "Detour",
+        "tagline": "He went searching for love\u2026 but fate forced a DETOUR to revelry\u2026 violence\u2026 mystery!",
+        "overview": "The life of Al Roberts, a pianist in a New York nightclub, turns into a nightmare when he decides to hitchhike to Los Angeles to visit his girlfriend.",
+        "releaseDate": "1945-11-30",
+        "runtime": 68,
+        "voteAverage": 7.222,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/gJb9HRAs1V4bA0VKsWpT6mhv2RT.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/uGOKN4VeCsf249zypWfaAzfTxAB.jpg",
+        "director": "Edgar G. Ulmer",
         "cast": [
-            "Chow Yun-Fat",
-            "Michelle Yeoh",
-            "Zhang Ziyi",
-            "Chang Chen",
-            "Lung Sihung"
+            "Tom Neal",
+            "Ann Savage",
+            "Claudia Drake",
+            "Edmund MacDonald",
+            "Tim Ryan"
         ],
         "genres": [
-            "Adventure",
             "Drama",
-            "Action",
-            "Romance"
+            "Thriller"
         ]
     }
 }
