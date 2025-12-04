@@ -1,27 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-12-03",
+    "lastUpdated": "2025-12-04",
     "movie": {
-        "id": 20367,
-        "title": "Detour",
-        "tagline": "He went searching for love\u2026 but fate forced a DETOUR to revelry\u2026 violence\u2026 mystery!",
-        "overview": "The life of Al Roberts, a pianist in a New York nightclub, turns into a nightmare when he decides to hitchhike to Los Angeles to visit his girlfriend.",
-        "releaseDate": "1945-11-30",
-        "runtime": 68,
-        "voteAverage": 7.222,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/gJb9HRAs1V4bA0VKsWpT6mhv2RT.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/uGOKN4VeCsf249zypWfaAzfTxAB.jpg",
-        "director": "Edgar G. Ulmer",
+        "id": 28055,
+        "title": "Blood and Black Lace",
+        "tagline": "A Fashion House of Models\u2026 Becomes a Terror House of Blood!",
+        "overview": "Isabella, a young model, is murdered by a mysterious masked figure at a fashion house in Rome. When her diary, which details the house employees' many vices, disappears, the masked killer begins killing off all the models in and around the house to find it.",
+        "releaseDate": "1964-04-10",
+        "runtime": 88,
+        "voteAverage": 7.316,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/zYCQjsdktEvlWTRap836iI5paEL.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/6eW84lUWSJ09OuWTCNOmTY1i2Cm.jpg",
+        "director": "Mario Bava",
         "cast": [
-            "Tom Neal",
-            "Ann Savage",
-            "Claudia Drake",
-            "Edmund MacDonald",
-            "Tim Ryan"
+            "Cameron Mitchell",
+            "Eva Bartok",
+            "Thomas Reiner",
+            "Ariana Gorini",
+            "Dante DiPaolo"
         ],
         "genres": [
-            "Drama",
-            "Thriller"
+            "Horror",
+            "Thriller",
+            "Mystery"
         ]
     }
 }
