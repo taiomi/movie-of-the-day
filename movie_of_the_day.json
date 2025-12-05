@@ -1,28 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-12-04",
+    "lastUpdated": "2025-12-05",
     "movie": {
-        "id": 28055,
-        "title": "Blood and Black Lace",
-        "tagline": "A Fashion House of Models\u2026 Becomes a Terror House of Blood!",
-        "overview": "Isabella, a young model, is murdered by a mysterious masked figure at a fashion house in Rome. When her diary, which details the house employees' many vices, disappears, the masked killer begins killing off all the models in and around the house to find it.",
-        "releaseDate": "1964-04-10",
-        "runtime": 88,
-        "voteAverage": 7.316,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/zYCQjsdktEvlWTRap836iI5paEL.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/6eW84lUWSJ09OuWTCNOmTY1i2Cm.jpg",
-        "director": "Mario Bava",
+        "id": 3870,
+        "title": "1900",
+        "tagline": "From the cradle to the grave - victims of history and change!",
+        "overview": "The epic tale of a class struggle in twentieth century Italy, as seen through the eyes of two childhood friends on opposing sides.",
+        "releaseDate": "1976-08-28",
+        "runtime": 317,
+        "voteAverage": 7.8,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/deWzfCC59tmtEQvKSmflDe14FvR.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/x5948QrtMqvnf2OBP9ESpdmONQa.jpg",
+        "director": "Bernardo Bertolucci",
         "cast": [
-            "Cameron Mitchell",
-            "Eva Bartok",
-            "Thomas Reiner",
-            "Ariana Gorini",
-            "Dante DiPaolo"
+            "Robert De Niro",
+            "G\u00e9rard Depardieu",
+            "Dominique Sanda",
+            "Stefania Sandrelli",
+            "Donald Sutherland"
         ],
         "genres": [
-            "Horror",
-            "Thriller",
-            "Mystery"
+            "Drama",
+            "History"
         ]
     }
 }
