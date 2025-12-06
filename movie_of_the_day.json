@@ -1,27 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-12-05",
+    "lastUpdated": "2025-12-06",
     "movie": {
-        "id": 3870,
-        "title": "1900",
-        "tagline": "From the cradle to the grave - victims of history and change!",
-        "overview": "The epic tale of a class struggle in twentieth century Italy, as seen through the eyes of two childhood friends on opposing sides.",
-        "releaseDate": "1976-08-28",
-        "runtime": 317,
-        "voteAverage": 7.8,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/deWzfCC59tmtEQvKSmflDe14FvR.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/x5948QrtMqvnf2OBP9ESpdmONQa.jpg",
-        "director": "Bernardo Bertolucci",
+        "id": 25768,
+        "title": "Steamboat Bill, Jr.",
+        "tagline": "The Laugh Special of the Age. See It.",
+        "overview": "The just-out-of-college, effete son of a no-nonsense steamboat captain comes to visit his father whom he's not seen since he was a child.",
+        "releaseDate": "1928-05-09",
+        "runtime": 70,
+        "voteAverage": 7.598,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/zygJMsmXxeyDc1N67OCZc8xtq4I.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/6dgyXWl8yavsHISG4LXMcvpKnJw.jpg",
+        "director": "Charles Reisner",
         "cast": [
-            "Robert De Niro",
-            "G\u00e9rard Depardieu",
-            "Dominique Sanda",
-            "Stefania Sandrelli",
-            "Donald Sutherland"
+            "Buster Keaton",
+            "Tom McGuire",
+            "Ernest Torrence",
+            "Tom Lewis",
+            "Marion Byron"
         ],
         "genres": [
-            "Drama",
-            "History"
+            "Comedy",
+            "Romance"
         ]
     }
 }
