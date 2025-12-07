@@ -1,27 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-12-06",
+    "lastUpdated": "2025-12-07",
     "movie": {
-        "id": 25768,
-        "title": "Steamboat Bill, Jr.",
-        "tagline": "The Laugh Special of the Age. See It.",
-        "overview": "The just-out-of-college, effete son of a no-nonsense steamboat captain comes to visit his father whom he's not seen since he was a child.",
-        "releaseDate": "1928-05-09",
-        "runtime": 70,
-        "voteAverage": 7.598,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/zygJMsmXxeyDc1N67OCZc8xtq4I.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/6dgyXWl8yavsHISG4LXMcvpKnJw.jpg",
-        "director": "Charles Reisner",
+        "id": 18929,
+        "title": "The Entertainer",
+        "tagline": "As the applause grew fainter \u2026 As the spotlight grew dimmer \u2026 His women were younger!",
+        "overview": "Archie Rice, an old-time British vaudeville performer sinking into final defeat, schemes to stay in show business.",
+        "releaseDate": "1960-07-25",
+        "runtime": 104,
+        "voteAverage": 6.2,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/s549IYn0XDUlFHJpOLIrWE1uYXv.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/seQEaWg0xDiNFMiTLnrTfVywVC6.jpg",
+        "director": "Tony Richardson",
         "cast": [
-            "Buster Keaton",
-            "Tom McGuire",
-            "Ernest Torrence",
-            "Tom Lewis",
-            "Marion Byron"
+            "Laurence Olivier",
+            "Brenda De Banzie",
+            "Roger Livesey",
+            "Joan Plowright",
+            "Alan Bates"
         ],
         "genres": [
-            "Comedy",
-            "Romance"
+            "Drama"
         ]
     }
 }
