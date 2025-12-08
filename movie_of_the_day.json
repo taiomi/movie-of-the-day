@@ -1,26 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-12-07",
+    "lastUpdated": "2025-12-08",
     "movie": {
-        "id": 18929,
-        "title": "The Entertainer",
-        "tagline": "As the applause grew fainter \u2026 As the spotlight grew dimmer \u2026 His women were younger!",
-        "overview": "Archie Rice, an old-time British vaudeville performer sinking into final defeat, schemes to stay in show business.",
-        "releaseDate": "1960-07-25",
-        "runtime": 104,
-        "voteAverage": 6.2,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/s549IYn0XDUlFHJpOLIrWE1uYXv.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/seQEaWg0xDiNFMiTLnrTfVywVC6.jpg",
-        "director": "Tony Richardson",
+        "id": 503919,
+        "title": "The Lighthouse",
+        "tagline": "Keeping secrets, are ye?",
+        "overview": "Two lighthouse keepers try to maintain their sanity while living on a remote and mysterious New England island in the 1890s.",
+        "releaseDate": "2019-10-18",
+        "runtime": 109,
+        "voteAverage": 7.487,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/f1tIYarTbkBdIT1aW0gzelDwknv.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/sYLzRuEcwSz0L1Z92wQNrETHU9O.jpg",
+        "director": "Robert Eggers",
         "cast": [
-            "Laurence Olivier",
-            "Brenda De Banzie",
-            "Roger Livesey",
-            "Joan Plowright",
-            "Alan Bates"
+            "Robert Pattinson",
+            "Willem Dafoe",
+            "Valeriia Karaman",
+            "Logan Hawkes",
+            "Kyla Nicolle"
         ],
         "genres": [
-            "Drama"
+            "Drama",
+            "Fantasy",
+            "Thriller"
         ]
     }
 }
