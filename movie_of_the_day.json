@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-12-08",
+    "lastUpdated": "2025-12-09",
     "movie": {
-        "id": 503919,
-        "title": "The Lighthouse",
-        "tagline": "Keeping secrets, are ye?",
-        "overview": "Two lighthouse keepers try to maintain their sanity while living on a remote and mysterious New England island in the 1890s.",
-        "releaseDate": "2019-10-18",
-        "runtime": 109,
-        "voteAverage": 7.487,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/f1tIYarTbkBdIT1aW0gzelDwknv.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/sYLzRuEcwSz0L1Z92wQNrETHU9O.jpg",
-        "director": "Robert Eggers",
+        "id": 11,
+        "title": "Star Wars",
+        "tagline": "A long time ago in a galaxy far, far away...",
+        "overview": "Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.",
+        "releaseDate": "1977-05-25",
+        "runtime": 121,
+        "voteAverage": 8.204,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/2w4xG178RpB4MDAIfTkqAuSJzec.jpg",
+        "director": "George Lucas",
         "cast": [
-            "Robert Pattinson",
-            "Willem Dafoe",
-            "Valeriia Karaman",
-            "Logan Hawkes",
-            "Kyla Nicolle"
+            "Mark Hamill",
+            "Harrison Ford",
+            "Carrie Fisher",
+            "Peter Cushing",
+            "Alec Guinness"
         ],
         "genres": [
-            "Drama",
-            "Fantasy",
-            "Thriller"
+            "Adventure",
+            "Action",
+            "Science Fiction"
         ]
     }
 }
