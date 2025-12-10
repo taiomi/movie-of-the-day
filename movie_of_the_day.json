@@ -1,28 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-12-09",
+    "lastUpdated": "2025-12-10",
     "movie": {
-        "id": 11,
-        "title": "Star Wars",
-        "tagline": "A long time ago in a galaxy far, far away...",
-        "overview": "Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.",
-        "releaseDate": "1977-05-25",
-        "runtime": 121,
-        "voteAverage": 8.204,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/2w4xG178RpB4MDAIfTkqAuSJzec.jpg",
-        "director": "George Lucas",
+        "id": 361743,
+        "title": "Top Gun: Maverick",
+        "tagline": "Feel the need... The need for speed.",
+        "overview": "After more than thirty years of service as one of the Navy\u2019s top aviators, and dodging the advancement in rank that would ground him, Pete \u201cMaverick\u201d Mitchell finds himself training a detachment of TOP GUN graduates for a specialized mission the likes of which no living pilot has ever seen.",
+        "releaseDate": "2022-05-21",
+        "runtime": 131,
+        "voteAverage": 8.163,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/AaV1YIdWKnjAIAOe8UUKBFm327v.jpg",
+        "director": "Joseph Kosinski",
         "cast": [
-            "Mark Hamill",
-            "Harrison Ford",
-            "Carrie Fisher",
-            "Peter Cushing",
-            "Alec Guinness"
+            "Tom Cruise",
+            "Val Kilmer",
+            "Miles Teller",
+            "Jennifer Connelly",
+            "Bashir Salahuddin"
         ],
         "genres": [
-            "Adventure",
             "Action",
-            "Science Fiction"
+            "Drama"
         ]
     }
 }
