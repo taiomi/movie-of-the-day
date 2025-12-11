@@ -1,26 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-12-10",
+    "lastUpdated": "2025-12-11",
     "movie": {
-        "id": 361743,
-        "title": "Top Gun: Maverick",
-        "tagline": "Feel the need... The need for speed.",
-        "overview": "After more than thirty years of service as one of the Navy\u2019s top aviators, and dodging the advancement in rank that would ground him, Pete \u201cMaverick\u201d Mitchell finds himself training a detachment of TOP GUN graduates for a specialized mission the likes of which no living pilot has ever seen.",
-        "releaseDate": "2022-05-21",
-        "runtime": 131,
-        "voteAverage": 8.163,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/AaV1YIdWKnjAIAOe8UUKBFm327v.jpg",
-        "director": "Joseph Kosinski",
+        "id": 840,
+        "title": "Close Encounters of the Third Kind",
+        "tagline": "We are not alone.",
+        "overview": "After an encounter with UFOs, an electricity linesman feels undeniably drawn to an isolated area in the wilderness where something spectacular is about to happen.",
+        "releaseDate": "1977-12-14",
+        "runtime": 137,
+        "voteAverage": 7.349,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/gCWPB8cF82tqzrS9tvzcO6q6nyz.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/yBCekmb7vK70xUhtsRQBcTu65sB.jpg",
+        "director": "Steven Spielberg",
         "cast": [
-            "Tom Cruise",
-            "Val Kilmer",
-            "Miles Teller",
-            "Jennifer Connelly",
-            "Bashir Salahuddin"
+            "Richard Dreyfuss",
+            "Fran\u00e7ois Truffaut",
+            "Teri Garr",
+            "Melinda Dillon",
+            "Bob Balaban"
         ],
         "genres": [
-            "Action",
+            "Science Fiction",
             "Drama"
         ]
     }
