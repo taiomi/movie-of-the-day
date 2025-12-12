@@ -1,27 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-12-11",
+    "lastUpdated": "2025-12-12",
     "movie": {
-        "id": 840,
-        "title": "Close Encounters of the Third Kind",
-        "tagline": "We are not alone.",
-        "overview": "After an encounter with UFOs, an electricity linesman feels undeniably drawn to an isolated area in the wilderness where something spectacular is about to happen.",
-        "releaseDate": "1977-12-14",
-        "runtime": 137,
-        "voteAverage": 7.349,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/gCWPB8cF82tqzrS9tvzcO6q6nyz.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/yBCekmb7vK70xUhtsRQBcTu65sB.jpg",
-        "director": "Steven Spielberg",
+        "id": 10360,
+        "title": "Hunger",
+        "tagline": "An odyssey, in which the smallest gestures become epic and when the body is the last resource for protest.",
+        "overview": "The story of Bobby Sands, the IRA member who led the 1981 hunger strike during The Troubles in which Irish Republican prisoners tried to win political status.",
+        "releaseDate": "2008-05-15",
+        "runtime": 96,
+        "voteAverage": 7.237,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/84HdTM39G2MzyTl8N9R0wVU9I5b.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/34N9iKlR8FdXiu8r8pSpKcyFUVh.jpg",
+        "director": "Steve McQueen",
         "cast": [
-            "Richard Dreyfuss",
-            "Fran\u00e7ois Truffaut",
-            "Teri Garr",
-            "Melinda Dillon",
-            "Bob Balaban"
+            "Michael Fassbender",
+            "Stuart Graham",
+            "Liam Cunningham",
+            "Helena Bereen",
+            "Laine Megaw"
         ],
         "genres": [
-            "Science Fiction",
-            "Drama"
+            "Drama",
+            "History"
         ]
     }
 }
