@@ -1,27 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-12-12",
+    "lastUpdated": "2025-12-13",
     "movie": {
-        "id": 10360,
-        "title": "Hunger",
-        "tagline": "An odyssey, in which the smallest gestures become epic and when the body is the last resource for protest.",
-        "overview": "The story of Bobby Sands, the IRA member who led the 1981 hunger strike during The Troubles in which Irish Republican prisoners tried to win political status.",
-        "releaseDate": "2008-05-15",
-        "runtime": 96,
-        "voteAverage": 7.237,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/84HdTM39G2MzyTl8N9R0wVU9I5b.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/34N9iKlR8FdXiu8r8pSpKcyFUVh.jpg",
-        "director": "Steve McQueen",
+        "id": 899,
+        "title": "Broken Blossoms or The Yellow Man and the Girl",
+        "tagline": "A tale of forbidden love.",
+        "overview": "The love story of an abused English girl and a Chinese Buddhist in a time when London was a brutal and harsh place to live.",
+        "releaseDate": "1919-05-13",
+        "runtime": 89,
+        "voteAverage": 6.895,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/njwFIUL76zaRmPemnrZVmmTSCjz.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/3DW3xHM7FgdE8XzpODbEfvlR9qR.jpg",
+        "director": "D.W. Griffith",
         "cast": [
-            "Michael Fassbender",
-            "Stuart Graham",
-            "Liam Cunningham",
-            "Helena Bereen",
-            "Laine Megaw"
+            "Lillian Gish",
+            "Richard Barthelmess",
+            "Donald Crisp",
+            "Arthur Howard",
+            "Edward Peil Sr."
         ],
         "genres": [
             "Drama",
-            "History"
+            "Romance"
         ]
     }
 }
