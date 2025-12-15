@@ -1,27 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-12-14",
+    "lastUpdated": "2025-12-15",
     "movie": {
-        "id": 10712,
-        "title": "Far from Heaven",
-        "tagline": "What imprisons desires of the heart?",
-        "overview": "In 1950s Connecticut, a housewife's life is upended by a marital crisis and mounting racial tensions in society.",
-        "releaseDate": "2002-11-08",
-        "runtime": 107,
-        "voteAverage": 7,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/9gQuvFDRPLx39smUvyafm36tp0d.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/k0HFJNOfwuWbYKon7BwCbnX8OkB.jpg",
-        "director": "Todd Haynes",
+        "id": 398818,
+        "title": "Call Me by Your Name",
+        "tagline": "Is it better to speak or die?",
+        "overview": "In the summer of 1983, a 17-year-old Elio spends his days in his family's villa in Italy. One day Oliver, a graduate student, arrives to assist Elio's father, a professor of Greco-Roman culture. Soon, Elio and Oliver discover a summer that will alter their lives forever.",
+        "releaseDate": "2017-07-28",
+        "runtime": 132,
+        "voteAverage": 8.101,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/mZ4gBdfkhP9tvLH1DO4m4HYtiyi.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/zvOJawrnmgK0sL293mOXOdLvTXQ.jpg",
+        "director": "Luca Guadagnino",
         "cast": [
-            "Julianne Moore",
-            "Dennis Quaid",
-            "Dennis Haysbert",
-            "Patricia Clarkson",
-            "Viola Davis"
+            "Armie Hammer",
+            "Timoth\u00e9e Chalamet",
+            "Michael Stuhlbarg",
+            "Amira Casar",
+            "Esther Garrel"
         ],
         "genres": [
-            "Drama",
-            "Romance"
+            "Romance",
+            "Drama"
         ]
     }
 }
