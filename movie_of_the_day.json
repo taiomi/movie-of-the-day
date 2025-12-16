@@ -1,27 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-12-15",
+    "lastUpdated": "2025-12-16",
     "movie": {
-        "id": 398818,
-        "title": "Call Me by Your Name",
-        "tagline": "Is it better to speak or die?",
-        "overview": "In the summer of 1983, a 17-year-old Elio spends his days in his family's villa in Italy. One day Oliver, a graduate student, arrives to assist Elio's father, a professor of Greco-Roman culture. Soon, Elio and Oliver discover a summer that will alter their lives forever.",
-        "releaseDate": "2017-07-28",
-        "runtime": 132,
-        "voteAverage": 8.101,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/mZ4gBdfkhP9tvLH1DO4m4HYtiyi.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/zvOJawrnmgK0sL293mOXOdLvTXQ.jpg",
-        "director": "Luca Guadagnino",
+        "id": 56135,
+        "title": "The Razor's Edge",
+        "tagline": "Hunger no love... woman... or wealth could satisfy!",
+        "overview": "An adventurous young man goes off to find himself and loses his socialite fianc\u00e9e in the process. But when he returns 10 years later, she will stop at nothing to get him back, even though she is already married.",
+        "releaseDate": "1946-11-19",
+        "runtime": 145,
+        "voteAverage": 6.9,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/a6UTn8J0dftf4YBID6qAf1UeZEx.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/7P319Zq0RwYsAHmSjLndcOSW9kl.jpg",
+        "director": "Edmund Goulding",
         "cast": [
-            "Armie Hammer",
-            "Timoth\u00e9e Chalamet",
-            "Michael Stuhlbarg",
-            "Amira Casar",
-            "Esther Garrel"
+            "Tyrone Power",
+            "Gene Tierney",
+            "Herbert Marshall",
+            "Anne Baxter",
+            "Clifton Webb"
         ],
         "genres": [
-            "Romance",
-            "Drama"
+            "Drama",
+            "Romance"
         ]
     }
 }
