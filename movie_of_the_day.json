@@ -1,27 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-12-16",
+    "lastUpdated": "2025-12-17",
     "movie": {
-        "id": 56135,
-        "title": "The Razor's Edge",
-        "tagline": "Hunger no love... woman... or wealth could satisfy!",
-        "overview": "An adventurous young man goes off to find himself and loses his socialite fianc\u00e9e in the process. But when he returns 10 years later, she will stop at nothing to get him back, even though she is already married.",
-        "releaseDate": "1946-11-19",
-        "runtime": 145,
-        "voteAverage": 6.9,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/a6UTn8J0dftf4YBID6qAf1UeZEx.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/7P319Zq0RwYsAHmSjLndcOSW9kl.jpg",
-        "director": "Edmund Goulding",
+        "id": 490,
+        "title": "The Seventh Seal",
+        "tagline": "The story of a challenge to death.",
+        "overview": "When disillusioned Swedish knight Antonius Block returns home from the Crusades to find his country in the grips of the Black Death, he challenges Death to a chess match for his life. Tormented by the belief that God does not exist, Block sets off on a journey, meeting up with traveling players Jof and his wife, Mia, and becoming determined to evade Death long enough to commit one redemptive act while he still lives.",
+        "releaseDate": "1957-02-16",
+        "runtime": 96,
+        "voteAverage": 8.2,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/wcZ21zrOsy0b52AfAF50XpTiv75.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/6s2BqtDvp1BMiP70zCDU5OW6hMy.jpg",
+        "director": "Ingmar Bergman",
         "cast": [
-            "Tyrone Power",
-            "Gene Tierney",
-            "Herbert Marshall",
-            "Anne Baxter",
-            "Clifton Webb"
+            "Gunnar Bj\u00f6rnstrand",
+            "Bengt Ekerot",
+            "Nils Poppe",
+            "Max von Sydow",
+            "Bibi Andersson"
         ],
         "genres": [
-            "Drama",
-            "Romance"
+            "Fantasy",
+            "Drama"
         ]
     }
 }
