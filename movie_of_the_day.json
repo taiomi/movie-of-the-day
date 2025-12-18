@@ -1,26 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-12-17",
+    "lastUpdated": "2025-12-18",
     "movie": {
-        "id": 490,
-        "title": "The Seventh Seal",
-        "tagline": "The story of a challenge to death.",
-        "overview": "When disillusioned Swedish knight Antonius Block returns home from the Crusades to find his country in the grips of the Black Death, he challenges Death to a chess match for his life. Tormented by the belief that God does not exist, Block sets off on a journey, meeting up with traveling players Jof and his wife, Mia, and becoming determined to evade Death long enough to commit one redemptive act while he still lives.",
-        "releaseDate": "1957-02-16",
-        "runtime": 96,
-        "voteAverage": 8.2,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/wcZ21zrOsy0b52AfAF50XpTiv75.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/6s2BqtDvp1BMiP70zCDU5OW6hMy.jpg",
-        "director": "Ingmar Bergman",
+        "id": 624,
+        "title": "Easy Rider",
+        "tagline": "A man went looking for America and couldn\u2019t find it anywhere...",
+        "overview": "Wyatt and Billy, two Harley-riding hippies, complete a drug deal in Southern California and decide to travel cross-country in search of spiritual truth.",
+        "releaseDate": "1969-06-26",
+        "runtime": 95,
+        "voteAverage": 7.055,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/mmGEB6ly9OG8SYVfvAoa6QqHNvN.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/qvTmYyYsv71qTq5syAq24k1kGk.jpg",
+        "director": "Dennis Hopper",
         "cast": [
-            "Gunnar Bj\u00f6rnstrand",
-            "Bengt Ekerot",
-            "Nils Poppe",
-            "Max von Sydow",
-            "Bibi Andersson"
+            "Peter Fonda",
+            "Dennis Hopper",
+            "Jack Nicholson",
+            "Antonio Mendoza",
+            "Phil Spector"
         ],
         "genres": [
-            "Fantasy",
+            "Adventure",
             "Drama"
         ]
     }
