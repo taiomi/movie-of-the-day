@@ -1,26 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-12-18",
+    "lastUpdated": "2025-12-19",
     "movie": {
-        "id": 624,
-        "title": "Easy Rider",
-        "tagline": "A man went looking for America and couldn\u2019t find it anywhere...",
-        "overview": "Wyatt and Billy, two Harley-riding hippies, complete a drug deal in Southern California and decide to travel cross-country in search of spiritual truth.",
-        "releaseDate": "1969-06-26",
-        "runtime": 95,
-        "voteAverage": 7.055,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/mmGEB6ly9OG8SYVfvAoa6QqHNvN.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/qvTmYyYsv71qTq5syAq24k1kGk.jpg",
-        "director": "Dennis Hopper",
+        "id": 111,
+        "title": "Scarface",
+        "tagline": "He loved the American Dream. With a vengeance.",
+        "overview": "After getting a green card in exchange for assassinating a Cuban government official, Tony Montana stakes a claim on the drug trade in Miami. Viciously murdering anyone who stands in his way, Tony eventually becomes the biggest drug lord in the state, controlling nearly all the cocaine that comes through Miami. But increased pressure from the police, wars with Colombian drug cartels and his own drug-fueled paranoia serve to fuel the flames of his eventual downfall.",
+        "releaseDate": "1983-12-09",
+        "runtime": 170,
+        "voteAverage": 8.157,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/iQ5ztdjvteGeboxtmRdXEChJOHh.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/sctvs9cUwJD15qlTlrsh2BXsK75.jpg",
+        "director": "Brian De Palma",
         "cast": [
-            "Peter Fonda",
-            "Dennis Hopper",
-            "Jack Nicholson",
-            "Antonio Mendoza",
-            "Phil Spector"
+            "Al Pacino",
+            "Steven Bauer",
+            "Michelle Pfeiffer",
+            "Mary Elizabeth Mastrantonio",
+            "Robert Loggia"
         ],
         "genres": [
-            "Adventure",
+            "Action",
+            "Crime",
             "Drama"
         ]
     }
