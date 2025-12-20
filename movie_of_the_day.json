@@ -1,28 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-12-19",
+    "lastUpdated": "2025-12-20",
     "movie": {
-        "id": 111,
-        "title": "Scarface",
-        "tagline": "He loved the American Dream. With a vengeance.",
-        "overview": "After getting a green card in exchange for assassinating a Cuban government official, Tony Montana stakes a claim on the drug trade in Miami. Viciously murdering anyone who stands in his way, Tony eventually becomes the biggest drug lord in the state, controlling nearly all the cocaine that comes through Miami. But increased pressure from the police, wars with Colombian drug cartels and his own drug-fueled paranoia serve to fuel the flames of his eventual downfall.",
-        "releaseDate": "1983-12-09",
-        "runtime": 170,
-        "voteAverage": 8.157,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/iQ5ztdjvteGeboxtmRdXEChJOHh.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/sctvs9cUwJD15qlTlrsh2BXsK75.jpg",
-        "director": "Brian De Palma",
+        "id": 11906,
+        "title": "Suspiria",
+        "tagline": "Do You Know Anything About Witches?",
+        "overview": "An American newcomer to a prestigious German ballet academy comes to realize that the school is a front for something sinister amid a series of grisly murders.",
+        "releaseDate": "1977-02-01",
+        "runtime": 99,
+        "voteAverage": 7.482,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/sEcvc9h1X3hYZdFgtiiKMm6RB3f.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/xnHeCBiARZAW62Fs7wqFWRcSjjv.jpg",
+        "director": "Dario Argento",
         "cast": [
-            "Al Pacino",
-            "Steven Bauer",
-            "Michelle Pfeiffer",
-            "Mary Elizabeth Mastrantonio",
-            "Robert Loggia"
+            "Jessica Harper",
+            "Stefania Casini",
+            "Flavio Bucci",
+            "Miguel Bos\u00e9",
+            "Barbara Magnolfi"
         ],
         "genres": [
-            "Action",
-            "Crime",
-            "Drama"
+            "Horror"
         ]
     }
 }
