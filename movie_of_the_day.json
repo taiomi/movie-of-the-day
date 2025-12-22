@@ -1,26 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-12-21",
+    "lastUpdated": "2025-12-22",
     "movie": {
-        "id": 26638,
-        "title": "Red Desert",
-        "tagline": "This is the story of a woman\u2026 Her hidden thirsts and hungers\u2026",
-        "overview": "In an industrializing Italian town, a married woman, rendered mentally unstable after a traffic accident, drifts into an affair with a friend of her husband.",
-        "releaseDate": "1964-09-04",
-        "runtime": 117,
-        "voteAverage": 7.3,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/rGcTVdyhaGzMxPPRVApXre6F7SD.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/xe43LKesFXjQgP4W1s2juf7Tb4t.jpg",
-        "director": "Michelangelo Antonioni",
+        "id": 680813,
+        "title": "Flee",
+        "tagline": "Sometimes it takes years to start living your life",
+        "overview": "Recounted mostly through animation to protect his identity, Amin looks back over his past as a child refugee from Afghanistan as he grapples with a secret he\u2019s kept hidden for 20 years.",
+        "releaseDate": "2021-06-17",
+        "runtime": 89,
+        "voteAverage": 7.743,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/vlMIbqOpYG553J1kOJXA7mwQvE6.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/CKGSEnFTpcxPJM5TzTFUJz53s.jpg",
+        "director": "Jonas Poher Rasmussen",
         "cast": [
-            "Monica Vitti",
-            "Richard Harris",
-            "Carlo Chionetti",
-            "Xenia Valderi",
-            "Rita Renoir"
+            "Amin Nawabi",
+            "Daniel Karimyar",
+            "Fardin Mijdzadeh",
+            "Milad Eskandari",
+            "Belal Faiz"
         ],
         "genres": [
-            "Drama"
+            "Documentary",
+            "Animation"
         ]
     }
 }
