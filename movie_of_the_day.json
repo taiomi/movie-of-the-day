@@ -1,27 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-12-22",
+    "lastUpdated": "2025-12-23",
     "movie": {
-        "id": 680813,
-        "title": "Flee",
-        "tagline": "Sometimes it takes years to start living your life",
-        "overview": "Recounted mostly through animation to protect his identity, Amin looks back over his past as a child refugee from Afghanistan as he grapples with a secret he\u2019s kept hidden for 20 years.",
-        "releaseDate": "2021-06-17",
-        "runtime": 89,
-        "voteAverage": 7.743,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/vlMIbqOpYG553J1kOJXA7mwQvE6.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/CKGSEnFTpcxPJM5TzTFUJz53s.jpg",
-        "director": "Jonas Poher Rasmussen",
+        "id": 38953,
+        "title": "Ryan's Daughter",
+        "tagline": "A story of love...set against the violence of rebellion",
+        "overview": "In the wake of the 1916 Easter Rising, a married schoolteacher in a small Irish village has an affair with a troubled British officer.",
+        "releaseDate": "1970-03-19",
+        "runtime": 206,
+        "voteAverage": 7.1,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/g5NAbtEK5bEAkBdXq6YM7a7tkZO.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/3247bXj6vbjPpMCMleiNUgoG89q.jpg",
+        "director": "David Lean",
         "cast": [
-            "Amin Nawabi",
-            "Daniel Karimyar",
-            "Fardin Mijdzadeh",
-            "Milad Eskandari",
-            "Belal Faiz"
+            "Robert Mitchum",
+            "Trevor Howard",
+            "Christopher Jones",
+            "John Mills",
+            "Leo McKern"
         ],
         "genres": [
-            "Documentary",
-            "Animation"
+            "Romance",
+            "History",
+            "Drama"
         ]
     }
 }
