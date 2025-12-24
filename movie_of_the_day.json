@@ -1,27 +1,25 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-12-23",
+    "lastUpdated": "2025-12-24",
     "movie": {
-        "id": 38953,
-        "title": "Ryan's Daughter",
-        "tagline": "A story of love...set against the violence of rebellion",
-        "overview": "In the wake of the 1916 Easter Rising, a married schoolteacher in a small Irish village has an affair with a troubled British officer.",
-        "releaseDate": "1970-03-19",
-        "runtime": 206,
-        "voteAverage": 7.1,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/g5NAbtEK5bEAkBdXq6YM7a7tkZO.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/3247bXj6vbjPpMCMleiNUgoG89q.jpg",
-        "director": "David Lean",
+        "id": 42113,
+        "title": "The Ballad of Narayama",
+        "tagline": "Only Time Could Change the Cruelty of Tradition\u2026 Only Their Love Could Survive It\u2026",
+        "overview": "In a small village in a valley everyone who reaches the age of 70 must leave the village and go to a certain mountain top to die. If anyone should refuse they would disgrace their family. Old Orin is 69. This winter it is her turn to go to the mountain. But first she must make sure that her eldest son Tatsuhei finds a wife.",
+        "releaseDate": "1983-04-29",
+        "runtime": 130,
+        "voteAverage": 7.508,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/h3iNimtw6HsFTtAvEDF3XYZ4Y5T.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/76phbJ3Brq4VmpOomEOW9bNy8C5.jpg",
+        "director": "Sh\u014dhei Imamura",
         "cast": [
-            "Robert Mitchum",
-            "Trevor Howard",
-            "Christopher Jones",
-            "John Mills",
-            "Leo McKern"
+            "Ken Ogata",
+            "Sumiko Sakamoto",
+            "Tonpei Hidari",
+            "Aki Takejo",
+            "Shoichi Ozawa"
         ],
         "genres": [
-            "Romance",
-            "History",
             "Drama"
         ]
     }
