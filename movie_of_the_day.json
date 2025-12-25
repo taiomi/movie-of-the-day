@@ -1,26 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-12-24",
+    "lastUpdated": "2025-12-25",
     "movie": {
-        "id": 42113,
-        "title": "The Ballad of Narayama",
-        "tagline": "Only Time Could Change the Cruelty of Tradition\u2026 Only Their Love Could Survive It\u2026",
-        "overview": "In a small village in a valley everyone who reaches the age of 70 must leave the village and go to a certain mountain top to die. If anyone should refuse they would disgrace their family. Old Orin is 69. This winter it is her turn to go to the mountain. But first she must make sure that her eldest son Tatsuhei finds a wife.",
-        "releaseDate": "1983-04-29",
-        "runtime": 130,
-        "voteAverage": 7.508,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/h3iNimtw6HsFTtAvEDF3XYZ4Y5T.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/76phbJ3Brq4VmpOomEOW9bNy8C5.jpg",
-        "director": "Sh\u014dhei Imamura",
+        "id": 77987,
+        "title": "Only God Forgives",
+        "tagline": "Time to meet the Devil.",
+        "overview": "Julian, who runs a Thai boxing club as a front organization for his family's drug smuggling operation, is forced by his mother Crystal to find and kill the individual responsible for his brother's recent death.",
+        "releaseDate": "2013-05-30",
+        "runtime": 89,
+        "voteAverage": 5.83,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/kWjjFSng1JttmDRwDROoGcIArEh.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/pRrQMx00P8LaXGwJXYJ2tRGoVOs.jpg",
+        "director": "Nicolas Winding Refn",
         "cast": [
-            "Ken Ogata",
-            "Sumiko Sakamoto",
-            "Tonpei Hidari",
-            "Aki Takejo",
-            "Shoichi Ozawa"
+            "Ryan Gosling",
+            "Kristin Scott Thomas",
+            "Vithaya Pansringarm",
+            "Rhatha Phongam",
+            "Gordon Brown"
         ],
         "genres": [
-            "Drama"
+            "Drama",
+            "Thriller",
+            "Crime"
         ]
     }
 }
