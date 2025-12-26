@@ -1,28 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-12-25",
+    "lastUpdated": "2025-12-26",
     "movie": {
-        "id": 77987,
-        "title": "Only God Forgives",
-        "tagline": "Time to meet the Devil.",
-        "overview": "Julian, who runs a Thai boxing club as a front organization for his family's drug smuggling operation, is forced by his mother Crystal to find and kill the individual responsible for his brother's recent death.",
-        "releaseDate": "2013-05-30",
-        "runtime": 89,
-        "voteAverage": 5.83,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/kWjjFSng1JttmDRwDROoGcIArEh.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/pRrQMx00P8LaXGwJXYJ2tRGoVOs.jpg",
-        "director": "Nicolas Winding Refn",
+        "id": 10707,
+        "title": "The Squid and the Whale",
+        "tagline": "Joint custody blows.",
+        "overview": "Based on the true childhood experiences of Noah Baumbach and his brother, The Squid and the Whale tells the touching story of two young boys dealing with their parents' divorce in Brooklyn in the 1980s.",
+        "releaseDate": "2005-10-05",
+        "runtime": 81,
+        "voteAverage": 6.946,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/9NbXn1NMdfGM491V3EFjZADR9SX.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/3ZjxENlw4HXioGGwhqaJrvdEXKo.jpg",
+        "director": "Noah Baumbach",
         "cast": [
-            "Ryan Gosling",
-            "Kristin Scott Thomas",
-            "Vithaya Pansringarm",
-            "Rhatha Phongam",
-            "Gordon Brown"
+            "Jeff Daniels",
+            "Laura Linney",
+            "Jesse Eisenberg",
+            "Owen Kline",
+            "William Baldwin"
         ],
         "genres": [
-            "Drama",
-            "Thriller",
-            "Crime"
+            "Comedy",
+            "Drama"
         ]
     }
 }
