@@ -1,27 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-12-26",
+    "lastUpdated": "2025-12-27",
     "movie": {
-        "id": 10707,
-        "title": "The Squid and the Whale",
-        "tagline": "Joint custody blows.",
-        "overview": "Based on the true childhood experiences of Noah Baumbach and his brother, The Squid and the Whale tells the touching story of two young boys dealing with their parents' divorce in Brooklyn in the 1980s.",
-        "releaseDate": "2005-10-05",
-        "runtime": 81,
-        "voteAverage": 6.946,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/9NbXn1NMdfGM491V3EFjZADR9SX.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/3ZjxENlw4HXioGGwhqaJrvdEXKo.jpg",
-        "director": "Noah Baumbach",
+        "id": 10436,
+        "title": "The Age of Innocence",
+        "tagline": "In a world of tradition. In an age of innocence. They dared to break the rules.",
+        "overview": "In 19th century New York high society, a young lawyer falls in love with a woman separated from her husband, while he is engaged to the woman's cousin.",
+        "releaseDate": "1993-09-10",
+        "runtime": 139,
+        "voteAverage": 7,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/5Tuyt26v7qNR8Cl3m7ZRx36rduf.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/jha4hsGYlxPSsZC2AL35PJNW3o5.jpg",
+        "director": "Martin Scorsese",
         "cast": [
-            "Jeff Daniels",
-            "Laura Linney",
-            "Jesse Eisenberg",
-            "Owen Kline",
-            "William Baldwin"
+            "Daniel Day-Lewis",
+            "Michelle Pfeiffer",
+            "Winona Ryder",
+            "Alexis Smith",
+            "Geraldine Chaplin"
         ],
         "genres": [
-            "Comedy",
-            "Drama"
+            "Drama",
+            "Romance"
         ]
     }
 }
