@@ -1,28 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-12-28",
+    "lastUpdated": "2025-12-29",
     "movie": {
-        "id": 22638,
-        "title": "Henry V",
+        "id": 26614,
+        "title": "La Chienne",
         "tagline": "",
-        "overview": "In 1415, in the midst of the Hundred Years' War, the young King Henry V of England embarks on the conquest of France.",
-        "releaseDate": "1944-11-24",
-        "runtime": 137,
-        "voteAverage": 6.6,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/eAisr20DvaKJeHvjDN0oHSx0l7u.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/zNca9BKPRMC1WtQYVJ619bqdaOZ.jpg",
-        "director": "Laurence Olivier",
+        "overview": "Cashier Maurice Legrand is married to Adele, a terror. By chance, he meets Lucienne, \"Lulu\", and make her his mistress. He thinks he finally met love, but Lulu is nothing but a streetwalker, in love with Dede, her pimp. She only accepts Legrand to satisfy Dede's needs of money.",
+        "releaseDate": "1931-11-01",
+        "runtime": 96,
+        "voteAverage": 7.267,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/h3b8k9sY4z8mIy0J6zu9O3ZIcLr.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/hiaZPun8bezhRcY8rFJEtRE8PG.jpg",
+        "director": "Jean Renoir",
         "cast": [
-            "Laurence Olivier",
-            "Ren\u00e9e Asherson",
-            "Ralph Truman",
-            "Ernest Thesiger",
-            "Frederick Cooper"
+            "Michel Simon",
+            "Janie Mar\u00e8se",
+            "Georges Flamant",
+            "Magdeleine B\u00e9rubet",
+            "Roger Gaillard"
         ],
         "genres": [
-            "History",
             "Drama",
-            "War"
+            "Crime"
         ]
     }
 }
