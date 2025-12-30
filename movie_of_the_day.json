@@ -1,27 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-12-29",
+    "lastUpdated": "2025-12-30",
     "movie": {
-        "id": 26614,
-        "title": "La Chienne",
-        "tagline": "",
-        "overview": "Cashier Maurice Legrand is married to Adele, a terror. By chance, he meets Lucienne, \"Lulu\", and make her his mistress. He thinks he finally met love, but Lulu is nothing but a streetwalker, in love with Dede, her pimp. She only accepts Legrand to satisfy Dede's needs of money.",
-        "releaseDate": "1931-11-01",
-        "runtime": 96,
-        "voteAverage": 7.267,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/h3b8k9sY4z8mIy0J6zu9O3ZIcLr.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/hiaZPun8bezhRcY8rFJEtRE8PG.jpg",
-        "director": "Jean Renoir",
+        "id": 982,
+        "title": "The Manchurian Candidate",
+        "tagline": "When you've seen it all, you'll swear there's never been anything like it!",
+        "overview": "Near the end of the Korean War, a platoon of U.S. soldiers is captured by communists and brainwashed. Following the war, the platoon is returned home, and Sergeant Raymond Shaw is lauded as a hero by the rest of his platoon. However, the platoon commander, Captain Bennett Marco, finds himself plagued by strange nightmares and soon races to uncover a terrible plot.",
+        "releaseDate": "1962-10-24",
+        "runtime": 126,
+        "voteAverage": 7.523,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/2xQ856kd9hw6bB3OnusGyTvvkwB.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/bbec0wDUaV8nQnQHC6Fb0fSYwNM.jpg",
+        "director": "John Frankenheimer",
         "cast": [
-            "Michel Simon",
-            "Janie Mar\u00e8se",
-            "Georges Flamant",
-            "Magdeleine B\u00e9rubet",
-            "Roger Gaillard"
+            "Frank Sinatra",
+            "Laurence Harvey",
+            "Angela Lansbury",
+            "Janet Leigh",
+            "James Gregory"
         ],
         "genres": [
-            "Drama",
-            "Crime"
+            "Thriller",
+            "Drama"
         ]
     }
 }
