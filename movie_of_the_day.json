@@ -1,27 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2025-12-31",
+    "lastUpdated": "2026-01-01",
     "movie": {
-        "id": 12143,
-        "title": "Bad Lieutenant",
-        "tagline": "Gambler. Thief. Junkie. Killer. Cop.",
-        "overview": "While investigating a young nun's rape, a corrupt New York City police detective, with a serious drug and gambling addiction, tries to change his ways and find forgiveness.",
-        "releaseDate": "1992-11-20",
-        "runtime": 96,
-        "voteAverage": 7,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/mVJ2mXykqq3t2v1nuouf1P10g0d.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/9oE1dqocQou2tdmt0Rne7uv4jSi.jpg",
-        "director": "Abel Ferrara",
+        "id": 600,
+        "title": "Full Metal Jacket",
+        "tagline": "In Vietnam, the wind doesn't blow. It sucks.",
+        "overview": "A pragmatic U.S. Marine observes the dehumanizing effects the U.S.-Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.",
+        "releaseDate": "1987-06-26",
+        "runtime": 117,
+        "voteAverage": 8.123,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/yYderAvjtKnYLBxKujVpmKTVlOM.jpg",
+        "director": "Stanley Kubrick",
         "cast": [
-            "Harvey Keitel",
-            "Brian McElroy",
-            "Frankie Acciarito",
-            "Peggy Gormley",
-            "Stella Keitel"
+            "Matthew Modine",
+            "Adam Baldwin",
+            "Vincent D'Onofrio",
+            "R. Lee Ermey",
+            "Dorian Harewood"
         ],
         "genres": [
-            "Crime",
-            "Drama"
+            "Drama",
+            "War"
         ]
     }
 }
