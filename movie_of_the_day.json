@@ -1,27 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-01-01",
+    "lastUpdated": "2026-01-02",
     "movie": {
-        "id": 600,
-        "title": "Full Metal Jacket",
-        "tagline": "In Vietnam, the wind doesn't blow. It sucks.",
-        "overview": "A pragmatic U.S. Marine observes the dehumanizing effects the U.S.-Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.",
-        "releaseDate": "1987-06-26",
-        "runtime": 117,
-        "voteAverage": 8.123,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/yYderAvjtKnYLBxKujVpmKTVlOM.jpg",
-        "director": "Stanley Kubrick",
+        "id": 12573,
+        "title": "A Serious Man",
+        "tagline": "Accept mystery.",
+        "overview": "It is 1967, and Larry Gopnik, a physics professor at a quiet Midwestern university, has just been informed by his wife Judith that she is leaving him. She has fallen in love with one of his more pompous acquaintances Sy Ableman.",
+        "releaseDate": "2009-10-02",
+        "runtime": 106,
+        "voteAverage": 6.715,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/5gGxDS8WmrebPlMHexVS8EVehiP.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/6j3YrwkG4TZo8oNR4U4SDpql4pP.jpg",
+        "director": "Ethan Coen",
         "cast": [
-            "Matthew Modine",
-            "Adam Baldwin",
-            "Vincent D'Onofrio",
-            "R. Lee Ermey",
-            "Dorian Harewood"
+            "Michael Stuhlbarg",
+            "Richard Kind",
+            "Fred Melamed",
+            "Sari Lennick",
+            "Aaron Wolff"
         ],
         "genres": [
-            "Drama",
-            "War"
+            "Comedy",
+            "Drama"
         ]
     }
 }
