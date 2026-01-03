@@ -1,27 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-01-02",
+    "lastUpdated": "2026-01-03",
     "movie": {
-        "id": 12573,
-        "title": "A Serious Man",
-        "tagline": "Accept mystery.",
-        "overview": "It is 1967, and Larry Gopnik, a physics professor at a quiet Midwestern university, has just been informed by his wife Judith that she is leaving him. She has fallen in love with one of his more pompous acquaintances Sy Ableman.",
-        "releaseDate": "2009-10-02",
-        "runtime": 106,
-        "voteAverage": 6.715,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/5gGxDS8WmrebPlMHexVS8EVehiP.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/6j3YrwkG4TZo8oNR4U4SDpql4pP.jpg",
+        "id": 86829,
+        "title": "Inside Llewyn Davis",
+        "tagline": "",
+        "overview": "In Greenwich Village in the early 1960s, gifted but volatile folk musician Llewyn Davis struggles with money, relationships, and his uncertain future.",
+        "releaseDate": "2013-10-18",
+        "runtime": 105,
+        "voteAverage": 7.189,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/nNxK3pC3DMpPpWKMvo2p3liREVT.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/kdkCTC6Cl20TJSf4B1eIJXAFeXl.jpg",
         "director": "Ethan Coen",
         "cast": [
-            "Michael Stuhlbarg",
-            "Richard Kind",
-            "Fred Melamed",
-            "Sari Lennick",
-            "Aaron Wolff"
+            "Oscar Isaac",
+            "Carey Mulligan",
+            "Justin Timberlake",
+            "Ethan Phillips",
+            "Robin Bartlett"
         ],
         "genres": [
-            "Comedy",
-            "Drama"
+            "Drama",
+            "Music"
         ]
     }
 }
