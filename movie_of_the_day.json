@@ -1,27 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-01-03",
+    "lastUpdated": "2026-01-04",
     "movie": {
-        "id": 86829,
-        "title": "Inside Llewyn Davis",
+        "id": 29415,
+        "title": "La B\u00eate Humaine",
         "tagline": "",
-        "overview": "In Greenwich Village in the early 1960s, gifted but volatile folk musician Llewyn Davis struggles with money, relationships, and his uncertain future.",
-        "releaseDate": "2013-10-18",
-        "runtime": 105,
-        "voteAverage": 7.189,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/nNxK3pC3DMpPpWKMvo2p3liREVT.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/kdkCTC6Cl20TJSf4B1eIJXAFeXl.jpg",
-        "director": "Ethan Coen",
+        "overview": "Returning by train to the French port of Le Havre, Jacques Lantier, a tormented railwayman, meets by chance the impulsive stationmaster Roubard and S\u00e9verine, his wife.",
+        "releaseDate": "1938-12-23",
+        "runtime": 98,
+        "voteAverage": 7.08,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/yB8UpOKAz4yorzBqLWXtc6hO3O4.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/jS9W4jk2vPtq8PIZppYwYAPZpUP.jpg",
+        "director": "Jean Renoir",
         "cast": [
-            "Oscar Isaac",
-            "Carey Mulligan",
-            "Justin Timberlake",
-            "Ethan Phillips",
-            "Robin Bartlett"
+            "Jean Gabin",
+            "Simone Simon",
+            "Fernand Ledoux",
+            "Julien Carette",
+            "Blanchette Brunoy"
         ],
         "genres": [
             "Drama",
-            "Music"
+            "Romance",
+            "Thriller"
         ]
     }
 }
