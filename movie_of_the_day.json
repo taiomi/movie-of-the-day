@@ -1,28 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-01-04",
+    "lastUpdated": "2026-01-05",
     "movie": {
-        "id": 29415,
-        "title": "La B\u00eate Humaine",
-        "tagline": "",
-        "overview": "Returning by train to the French port of Le Havre, Jacques Lantier, a tormented railwayman, meets by chance the impulsive stationmaster Roubard and S\u00e9verine, his wife.",
-        "releaseDate": "1938-12-23",
-        "runtime": 98,
-        "voteAverage": 7.08,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/yB8UpOKAz4yorzBqLWXtc6hO3O4.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/jS9W4jk2vPtq8PIZppYwYAPZpUP.jpg",
-        "director": "Jean Renoir",
+        "id": 758866,
+        "title": "Drive My Car",
+        "tagline": "Go on living.",
+        "overview": "Yusuke Kafuku, a stage actor and director, still unable, after two years, to cope with the loss of his beloved wife, accepts to direct Uncle Vanya at a theater festival in Hiroshima. There he meets Misaki, an introverted young woman, appointed to drive his car. In between rides, secrets from the past and heartfelt confessions will be unveiled.",
+        "releaseDate": "2021-08-18",
+        "runtime": 179,
+        "voteAverage": 7.438,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/3cOsf5HBjPK2QCz9ebQlGHNnE7y.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/r6aqhlmJmu8Dv5E7QYEruaEXKYm.jpg",
+        "director": "Ry\u016bsuke Hamaguchi",
         "cast": [
-            "Jean Gabin",
-            "Simone Simon",
-            "Fernand Ledoux",
-            "Julien Carette",
-            "Blanchette Brunoy"
+            "Hidetoshi Nishijima",
+            "Toko Miura",
+            "Masaki Okada",
+            "Reika Kirishima",
+            "Park Yu-rim"
         ],
         "genres": [
-            "Drama",
-            "Romance",
-            "Thriller"
+            "Drama"
         ]
     }
 }
