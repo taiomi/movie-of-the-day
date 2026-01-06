@@ -1,26 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-01-05",
+    "lastUpdated": "2026-01-06",
     "movie": {
-        "id": 758866,
-        "title": "Drive My Car",
-        "tagline": "Go on living.",
-        "overview": "Yusuke Kafuku, a stage actor and director, still unable, after two years, to cope with the loss of his beloved wife, accepts to direct Uncle Vanya at a theater festival in Hiroshima. There he meets Misaki, an introverted young woman, appointed to drive his car. In between rides, secrets from the past and heartfelt confessions will be unveiled.",
-        "releaseDate": "2021-08-18",
-        "runtime": 179,
-        "voteAverage": 7.438,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/3cOsf5HBjPK2QCz9ebQlGHNnE7y.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/r6aqhlmJmu8Dv5E7QYEruaEXKYm.jpg",
-        "director": "Ry\u016bsuke Hamaguchi",
+        "id": 25508,
+        "title": "Cat People",
+        "tagline": "She knew strange, fierce pleasures that no other woman could ever feel!",
+        "overview": "A Serbian \u00e9migr\u00e9 in Manhattan believes that, because of an ancient curse, any physical intimacy with the man she loves will turn her into a feline predator.",
+        "releaseDate": "1942-12-05",
+        "runtime": 73,
+        "voteAverage": 6.9,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/zSNTDd5Q6No5BmY39Zp5BVgl8XE.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/dAE4x4BgauvsRkErmLg1L05LNAV.jpg",
+        "director": "Jacques Tourneur",
         "cast": [
-            "Hidetoshi Nishijima",
-            "Toko Miura",
-            "Masaki Okada",
-            "Reika Kirishima",
-            "Park Yu-rim"
+            "Simone Simon",
+            "Kent Smith",
+            "Tom Conway",
+            "Jane Randolph",
+            "Jack Holt"
         ],
         "genres": [
-            "Drama"
+            "Mystery",
+            "Horror",
+            "Romance"
         ]
     }
 }
