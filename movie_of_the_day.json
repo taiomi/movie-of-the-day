@@ -1,27 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-01-07",
+    "lastUpdated": "2026-01-08",
     "movie": {
-        "id": 31507,
-        "title": "Dodsworth",
-        "tagline": "Here is a picture that was marked for greatness before it was ever screened!",
-        "overview": "A retired auto manufacturer and his wife take a long-planned European vacation only to find that they want very different things from life.",
-        "releaseDate": "1936-09-23",
-        "runtime": 101,
-        "voteAverage": 7.093,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/qpd9P54mLYvzdC6rBz56is8aeDB.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/aE9zfMnG4kGBf4SEyUZ5ehPsb6K.jpg",
-        "director": "William Wyler",
+        "id": 777,
+        "title": "Grand Illusion",
+        "tagline": "A Great Drama of Human Emotions",
+        "overview": "A group of French soldiers, including the patrician Captain de Boeldieu and the working-class Lieutenant Mar\u00e9chal, grapple with their own class differences after being captured and held in a World War I German prison camp. When the men are transferred to a high-security fortress, they must concoct a plan to escape beneath the watchful eye of aristocratic German officer von Rauffenstein, who has formed an unexpected bond with de Boeldieu.",
+        "releaseDate": "1937-06-04",
+        "runtime": 114,
+        "voteAverage": 7.9,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/lWg41zE0FVixkNsFgxnlRyvDYv9.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/9eHg5qX7LkjW2Zrejvap2RmFGlD.jpg",
+        "director": "Jean Renoir",
         "cast": [
-            "Walter Huston",
-            "Ruth Chatterton",
-            "Paul Lukas",
-            "Mary Astor",
-            "David Niven"
+            "Jean Gabin",
+            "Pierre Fresnay",
+            "Erich von Stroheim",
+            "Marcel Dalio",
+            "Dita Parlo"
         ],
         "genres": [
             "Drama",
-            "Romance"
+            "History",
+            "War"
         ]
     }
 }
