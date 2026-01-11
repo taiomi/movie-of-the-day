@@ -1,27 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-01-10",
+    "lastUpdated": "2026-01-11",
     "movie": {
-        "id": 34070,
-        "title": "Songs from the Second Floor",
-        "tagline": "",
-        "overview": "A monumental traffic jam serves as the backdrop for the lives of the inhabitants of a Swedish city.",
-        "releaseDate": "2000-10-06",
-        "runtime": 99,
-        "voteAverage": 7.1,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/xMZieoxiQ1hb5zraZlhzcvU7MGN.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/tEwzaE6wMbsoTYKbA2CRjFY1HK6.jpg",
-        "director": "Roy Andersson",
+        "id": 6075,
+        "title": "Carlito's Way",
+        "tagline": "He's got a good future if he can live past next week.",
+        "overview": "Free after years in prison, Carlito Brigante intends to give up his criminal ways, but it's not long before the ex-con is sucked back into the New York City underworld. Reconnecting with his dancer girlfriend, Carlito gets entangled in the shady dealings of his friend Dave Kleinfeld, who also serves as his lawyer. An encounter with shifty gangster Benny Blanco sets the duo on a dangerous path.",
+        "releaseDate": "1993-11-10",
+        "runtime": 144,
+        "voteAverage": 7.826,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/g6D7mjQtndu768cusGmoEQY9fTB.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/tqlCsB6AFjQ9dpAOHkd3sEdFS13.jpg",
+        "director": "Brian De Palma",
         "cast": [
-            "Lars Nordh",
-            "Stefan Larsson",
-            "Bengt C.W. Carlsson",
-            "Torbj\u00f6rn Fahlstr\u00f6m",
-            "Sten Andersson"
+            "Al Pacino",
+            "Sean Penn",
+            "Penelope Ann Miller",
+            "John Leguizamo",
+            "Ingrid Rogers"
         ],
         "genres": [
+            "Crime",
             "Drama",
-            "Comedy"
+            "Thriller"
         ]
     }
 }

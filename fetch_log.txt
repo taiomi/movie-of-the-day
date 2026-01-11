@@ -1222,3 +1222,7 @@
 [2026-01-10 03:25:43] Selected movie: Songs from the Second Floor (ID: 34070) for day 299 since start
 [2026-01-10 03:25:43] Successfully saved movie data for: Songs from the Second Floor
 [2026-01-10 03:25:43] Movie fetch process completed
+[2026-01-11 03:51:18] Starting movie fetch process
+[2026-01-11 03:51:18] Selected movie: Carlito’s Way De (ID: 6075) for day 300 since start
+[2026-01-11 03:51:19] Successfully saved movie data for: Carlito's Way
+[2026-01-11 03:51:19] Movie fetch process completed
