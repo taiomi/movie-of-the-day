@@ -1226,3 +1226,7 @@
 [2026-01-11 03:51:18] Selected movie: Carlito’s Way De (ID: 6075) for day 300 since start
 [2026-01-11 03:51:19] Successfully saved movie data for: Carlito's Way
 [2026-01-11 03:51:19] Movie fetch process completed
+[2026-01-12 03:50:51] Starting movie fetch process
+[2026-01-12 03:50:51] Selected movie: The Circus (ID: 28978) for day 301 since start
+[2026-01-12 03:50:51] Successfully saved movie data for: The Circus
+[2026-01-12 03:50:51] Movie fetch process completed
