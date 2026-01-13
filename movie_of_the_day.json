@@ -1,28 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-01-12",
+    "lastUpdated": "2026-01-13",
     "movie": {
-        "id": 28978,
-        "title": "The Circus",
-        "tagline": "The Circus is Here!",
-        "overview": "Charlie, a wandering tramp, becomes a circus handyman - soon the star of the show - and falls in love with the circus owner's stepdaughter.",
-        "releaseDate": "1928-01-06",
-        "runtime": 72,
-        "voteAverage": 7.934,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/hWw9HfQmd4Rn1Et4vgZQsEf5tEZ.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/Alhc9UUvZxOlYtcoNawT1u4oDVD.jpg",
-        "director": "Charlie Chaplin",
+        "id": 34148,
+        "title": "Imitation of Life",
+        "tagline": "Fannie Hurst's best selling novel of today's tormented generation!",
+        "overview": "In 1940s New York, a white widow who dreams of being on Broadway has a chance encounter with a black single mother, who becomes her maid.",
+        "releaseDate": "1959-04-09",
+        "runtime": 125,
+        "voteAverage": 7.5,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/xt3cUn7lsjpaGuB279A4v8zAYRn.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/v6saYVrDHHs5ansCFz5lIyFUV5X.jpg",
+        "director": "Douglas Sirk",
         "cast": [
-            "Charlie Chaplin",
-            "Al Ernest Garcia",
-            "Merna Kennedy",
-            "Harry Crocker",
-            "George Davis"
+            "Lana Turner",
+            "John Gavin",
+            "Juanita Moore",
+            "Sandra Dee",
+            "Susan Kohner"
         ],
         "genres": [
-            "Comedy",
-            "Romance",
-            "Drama"
+            "Drama",
+            "Romance"
         ]
     }
 }
