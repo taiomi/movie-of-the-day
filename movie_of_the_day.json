@@ -1,27 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-01-13",
+    "lastUpdated": "2026-01-14",
     "movie": {
-        "id": 34148,
-        "title": "Imitation of Life",
-        "tagline": "Fannie Hurst's best selling novel of today's tormented generation!",
-        "overview": "In 1940s New York, a white widow who dreams of being on Broadway has a chance encounter with a black single mother, who becomes her maid.",
-        "releaseDate": "1959-04-09",
-        "runtime": 125,
-        "voteAverage": 7.5,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/xt3cUn7lsjpaGuB279A4v8zAYRn.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/v6saYVrDHHs5ansCFz5lIyFUV5X.jpg",
-        "director": "Douglas Sirk",
+        "id": 37903,
+        "title": "The White Ribbon",
+        "tagline": "",
+        "overview": "An aged tailor recalls his life as the schoolteacher of a small village in Northern Germany that was struck by a series of strange events in the year leading up to WWI.",
+        "releaseDate": "2009-09-24",
+        "runtime": 144,
+        "voteAverage": 7.479,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/54dlnGDexrwAFlDb8HWKfmmX4LB.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/n4S9IhJI3UTq5GQMFg7qwC3kcI3.jpg",
+        "director": "Michael Haneke",
         "cast": [
-            "Lana Turner",
-            "John Gavin",
-            "Juanita Moore",
-            "Sandra Dee",
-            "Susan Kohner"
+            "Christian Friedel",
+            "Ernst Jacobi",
+            "Leonie Benesch",
+            "Ulrich Tukur",
+            "Fion Mutert"
         ],
         "genres": [
             "Drama",
-            "Romance"
+            "Mystery"
         ]
     }
 }
