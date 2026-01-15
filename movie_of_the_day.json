@@ -1,27 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-01-14",
+    "lastUpdated": "2026-01-15",
     "movie": {
-        "id": 37903,
-        "title": "The White Ribbon",
-        "tagline": "",
-        "overview": "An aged tailor recalls his life as the schoolteacher of a small village in Northern Germany that was struck by a series of strange events in the year leading up to WWI.",
-        "releaseDate": "2009-09-24",
-        "runtime": 144,
-        "voteAverage": 7.479,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/54dlnGDexrwAFlDb8HWKfmmX4LB.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/n4S9IhJI3UTq5GQMFg7qwC3kcI3.jpg",
-        "director": "Michael Haneke",
+        "id": 2000,
+        "title": "Aguirre, the Wrath of God",
+        "tagline": "A breathtaking journey into the heart of darkness.",
+        "overview": "A few decades after the destruction of the Inca Empire, a Spanish expedition led by the infamous Aguirre leaves the mountains of Peru and goes down the Amazon River in search of the lost city of El Dorado. When great difficulties arise, Aguirre\u2019s men start to wonder whether their quest will lead them to prosperity or certain death.",
+        "releaseDate": "1972-12-29",
+        "runtime": 95,
+        "voteAverage": 7.455,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/qMk93yMo82svW27FEjudgueBMUL.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/kfSZaOr9ApNR52gWKlpXHD0id0W.jpg",
+        "director": "Werner Herzog",
         "cast": [
-            "Christian Friedel",
-            "Ernst Jacobi",
-            "Leonie Benesch",
-            "Ulrich Tukur",
-            "Fion Mutert"
+            "Klaus Kinski",
+            "Helena Rojo",
+            "Del Negro",
+            "Ruy Guerra",
+            "Peter Berling"
         ],
         "genres": [
-            "Drama",
-            "Mystery"
+            "History",
+            "Adventure",
+            "Drama"
         ]
     }
 }
