@@ -1242,3 +1242,7 @@
 [2026-01-15 03:42:35] Selected movie: Aguirre, the Wrath of God (ID: 2000) for day 304 since start
 [2026-01-15 03:42:35] Successfully saved movie data for: Aguirre, the Wrath of God
 [2026-01-15 03:42:35] Movie fetch process completed
+[2026-01-16 03:41:07] Starting movie fetch process
+[2026-01-16 03:41:07] Selected movie: Minari (ID: 615643) for day 305 since start
+[2026-01-16 03:41:08] Successfully saved movie data for: Minari
+[2026-01-16 03:41:08] Movie fetch process completed

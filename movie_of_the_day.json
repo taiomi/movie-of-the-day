@@ -1,27 +1,25 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-01-15",
+    "lastUpdated": "2026-01-16",
     "movie": {
-        "id": 2000,
-        "title": "Aguirre, the Wrath of God",
-        "tagline": "A breathtaking journey into the heart of darkness.",
-        "overview": "A few decades after the destruction of the Inca Empire, a Spanish expedition led by the infamous Aguirre leaves the mountains of Peru and goes down the Amazon River in search of the lost city of El Dorado. When great difficulties arise, Aguirre\u2019s men start to wonder whether their quest will lead them to prosperity or certain death.",
-        "releaseDate": "1972-12-29",
-        "runtime": 95,
-        "voteAverage": 7.455,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/qMk93yMo82svW27FEjudgueBMUL.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/kfSZaOr9ApNR52gWKlpXHD0id0W.jpg",
-        "director": "Werner Herzog",
+        "id": 615643,
+        "title": "Minari",
+        "tagline": "A timeless story of what roots us",
+        "overview": "A Korean American family moves to an Arkansas farm in search of its own American dream. Amidst the challenges of this new life in the strange and rugged Ozarks, they discover the undeniable resilience of family and what really makes a home.",
+        "releaseDate": "2021-02-12",
+        "runtime": 115,
+        "voteAverage": 7.335,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/6mPNdmjdbVKPITv3LLCmQoKs9Zw.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/bKCpRjjTKcr3KAITmwjVMobbBYg.jpg",
+        "director": "Lee Isaac Chung",
         "cast": [
-            "Klaus Kinski",
-            "Helena Rojo",
-            "Del Negro",
-            "Ruy Guerra",
-            "Peter Berling"
+            "Steven Yeun",
+            "Han Yeri",
+            "Youn Yuh-jung",
+            "Will Patton",
+            "Alan Kim"
         ],
         "genres": [
-            "History",
-            "Adventure",
             "Drama"
         ]
     }
