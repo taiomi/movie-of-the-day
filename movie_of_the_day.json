@@ -1,26 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-01-16",
+    "lastUpdated": "2026-01-17",
     "movie": {
-        "id": 615643,
-        "title": "Minari",
-        "tagline": "A timeless story of what roots us",
-        "overview": "A Korean American family moves to an Arkansas farm in search of its own American dream. Amidst the challenges of this new life in the strange and rugged Ozarks, they discover the undeniable resilience of family and what really makes a home.",
-        "releaseDate": "2021-02-12",
-        "runtime": 115,
-        "voteAverage": 7.335,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/6mPNdmjdbVKPITv3LLCmQoKs9Zw.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/bKCpRjjTKcr3KAITmwjVMobbBYg.jpg",
-        "director": "Lee Isaac Chung",
+        "id": 4512,
+        "title": "The Assassination of Jesse James by the Coward Robert Ford",
+        "tagline": "Beyond the myth lies America's greatest betrayal",
+        "overview": "Outlaw Jesse James is rumored to be the 'fastest gun in the West'. An eager recruit into James' notorious gang, Robert Ford eventually grows jealous of the famed outlaw and, when Robert and his brother sense an opportunity to kill James, their murderous action elevates their target to near mythical status.",
+        "releaseDate": "2007-09-20",
+        "runtime": 160,
+        "voteAverage": 7.053,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/xMKn6EQS7eR5ubhPJbw5pQSBZMw.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/5r2BZajlRZqnOc6s2BS0aiFDcne.jpg",
+        "director": "Andrew Dominik",
         "cast": [
-            "Steven Yeun",
-            "Han Yeri",
-            "Youn Yuh-jung",
-            "Will Patton",
-            "Alan Kim"
+            "Brad Pitt",
+            "Casey Affleck",
+            "Sam Rockwell",
+            "Paul Schneider",
+            "Jeremy Renner"
         ],
         "genres": [
-            "Drama"
+            "Drama",
+            "Western"
         ]
     }
 }
