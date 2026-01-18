@@ -1,27 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-01-17",
+    "lastUpdated": "2026-01-18",
     "movie": {
-        "id": 4512,
-        "title": "The Assassination of Jesse James by the Coward Robert Ford",
-        "tagline": "Beyond the myth lies America's greatest betrayal",
-        "overview": "Outlaw Jesse James is rumored to be the 'fastest gun in the West'. An eager recruit into James' notorious gang, Robert Ford eventually grows jealous of the famed outlaw and, when Robert and his brother sense an opportunity to kill James, their murderous action elevates their target to near mythical status.",
-        "releaseDate": "2007-09-20",
-        "runtime": 160,
-        "voteAverage": 7.053,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/xMKn6EQS7eR5ubhPJbw5pQSBZMw.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/5r2BZajlRZqnOc6s2BS0aiFDcne.jpg",
-        "director": "Andrew Dominik",
+        "id": 1020006,
+        "title": "Priscilla",
+        "tagline": "Wife to the king. Icon to the world. Destined for more.",
+        "overview": "When teenage Priscilla Beaulieu meets Elvis Presley at a party, the man who is already a meteoric rock-and-roll superstar becomes someone entirely unexpected in private moments: a thrilling crush, an ally in loneliness, a vulnerable best friend.",
+        "releaseDate": "2023-10-27",
+        "runtime": 113,
+        "voteAverage": 6.741,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/uDCeELWWpsNq7ErM61Yuq70WAE9.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/zz219ZRGo0vVIzvKttjx5nXOc2N.jpg",
+        "director": "Sofia Coppola",
         "cast": [
-            "Brad Pitt",
-            "Casey Affleck",
-            "Sam Rockwell",
-            "Paul Schneider",
-            "Jeremy Renner"
+            "Cailee Spaeny",
+            "Jacob Elordi",
+            "Ari Cohen",
+            "Dagmara Dominczyk",
+            "Tim Post"
         ],
         "genres": [
             "Drama",
-            "Western"
+            "Romance"
         ]
     }
 }

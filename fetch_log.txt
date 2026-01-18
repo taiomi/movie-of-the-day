@@ -1250,3 +1250,7 @@
 [2026-01-17 03:23:56] Selected movie: The Assassination of Jesse James by the Coward Robert Ford (ID: 4512) for day 306 since start
 [2026-01-17 03:23:56] Successfully saved movie data for: The Assassination of Jesse James by the Coward Robert Ford
 [2026-01-17 03:23:56] Movie fetch process completed
+[2026-01-18 03:46:53] Starting movie fetch process
+[2026-01-18 03:46:53] Selected movie: Priscilla (ID: 1020006) for day 307 since start
+[2026-01-18 03:46:53] Successfully saved movie data for: Priscilla
+[2026-01-18 03:46:53] Movie fetch process completed
