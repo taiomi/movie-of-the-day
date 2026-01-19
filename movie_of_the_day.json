@@ -1,27 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-01-18",
+    "lastUpdated": "2026-01-19",
     "movie": {
-        "id": 1020006,
-        "title": "Priscilla",
-        "tagline": "Wife to the king. Icon to the world. Destined for more.",
-        "overview": "When teenage Priscilla Beaulieu meets Elvis Presley at a party, the man who is already a meteoric rock-and-roll superstar becomes someone entirely unexpected in private moments: a thrilling crush, an ally in loneliness, a vulnerable best friend.",
-        "releaseDate": "2023-10-27",
-        "runtime": 113,
-        "voteAverage": 6.741,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/uDCeELWWpsNq7ErM61Yuq70WAE9.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/zz219ZRGo0vVIzvKttjx5nXOc2N.jpg",
-        "director": "Sofia Coppola",
+        "id": 800,
+        "title": "The Young and the Damned",
+        "tagline": "",
+        "overview": "A group of juvenile delinquents live a violent life in the infamous slums of Mexico City; among them Pedro, whose morality is gradually corrupted and destroyed by the others.",
+        "releaseDate": "1950-12-09",
+        "runtime": 82,
+        "voteAverage": 8,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/cDCvmYoyqFg4CuSMtGMvCpfOIEw.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/b4VAgPHGL33OA5QNZCYi0jU5Nma.jpg",
+        "director": "Luis Bu\u00f1uel",
         "cast": [
-            "Cailee Spaeny",
-            "Jacob Elordi",
-            "Ari Cohen",
-            "Dagmara Dominczyk",
-            "Tim Post"
+            "Estela Inda",
+            "Miguel Incl\u00e1n",
+            "Alfonso Mej\u00eda",
+            "Roberto Cobo",
+            "Alma Delia Fuentes"
         ],
         "genres": [
             "Drama",
-            "Romance"
+            "Crime"
         ]
     }
 }
