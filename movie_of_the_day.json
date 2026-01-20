@@ -1,27 +1,29 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-01-19",
+    "lastUpdated": "2026-01-20",
     "movie": {
-        "id": 800,
-        "title": "The Young and the Damned",
-        "tagline": "",
-        "overview": "A group of juvenile delinquents live a violent life in the infamous slums of Mexico City; among them Pedro, whose morality is gradually corrupted and destroyed by the others.",
-        "releaseDate": "1950-12-09",
-        "runtime": 82,
-        "voteAverage": 8,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/cDCvmYoyqFg4CuSMtGMvCpfOIEw.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/b4VAgPHGL33OA5QNZCYi0jU5Nma.jpg",
-        "director": "Luis Bu\u00f1uel",
+        "id": 19995,
+        "title": "Avatar",
+        "tagline": "Enter the world of Pandora.",
+        "overview": "In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.",
+        "releaseDate": "2009-12-16",
+        "runtime": 162,
+        "voteAverage": 7.6,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/vL5LR6WdxWPjLPFRLe133jXWsh5.jpg",
+        "director": "James Cameron",
         "cast": [
-            "Estela Inda",
-            "Miguel Incl\u00e1n",
-            "Alfonso Mej\u00eda",
-            "Roberto Cobo",
-            "Alma Delia Fuentes"
+            "Sam Worthington",
+            "Zoe Salda\u00f1a",
+            "Sigourney Weaver",
+            "Stephen Lang",
+            "Michelle Rodriguez"
         ],
         "genres": [
-            "Drama",
-            "Crime"
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Science Fiction"
         ]
     }
 }
