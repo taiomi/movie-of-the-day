@@ -1,29 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-01-20",
+    "lastUpdated": "2026-01-21",
     "movie": {
-        "id": 19995,
-        "title": "Avatar",
-        "tagline": "Enter the world of Pandora.",
-        "overview": "In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.",
-        "releaseDate": "2009-12-16",
-        "runtime": 162,
-        "voteAverage": 7.6,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/vL5LR6WdxWPjLPFRLe133jXWsh5.jpg",
-        "director": "James Cameron",
+        "id": 1949,
+        "title": "Zodiac",
+        "tagline": "There's more than one way to lose your life to a killer.",
+        "overview": "Over the course of a decade, editors of the San Francisco Chronicle entice themselves in the murders of the Zodiac Killer. However, as time runs its course, interest in the case dwindles in the eyes of the professionals. The Killer stops interacting with the public. However, believing he has the answers, an amateur cartoonist from the initial sightings races against time to prevent what he believes is another murder.",
+        "releaseDate": "2007-03-02",
+        "runtime": 157,
+        "voteAverage": 7.526,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/6YmeO4pB7XTh8P8F960O1uA14JO.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/3zCPI4JFc54xvLaJ71oI2KoP3az.jpg",
+        "director": "David Fincher",
         "cast": [
-            "Sam Worthington",
-            "Zoe Salda\u00f1a",
-            "Sigourney Weaver",
-            "Stephen Lang",
-            "Michelle Rodriguez"
+            "Jake Gyllenhaal",
+            "Mark Ruffalo",
+            "Anthony Edwards",
+            "Robert Downey Jr.",
+            "Chlo\u00eb Sevigny"
         ],
         "genres": [
-            "Action",
-            "Adventure",
-            "Fantasy",
-            "Science Fiction"
+            "Crime",
+            "Mystery",
+            "Thriller"
         ]
     }
 }
