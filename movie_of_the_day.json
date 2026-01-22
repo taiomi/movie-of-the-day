@@ -1,28 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-01-21",
+    "lastUpdated": "2026-01-22",
     "movie": {
-        "id": 1949,
-        "title": "Zodiac",
-        "tagline": "There's more than one way to lose your life to a killer.",
-        "overview": "Over the course of a decade, editors of the San Francisco Chronicle entice themselves in the murders of the Zodiac Killer. However, as time runs its course, interest in the case dwindles in the eyes of the professionals. The Killer stops interacting with the public. However, believing he has the answers, an amateur cartoonist from the initial sightings races against time to prevent what he believes is another murder.",
-        "releaseDate": "2007-03-02",
-        "runtime": 157,
-        "voteAverage": 7.526,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/6YmeO4pB7XTh8P8F960O1uA14JO.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/3zCPI4JFc54xvLaJ71oI2KoP3az.jpg",
-        "director": "David Fincher",
+        "id": 86666,
+        "title": "Gate of Flesh",
+        "tagline": "",
+        "overview": "In the shady black markets and bombed-out hovels of post\u2013World War II Tokyo, a tough band of prostitutes eke out a dog-eat-dog existence, maintaining tenuous friendships and a semblance of order in a world of chaos. But when a renegade ex-soldier stumbles into their midst, lusts and loyalties clash, with tragic results. With Gate of Flesh, visionary director Seijun Suzuki delivers a whirlwind of social critique and pulp drama, shot through with brilliant colors and raw emotions.",
+        "releaseDate": "1964-05-31",
+        "runtime": 90,
+        "voteAverage": 6.6,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/yRi34m5PlktF5NdgHEKOzyOkHGo.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/lpY4RTJpuKboamSwE1IYK36RB7A.jpg",
+        "director": "Seijun Suzuki",
         "cast": [
-            "Jake Gyllenhaal",
-            "Mark Ruffalo",
-            "Anthony Edwards",
-            "Robert Downey Jr.",
-            "Chlo\u00eb Sevigny"
+            "Joe Shishido",
+            "K\u014dji Wada",
+            "Yumiko Nogawa",
+            "Tomiko Ishii",
+            "Kayo Matsuo"
         ],
         "genres": [
-            "Crime",
-            "Mystery",
-            "Thriller"
+            "Drama",
+            "Crime"
         ]
     }
 }
