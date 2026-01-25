@@ -1,28 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-01-24",
+    "lastUpdated": "2026-01-25",
     "movie": {
-        "id": 466,
-        "title": "Klute",
-        "tagline": "You'd never take her for a call girl. You'd never take him for a cop.",
-        "overview": "A high-priced call girl is forced to depend on a reluctant private eye when she is stalked by a psychopath.",
-        "releaseDate": "1971-06-23",
-        "runtime": 114,
-        "voteAverage": 6.739,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/tVyINAsNGSgD1OIstqwCcs7wyGH.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/bxh7ybql4p24u9WsX1GI9v9PDLg.jpg",
-        "director": "Alan J. Pakula",
+        "id": 747188,
+        "title": "Asteroid City",
+        "tagline": "\"You can't wake up if you don't fall asleep\"",
+        "overview": "In an American desert town circa 1955, the itinerary of a Junior Stargazer\/Space Cadet convention is spectacularly disrupted by world-changing events.",
+        "releaseDate": "2023-06-08",
+        "runtime": 105,
+        "voteAverage": 6.45,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/rAkz95CREc3A1qTnwlSQ0jh8Zw8.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/iloUOSs3Rcq3aMr04CrGRWVVBkq.jpg",
+        "director": "Wes Anderson",
         "cast": [
-            "Jane Fonda",
-            "Donald Sutherland",
-            "Charles Cioffi",
-            "Roy Scheider",
-            "Dorothy Tristan"
+            "Jason Schwartzman",
+            "Scarlett Johansson",
+            "Tom Hanks",
+            "Jeffrey Wright",
+            "Tilda Swinton"
         ],
         "genres": [
-            "Thriller",
-            "Mystery",
-            "Crime"
+            "Comedy",
+            "Drama"
         ]
     }
 }

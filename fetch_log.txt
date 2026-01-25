@@ -1278,3 +1278,7 @@
 [2026-01-24 03:37:16] Selected movie: Klute (ID: 466) for day 313 since start
 [2026-01-24 03:37:17] Successfully saved movie data for: Klute
 [2026-01-24 03:37:17] Movie fetch process completed
+[2026-01-25 03:55:21] Starting movie fetch process
+[2026-01-25 03:55:21] Selected movie: Asteroid City (ID: 747188) for day 314 since start
+[2026-01-25 03:55:21] Successfully saved movie data for: Asteroid City
+[2026-01-25 03:55:21] Movie fetch process completed
