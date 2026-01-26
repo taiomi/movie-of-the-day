@@ -1,27 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-01-25",
+    "lastUpdated": "2026-01-26",
     "movie": {
-        "id": 747188,
-        "title": "Asteroid City",
-        "tagline": "\"You can't wake up if you don't fall asleep\"",
-        "overview": "In an American desert town circa 1955, the itinerary of a Junior Stargazer\/Space Cadet convention is spectacularly disrupted by world-changing events.",
-        "releaseDate": "2023-06-08",
-        "runtime": 105,
-        "voteAverage": 6.45,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/rAkz95CREc3A1qTnwlSQ0jh8Zw8.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/iloUOSs3Rcq3aMr04CrGRWVVBkq.jpg",
-        "director": "Wes Anderson",
+        "id": 10227,
+        "title": "PlayTime",
+        "tagline": "An incomparable spectacle.",
+        "overview": "Clumsy Monsieur Hulot finds himself perplexed by the intimidating complexity of a gadget-filled Paris. He attempts to meet with a business contact but soon becomes lost. His roundabout journey parallels that of an American tourist, and as they weave through the inventive urban environment, they intermittently meet, developing an interest in one another. They eventually get together at a chaotic restaurant, along with several other quirky characters.",
+        "releaseDate": "1967-12-13",
+        "runtime": 115,
+        "voteAverage": 7.7,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/oUXEJLgDfAFR6TvJU6dMerEpcBK.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/ynz9uQBiNGojJzpxhpbGDXkpTP.jpg",
+        "director": "Jacques Tati",
         "cast": [
-            "Jason Schwartzman",
-            "Scarlett Johansson",
-            "Tom Hanks",
-            "Jeffrey Wright",
-            "Tilda Swinton"
+            "Jacques Tati",
+            "Barbara Dennek",
+            "Rita Maiden",
+            "France Rumilly",
+            "France Delahalle"
         ],
         "genres": [
-            "Comedy",
-            "Drama"
+            "Comedy"
         ]
     }
 }
