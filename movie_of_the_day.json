@@ -1,26 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-01-26",
+    "lastUpdated": "2026-01-27",
     "movie": {
-        "id": 10227,
-        "title": "PlayTime",
-        "tagline": "An incomparable spectacle.",
-        "overview": "Clumsy Monsieur Hulot finds himself perplexed by the intimidating complexity of a gadget-filled Paris. He attempts to meet with a business contact but soon becomes lost. His roundabout journey parallels that of an American tourist, and as they weave through the inventive urban environment, they intermittently meet, developing an interest in one another. They eventually get together at a chaotic restaurant, along with several other quirky characters.",
-        "releaseDate": "1967-12-13",
-        "runtime": 115,
-        "voteAverage": 7.7,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/oUXEJLgDfAFR6TvJU6dMerEpcBK.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/ynz9uQBiNGojJzpxhpbGDXkpTP.jpg",
-        "director": "Jacques Tati",
+        "id": 29740,
+        "title": "I Am a Fugitive from a Chain Gang",
+        "tagline": "Six sticks of dynamite that blasted his way to freedom \u2026 and awoke America\u2019s conscience!",
+        "overview": "A World War I veteran\u2019s dreams of becoming a master architect evaporate in the cold light of economic realities. Things get even worse when he\u2019s falsely convicted of a crime and sent to work on a chain gang.",
+        "releaseDate": "1932-11-09",
+        "runtime": 92,
+        "voteAverage": 7.8,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/jer6lim61i8V6a5HOZq2i07UQQf.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/nWLMIG4xY4MO2ESGoVfoVemu2a5.jpg",
+        "director": "Mervyn LeRoy",
         "cast": [
-            "Jacques Tati",
-            "Barbara Dennek",
-            "Rita Maiden",
-            "France Rumilly",
-            "France Delahalle"
+            "Paul Muni",
+            "Glenda Farrell",
+            "Helen Vinson",
+            "Noel Francis",
+            "Preston Foster"
         ],
         "genres": [
-            "Comedy"
+            "Drama",
+            "Crime"
         ]
     }
 }
