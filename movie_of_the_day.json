@@ -1,27 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-01-27",
+    "lastUpdated": "2026-01-28",
     "movie": {
-        "id": 29740,
-        "title": "I Am a Fugitive from a Chain Gang",
-        "tagline": "Six sticks of dynamite that blasted his way to freedom \u2026 and awoke America\u2019s conscience!",
-        "overview": "A World War I veteran\u2019s dreams of becoming a master architect evaporate in the cold light of economic realities. Things get even worse when he\u2019s falsely convicted of a crime and sent to work on a chain gang.",
-        "releaseDate": "1932-11-09",
-        "runtime": 92,
-        "voteAverage": 7.8,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/jer6lim61i8V6a5HOZq2i07UQQf.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/nWLMIG4xY4MO2ESGoVfoVemu2a5.jpg",
-        "director": "Mervyn LeRoy",
+        "id": 19120,
+        "title": "Juliet of the Spirits",
+        "tagline": "The inhibitions... the desires... the obsessions... of a jealous woman held prisoner by her own dreams",
+        "overview": "Middle-aged Giulietta grows suspicious of her husband, Giorgio, when his behavior grows increasingly questionable. One night when Giorgio initiates a seance amongst his friends, Giulietta gets in touch with spirits and learns more about herself and her painful past. Slightly skeptical, but intrigued, she visits a mystic who gives her more information -- and nudges her toward the realization that her husband is indeed a philanderer.",
+        "releaseDate": "1965-10-22",
+        "runtime": 148,
+        "voteAverage": 7.231,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/NbN10moPWQiiIKDJsC7A3j4Mcy.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/9VeXz4mj4QaOfTNSLy0owJHkWEo.jpg",
+        "director": "Federico Fellini",
         "cast": [
-            "Paul Muni",
-            "Glenda Farrell",
-            "Helen Vinson",
-            "Noel Francis",
-            "Preston Foster"
+            "Giulietta Masina",
+            "Sandra Milo",
+            "Mario Pisu",
+            "Valentina Cortese",
+            "Valeska Gert"
         ],
         "genres": [
+            "Comedy",
             "Drama",
-            "Crime"
+            "Fantasy"
         ]
     }
 }
