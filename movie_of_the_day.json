@@ -1,28 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-01-28",
+    "lastUpdated": "2026-01-29",
     "movie": {
-        "id": 19120,
-        "title": "Juliet of the Spirits",
-        "tagline": "The inhibitions... the desires... the obsessions... of a jealous woman held prisoner by her own dreams",
-        "overview": "Middle-aged Giulietta grows suspicious of her husband, Giorgio, when his behavior grows increasingly questionable. One night when Giorgio initiates a seance amongst his friends, Giulietta gets in touch with spirits and learns more about herself and her painful past. Slightly skeptical, but intrigued, she visits a mystic who gives her more information -- and nudges her toward the realization that her husband is indeed a philanderer.",
-        "releaseDate": "1965-10-22",
-        "runtime": 148,
-        "voteAverage": 7.231,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/NbN10moPWQiiIKDJsC7A3j4Mcy.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/9VeXz4mj4QaOfTNSLy0owJHkWEo.jpg",
-        "director": "Federico Fellini",
+        "id": 469,
+        "title": "Stranger Than Paradise",
+        "tagline": "A new American film",
+        "overview": "New York layabout Willie forms an unexpected bond with his young Hungarian cousin Eva when she pays him a surprise visit. Later, Eva moves in with their aunt in Cleveland, and Willie takes his best friend Eddie to see her\u2014a visit that culminates in a strange, eventful trip to Florida.",
+        "releaseDate": "1984-10-01",
+        "runtime": 89,
+        "voteAverage": 7.145,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/yYlx0msjh4E74syleTXueWIOxC9.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/zhSELy6slpnyDTkCX8bIyBtwoK6.jpg",
+        "director": "Jim Jarmusch",
         "cast": [
-            "Giulietta Masina",
-            "Sandra Milo",
-            "Mario Pisu",
-            "Valentina Cortese",
-            "Valeska Gert"
+            "John Lurie",
+            "Eszter Balint",
+            "Richard Edson",
+            "Cecillia Stark",
+            "Danny Rosen"
         ],
         "genres": [
             "Comedy",
-            "Drama",
-            "Fantasy"
+            "Drama"
         ]
     }
 }
