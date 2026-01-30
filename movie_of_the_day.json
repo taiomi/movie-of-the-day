@@ -1,27 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-01-29",
+    "lastUpdated": "2026-01-30",
     "movie": {
-        "id": 469,
-        "title": "Stranger Than Paradise",
-        "tagline": "A new American film",
-        "overview": "New York layabout Willie forms an unexpected bond with his young Hungarian cousin Eva when she pays him a surprise visit. Later, Eva moves in with their aunt in Cleveland, and Willie takes his best friend Eddie to see her\u2014a visit that culminates in a strange, eventful trip to Florida.",
-        "releaseDate": "1984-10-01",
-        "runtime": 89,
-        "voteAverage": 7.145,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/yYlx0msjh4E74syleTXueWIOxC9.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/zhSELy6slpnyDTkCX8bIyBtwoK6.jpg",
-        "director": "Jim Jarmusch",
+        "id": 47735,
+        "title": "Summer with Monika",
+        "tagline": "A Picture for Wide Screens and Broad Minds.",
+        "overview": "One summer day, two teens begin a reckless affair and abandon their families to be with one another.",
+        "releaseDate": "1953-02-09",
+        "runtime": 98,
+        "voteAverage": 7.326,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/82hLsn67V9TjgrLOZCFL7247pJd.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/kF5UhtIbadVqR0sfhzBBmwq8ToG.jpg",
+        "director": "Ingmar Bergman",
         "cast": [
-            "John Lurie",
-            "Eszter Balint",
-            "Richard Edson",
-            "Cecillia Stark",
-            "Danny Rosen"
+            "Harriet Andersson",
+            "Lars Ekborg",
+            "Dagmar Ebbesen",
+            "\u00c5ke Fridell",
+            "Naemi Briese"
         ],
         "genres": [
-            "Comedy",
-            "Drama"
+            "Drama",
+            "Romance"
         ]
     }
 }
