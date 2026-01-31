@@ -1,27 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-01-30",
+    "lastUpdated": "2026-01-31",
     "movie": {
-        "id": 47735,
-        "title": "Summer with Monika",
-        "tagline": "A Picture for Wide Screens and Broad Minds.",
-        "overview": "One summer day, two teens begin a reckless affair and abandon their families to be with one another.",
-        "releaseDate": "1953-02-09",
-        "runtime": 98,
-        "voteAverage": 7.326,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/82hLsn67V9TjgrLOZCFL7247pJd.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/kF5UhtIbadVqR0sfhzBBmwq8ToG.jpg",
-        "director": "Ingmar Bergman",
+        "id": 593,
+        "title": "Solaris",
+        "tagline": "The planet where nightmares come true\u2026",
+        "overview": "A psychologist is sent to a space station orbiting a planet called Solaris to investigate the death of a doctor and the mental problems of cosmonauts on the station. He soon discovers that the water on the planet is a type of brain which brings out repressed memories and obsessions.",
+        "releaseDate": "1972-03-20",
+        "runtime": 167,
+        "voteAverage": 7.8,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/pgqj7QoBPWFLLKtLEpPmFYFRMgB.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/mm3aNTjFvuo0jeitneRDc1ZUNjI.jpg",
+        "director": "Andrei Tarkovsky",
         "cast": [
-            "Harriet Andersson",
-            "Lars Ekborg",
-            "Dagmar Ebbesen",
-            "\u00c5ke Fridell",
-            "Naemi Briese"
+            "Natalya Bondarchuk",
+            "Donatas Banionis",
+            "J\u00fcri J\u00e4rvet",
+            "Vladislav Dvorzhetsky",
+            "Mykola Hrynko"
         ],
         "genres": [
             "Drama",
-            "Romance"
+            "Science Fiction",
+            "Mystery"
         ]
     }
 }
