@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-01-31",
+    "lastUpdated": "2026-02-01",
     "movie": {
-        "id": 593,
-        "title": "Solaris",
-        "tagline": "The planet where nightmares come true\u2026",
-        "overview": "A psychologist is sent to a space station orbiting a planet called Solaris to investigate the death of a doctor and the mental problems of cosmonauts on the station. He soon discovers that the water on the planet is a type of brain which brings out repressed memories and obsessions.",
-        "releaseDate": "1972-03-20",
-        "runtime": 167,
-        "voteAverage": 7.8,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/pgqj7QoBPWFLLKtLEpPmFYFRMgB.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/mm3aNTjFvuo0jeitneRDc1ZUNjI.jpg",
-        "director": "Andrei Tarkovsky",
+        "id": 43360,
+        "title": "Le Plaisir",
+        "tagline": "",
+        "overview": "Three stories about the pleasure. The first one is about a man hiding his age behind a mask to keep going to balls and fancying women - pleasure and youth. Then comes the long tale of Mme Tellier taking her girls (whores) to the country for attending her niece's communion - pleasure and purity. And lastly, Jean the painter falling in love with his model - pleasure and death.",
+        "releaseDate": "1952-02-29",
+        "runtime": 97,
+        "voteAverage": 7.496,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/qxJAam675KDRIrT5KMYMOMVHBqQ.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/ceVcrZeak4gfbtGUnAUpWIzeiFR.jpg",
+        "director": "Max Oph\u00fcls",
         "cast": [
-            "Natalya Bondarchuk",
-            "Donatas Banionis",
-            "J\u00fcri J\u00e4rvet",
-            "Vladislav Dvorzhetsky",
-            "Mykola Hrynko"
+            "Claude Dauphin",
+            "Gaby Morlay",
+            "Madeleine Renaud",
+            "Ginette Leclerc",
+            "Mila Par\u00e9ly"
         ],
         "genres": [
             "Drama",
-            "Science Fiction",
-            "Mystery"
+            "Comedy",
+            "Romance"
         ]
     }
 }
