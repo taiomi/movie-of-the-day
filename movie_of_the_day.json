@@ -1,28 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-02-01",
+    "lastUpdated": "2026-02-02",
     "movie": {
-        "id": 43360,
-        "title": "Le Plaisir",
+        "id": 4593,
+        "title": "The Discreet Charm of the Bourgeoisie",
         "tagline": "",
-        "overview": "Three stories about the pleasure. The first one is about a man hiding his age behind a mask to keep going to balls and fancying women - pleasure and youth. Then comes the long tale of Mme Tellier taking her girls (whores) to the country for attending her niece's communion - pleasure and purity. And lastly, Jean the painter falling in love with his model - pleasure and death.",
-        "releaseDate": "1952-02-29",
-        "runtime": 97,
-        "voteAverage": 7.496,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/qxJAam675KDRIrT5KMYMOMVHBqQ.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/ceVcrZeak4gfbtGUnAUpWIzeiFR.jpg",
-        "director": "Max Oph\u00fcls",
+        "overview": "In Luis Bu\u00f1uel\u2019s deliciously satiric masterpiece, an upper-class sextet sits down to dinner but never eats, their attempts continually thwarted by a vaudevillian mixture of events both actual and imagined.",
+        "releaseDate": "1972-09-15",
+        "runtime": 101,
+        "voteAverage": 7.467,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/zN4ILX2x64PvT2jIOAHXxCOi5WA.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/z6NI6n5MvQZMZJbXKLiyFl1yDeA.jpg",
+        "director": "Luis Bu\u00f1uel",
         "cast": [
-            "Claude Dauphin",
-            "Gaby Morlay",
-            "Madeleine Renaud",
-            "Ginette Leclerc",
-            "Mila Par\u00e9ly"
+            "Fernando Rey",
+            "Delphine Seyrig",
+            "Paul Frankeur",
+            "St\u00e9phane Audran",
+            "Bulle Ogier"
         ],
         "genres": [
-            "Drama",
-            "Comedy",
-            "Romance"
+            "Comedy"
         ]
     }
 }
