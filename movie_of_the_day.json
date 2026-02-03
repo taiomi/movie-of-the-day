@@ -1,26 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-02-02",
+    "lastUpdated": "2026-02-03",
     "movie": {
-        "id": 4593,
-        "title": "The Discreet Charm of the Bourgeoisie",
-        "tagline": "",
-        "overview": "In Luis Bu\u00f1uel\u2019s deliciously satiric masterpiece, an upper-class sextet sits down to dinner but never eats, their attempts continually thwarted by a vaudevillian mixture of events both actual and imagined.",
-        "releaseDate": "1972-09-15",
-        "runtime": 101,
-        "voteAverage": 7.467,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/zN4ILX2x64PvT2jIOAHXxCOi5WA.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/z6NI6n5MvQZMZJbXKLiyFl1yDeA.jpg",
-        "director": "Luis Bu\u00f1uel",
+        "id": 28392,
+        "title": "Moonrise",
+        "tagline": "HER ARMS...HER LOVE...HIS ONLY ESCAPE FROM A HERITAGE OF HATE!",
+        "overview": "Stigmatized from infancy by the fate of his criminal father, a man is bruised and bullied until one night, in a fit of rage, he kills his most persistent tormentor. As the police close in around him, he makes a desperate bid for the love of the dead man\u2019s fianc\u00e9e, a schoolteacher who sees the wounded soul behind his aggression.",
+        "releaseDate": "1948-10-01",
+        "runtime": 90,
+        "voteAverage": 6.2,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/9U0WHjNGNDipkl11Qlcg4NA9aHz.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/4O2edhgfsspXdyNV0nLQLN5IsU5.jpg",
+        "director": "Frank Borzage",
         "cast": [
-            "Fernando Rey",
-            "Delphine Seyrig",
-            "Paul Frankeur",
-            "St\u00e9phane Audran",
-            "Bulle Ogier"
+            "Dane Clark",
+            "Gail Russell",
+            "Ethel Barrymore",
+            "Allyn Joslyn",
+            "Rex Ingram"
         ],
         "genres": [
-            "Comedy"
+            "Drama"
         ]
     }
 }
