@@ -1,23 +1,23 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-02-03",
+    "lastUpdated": "2026-02-04",
     "movie": {
-        "id": 28392,
-        "title": "Moonrise",
-        "tagline": "HER ARMS...HER LOVE...HIS ONLY ESCAPE FROM A HERITAGE OF HATE!",
-        "overview": "Stigmatized from infancy by the fate of his criminal father, a man is bruised and bullied until one night, in a fit of rage, he kills his most persistent tormentor. As the police close in around him, he makes a desperate bid for the love of the dead man\u2019s fianc\u00e9e, a schoolteacher who sees the wounded soul behind his aggression.",
-        "releaseDate": "1948-10-01",
-        "runtime": 90,
-        "voteAverage": 6.2,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/9U0WHjNGNDipkl11Qlcg4NA9aHz.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/4O2edhgfsspXdyNV0nLQLN5IsU5.jpg",
-        "director": "Frank Borzage",
+        "id": 179144,
+        "title": "The Great Beauty",
+        "tagline": "",
+        "overview": "Jep Gambardella has seduced his way through the lavish nightlife of Rome for decades, but after his 65th birthday and a shock from the past, Jep looks past the nightclubs and parties to find a timeless landscape of absurd, exquisite beauty.",
+        "releaseDate": "2013-05-21",
+        "runtime": 142,
+        "voteAverage": 7.509,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/1cmOc3ZPkuCTOTqHEsRr3Pk81Um.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/4T5d7KGrpx3BTDq9IKm6KpMeeNp.jpg",
+        "director": "Paolo Sorrentino",
         "cast": [
-            "Dane Clark",
-            "Gail Russell",
-            "Ethel Barrymore",
-            "Allyn Joslyn",
-            "Rex Ingram"
+            "Toni Servillo",
+            "Carlo Verdone",
+            "Sabrina Ferilli",
+            "Carlo Buccirosso",
+            "Iaia Forte"
         ],
         "genres": [
             "Drama"
