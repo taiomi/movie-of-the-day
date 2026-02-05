@@ -1,26 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-02-04",
+    "lastUpdated": "2026-02-05",
     "movie": {
-        "id": 179144,
-        "title": "The Great Beauty",
-        "tagline": "",
-        "overview": "Jep Gambardella has seduced his way through the lavish nightlife of Rome for decades, but after his 65th birthday and a shock from the past, Jep looks past the nightclubs and parties to find a timeless landscape of absurd, exquisite beauty.",
-        "releaseDate": "2013-05-21",
-        "runtime": 142,
-        "voteAverage": 7.509,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/1cmOc3ZPkuCTOTqHEsRr3Pk81Um.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/4T5d7KGrpx3BTDq9IKm6KpMeeNp.jpg",
-        "director": "Paolo Sorrentino",
+        "id": 136,
+        "title": "Freaks",
+        "tagline": "Can a full grown woman truly love a midget?",
+        "overview": "A circus' beautiful trapeze artist agrees to marry the leader of side-show performers, but his deformed friends discover she is only marrying him for his inheritance.",
+        "releaseDate": "1932-01-01",
+        "runtime": 64,
+        "voteAverage": 7.769,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/fX2Wxd0W9E7eVClUd8kJTfennoV.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/r18vpGFsNf6n984x4KdJmAAWKkP.jpg",
+        "director": "Tod Browning",
         "cast": [
-            "Toni Servillo",
-            "Carlo Verdone",
-            "Sabrina Ferilli",
-            "Carlo Buccirosso",
-            "Iaia Forte"
+            "Harry Earles",
+            "Olga Baclanova",
+            "Daisy Earles",
+            "Henry Victor",
+            "Wallace Ford"
         ],
         "genres": [
-            "Drama"
+            "Drama",
+            "Horror"
         ]
     }
 }
