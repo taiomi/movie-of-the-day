@@ -1,27 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-02-06",
+    "lastUpdated": "2026-02-07",
     "movie": {
-        "id": 11656,
-        "title": "The Virgin Spring",
-        "tagline": "Ravished innocence... brings terrible revenge!",
-        "overview": "Devout Christians T\u00f6re and M\u00e4reta send their only daughter, the virginal Karin, and their foster daughter, the unrepentant Ingeri, to deliver candles to a distant church. On their way through the woods, the girls encounter a group of savage goat herders who brutally rape and murder Karin as Ingeri remains hidden. When the killers unwittingly seek refuge in the farmhouse of T\u00f6re and M\u00e4reta, T\u00f6re plots a fitting revenge.",
-        "releaseDate": "1960-02-08",
-        "runtime": 90,
-        "voteAverage": 7.843,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/z70YM3Y4pNYZATMhFMKonngaeMC.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/pcBIabUibUmpOBggWckkjohXtiP.jpg",
-        "director": "Ingmar Bergman",
+        "id": 631,
+        "title": "Sunrise: A Song of Two Humans",
+        "tagline": "\"An artistic masterpiece and also a joy to watch.\"",
+        "overview": "A married farmer falls under the spell of a slatternly woman from the city, who tries to convince him to drown his wife.",
+        "releaseDate": "1927-11-04",
+        "runtime": 94,
+        "voteAverage": 7.823,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/oj8ZW8jKXBSs8F1e5iWsTUeXSJW.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/hKrrCigPFmhv1bg5IJl9nzjEaN4.jpg",
+        "director": "F. W. Murnau",
         "cast": [
-            "Max von Sydow",
-            "Birgitta Valberg",
-            "Gunnel Lindblom",
-            "Birgitta Pettersson",
-            "Axel D\u00fcberg"
+            "George O'Brien",
+            "Janet Gaynor",
+            "Margaret Livingston",
+            "Bodil Rosing",
+            "J. Farrell MacDonald"
         ],
         "genres": [
             "Drama",
-            "History"
+            "Romance"
         ]
     }
 }
