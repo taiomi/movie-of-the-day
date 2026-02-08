@@ -1,27 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-02-07",
+    "lastUpdated": "2026-02-08",
     "movie": {
-        "id": 631,
-        "title": "Sunrise: A Song of Two Humans",
-        "tagline": "\"An artistic masterpiece and also a joy to watch.\"",
-        "overview": "A married farmer falls under the spell of a slatternly woman from the city, who tries to convince him to drown his wife.",
-        "releaseDate": "1927-11-04",
-        "runtime": 94,
-        "voteAverage": 7.823,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/oj8ZW8jKXBSs8F1e5iWsTUeXSJW.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/hKrrCigPFmhv1bg5IJl9nzjEaN4.jpg",
-        "director": "F. W. Murnau",
+        "id": 422,
+        "title": "8\u00bd",
+        "tagline": "A picture that goes beyond what men think about - because no man ever thought about it in quite this way!",
+        "overview": "Guido Anselmi, a film director, finds himself creatively barren at the peak of his career. Urged by his doctors to rest, Anselmi heads for a luxurious resort, but a sorry group gathers\u2014his producer, staff, actors, wife, mistress, and relatives\u2014each one begging him to get on with the show. In retreat from their dependency, he fantasizes about past women and dreams of his childhood.",
+        "releaseDate": "1963-02-14",
+        "runtime": 139,
+        "voteAverage": 8.1,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/t8pFvll3cFrn5NmqZz2FawqIwPe.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/y2FNZLHynsevBnVTocGW6c3pQpr.jpg",
+        "director": "Federico Fellini",
         "cast": [
-            "George O'Brien",
-            "Janet Gaynor",
-            "Margaret Livingston",
-            "Bodil Rosing",
-            "J. Farrell MacDonald"
+            "Marcello Mastroianni",
+            "Claudia Cardinale",
+            "Anouk Aim\u00e9e",
+            "Sandra Milo",
+            "Rossella Falk"
         ],
         "genres": [
-            "Drama",
-            "Romance"
+            "Drama"
         ]
     }
 }
