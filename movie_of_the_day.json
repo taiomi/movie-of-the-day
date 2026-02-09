@@ -1,26 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-02-08",
+    "lastUpdated": "2026-02-09",
     "movie": {
-        "id": 422,
-        "title": "8\u00bd",
-        "tagline": "A picture that goes beyond what men think about - because no man ever thought about it in quite this way!",
-        "overview": "Guido Anselmi, a film director, finds himself creatively barren at the peak of his career. Urged by his doctors to rest, Anselmi heads for a luxurious resort, but a sorry group gathers\u2014his producer, staff, actors, wife, mistress, and relatives\u2014each one begging him to get on with the show. In retreat from their dependency, he fantasizes about past women and dreams of his childhood.",
-        "releaseDate": "1963-02-14",
-        "runtime": 139,
-        "voteAverage": 8.1,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/t8pFvll3cFrn5NmqZz2FawqIwPe.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/y2FNZLHynsevBnVTocGW6c3pQpr.jpg",
-        "director": "Federico Fellini",
+        "id": 345,
+        "title": "Eyes Wide Shut",
+        "tagline": "Cruise. Kidman. Kubrick.",
+        "overview": "After Dr. Bill Harford's wife, Alice, admits to having sexual fantasies about a man she met, Bill becomes obsessed with having a sexual encounter. He discovers an underground sexual group and attends one of their meetings -- and quickly discovers that he is in over his head.",
+        "releaseDate": "1999-07-16",
+        "runtime": 159,
+        "voteAverage": 7.484,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/knEIz1eNGl5MQDbrEAVWA7iRqF9.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/aC6wW62V6b0csr5iUnbOjYAqfhg.jpg",
+        "director": "Stanley Kubrick",
         "cast": [
-            "Marcello Mastroianni",
-            "Claudia Cardinale",
-            "Anouk Aim\u00e9e",
-            "Sandra Milo",
-            "Rossella Falk"
+            "Tom Cruise",
+            "Nicole Kidman",
+            "Sydney Pollack",
+            "Marie Richardson",
+            "Rade \u0160erbed\u017eija"
         ],
         "genres": [
-            "Drama"
+            "Drama",
+            "Thriller",
+            "Mystery"
         ]
     }
 }
