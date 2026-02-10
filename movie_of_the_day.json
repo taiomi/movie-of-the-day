@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-02-09",
+    "lastUpdated": "2026-02-10",
     "movie": {
-        "id": 345,
-        "title": "Eyes Wide Shut",
-        "tagline": "Cruise. Kidman. Kubrick.",
-        "overview": "After Dr. Bill Harford's wife, Alice, admits to having sexual fantasies about a man she met, Bill becomes obsessed with having a sexual encounter. He discovers an underground sexual group and attends one of their meetings -- and quickly discovers that he is in over his head.",
-        "releaseDate": "1999-07-16",
-        "runtime": 159,
-        "voteAverage": 7.484,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/knEIz1eNGl5MQDbrEAVWA7iRqF9.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/aC6wW62V6b0csr5iUnbOjYAqfhg.jpg",
-        "director": "Stanley Kubrick",
+        "id": 76600,
+        "title": "Avatar: The Way of Water",
+        "tagline": "Return to Pandora.",
+        "overview": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
+        "releaseDate": "2022-12-14",
+        "runtime": 192,
+        "voteAverage": 7.599,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/cd8YDn7M0lfaHhZdU6MvCDxPalP.jpg",
+        "director": "James Cameron",
         "cast": [
-            "Tom Cruise",
-            "Nicole Kidman",
-            "Sydney Pollack",
-            "Marie Richardson",
-            "Rade \u0160erbed\u017eija"
+            "Sam Worthington",
+            "Zoe Salda\u00f1a",
+            "Sigourney Weaver",
+            "Stephen Lang",
+            "Kate Winslet"
         ],
         "genres": [
-            "Drama",
-            "Thriller",
-            "Mystery"
+            "Action",
+            "Adventure",
+            "Science Fiction"
         ]
     }
 }
