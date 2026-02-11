@@ -1,28 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-02-10",
+    "lastUpdated": "2026-02-11",
     "movie": {
-        "id": 76600,
-        "title": "Avatar: The Way of Water",
-        "tagline": "Return to Pandora.",
-        "overview": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
-        "releaseDate": "2022-12-14",
-        "runtime": 192,
-        "voteAverage": 7.599,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/cd8YDn7M0lfaHhZdU6MvCDxPalP.jpg",
-        "director": "James Cameron",
+        "id": 43231,
+        "title": "Le Notti Bianche",
+        "tagline": "",
+        "overview": "A middle-aged man meets a young woman who is waiting on a canal bridge for her lover's return.",
+        "releaseDate": "1957-11-14",
+        "runtime": 101,
+        "voteAverage": 7.4,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/vD3cTATsUwQtYxFL9qDZiUgPYxQ.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/2ijE67SW7xwy7hBb1mdsSOTdaxy.jpg",
+        "director": "Luchino Visconti",
         "cast": [
-            "Sam Worthington",
-            "Zoe Salda\u00f1a",
-            "Sigourney Weaver",
-            "Stephen Lang",
-            "Kate Winslet"
+            "Maria Schell",
+            "Marcello Mastroianni",
+            "Jean Marais",
+            "Marcella Rovena",
+            "Maria Zanoli"
         ],
         "genres": [
-            "Action",
-            "Adventure",
-            "Science Fiction"
+            "Drama",
+            "Romance"
         ]
     }
 }
