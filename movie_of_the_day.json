@@ -1,27 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-02-11",
+    "lastUpdated": "2026-02-12",
     "movie": {
-        "id": 43231,
-        "title": "Le Notti Bianche",
-        "tagline": "",
-        "overview": "A middle-aged man meets a young woman who is waiting on a canal bridge for her lover's return.",
-        "releaseDate": "1957-11-14",
-        "runtime": 101,
-        "voteAverage": 7.4,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/vD3cTATsUwQtYxFL9qDZiUgPYxQ.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/2ijE67SW7xwy7hBb1mdsSOTdaxy.jpg",
-        "director": "Luchino Visconti",
+        "id": 3116,
+        "title": "Midnight Cowboy",
+        "tagline": "For those who have never seen it and those who have never forgotten it.",
+        "overview": "Joe Buck is a wide-eyed hustler from Texas hoping to score big with wealthy New York City women; he finds a companion in Enrico \"Ratso\" Rizzo, an ailing swindler with a bum leg and a quixotic fantasy of escaping to Florida.",
+        "releaseDate": "1969-05-25",
+        "runtime": 113,
+        "voteAverage": 7.5,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/ckklq45UxUkwgHve9xItXqXr06r.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/pEdb6DfEBgaXF7S0EHzqnJvTGex.jpg",
+        "director": "John Schlesinger",
         "cast": [
-            "Maria Schell",
-            "Marcello Mastroianni",
-            "Jean Marais",
-            "Marcella Rovena",
-            "Maria Zanoli"
+            "Dustin Hoffman",
+            "Jon Voight",
+            "Sylvia Miles",
+            "John McGiver",
+            "Brenda Vaccaro"
         ],
         "genres": [
-            "Drama",
-            "Romance"
+            "Drama"
         ]
     }
 }
