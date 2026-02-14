@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-02-13",
+    "lastUpdated": "2026-02-14",
     "movie": {
-        "id": 11222,
-        "title": "The American Friend",
-        "tagline": "",
-        "overview": "Tom Ripley, an American who deals in forged art, is slighted at an auction in Hamburg by picture framer Jonathan Zimmerman. When Ripley is asked by gangster Raoul Minot to kill a rival, he suggests Zimmerman, and the two, exploiting Zimmerman's terminal illness, coerce him into being a hitman.",
-        "releaseDate": "1977-06-24",
-        "runtime": 125,
-        "voteAverage": 7.08,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/jHVe5EHDFj9ac2F2aU86sWTGKnn.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/h59F8NcFSlucTK7fUcndD9TB9jg.jpg",
-        "director": "Wim Wenders",
+        "id": 968,
+        "title": "Dog Day Afternoon",
+        "tagline": "Anything can happen during the dog days of summer. On August 22nd, 1972, everything did.",
+        "overview": "Based on the true story of would-be Brooklyn bank robbers John Wojtowicz and Salvatore Naturile. Sonny and Sal attempt a bank heist which quickly turns sour and escalates into a hostage situation and stand-off with the police. As Sonny's motives for the robbery are slowly revealed and things become more complicated, the heist turns into a media circus.",
+        "releaseDate": "1975-09-21",
+        "runtime": 124,
+        "voteAverage": 7.844,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/mavrhr0ig2aCRR8d48yaxtD5aMQ.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/m10uqk0HI5JcITAbxNJIIiGA8HP.jpg",
+        "director": "Sidney Lumet",
         "cast": [
-            "Dennis Hopper",
-            "Bruno Ganz",
-            "Lisa Kreuzer",
-            "G\u00e9rard Blain",
-            "Nicholas Ray"
+            "Al Pacino",
+            "John Cazale",
+            "Charles Durning",
+            "Chris Sarandon",
+            "James Broderick"
         ],
         "genres": [
+            "Crime",
             "Drama",
-            "Thriller",
-            "Crime"
+            "Thriller"
         ]
     }
 }
