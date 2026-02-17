@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-02-16",
+    "lastUpdated": "2026-02-17",
     "movie": {
-        "id": 28448,
-        "title": "Walker",
-        "tagline": "Before Rambo... Before Oliver North...",
-        "overview": "William Walker and his mercenary corps enter Nicaragua in the middle of the 19th century in order to install a new government by a coup d'etat.",
-        "releaseDate": "1987-12-04",
-        "runtime": 95,
-        "voteAverage": 6.359,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/1C0oYAeNjIBLuj7CVWz3HTIUdeP.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/1rBjjrKbBB9T81O1jyY67hNH8fe.jpg",
-        "director": "Alex Cox",
+        "id": 877,
+        "title": "Scarface",
+        "tagline": "The rise and fall of a power hungry mobster.",
+        "overview": "In 1920s Chicago, Italian immigrant and notorious thug, Antonio 'Tony' Camonte, aka Scarface, shoots his way to the top of the mobs while trying to protect his sister from the criminal life.",
+        "releaseDate": "1932-04-09",
+        "runtime": 93,
+        "voteAverage": 7.419,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/y4E5oRiHMTFkEB12IIcpbKbKzDW.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/3i6H4cVfvWh55sN1iXyeb8Q50nY.jpg",
+        "director": "Howard Hawks",
         "cast": [
-            "Ed Harris",
-            "Richard Masur",
-            "Ren\u00e9 Auberjonois",
-            "Keith Szarabajka",
-            "Sy Richardson"
+            "Paul Muni",
+            "Ann Dvorak",
+            "Karen Morley",
+            "Osgood Perkins",
+            "C. Henry Gordon"
         ],
         "genres": [
-            "Drama",
-            "History",
-            "Western"
+            "Crime",
+            "Action",
+            "Drama"
         ]
     }
 }
