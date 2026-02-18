@@ -1,28 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-02-17",
+    "lastUpdated": "2026-02-18",
     "movie": {
-        "id": 877,
-        "title": "Scarface",
-        "tagline": "The rise and fall of a power hungry mobster.",
-        "overview": "In 1920s Chicago, Italian immigrant and notorious thug, Antonio 'Tony' Camonte, aka Scarface, shoots his way to the top of the mobs while trying to protect his sister from the criminal life.",
-        "releaseDate": "1932-04-09",
-        "runtime": 93,
-        "voteAverage": 7.419,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/y4E5oRiHMTFkEB12IIcpbKbKzDW.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/3i6H4cVfvWh55sN1iXyeb8Q50nY.jpg",
-        "director": "Howard Hawks",
+        "id": 9443,
+        "title": "Chariots of Fire",
+        "tagline": "This is the story of two men who run, not to run, but to prove something to the world. They will sacrifice anything to achieve their goals... except their honor.",
+        "overview": "In the class-obsessed and religiously divided UK of the early 1920s, two determined young runners train for the 1924 Paris Olympics. Eric Liddell, a devout Christian born to Scottish missionaries in China, sees running as part of his worship of God's glory and refuses to train or compete on the Sabbath. Harold Abrahams overcomes anti-Semitism and class bias, but neglects his beloved sweetheart in his single-minded quest.",
+        "releaseDate": "1981-05-15",
+        "runtime": 123,
+        "voteAverage": 6.78,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/qnRaum8k0HqGRml2i7OawFqUtEb.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/nEeq7iQDbsj4qRt9E11PvQOWKvQ.jpg",
+        "director": "Hugh Hudson",
         "cast": [
-            "Paul Muni",
-            "Ann Dvorak",
-            "Karen Morley",
-            "Osgood Perkins",
-            "C. Henry Gordon"
+            "Ben Cross",
+            "Ian Charleson",
+            "Cheryl Campbell",
+            "Alice Krige",
+            "Nigel Havers"
         ],
         "genres": [
-            "Crime",
-            "Action",
-            "Drama"
+            "Drama",
+            "History"
         ]
     }
 }
