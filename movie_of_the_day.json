@@ -1,27 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-02-18",
+    "lastUpdated": "2026-02-19",
     "movie": {
-        "id": 9443,
-        "title": "Chariots of Fire",
-        "tagline": "This is the story of two men who run, not to run, but to prove something to the world. They will sacrifice anything to achieve their goals... except their honor.",
-        "overview": "In the class-obsessed and religiously divided UK of the early 1920s, two determined young runners train for the 1924 Paris Olympics. Eric Liddell, a devout Christian born to Scottish missionaries in China, sees running as part of his worship of God's glory and refuses to train or compete on the Sabbath. Harold Abrahams overcomes anti-Semitism and class bias, but neglects his beloved sweetheart in his single-minded quest.",
-        "releaseDate": "1981-05-15",
-        "runtime": 123,
-        "voteAverage": 6.78,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/qnRaum8k0HqGRml2i7OawFqUtEb.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/nEeq7iQDbsj4qRt9E11PvQOWKvQ.jpg",
-        "director": "Hugh Hudson",
+        "id": 5279,
+        "title": "Gosford Park",
+        "tagline": "Tea at four. Dinner at eight. Murder at midnight.",
+        "overview": "In 1930s England, a group of pretentious rich and famous gather together for a weekend of relaxation at a hunting resort. But when a murder occurs, each one of these interesting characters becomes a suspect.",
+        "releaseDate": "2001-12-26",
+        "runtime": 137,
+        "voteAverage": 6.814,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/7r8DeZuaaHCiOEbkqZC6MFmwJ69.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/936dZMmlCejiIzDe5jWsxdTSoOf.jpg",
+        "director": "Robert Altman",
         "cast": [
-            "Ben Cross",
-            "Ian Charleson",
-            "Cheryl Campbell",
-            "Alice Krige",
-            "Nigel Havers"
+            "Maggie Smith",
+            "Michael Gambon",
+            "Kristin Scott Thomas",
+            "Camilla Rutherford",
+            "Charles Dance"
         ],
         "genres": [
             "Drama",
-            "History"
+            "Mystery",
+            "Thriller"
         ]
     }
 }
