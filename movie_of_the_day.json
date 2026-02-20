@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-02-19",
+    "lastUpdated": "2026-02-20",
     "movie": {
-        "id": 5279,
-        "title": "Gosford Park",
-        "tagline": "Tea at four. Dinner at eight. Murder at midnight.",
-        "overview": "In 1930s England, a group of pretentious rich and famous gather together for a weekend of relaxation at a hunting resort. But when a murder occurs, each one of these interesting characters becomes a suspect.",
-        "releaseDate": "2001-12-26",
-        "runtime": 137,
-        "voteAverage": 6.814,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/7r8DeZuaaHCiOEbkqZC6MFmwJ69.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/936dZMmlCejiIzDe5jWsxdTSoOf.jpg",
-        "director": "Robert Altman",
+        "id": 52677,
+        "title": "The Crime of Monsieur Lange",
+        "tagline": "",
+        "overview": "A murderer and his girlfriend on the run from the police arrive at a cafe-hotel where they are recognized, so the woman tells the customers the story behind his crime.",
+        "releaseDate": "1936-01-24",
+        "runtime": 80,
+        "voteAverage": 7.1,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/gCGunDNK9UGecWF5d1vEKkLbVuE.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/k9UBAuSLZq9ACLzGStRYDKDU2uu.jpg",
+        "director": "Jean Renoir",
         "cast": [
-            "Maggie Smith",
-            "Michael Gambon",
-            "Kristin Scott Thomas",
-            "Camilla Rutherford",
-            "Charles Dance"
+            "Ren\u00e9 Lef\u00e8vre",
+            "Florelle",
+            "Jules Berry",
+            "Marcel L\u00e9vesque",
+            "Odette Talazac"
         ],
         "genres": [
             "Drama",
-            "Mystery",
-            "Thriller"
+            "Crime",
+            "Comedy"
         ]
     }
 }
