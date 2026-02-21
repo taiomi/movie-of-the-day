@@ -1,28 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-02-20",
+    "lastUpdated": "2026-02-21",
     "movie": {
-        "id": 52677,
-        "title": "The Crime of Monsieur Lange",
+        "id": 600354,
+        "title": "The Father",
         "tagline": "",
-        "overview": "A murderer and his girlfriend on the run from the police arrive at a cafe-hotel where they are recognized, so the woman tells the customers the story behind his crime.",
-        "releaseDate": "1936-01-24",
-        "runtime": 80,
-        "voteAverage": 7.1,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/gCGunDNK9UGecWF5d1vEKkLbVuE.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/k9UBAuSLZq9ACLzGStRYDKDU2uu.jpg",
-        "director": "Jean Renoir",
+        "overview": "A man refuses all assistance from his daughter as he ages and, as he tries to make sense of his changing circumstances, he begins to doubt his loved ones, his own mind and even the fabric of his reality.",
+        "releaseDate": "2020-12-23",
+        "runtime": 97,
+        "voteAverage": 8.1,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/pr3bEQ517uMb5loLvjFQi8uLAsp.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/h3weAFgg06GqchI2xDfufBgSFTj.jpg",
+        "director": "Florian Zeller",
         "cast": [
-            "Ren\u00e9 Lef\u00e8vre",
-            "Florelle",
-            "Jules Berry",
-            "Marcel L\u00e9vesque",
-            "Odette Talazac"
+            "Anthony Hopkins",
+            "Olivia Colman",
+            "Mark Gatiss",
+            "Olivia Williams",
+            "Imogen Poots"
         ],
         "genres": [
-            "Drama",
-            "Crime",
-            "Comedy"
+            "Drama"
         ]
     }
 }
