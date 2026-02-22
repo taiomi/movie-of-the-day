@@ -1,26 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-02-21",
+    "lastUpdated": "2026-02-22",
     "movie": {
-        "id": 600354,
-        "title": "The Father",
-        "tagline": "",
-        "overview": "A man refuses all assistance from his daughter as he ages and, as he tries to make sense of his changing circumstances, he begins to doubt his loved ones, his own mind and even the fabric of his reality.",
-        "releaseDate": "2020-12-23",
-        "runtime": 97,
-        "voteAverage": 8.1,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/pr3bEQ517uMb5loLvjFQi8uLAsp.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/h3weAFgg06GqchI2xDfufBgSFTj.jpg",
-        "director": "Florian Zeller",
+        "id": 11562,
+        "title": "Crimes and Misdemeanors",
+        "tagline": "It's about love and reality. Faith and delusion. Good and evil. Success and failure.",
+        "overview": "A renowned ophthalmologist is desperate to cut off an adulterous relationship\u2026which ends up in murder; and a frustrated documentary filmmaker woos an attractive television producer while making a film about her insufferably self-centered boss.",
+        "releaseDate": "1989-10-13",
+        "runtime": 104,
+        "voteAverage": 7.417,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/6vC6MLYUICH57MmEVi1UaNaj2Qs.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/xDPaSuwaOizRNPitEvNiuY7i6iE.jpg",
+        "director": "Woody Allen",
         "cast": [
-            "Anthony Hopkins",
-            "Olivia Colman",
-            "Mark Gatiss",
-            "Olivia Williams",
-            "Imogen Poots"
+            "Woody Allen",
+            "Martin Landau",
+            "Mia Farrow",
+            "Alan Alda",
+            "Anjelica Huston"
         ],
         "genres": [
-            "Drama"
+            "Comedy",
+            "Drama",
+            "Crime"
         ]
     }
 }
