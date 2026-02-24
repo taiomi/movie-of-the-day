@@ -1,27 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-02-23",
+    "lastUpdated": "2026-02-24",
     "movie": {
-        "id": 121986,
-        "title": "Frances Ha",
-        "tagline": "I'm not messy, I'm busy.",
-        "overview": "An aspiring dancer moves to New York City and becomes caught up in a whirlwind of flighty fair-weather friends, diminishing fortunes and career setbacks.",
-        "releaseDate": "2013-05-17",
-        "runtime": 86,
-        "voteAverage": 7.333,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/jrq1NoKvsxWCcffVOjegiYwloFN.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/aSpyZb0Dc3TeaaKFi6xLETDnMQE.jpg",
-        "director": "Noah Baumbach",
+        "id": 614934,
+        "title": "Elvis",
+        "tagline": "The Man. The Legend. The King of Rock & Roll.",
+        "overview": "The life story of Elvis Presley as seen through the complicated relationship with his enigmatic manager, Colonel Tom Parker.",
+        "releaseDate": "2022-06-22",
+        "runtime": 159,
+        "voteAverage": 7.467,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/rva3UhKaMeiB0Vej5A2pm1leX7K.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/xyS0NgcQ2pbGWcwvSSu3xKEBhoO.jpg",
+        "director": "Baz Luhrmann",
         "cast": [
-            "Greta Gerwig",
-            "Mickey Sumner",
-            "Michael Zegen",
-            "Adam Driver",
-            "Charlotte d'Amboise"
+            "Austin Butler",
+            "Tom Hanks",
+            "Olivia DeJonge",
+            "Helen Thomson",
+            "Richard Roxburgh"
         ],
         "genres": [
-            "Comedy",
-            "Drama"
+            "Drama",
+            "Music",
+            "History"
         ]
     }
 }
