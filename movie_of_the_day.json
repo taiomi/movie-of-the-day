@@ -1,28 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-02-24",
+    "lastUpdated": "2026-02-25",
     "movie": {
-        "id": 614934,
-        "title": "Elvis",
-        "tagline": "The Man. The Legend. The King of Rock & Roll.",
-        "overview": "The life story of Elvis Presley as seen through the complicated relationship with his enigmatic manager, Colonel Tom Parker.",
-        "releaseDate": "2022-06-22",
-        "runtime": 159,
-        "voteAverage": 7.467,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/rva3UhKaMeiB0Vej5A2pm1leX7K.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/xyS0NgcQ2pbGWcwvSSu3xKEBhoO.jpg",
-        "director": "Baz Luhrmann",
+        "id": 40641,
+        "title": "Lola",
+        "tagline": "",
+        "overview": "A bored young man meets with his former girlfriend, now a cabaret dancer and single mother, and soon finds himself falling back in love with her.",
+        "releaseDate": "1961-03-03",
+        "runtime": 89,
+        "voteAverage": 7.067,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/uVLkdkTVV10fLrTPyOCBE6alwLD.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/mvu1Sp0lrgDgP9e7pMMyIhiyv0z.jpg",
+        "director": "Jacques Demy",
         "cast": [
-            "Austin Butler",
-            "Tom Hanks",
-            "Olivia DeJonge",
-            "Helen Thomson",
-            "Richard Roxburgh"
+            "Anouk Aim\u00e9e",
+            "Marc Michel",
+            "Jacques Harden",
+            "Alan Scott",
+            "\u00c9lina Labourdette"
         ],
         "genres": [
             "Drama",
-            "Music",
-            "History"
+            "Romance"
         ]
     }
 }
