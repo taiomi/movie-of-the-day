@@ -1,30 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-02-26",
+    "lastUpdated": "2026-02-27",
     "movie": {
-        "id": 642,
-        "title": "Butch Cassidy and the Sundance Kid",
-        "tagline": "Not that it matters, but most of it is true.",
-        "overview": "As the west rapidly becomes civilized, a pair of outlaws in 1890s Wyoming find themselves pursued by a posse and decide to flee to South America in hopes of evading the law.",
-        "releaseDate": "1969-09-23",
-        "runtime": 111,
-        "voteAverage": 7.606,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/gFmmykF1Ym3OGzENo50nZQaD1dx.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/C6jcUqld8M6hZQmzBxgwHuQ4qT.jpg",
-        "director": "George Roy Hill",
+        "id": 581032,
+        "title": "News of the World",
+        "tagline": "Find where you belong.",
+        "overview": "A Texan traveling across the wild West bringing the news of the world to local townspeople, agrees to help rescue a young girl who was kidnapped.",
+        "releaseDate": "2020-12-25",
+        "runtime": 118,
+        "voteAverage": 6.936,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/fYQCgVRsQTEfUrP7cW5iAFVYOlh.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/57dG6BzU2RcPtLgoA3oyHUIb2rI.jpg",
+        "director": "Paul Greengrass",
         "cast": [
-            "Paul Newman",
-            "Robert Redford",
-            "Katharine Ross",
-            "Strother Martin",
-            "Henry Jones"
+            "Tom Hanks",
+            "Helena Zengel",
+            "Michael Angelo Covino",
+            "Ray McKinnon",
+            "Mare Winningham"
         ],
         "genres": [
-            "Adventure",
-            "Western",
-            "Crime",
             "Drama",
-            "History"
+            "Western",
+            "Adventure"
         ]
     }
 }
