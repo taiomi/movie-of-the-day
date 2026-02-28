@@ -1,28 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-02-27",
+    "lastUpdated": "2026-02-28",
     "movie": {
-        "id": 581032,
-        "title": "News of the World",
-        "tagline": "Find where you belong.",
-        "overview": "A Texan traveling across the wild West bringing the news of the world to local townspeople, agrees to help rescue a young girl who was kidnapped.",
-        "releaseDate": "2020-12-25",
-        "runtime": 118,
-        "voteAverage": 6.936,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/fYQCgVRsQTEfUrP7cW5iAFVYOlh.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/57dG6BzU2RcPtLgoA3oyHUIb2rI.jpg",
-        "director": "Paul Greengrass",
+        "id": 391713,
+        "title": "Lady Bird",
+        "tagline": "Fly away home.",
+        "overview": "Lady Bird McPherson, a strong willed, deeply opinionated, artistic 17 year old comes of age in Sacramento. Her relationship with her mother and her upbringing are questioned and tested as she plans to head off to college.",
+        "releaseDate": "2017-09-01",
+        "runtime": 94,
+        "voteAverage": 7.253,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/gl66K7zRdtNYGrxyS2YDUP5ASZd.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/4v4QhGHDYKkwSjzasmIomEQwLbS.jpg",
+        "director": "Greta Gerwig",
         "cast": [
-            "Tom Hanks",
-            "Helena Zengel",
-            "Michael Angelo Covino",
-            "Ray McKinnon",
-            "Mare Winningham"
+            "Saoirse Ronan",
+            "Laurie Metcalf",
+            "Tracy Letts",
+            "Lucas Hedges",
+            "Timoth\u00e9e Chalamet"
         ],
         "genres": [
             "Drama",
-            "Western",
-            "Adventure"
+            "Comedy"
         ]
     }
 }
