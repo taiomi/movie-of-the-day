@@ -1,27 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-02-28",
+    "lastUpdated": "2026-03-01",
     "movie": {
-        "id": 391713,
-        "title": "Lady Bird",
-        "tagline": "Fly away home.",
-        "overview": "Lady Bird McPherson, a strong willed, deeply opinionated, artistic 17 year old comes of age in Sacramento. Her relationship with her mother and her upbringing are questioned and tested as she plans to head off to college.",
-        "releaseDate": "2017-09-01",
-        "runtime": 94,
-        "voteAverage": 7.253,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/gl66K7zRdtNYGrxyS2YDUP5ASZd.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/4v4QhGHDYKkwSjzasmIomEQwLbS.jpg",
-        "director": "Greta Gerwig",
+        "id": 900,
+        "title": "Bringing Up Baby",
+        "tagline": "And so begins the hilarious adventure of Professor David Huxley and Miss Susan Vance, a flutter-brained vixen with love in her heart!",
+        "overview": "David Huxley is waiting to get a bone he needs for his museum collection. Through a series of strange circumstances, he meets Susan Vance, and the duo have a series of misadventures which include a leopard called Baby.",
+        "releaseDate": "1938-02-18",
+        "runtime": 102,
+        "voteAverage": 7.5,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/vTNNOtemaYmtx3k2NpsLMRJKEwZ.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/fzJgCQh2NBnUYlms8EGyr4bPNz3.jpg",
+        "director": "Howard Hawks",
         "cast": [
-            "Saoirse Ronan",
-            "Laurie Metcalf",
-            "Tracy Letts",
-            "Lucas Hedges",
-            "Timoth\u00e9e Chalamet"
+            "Katharine Hepburn",
+            "Cary Grant",
+            "Charles Ruggles",
+            "Walter Catlett",
+            "Barry Fitzgerald"
         ],
         "genres": [
-            "Drama",
-            "Comedy"
+            "Comedy",
+            "Romance"
         ]
     }
 }
