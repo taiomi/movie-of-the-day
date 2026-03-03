@@ -1,27 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-03-02",
+    "lastUpdated": "2026-03-03",
     "movie": {
-        "id": 981,
-        "title": "The Philadelphia Story",
-        "tagline": "Broadway's howling year-run comedy hit of the snooty society beauty who slipped and fell - IN LOVE!",
-        "overview": "When a rich woman's ex-husband and a tabloid-type reporter turn up just before her planned remarriage, she begins to learn the truth about herself.",
-        "releaseDate": "1940-12-05",
-        "runtime": 113,
-        "voteAverage": 7.583,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/dKUubjvxO78XDts6VP1Ggcp4R9O.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/iItypZVpdnxTFgA0iv345AzMUqk.jpg",
-        "director": "George Cukor",
+        "id": 2469,
+        "title": "Tie Me Up! Tie Me Down!",
+        "tagline": "A love story... with strings attached!",
+        "overview": "After being released from a mental hospital, a troubled young man tracks down an actress he once had sex with and forces her into captivity, determined to make her part of his life.",
+        "releaseDate": "1990-01-22",
+        "runtime": 102,
+        "voteAverage": 6.826,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/4eNyqA543ixNCME8pcADgP9wb1i.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/ovxdPoXYb3raXOAqokCqkCR83Jx.jpg",
+        "director": "Pedro Almod\u00f3var",
         "cast": [
-            "Cary Grant",
-            "Katharine Hepburn",
-            "James Stewart",
-            "Ruth Hussey",
-            "John Howard"
+            "Victoria Abril",
+            "Antonio Banderas",
+            "Loles Le\u00f3n",
+            "Julieta Serrano",
+            "Mar\u00eda Barranco"
         ],
         "genres": [
             "Comedy",
-            "Romance"
+            "Romance",
+            "Drama"
         ]
     }
 }
