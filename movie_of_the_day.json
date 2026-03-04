@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-03-03",
+    "lastUpdated": "2026-03-04",
     "movie": {
-        "id": 2469,
-        "title": "Tie Me Up! Tie Me Down!",
-        "tagline": "A love story... with strings attached!",
-        "overview": "After being released from a mental hospital, a troubled young man tracks down an actress he once had sex with and forces her into captivity, determined to make her part of his life.",
-        "releaseDate": "1990-01-22",
-        "runtime": 102,
-        "voteAverage": 6.826,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/4eNyqA543ixNCME8pcADgP9wb1i.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/ovxdPoXYb3raXOAqokCqkCR83Jx.jpg",
-        "director": "Pedro Almod\u00f3var",
+        "id": 629,
+        "title": "The Usual Suspects",
+        "tagline": "Five criminals. One line up. No coincidence.",
+        "overview": "Held in an L.A. interrogation room, Verbal Kint attempts to convince the feds that a mythic crime lord, Keyser Soze, not only exists, but was also responsible for drawing him and his four partners into a multi-million dollar heist that ended with an explosion in San Pedro harbor \u2013 leaving few survivors. Verbal lures his interrogators with an incredible story of the crime lord's almost supernatural prowess.",
+        "releaseDate": "1995-07-19",
+        "runtime": 106,
+        "voteAverage": 8.17,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/99X2SgyFunJFXGAYnDv3sb9pnUD.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/hy0Hx9fMPk2fmw26Li60z1S2giU.jpg",
+        "director": "Bryan Singer",
         "cast": [
-            "Victoria Abril",
-            "Antonio Banderas",
-            "Loles Le\u00f3n",
-            "Julieta Serrano",
-            "Mar\u00eda Barranco"
+            "Stephen Baldwin",
+            "Gabriel Byrne",
+            "Benicio del Toro",
+            "Kevin Pollak",
+            "Kevin Spacey"
         ],
         "genres": [
-            "Comedy",
-            "Romance",
-            "Drama"
+            "Drama",
+            "Crime",
+            "Thriller"
         ]
     }
 }
