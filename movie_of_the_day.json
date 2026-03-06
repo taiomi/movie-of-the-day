@@ -1,27 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-03-05",
+    "lastUpdated": "2026-03-06",
     "movie": {
-        "id": 1580,
-        "title": "Rope",
-        "tagline": "It begins with a shriek...it ends with a shot! From beginning to end, nothing ever held you like Alfred Hitchcock's ROPE!",
-        "overview": "Two young men attempt to prove they committed the perfect murder by hosting a dinner party for the family of a classmate they just strangled to death.",
-        "releaseDate": "1948-02-01",
-        "runtime": 81,
-        "voteAverage": 7.934,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/9ar6rxLDB8kagAnXZKn6h9smscr.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/81LX4wktTXWEXjLNlkHTmJm7tRu.jpg",
-        "director": "Alfred Hitchcock",
+        "id": 475557,
+        "title": "Joker",
+        "tagline": "Put on a happy face.",
+        "overview": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
+        "releaseDate": "2019-10-01",
+        "runtime": 122,
+        "voteAverage": 8.127,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/hO7KbdvGOtDdeg0W4Y5nKEHeDDh.jpg",
+        "director": "Todd Phillips",
         "cast": [
-            "James Stewart",
-            "John Dall",
-            "Farley Granger",
-            "Cedric Hardwicke",
-            "Constance Collier"
+            "Joaquin Phoenix",
+            "Robert De Niro",
+            "Zazie Beetz",
+            "Frances Conroy",
+            "Brett Cullen"
         ],
         "genres": [
-            "Thriller",
             "Crime",
+            "Thriller",
             "Drama"
         ]
     }
