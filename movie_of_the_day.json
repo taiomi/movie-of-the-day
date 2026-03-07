@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-03-06",
+    "lastUpdated": "2026-03-07",
     "movie": {
-        "id": 475557,
-        "title": "Joker",
-        "tagline": "Put on a happy face.",
-        "overview": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
-        "releaseDate": "2019-10-01",
-        "runtime": 122,
-        "voteAverage": 8.127,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/hO7KbdvGOtDdeg0W4Y5nKEHeDDh.jpg",
-        "director": "Todd Phillips",
+        "id": 17905,
+        "title": "Branded to Kill",
+        "tagline": "",
+        "overview": "After botching his latest assignment, a third-ranked Japanese hit man becomes the target of another assassin.",
+        "releaseDate": "1967-06-15",
+        "runtime": 91,
+        "voteAverage": 7.189,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/asiSCq1SFrCV4gy7PJzw8c3m0yL.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/eBX1etPQLrvOeJb9YQodwQzVKUf.jpg",
+        "director": "Seijun Suzuki",
         "cast": [
-            "Joaquin Phoenix",
-            "Robert De Niro",
-            "Zazie Beetz",
-            "Frances Conroy",
-            "Brett Cullen"
+            "Joe Shishido",
+            "K\u014dji Nanbara",
+            "Isao Tamagawa",
+            "Annu Mari",
+            "Mariko Ogawa"
         ],
         "genres": [
-            "Crime",
             "Thriller",
-            "Drama"
+            "Crime",
+            "Action"
         ]
     }
 }
