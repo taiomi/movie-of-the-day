@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-03-07",
+    "lastUpdated": "2026-03-08",
     "movie": {
-        "id": 17905,
-        "title": "Branded to Kill",
-        "tagline": "",
-        "overview": "After botching his latest assignment, a third-ranked Japanese hit man becomes the target of another assassin.",
-        "releaseDate": "1967-06-15",
-        "runtime": 91,
-        "voteAverage": 7.189,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/asiSCq1SFrCV4gy7PJzw8c3m0yL.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/eBX1etPQLrvOeJb9YQodwQzVKUf.jpg",
-        "director": "Seijun Suzuki",
+        "id": 18254,
+        "title": "Reds",
+        "tagline": "Not since Gone with the Wind has there been a great romantic epic like it!",
+        "overview": "An account of the revolutionary years of the legendary American journalist John Reed, who shared his adventurous professional life with his radical commitment to the socialist revolution in Russia, his dream of spreading its principles among the members of the American working class, and his troubled romantic relationship with the writer Louise Bryant.",
+        "releaseDate": "1981-12-25",
+        "runtime": 195,
+        "voteAverage": 6.859,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/AeiKdVVM93fwfQG1m3N0cgVZgHl.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/cDdB8JBflT4vBYlftoopSdTf4Wz.jpg",
+        "director": "Warren Beatty",
         "cast": [
-            "Joe Shishido",
-            "K\u014dji Nanbara",
-            "Isao Tamagawa",
-            "Annu Mari",
-            "Mariko Ogawa"
+            "Warren Beatty",
+            "Diane Keaton",
+            "Edward Herrmann",
+            "Jerzy Kosi\u0144ski",
+            "Jack Nicholson"
         ],
         "genres": [
-            "Thriller",
-            "Crime",
-            "Action"
+            "Drama",
+            "History",
+            "Romance"
         ]
     }
 }
