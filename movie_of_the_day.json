@@ -1,28 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-03-08",
+    "lastUpdated": "2026-03-09",
     "movie": {
-        "id": 18254,
-        "title": "Reds",
-        "tagline": "Not since Gone with the Wind has there been a great romantic epic like it!",
-        "overview": "An account of the revolutionary years of the legendary American journalist John Reed, who shared his adventurous professional life with his radical commitment to the socialist revolution in Russia, his dream of spreading its principles among the members of the American working class, and his troubled romantic relationship with the writer Louise Bryant.",
-        "releaseDate": "1981-12-25",
-        "runtime": 195,
-        "voteAverage": 6.859,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/AeiKdVVM93fwfQG1m3N0cgVZgHl.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/cDdB8JBflT4vBYlftoopSdTf4Wz.jpg",
-        "director": "Warren Beatty",
+        "id": 47796,
+        "title": "Mamma Roma",
+        "tagline": "",
+        "overview": "After years spent working as a prostitute in her Italian village, middle-aged Mamma Roma has saved enough money to buy herself a fruit stand so that she can have a respectable middle-class life and reestablish contact with the 16-year-old son she abandoned when he was an infant. But her former pimp threatens to expose her sordid past, and her troubled son seems destined to fall into a life of crime and violence.",
+        "releaseDate": "1962-09-22",
+        "runtime": 110,
+        "voteAverage": 7.9,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/uVMv0t9JhisONjI2kMoTpcWL4oo.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/4OqoSolfhNesDAfv2zluIDVXiPR.jpg",
+        "director": "Pier Paolo Pasolini",
         "cast": [
-            "Warren Beatty",
-            "Diane Keaton",
-            "Edward Herrmann",
-            "Jerzy Kosi\u0144ski",
-            "Jack Nicholson"
+            "Anna Magnani",
+            "Ettore Garofolo",
+            "Franco Citti",
+            "Silvana Corsini",
+            "Luisa Loiano"
         ],
         "genres": [
-            "Drama",
-            "History",
-            "Romance"
+            "Drama"
         ]
     }
 }
