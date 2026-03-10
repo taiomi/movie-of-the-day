@@ -1,26 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-03-09",
+    "lastUpdated": "2026-03-10",
     "movie": {
-        "id": 47796,
-        "title": "Mamma Roma",
+        "id": 38368,
+        "title": "Uncle Boonmee Who Can Recall His Past Lives",
         "tagline": "",
-        "overview": "After years spent working as a prostitute in her Italian village, middle-aged Mamma Roma has saved enough money to buy herself a fruit stand so that she can have a respectable middle-class life and reestablish contact with the 16-year-old son she abandoned when he was an infant. But her former pimp threatens to expose her sordid past, and her troubled son seems destined to fall into a life of crime and violence.",
-        "releaseDate": "1962-09-22",
-        "runtime": 110,
-        "voteAverage": 7.9,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/uVMv0t9JhisONjI2kMoTpcWL4oo.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/4OqoSolfhNesDAfv2zluIDVXiPR.jpg",
-        "director": "Pier Paolo Pasolini",
+        "overview": "Suffering from acute kidney failure, Boonmee has chosen to spend his final days surrounded by his loved ones in the countryside. Surprisingly, the ghost of his deceased wife appears to care for him, and his long lost son returns home in a non-human form. Contemplating the reasons for his illness, Boonmee treks through the jungle with his family to a mysterious hilltop cave\u2014the birthplace of his first life.",
+        "releaseDate": "2010-06-25",
+        "runtime": 114,
+        "voteAverage": 6.628,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/iZinYNVaBLg3pj4e8IXwvfXAtrI.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/6KvTXWweemPG4wK3XCFsCPxKZp1.jpg",
+        "director": "Apichatpong Weerasethakul",
         "cast": [
-            "Anna Magnani",
-            "Ettore Garofolo",
-            "Franco Citti",
-            "Silvana Corsini",
-            "Luisa Loiano"
+            "Thanapat Saisaymar",
+            "Jenjira Pongpas",
+            "Sakda Kaewbuadee",
+            "Natthakarn Aphaiwonk",
+            "Geerasak Kulhong"
         ],
         "genres": [
-            "Drama"
+            "Drama",
+            "Fantasy"
         ]
     }
 }
