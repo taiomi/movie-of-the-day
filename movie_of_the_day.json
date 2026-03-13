@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-03-12",
+    "lastUpdated": "2026-03-13",
     "movie": {
-        "id": 30368,
-        "title": "Stray Dog",
-        "tagline": "The Suspense Filled Story of 7 Bullets!",
-        "overview": "A bad day gets worse for young detective Murakami when a pickpocket steals his gun on a hot, crowded bus. Desperate to right the wrong, he goes undercover, scavenging Tokyo\u2019s sweltering streets for the stray dog whose desperation has led him to a life of crime. With each step, cop and criminal\u2019s lives become more intertwined and the investigation becomes an examination of Murakami\u2019s own dark side.",
-        "releaseDate": "1949-10-17",
-        "runtime": 122,
-        "voteAverage": 7.555,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/riBzUgeYawBDi2q9PjARjHrQM7Z.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/IA0soICVhULMYG8z3xRc8iLA3O.jpg",
-        "director": "Akira Kurosawa",
+        "id": 8392,
+        "title": "My Neighbor Totoro",
+        "tagline": "He's your friendly neighbourhood forest spirit!",
+        "overview": "Two sisters move to the country with their father in order to be closer to their hospitalized mother, and discover the surrounding trees are inhabited by Totoros, magical spirits of the forest. When the youngest runs away from home, the older sister seeks help from the spirits to find her.",
+        "releaseDate": "1988-04-16",
+        "runtime": 86,
+        "voteAverage": 8.062,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/rtGDOeG9LzoerkDGZF9dnVeLppL.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/6O1mOoTXuc1WqjKd2R7MFQHZ7Eb.jpg",
+        "director": "Hayao Miyazaki",
         "cast": [
-            "Toshir\u014d Mifune",
-            "Takashi Shimura",
-            "Keiko Awaji",
-            "Eiko Miyoshi",
-            "Noriko Sengoku"
+            "Noriko Hidaka",
+            "Chika Sakamoto",
+            "Hitoshi Takagi",
+            "Shigesato Itoi",
+            "Sumi Shimamoto"
         ],
         "genres": [
-            "Crime",
-            "Drama",
-            "Thriller"
+            "Fantasy",
+            "Animation",
+            "Family"
         ]
     }
 }
