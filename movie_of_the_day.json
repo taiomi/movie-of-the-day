@@ -1,28 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-03-13",
+    "lastUpdated": "2026-03-14",
     "movie": {
-        "id": 8392,
-        "title": "My Neighbor Totoro",
-        "tagline": "He's your friendly neighbourhood forest spirit!",
-        "overview": "Two sisters move to the country with their father in order to be closer to their hospitalized mother, and discover the surrounding trees are inhabited by Totoros, magical spirits of the forest. When the youngest runs away from home, the older sister seeks help from the spirits to find her.",
-        "releaseDate": "1988-04-16",
+        "id": 636,
+        "title": "THX 1138",
+        "tagline": "The Future is here.",
+        "overview": "People in the future live in a totalitarian society. A technician named THX 1138 lives a mundane life between work and taking a controlled consumption of drugs that the government uses to make puppets out of people. As THX is without drugs for the first time he has feelings for a woman and they start a secret relationship.",
+        "releaseDate": "1971-03-11",
         "runtime": 86,
-        "voteAverage": 8.062,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/rtGDOeG9LzoerkDGZF9dnVeLppL.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/6O1mOoTXuc1WqjKd2R7MFQHZ7Eb.jpg",
-        "director": "Hayao Miyazaki",
+        "voteAverage": 6.447,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/pPyEXW7h2SJRjTsHZqrIlXxOgW9.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/1eqRvEXc2gpepCaUevYj9RCjusc.jpg",
+        "director": "George Lucas",
         "cast": [
-            "Noriko Hidaka",
-            "Chika Sakamoto",
-            "Hitoshi Takagi",
-            "Shigesato Itoi",
-            "Sumi Shimamoto"
+            "Robert Duvall",
+            "Donald Pleasence",
+            "Don Pedro Colley",
+            "Maggie McOmie",
+            "Ian Wolfe"
         ],
         "genres": [
-            "Fantasy",
-            "Animation",
-            "Family"
+            "Science Fiction",
+            "Drama"
         ]
     }
 }
