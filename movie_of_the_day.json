@@ -1,27 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-03-14",
+    "lastUpdated": "2026-03-15",
     "movie": {
-        "id": 636,
-        "title": "THX 1138",
-        "tagline": "The Future is here.",
-        "overview": "People in the future live in a totalitarian society. A technician named THX 1138 lives a mundane life between work and taking a controlled consumption of drugs that the government uses to make puppets out of people. As THX is without drugs for the first time he has feelings for a woman and they start a secret relationship.",
-        "releaseDate": "1971-03-11",
-        "runtime": 86,
-        "voteAverage": 6.447,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/pPyEXW7h2SJRjTsHZqrIlXxOgW9.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/1eqRvEXc2gpepCaUevYj9RCjusc.jpg",
-        "director": "George Lucas",
+        "id": 678,
+        "title": "Out of the Past",
+        "tagline": "OUT of the Sun, OUT of the Moonlight, OUT of the Past.",
+        "overview": "The peaceful life of a gas station owner is disrupted when a man from his past arrives in town and forces him to return to the dark world he had tried to escape.",
+        "releaseDate": "1947-11-25",
+        "runtime": 97,
+        "voteAverage": 7.652,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/lnUK6Cg5ARM0qaq0B5SG20VAM0h.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/9qGWOflC5WNhaKk2UPYu55SjjNj.jpg",
+        "director": "Jacques Tourneur",
         "cast": [
-            "Robert Duvall",
-            "Donald Pleasence",
-            "Don Pedro Colley",
-            "Maggie McOmie",
-            "Ian Wolfe"
+            "Robert Mitchum",
+            "Jane Greer",
+            "Kirk Douglas",
+            "Paul Valentine",
+            "Virginia Huston"
         ],
         "genres": [
-            "Science Fiction",
-            "Drama"
+            "Crime",
+            "Thriller"
         ]
     }
 }
