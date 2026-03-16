@@ -1,27 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-03-15",
+    "lastUpdated": "2026-03-16",
     "movie": {
-        "id": 678,
-        "title": "Out of the Past",
-        "tagline": "OUT of the Sun, OUT of the Moonlight, OUT of the Past.",
-        "overview": "The peaceful life of a gas station owner is disrupted when a man from his past arrives in town and forces him to return to the dark world he had tried to escape.",
-        "releaseDate": "1947-11-25",
-        "runtime": 97,
-        "voteAverage": 7.652,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/lnUK6Cg5ARM0qaq0B5SG20VAM0h.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/9qGWOflC5WNhaKk2UPYu55SjjNj.jpg",
-        "director": "Jacques Tourneur",
+        "id": 29264,
+        "title": "The Exterminating Angel",
+        "tagline": "The degeneration of high society!",
+        "overview": "After a lavish dinner party, the guests find themselves unable to depart... and, over the next few days, all of their elaborate societal pretenses and fa\u00e7ades deteriorate as they are reduced to living like animals.",
+        "releaseDate": "1962-05-16",
+        "runtime": 93,
+        "voteAverage": 7.934,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/qqZXHvBFxUpo8Pfbyvgh4SYMiWm.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/wJ4HyVZsbZRWH7BS3bLZsvO31rZ.jpg",
+        "director": "Luis Bu\u00f1uel",
         "cast": [
-            "Robert Mitchum",
-            "Jane Greer",
-            "Kirk Douglas",
-            "Paul Valentine",
-            "Virginia Huston"
+            "Silvia Pinal",
+            "Jacqueline Andere",
+            "Claudio Brook",
+            "Enrique Rambal",
+            "Jos\u00e9 Baviera"
         ],
         "genres": [
-            "Crime",
-            "Thriller"
+            "Comedy",
+            "Drama",
+            "Fantasy"
         ]
     }
 }
