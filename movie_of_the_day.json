@@ -1,28 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-03-16",
+    "lastUpdated": "2026-03-17",
     "movie": {
-        "id": 29264,
-        "title": "The Exterminating Angel",
-        "tagline": "The degeneration of high society!",
-        "overview": "After a lavish dinner party, the guests find themselves unable to depart... and, over the next few days, all of their elaborate societal pretenses and fa\u00e7ades deteriorate as they are reduced to living like animals.",
-        "releaseDate": "1962-05-16",
-        "runtime": 93,
-        "voteAverage": 7.934,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/qqZXHvBFxUpo8Pfbyvgh4SYMiWm.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/wJ4HyVZsbZRWH7BS3bLZsvO31rZ.jpg",
-        "director": "Luis Bu\u00f1uel",
+        "id": 41662,
+        "title": "3 Women",
+        "tagline": "1 Woman Became 2, 2 Women Became 3, 3 Women Became 1.",
+        "overview": "Two co-workers, one a vain woman and the other an awkward teenager, share an increasingly bizarre relationship after becoming roommates.",
+        "releaseDate": "1977-04-29",
+        "runtime": 124,
+        "voteAverage": 7.1,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/uL5Yg8MEgHGXymTaJBYXn9g0xsH.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/pTmMEIW2cyOkcSRkWTCDEbd5if0.jpg",
+        "director": "Robert Altman",
         "cast": [
-            "Silvia Pinal",
-            "Jacqueline Andere",
-            "Claudio Brook",
-            "Enrique Rambal",
-            "Jos\u00e9 Baviera"
+            "Shelley Duvall",
+            "Sissy Spacek",
+            "Janice Rule",
+            "Robert Fortier",
+            "Ruth Nelson"
         ],
         "genres": [
-            "Comedy",
-            "Drama",
-            "Fantasy"
+            "Drama"
         ]
     }
 }
