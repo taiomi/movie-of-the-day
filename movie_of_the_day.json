@@ -1,26 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-03-17",
+    "lastUpdated": "2026-03-18",
     "movie": {
-        "id": 41662,
-        "title": "3 Women",
-        "tagline": "1 Woman Became 2, 2 Women Became 3, 3 Women Became 1.",
-        "overview": "Two co-workers, one a vain woman and the other an awkward teenager, share an increasingly bizarre relationship after becoming roommates.",
-        "releaseDate": "1977-04-29",
-        "runtime": 124,
-        "voteAverage": 7.1,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/uL5Yg8MEgHGXymTaJBYXn9g0xsH.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/pTmMEIW2cyOkcSRkWTCDEbd5if0.jpg",
-        "director": "Robert Altman",
+        "id": 42726,
+        "title": "A Man and a Woman",
+        "tagline": "See it with someone you love!",
+        "overview": "A man and a woman meet by accident on a Sunday evening at their childrens' boarding school. Slowly, they reveal themselves to each other, finding that they have something deeply in common.",
+        "releaseDate": "1966-05-27",
+        "runtime": 102,
+        "voteAverage": 7.349,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/boDZQiubhyhksN8fcgM4sXZ2btW.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/le6I7w3QnNAzPn9MCVHzJuBZxXt.jpg",
+        "director": "Claude Lelouch",
         "cast": [
-            "Shelley Duvall",
-            "Sissy Spacek",
-            "Janice Rule",
-            "Robert Fortier",
-            "Ruth Nelson"
+            "Anouk Aim\u00e9e",
+            "Jean-Louis Trintignant",
+            "Pierre Barouh",
+            "Val\u00e9rie Lagrange",
+            "Antoine Sire"
         ],
         "genres": [
-            "Drama"
+            "Drama",
+            "Romance"
         ]
     }
 }
