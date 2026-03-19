@@ -1,27 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-03-18",
+    "lastUpdated": "2026-03-19",
     "movie": {
-        "id": 42726,
-        "title": "A Man and a Woman",
-        "tagline": "See it with someone you love!",
-        "overview": "A man and a woman meet by accident on a Sunday evening at their childrens' boarding school. Slowly, they reveal themselves to each other, finding that they have something deeply in common.",
-        "releaseDate": "1966-05-27",
-        "runtime": 102,
-        "voteAverage": 7.349,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/boDZQiubhyhksN8fcgM4sXZ2btW.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/le6I7w3QnNAzPn9MCVHzJuBZxXt.jpg",
-        "director": "Claude Lelouch",
+        "id": 10514,
+        "title": "The Andromeda Strain",
+        "tagline": "The picture runs 130 minutes... The story covers 96 of the most critical hours in man's history... The suspense will last through your lifetime!",
+        "overview": "When virtually all of the residents of Piedmont, New Mexico, are found dead after the return to Earth of a space satellite, the head of the US Air Force's Project Scoop declares an emergency. A group of eminent scientists led by Dr. Jeremy Stone scramble to a secure laboratory and try to first isolate the life form while determining why two people from Piedmont - an old alcoholic and a six-month-old baby - survived. The scientists methodically study the alien life form unaware that it has already mutated and presents a far greater danger in the lab, which is equipped with a nuclear self-destruct device designed to prevent the escape of dangerous biological agents.",
+        "releaseDate": "1971-03-12",
+        "runtime": 131,
+        "voteAverage": 7.1,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/4FBSFz8wLpxd4o6hnvKOJJ8WSIz.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/9PPx5qspyRA0LBTBHo0BX57Vzow.jpg",
+        "director": "Robert Wise",
         "cast": [
-            "Anouk Aim\u00e9e",
-            "Jean-Louis Trintignant",
-            "Pierre Barouh",
-            "Val\u00e9rie Lagrange",
-            "Antoine Sire"
+            "Arthur Hill",
+            "David Wayne",
+            "James Olson",
+            "Kate Reid",
+            "Paula Kelly"
         ],
         "genres": [
-            "Drama",
-            "Romance"
+            "Science Fiction",
+            "Thriller"
         ]
     }
 }
