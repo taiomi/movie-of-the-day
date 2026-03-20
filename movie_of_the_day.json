@@ -1,27 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-03-19",
+    "lastUpdated": "2026-03-20",
     "movie": {
-        "id": 10514,
-        "title": "The Andromeda Strain",
-        "tagline": "The picture runs 130 minutes... The story covers 96 of the most critical hours in man's history... The suspense will last through your lifetime!",
-        "overview": "When virtually all of the residents of Piedmont, New Mexico, are found dead after the return to Earth of a space satellite, the head of the US Air Force's Project Scoop declares an emergency. A group of eminent scientists led by Dr. Jeremy Stone scramble to a secure laboratory and try to first isolate the life form while determining why two people from Piedmont - an old alcoholic and a six-month-old baby - survived. The scientists methodically study the alien life form unaware that it has already mutated and presents a far greater danger in the lab, which is equipped with a nuclear self-destruct device designed to prevent the escape of dangerous biological agents.",
-        "releaseDate": "1971-03-12",
-        "runtime": 131,
-        "voteAverage": 7.1,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/4FBSFz8wLpxd4o6hnvKOJJ8WSIz.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/9PPx5qspyRA0LBTBHo0BX57Vzow.jpg",
-        "director": "Robert Wise",
+        "id": 11400,
+        "title": "The New World",
+        "tagline": "Once discovered, it was changed forever.",
+        "overview": "A drama about explorer John Smith and the clash between Native Americans and English settlers in the 17th century.",
+        "releaseDate": "2005-12-25",
+        "runtime": 151,
+        "voteAverage": 6.514,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/dPyWMlQd54r3pK17GKG3iqjvNZ7.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/basalqnxZZdLnc2qd60Zy5WYR2k.jpg",
+        "director": "Terrence Malick",
         "cast": [
-            "Arthur Hill",
-            "David Wayne",
-            "James Olson",
-            "Kate Reid",
-            "Paula Kelly"
+            "Colin Farrell",
+            "Q'orianka Kilcher",
+            "Christopher Plummer",
+            "Christian Bale",
+            "August Schellenberg"
         ],
         "genres": [
-            "Science Fiction",
-            "Thriller"
+            "Drama",
+            "History",
+            "Romance"
         ]
     }
 }
