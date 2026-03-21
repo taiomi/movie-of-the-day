@@ -1,28 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-03-20",
+    "lastUpdated": "2026-03-21",
     "movie": {
-        "id": 11400,
-        "title": "The New World",
-        "tagline": "Once discovered, it was changed forever.",
-        "overview": "A drama about explorer John Smith and the clash between Native Americans and English settlers in the 17th century.",
-        "releaseDate": "2005-12-25",
-        "runtime": 151,
-        "voteAverage": 6.514,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/dPyWMlQd54r3pK17GKG3iqjvNZ7.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/basalqnxZZdLnc2qd60Zy5WYR2k.jpg",
-        "director": "Terrence Malick",
+        "id": 17058,
+        "title": "Scarlet Street",
+        "tagline": "The things she does to men can end only one way - in murder!",
+        "overview": "Cashier and part-time starving artist Christopher Cross is absolutely smitten with the beautiful Kitty March. Kitty plays along, but she's really only interested in Johnny, a two-bit crook. When Kitty and Johnny find out that art dealers are interested in Chris's work, they con him into letting Kitty take credit for the paintings. Cross allows it because he is in love with Kitty, but his love will only let her get away with so much.",
+        "releaseDate": "1945-12-25",
+        "runtime": 103,
+        "voteAverage": 7.593,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/eGEDor1BWSQGaLtOntPHUSqNzRC.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/g0phljbAcccz7bkSZpFEPVLuIRP.jpg",
+        "director": "Fritz Lang",
         "cast": [
-            "Colin Farrell",
-            "Q'orianka Kilcher",
-            "Christopher Plummer",
-            "Christian Bale",
-            "August Schellenberg"
+            "Edward G. Robinson",
+            "Joan Bennett",
+            "Dan Duryea",
+            "Margaret Lindsay",
+            "Jess Barker"
         ],
         "genres": [
             "Drama",
-            "History",
-            "Romance"
+            "Crime"
         ]
     }
 }
