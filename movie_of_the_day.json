@@ -1,27 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-03-21",
+    "lastUpdated": "2026-03-22",
     "movie": {
-        "id": 17058,
-        "title": "Scarlet Street",
-        "tagline": "The things she does to men can end only one way - in murder!",
-        "overview": "Cashier and part-time starving artist Christopher Cross is absolutely smitten with the beautiful Kitty March. Kitty plays along, but she's really only interested in Johnny, a two-bit crook. When Kitty and Johnny find out that art dealers are interested in Chris's work, they con him into letting Kitty take credit for the paintings. Cross allows it because he is in love with Kitty, but his love will only let her get away with so much.",
-        "releaseDate": "1945-12-25",
-        "runtime": 103,
-        "voteAverage": 7.593,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/eGEDor1BWSQGaLtOntPHUSqNzRC.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/g0phljbAcccz7bkSZpFEPVLuIRP.jpg",
-        "director": "Fritz Lang",
+        "id": 1878,
+        "title": "Fear and Loathing in Las Vegas",
+        "tagline": "Buy the ticket, take the ride.",
+        "overview": "Raoul Duke and his attorney Dr. Gonzo drive a red convertible across the Mojave desert to Las Vegas with a suitcase full of drugs to cover a motorcycle race. As their consumption of drugs increases at an alarming rate, the stoned duo trash their hotel room and fear legal repercussions. Duke begins to drive back to L.A., but after an odd run-in with a cop, he returns to Sin City and continues his wild drug binge.",
+        "releaseDate": "1998-05-22",
+        "runtime": 118,
+        "voteAverage": 7.209,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/tisNLcMkxryU2zxhi0PiyDFqhm0.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/4BcunK3qpDAMBM5YBsCgQWx9zB6.jpg",
+        "director": "Terry Gilliam",
         "cast": [
-            "Edward G. Robinson",
-            "Joan Bennett",
-            "Dan Duryea",
-            "Margaret Lindsay",
-            "Jess Barker"
+            "Johnny Depp",
+            "Benicio del Toro",
+            "Tobey Maguire",
+            "Michael Lee Gogin",
+            "Larry Cedar"
         ],
         "genres": [
+            "Adventure",
             "Drama",
-            "Crime"
+            "Comedy"
         ]
     }
 }
