@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-03-22",
+    "lastUpdated": "2026-03-23",
     "movie": {
-        "id": 1878,
-        "title": "Fear and Loathing in Las Vegas",
-        "tagline": "Buy the ticket, take the ride.",
-        "overview": "Raoul Duke and his attorney Dr. Gonzo drive a red convertible across the Mojave desert to Las Vegas with a suitcase full of drugs to cover a motorcycle race. As their consumption of drugs increases at an alarming rate, the stoned duo trash their hotel room and fear legal repercussions. Duke begins to drive back to L.A., but after an odd run-in with a cop, he returns to Sin City and continues his wild drug binge.",
-        "releaseDate": "1998-05-22",
-        "runtime": 118,
-        "voteAverage": 7.209,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/tisNLcMkxryU2zxhi0PiyDFqhm0.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/4BcunK3qpDAMBM5YBsCgQWx9zB6.jpg",
-        "director": "Terry Gilliam",
+        "id": 12477,
+        "title": "Grave of the Fireflies",
+        "tagline": "Why do fireflies have to die so soon?",
+        "overview": "In the final months of World War II, 14-year-old Seita and his sister Setsuko are orphaned when their mother is killed during an air raid in Kobe, Japan. After a falling out with their aunt, they move into an abandoned bomb shelter. With no surviving relatives and their emergency rations depleted, Seita and Setsuko struggle to survive.",
+        "releaseDate": "1988-04-16",
+        "runtime": 89,
+        "voteAverage": 8.444,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/k9tv1rXZbOhH7eiCk378x61kNQ1.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/aHaqZpOL7UyVu0nKqp3SMz0o2E1.jpg",
+        "director": "Isao Takahata",
         "cast": [
-            "Johnny Depp",
-            "Benicio del Toro",
-            "Tobey Maguire",
-            "Michael Lee Gogin",
-            "Larry Cedar"
+            "Tsutomu Tatsumi",
+            "Ayano Shiraishi",
+            "Yoshiko Shinohara",
+            "Akemi Yamaguchi",
+            "Masayo Sakai"
         ],
         "genres": [
-            "Adventure",
+            "Animation",
             "Drama",
-            "Comedy"
+            "War"
         ]
     }
 }
