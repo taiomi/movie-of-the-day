@@ -1,28 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-03-23",
+    "lastUpdated": "2026-03-24",
     "movie": {
-        "id": 12477,
-        "title": "Grave of the Fireflies",
-        "tagline": "Why do fireflies have to die so soon?",
-        "overview": "In the final months of World War II, 14-year-old Seita and his sister Setsuko are orphaned when their mother is killed during an air raid in Kobe, Japan. After a falling out with their aunt, they move into an abandoned bomb shelter. With no surviving relatives and their emergency rations depleted, Seita and Setsuko struggle to survive.",
-        "releaseDate": "1988-04-16",
-        "runtime": 89,
-        "voteAverage": 8.444,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/k9tv1rXZbOhH7eiCk378x61kNQ1.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/aHaqZpOL7UyVu0nKqp3SMz0o2E1.jpg",
-        "director": "Isao Takahata",
+        "id": 335,
+        "title": "Once Upon a Time in the West",
+        "tagline": "There were three men in her life. One to take her\u2026 one to love her \u2014and one to kill her.",
+        "overview": "As the railroad builders advance unstoppably through the Arizona desert on their way to the sea, Jill arrives in the small town of Flagstone with the intention of starting a new life.",
+        "releaseDate": "1968-12-21",
+        "runtime": 166,
+        "voteAverage": 8.276,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/qbYgqOczabWNn2XKwgMtVrntD6P.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/h31SOVlekuHXsMWVGxI8nPPfY82.jpg",
+        "director": "Sergio Leone",
         "cast": [
-            "Tsutomu Tatsumi",
-            "Ayano Shiraishi",
-            "Yoshiko Shinohara",
-            "Akemi Yamaguchi",
-            "Masayo Sakai"
+            "Claudia Cardinale",
+            "Henry Fonda",
+            "Jason Robards",
+            "Charles Bronson",
+            "Gabriele Ferzetti"
         ],
         "genres": [
-            "Animation",
             "Drama",
-            "War"
+            "Western"
         ]
     }
 }
