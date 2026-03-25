@@ -1,27 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-03-24",
+    "lastUpdated": "2026-03-25",
     "movie": {
-        "id": 335,
-        "title": "Once Upon a Time in the West",
-        "tagline": "There were three men in her life. One to take her\u2026 one to love her \u2014and one to kill her.",
-        "overview": "As the railroad builders advance unstoppably through the Arizona desert on their way to the sea, Jill arrives in the small town of Flagstone with the intention of starting a new life.",
-        "releaseDate": "1968-12-21",
-        "runtime": 166,
-        "voteAverage": 8.276,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/qbYgqOczabWNn2XKwgMtVrntD6P.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/h31SOVlekuHXsMWVGxI8nPPfY82.jpg",
-        "director": "Sergio Leone",
+        "id": 3109,
+        "title": "The Quiet Man",
+        "tagline": "Action... Excitement... Romance... Fill the Screen!",
+        "overview": "An American man returns to the village of his birth in Ireland, where he finds love and conflict.",
+        "releaseDate": "1952-07-21",
+        "runtime": 129,
+        "voteAverage": 7.319,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/u3B1hVKHE56yBRoxF3Nk9uxHdYN.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/5vuQnRJURp6rZoEEnhW0HC7DBQc.jpg",
+        "director": "John Ford",
         "cast": [
-            "Claudia Cardinale",
-            "Henry Fonda",
-            "Jason Robards",
-            "Charles Bronson",
-            "Gabriele Ferzetti"
+            "John Wayne",
+            "Maureen O'Hara",
+            "Victor McLaglen",
+            "Barry Fitzgerald",
+            "Ward Bond"
         ],
         "genres": [
-            "Drama",
-            "Western"
+            "Romance",
+            "Comedy",
+            "Drama"
         ]
     }
 }
