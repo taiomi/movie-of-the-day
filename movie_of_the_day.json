@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-03-25",
+    "lastUpdated": "2026-03-26",
     "movie": {
-        "id": 3109,
-        "title": "The Quiet Man",
-        "tagline": "Action... Excitement... Romance... Fill the Screen!",
-        "overview": "An American man returns to the village of his birth in Ireland, where he finds love and conflict.",
-        "releaseDate": "1952-07-21",
-        "runtime": 129,
-        "voteAverage": 7.319,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/u3B1hVKHE56yBRoxF3Nk9uxHdYN.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/5vuQnRJURp6rZoEEnhW0HC7DBQc.jpg",
-        "director": "John Ford",
+        "id": 93,
+        "title": "Anatomy of a Murder",
+        "tagline": "No search of human emotions has ever probed so deeply, so truthfully as\u2026 Anatomy of a Murder.",
+        "overview": "Semi-retired Michigan lawyer Paul Biegler takes the case of Army Lt. Manion, who murdered a local innkeeper after his wife claimed that he raped her. Over the course of an extensive trial, Biegler parries with District Attorney Lodwick and out-of-town prosecutor Claude Dancer to set his client free, but his case rests on the victim's mysterious business partner, who's hiding a dark secret.",
+        "releaseDate": "1959-07-01",
+        "runtime": 161,
+        "voteAverage": 7.8,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/b2G1QSAwtBv9luhEwErIgSRaU92.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/xfEU7DOlQPwz8Y0TBhKmpETuNIc.jpg",
+        "director": "Otto Preminger",
         "cast": [
-            "John Wayne",
-            "Maureen O'Hara",
-            "Victor McLaglen",
-            "Barry Fitzgerald",
-            "Ward Bond"
+            "James Stewart",
+            "Lee Remick",
+            "Ben Gazzara",
+            "Arthur O'Connell",
+            "Eve Arden"
         ],
         "genres": [
-            "Romance",
-            "Comedy",
-            "Drama"
+            "Crime",
+            "Drama",
+            "Mystery"
         ]
     }
 }

@@ -1514,3 +1514,7 @@
 [2026-03-25 04:22:19] Selected movie: The Quiet Man (ID: 3109) for day 373 since start
 [2026-03-25 04:22:19] Successfully saved movie data for: The Quiet Man
 [2026-03-25 04:22:19] Movie fetch process completed
+[2026-03-26 04:33:40] Starting movie fetch process
+[2026-03-26 04:33:40] Selected movie: Anatomy of a Murder (ID: 93) for day 374 since start
+[2026-03-26 04:33:40] Successfully saved movie data for: Anatomy of a Murder
+[2026-03-26 04:33:40] Movie fetch process completed
