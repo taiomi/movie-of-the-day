@@ -1,28 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-03-26",
+    "lastUpdated": "2026-03-27",
     "movie": {
-        "id": 93,
-        "title": "Anatomy of a Murder",
-        "tagline": "No search of human emotions has ever probed so deeply, so truthfully as\u2026 Anatomy of a Murder.",
-        "overview": "Semi-retired Michigan lawyer Paul Biegler takes the case of Army Lt. Manion, who murdered a local innkeeper after his wife claimed that he raped her. Over the course of an extensive trial, Biegler parries with District Attorney Lodwick and out-of-town prosecutor Claude Dancer to set his client free, but his case rests on the victim's mysterious business partner, who's hiding a dark secret.",
-        "releaseDate": "1959-07-01",
-        "runtime": 161,
-        "voteAverage": 7.8,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/b2G1QSAwtBv9luhEwErIgSRaU92.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/xfEU7DOlQPwz8Y0TBhKmpETuNIc.jpg",
-        "director": "Otto Preminger",
+        "id": 11700,
+        "title": "Smiles of a Summer Night",
+        "tagline": "A sexy frolic about the sport of love",
+        "overview": "Early in the 20th century, middle-aged lawyer Fredrik Egerman and his young wife, Anne, have still not consummated their marriage, while Fredrik's son finds himself increasingly attracted to his new stepmother. To make matters worse, Fredrik's old flame Desiree makes a public bet that she can seduce him at a romantic weekend retreat where four couples convene, swapping partners and pairing off in unexpected ways.",
+        "releaseDate": "1955-12-26",
+        "runtime": 109,
+        "voteAverage": 7.4,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/wKeV8lKz8k9DDBCw6MJ9MkhvhqF.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/mPpEL0P0JSw8AdjB2fx4NzIUIFZ.jpg",
+        "director": "Ingmar Bergman",
         "cast": [
-            "James Stewart",
-            "Lee Remick",
-            "Ben Gazzara",
-            "Arthur O'Connell",
-            "Eve Arden"
+            "Gunnar Bj\u00f6rnstrand",
+            "Ulla Jacobsson",
+            "Eva Dahlbeck",
+            "Harriet Andersson",
+            "Margit Carlqvist"
         ],
         "genres": [
-            "Crime",
-            "Drama",
-            "Mystery"
+            "Comedy",
+            "Romance"
         ]
     }
 }
