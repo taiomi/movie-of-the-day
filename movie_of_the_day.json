@@ -1,27 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-03-27",
+    "lastUpdated": "2026-03-28",
     "movie": {
-        "id": 11700,
-        "title": "Smiles of a Summer Night",
-        "tagline": "A sexy frolic about the sport of love",
-        "overview": "Early in the 20th century, middle-aged lawyer Fredrik Egerman and his young wife, Anne, have still not consummated their marriage, while Fredrik's son finds himself increasingly attracted to his new stepmother. To make matters worse, Fredrik's old flame Desiree makes a public bet that she can seduce him at a romantic weekend retreat where four couples convene, swapping partners and pairing off in unexpected ways.",
-        "releaseDate": "1955-12-26",
-        "runtime": 109,
-        "voteAverage": 7.4,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/wKeV8lKz8k9DDBCw6MJ9MkhvhqF.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/mPpEL0P0JSw8AdjB2fx4NzIUIFZ.jpg",
-        "director": "Ingmar Bergman",
+        "id": 129,
+        "title": "Spirited Away",
+        "tagline": "Beyond the tunnel was a mysterious town.",
+        "overview": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+        "releaseDate": "2001-07-20",
+        "runtime": 125,
+        "voteAverage": 8.534,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/ukfI9QkU1aIhOhKXYWE9n3z1mFR.jpg",
+        "director": "Hayao Miyazaki",
         "cast": [
-            "Gunnar Bj\u00f6rnstrand",
-            "Ulla Jacobsson",
-            "Eva Dahlbeck",
-            "Harriet Andersson",
-            "Margit Carlqvist"
+            "Rumi Hiiragi",
+            "Miyu Irino",
+            "Mari Natsuki",
+            "Takashi Naito",
+            "Yasuko Sawaguchi"
         ],
         "genres": [
-            "Comedy",
-            "Romance"
+            "Animation",
+            "Family",
+            "Fantasy"
         ]
     }
 }
