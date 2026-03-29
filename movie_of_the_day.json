@@ -1,28 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-03-28",
+    "lastUpdated": "2026-03-29",
     "movie": {
-        "id": 129,
-        "title": "Spirited Away",
-        "tagline": "Beyond the tunnel was a mysterious town.",
-        "overview": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
-        "releaseDate": "2001-07-20",
-        "runtime": 125,
-        "voteAverage": 8.534,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/ukfI9QkU1aIhOhKXYWE9n3z1mFR.jpg",
-        "director": "Hayao Miyazaki",
+        "id": 1008042,
+        "title": "Talk to Me",
+        "tagline": "You call. They'll answer.",
+        "overview": "When a group of friends discover how to conjure spirits using an embalmed hand, they become hooked on the new thrill, until one of them goes too far and unleashes terrifying supernatural forces.",
+        "releaseDate": "2023-07-26",
+        "runtime": 95,
+        "voteAverage": 7.134,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/kdPMUMJzyYAc4roD52qavX0nLIC.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/46Os8U0DEPmI0OnvKDxucl6SLVZ.jpg",
+        "director": "Michael Philippou",
         "cast": [
-            "Rumi Hiiragi",
-            "Miyu Irino",
-            "Mari Natsuki",
-            "Takashi Naito",
-            "Yasuko Sawaguchi"
+            "Sophie Wilde",
+            "Alexandra Jensen",
+            "Joe Bird",
+            "Otis Dhanji",
+            "Miranda Otto"
         ],
         "genres": [
-            "Animation",
-            "Family",
-            "Fantasy"
+            "Horror"
         ]
     }
 }
