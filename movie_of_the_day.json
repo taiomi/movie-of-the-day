@@ -1,26 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-03-29",
+    "lastUpdated": "2026-03-30",
     "movie": {
-        "id": 1008042,
-        "title": "Talk to Me",
-        "tagline": "You call. They'll answer.",
-        "overview": "When a group of friends discover how to conjure spirits using an embalmed hand, they become hooked on the new thrill, until one of them goes too far and unleashes terrifying supernatural forces.",
-        "releaseDate": "2023-07-26",
-        "runtime": 95,
-        "voteAverage": 7.134,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/kdPMUMJzyYAc4roD52qavX0nLIC.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/46Os8U0DEPmI0OnvKDxucl6SLVZ.jpg",
-        "director": "Michael Philippou",
+        "id": 427,
+        "title": "Mon Oncle",
+        "tagline": "Mr Hulot takes a precious, playful ... and purely premeditated look at modern times ...",
+        "overview": "Genial, bumbling Monsieur Hulot loves his top-floor apartment in a grimy corner of the city, and cannot fathom why his sister's family has moved to the suburbs. Their house is an ultra-modern nightmare, which Hulot only visits for the sake of stealing away his rambunctious young nephew. Hulot's sister, however, wants to win him over to her new way of life, and conspires to set him up with a wife and job.",
+        "releaseDate": "1958-05-10",
+        "runtime": 118,
+        "voteAverage": 7.417,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/wH6RyPiXFy8INLbViVkchLVOmBc.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/hSbkxFnGi99pueUze7KUJuy9CWE.jpg",
+        "director": "Jacques Tati",
         "cast": [
-            "Sophie Wilde",
-            "Alexandra Jensen",
-            "Joe Bird",
-            "Otis Dhanji",
-            "Miranda Otto"
+            "Jacques Tati",
+            "Jean-Pierre Zola",
+            "Adrienne Servantie",
+            "Lucien Fr\u00e9gis",
+            "Betty Schneider"
         ],
         "genres": [
-            "Horror"
+            "Comedy"
         ]
     }
 }
