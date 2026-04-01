@@ -1,28 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-03-31",
+    "lastUpdated": "2026-04-01",
     "movie": {
-        "id": 1018,
-        "title": "Mulholland Drive",
-        "tagline": "An actress longing to be a star. A woman searching for herself. Both worlds will collide... on Mulholland Drive.",
-        "overview": "Blonde Betty Elms has only just arrived in Hollywood to become a movie star when she meets an enigmatic brunette with amnesia. Meanwhile, as the two set off to solve the second woman's identity, filmmaker Adam Kesher runs into ominous trouble while casting his latest project.",
-        "releaseDate": "2001-06-06",
-        "runtime": 147,
-        "voteAverage": 7.8,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/x7A59t6ySylr1L7aubOQEA480vM.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/g9ClaS5EqU0Hk8WIbMNhld0Bk6f.jpg",
-        "director": "David Lynch",
+        "id": 11527,
+        "title": "Excalibur",
+        "tagline": "Forged by a god. Foretold by a wizard. Found by a king.",
+        "overview": "Arthur fulfills his fate by bringing together the Knights of the Round Table at Camelot and unifying the country. However, this flawed monarch faces greater tests ahead in pursuit of love, the Holy Grail, and his nation's survival.",
+        "releaseDate": "1981-04-10",
+        "runtime": 141,
+        "voteAverage": 6.956,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/cTWF6zkr5mUOnheowKODIijWYcN.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/mrabn7LREC8HOBBUyQIXZsQvWk3.jpg",
+        "director": "John Boorman",
         "cast": [
-            "Naomi Watts",
-            "Laura Harring",
-            "Justin Theroux",
-            "Ann Miller",
-            "Mark Pellegrino"
+            "Nigel Terry",
+            "Nicol Williamson",
+            "Helen Mirren",
+            "Nicholas Clay",
+            "Paul Geoffrey"
         ],
         "genres": [
-            "Thriller",
-            "Drama",
-            "Mystery"
+            "Adventure",
+            "Fantasy"
         ]
     }
 }
