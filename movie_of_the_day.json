@@ -1,26 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-04-01",
+    "lastUpdated": "2026-04-02",
     "movie": {
-        "id": 11527,
-        "title": "Excalibur",
-        "tagline": "Forged by a god. Foretold by a wizard. Found by a king.",
-        "overview": "Arthur fulfills his fate by bringing together the Knights of the Round Table at Camelot and unifying the country. However, this flawed monarch faces greater tests ahead in pursuit of love, the Holy Grail, and his nation's survival.",
-        "releaseDate": "1981-04-10",
-        "runtime": 141,
-        "voteAverage": 6.956,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/cTWF6zkr5mUOnheowKODIijWYcN.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/mrabn7LREC8HOBBUyQIXZsQvWk3.jpg",
-        "director": "John Boorman",
+        "id": 11163,
+        "title": "Satyricon",
+        "tagline": "Rome. Before Christ. After Fellini.",
+        "overview": "After his young lover, Gitone, leaves him for another man, Encolpio decides to kill himself, but a sudden earthquake destroys his home before he has a chance to do so. Now wandering around Rome in the time of Nero, Encolpio encounters one bizarre and surreal scene after another.",
+        "releaseDate": "1969-09-18",
+        "runtime": 129,
+        "voteAverage": 6.7,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/83urUMl04GtwuuGIFpezqzi7n6m.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/kPdvXDdXIbuKKAt9gEy13FNYgbm.jpg",
+        "director": "Federico Fellini",
         "cast": [
-            "Nigel Terry",
-            "Nicol Williamson",
-            "Helen Mirren",
-            "Nicholas Clay",
-            "Paul Geoffrey"
+            "Martin Potter",
+            "Hiram Keller",
+            "Max Born",
+            "Salvo Randone",
+            "Mario Romagnoli"
         ],
         "genres": [
-            "Adventure",
+            "Drama",
             "Fantasy"
         ]
     }
