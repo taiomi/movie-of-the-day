@@ -1,27 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-04-02",
+    "lastUpdated": "2026-04-03",
     "movie": {
-        "id": 11163,
-        "title": "Satyricon",
-        "tagline": "Rome. Before Christ. After Fellini.",
-        "overview": "After his young lover, Gitone, leaves him for another man, Encolpio decides to kill himself, but a sudden earthquake destroys his home before he has a chance to do so. Now wandering around Rome in the time of Nero, Encolpio encounters one bizarre and surreal scene after another.",
-        "releaseDate": "1969-09-18",
-        "runtime": 129,
-        "voteAverage": 6.7,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/83urUMl04GtwuuGIFpezqzi7n6m.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/kPdvXDdXIbuKKAt9gEy13FNYgbm.jpg",
-        "director": "Federico Fellini",
+        "id": 615667,
+        "title": "Ma Rainey's Black Bottom",
+        "tagline": "It would be an empty world without the blues.",
+        "overview": "Tensions rise when the trailblazing Mother of the Blues and her band gather at a Chicago recording studio in 1927. Adapted from August Wilson's play.",
+        "releaseDate": "2020-11-25",
+        "runtime": 93,
+        "voteAverage": 6.644,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/pvtyxijaBrCSbByXLcUIDDSvc40.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/4mK222kB3vyrNjYl8eHliYacvJS.jpg",
+        "director": "George C. Wolfe",
         "cast": [
-            "Martin Potter",
-            "Hiram Keller",
-            "Max Born",
-            "Salvo Randone",
-            "Mario Romagnoli"
+            "Viola Davis",
+            "Chadwick Boseman",
+            "Colman Domingo",
+            "Glynn Turman",
+            "Michael Potts"
         ],
         "genres": [
             "Drama",
-            "Fantasy"
+            "Music"
         ]
     }
 }
