@@ -1,27 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-04-03",
+    "lastUpdated": "2026-04-04",
     "movie": {
-        "id": 615667,
-        "title": "Ma Rainey's Black Bottom",
-        "tagline": "It would be an empty world without the blues.",
-        "overview": "Tensions rise when the trailblazing Mother of the Blues and her band gather at a Chicago recording studio in 1927. Adapted from August Wilson's play.",
-        "releaseDate": "2020-11-25",
-        "runtime": 93,
-        "voteAverage": 6.644,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/pvtyxijaBrCSbByXLcUIDDSvc40.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/4mK222kB3vyrNjYl8eHliYacvJS.jpg",
-        "director": "George C. Wolfe",
+        "id": 854239,
+        "title": "Till",
+        "tagline": "Witness the power of a mother\u2019s love.",
+        "overview": "The true story of Mamie Till Mobley\u2019s relentless pursuit of justice for her 14 year old son, Emmett Till, who, in 1955, was lynched while visiting his cousins in Mississippi.",
+        "releaseDate": "2022-10-14",
+        "runtime": 131,
+        "voteAverage": 7.3,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/cmDs0CYlgioyP2AQQTTmavt3uoO.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/xFKjWcxEumvwEhovqTDzoDCmD45.jpg",
+        "director": "Chinonye Chukwu",
         "cast": [
-            "Viola Davis",
-            "Chadwick Boseman",
-            "Colman Domingo",
-            "Glynn Turman",
-            "Michael Potts"
+            "Danielle Deadwyler",
+            "Jalyn Hall",
+            "Frankie Faison",
+            "Haley Bennett",
+            "John Douglas Thompson"
         ],
         "genres": [
             "Drama",
-            "Music"
+            "History"
         ]
     }
 }
