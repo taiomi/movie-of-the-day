@@ -1,27 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-04-04",
+    "lastUpdated": "2026-04-05",
     "movie": {
-        "id": 854239,
-        "title": "Till",
-        "tagline": "Witness the power of a mother\u2019s love.",
-        "overview": "The true story of Mamie Till Mobley\u2019s relentless pursuit of justice for her 14 year old son, Emmett Till, who, in 1955, was lynched while visiting his cousins in Mississippi.",
-        "releaseDate": "2022-10-14",
-        "runtime": 131,
-        "voteAverage": 7.3,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/cmDs0CYlgioyP2AQQTTmavt3uoO.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/xFKjWcxEumvwEhovqTDzoDCmD45.jpg",
-        "director": "Chinonye Chukwu",
+        "id": 53023,
+        "title": "Happiness",
+        "tagline": "Only a woman could dare to make this film.",
+        "overview": "Though married to the good-natured, beautiful Th\u00e9r\u00e8se, young husband and father Fran\u00e7ois finds himself falling unquestioningly into an affair with an attractive postal worker. One of Agn\u00e8s Varda's most provocative films, 'Le bonheur' examines, with a deceptively cheery palette and the spirited strains of Mozart, the ideas of fidelity and happiness in a modern, self-centered world.",
+        "releaseDate": "1965-02-10",
+        "runtime": 80,
+        "voteAverage": 7.4,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/r6UYog9MruOe4X71AS57EhuJrFq.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/wPliKFiYaUEYCWWIIFW9mxjiz0G.jpg",
+        "director": "Agn\u00e8s Varda",
         "cast": [
-            "Danielle Deadwyler",
-            "Jalyn Hall",
-            "Frankie Faison",
-            "Haley Bennett",
-            "John Douglas Thompson"
+            "Jean-Claude Drouot",
+            "Claire Drouot",
+            "Olivier Drouot",
+            "Sandrine Drouot",
+            "Marie-France Boyer"
         ],
         "genres": [
             "Drama",
-            "History"
+            "Romance"
         ]
     }
 }
