@@ -1,27 +1,29 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-04-06",
+    "lastUpdated": "2026-04-07",
     "movie": {
-        "id": 56142,
-        "title": "Conversation Piece",
-        "tagline": "A tangled web of bizarre mystery",
-        "overview": "A retired professor of American origin lives a solitary life in a luxurious palazzo in Rome. He is confronted by a vulgar Italian marchesa and her lover, her daughter and her daughter's boyfriend, and forced to rent to them an apartment on the upper floor of his palazzo. From this point on his quiet routine is turned into chaos by his tenants' machinations, and everybody's life takes an unexpected but inevitable turn.",
-        "releaseDate": "1974-12-20",
-        "runtime": 121,
-        "voteAverage": 7.3,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/vLFdB2MsgAH7UCVb60EzLTjIoqN.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/zuXlN8gTWI453Rv5JokmexftV2S.jpg",
-        "director": "Luchino Visconti",
+        "id": 606679,
+        "title": "The High Note",
+        "tagline": "You've got to start at the bottom before you take it from the top.",
+        "overview": "Set in the dazzling world of the LA music scene comes the story of Grace Davis, a superstar whose talent, and ego, have reached unbelievable heights. Maggie is Grace\u2019s overworked personal assistant who\u2019s stuck running errands, but still aspires to her childhood dream of becoming a music producer. When Grace\u2019s manager presents her with a choice that could alter the course of her career, Maggie and Grace come up with a plan that could change their lives forever.",
+        "releaseDate": "2020-06-10",
+        "runtime": 113,
+        "voteAverage": 7,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/yHsu8swJSgqDrsPiu7adBjOPLlp.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/xw2Qyos3clcRz87xS5fkoagL506.jpg",
+        "director": "Nisha Ganatra",
         "cast": [
-            "Burt Lancaster",
-            "Silvana Mangano",
-            "Helmut Berger",
-            "Claudia Marsani",
-            "Stefano Patrizi"
+            "Dakota Johnson",
+            "Tracee Ellis Ross",
+            "Ice Cube",
+            "Kelvin Harrison Jr.",
+            "Bill Pullman"
         ],
         "genres": [
-            "Drama",
-            "Romance"
+            "Romance",
+            "Comedy",
+            "Music",
+            "Drama"
         ]
     }
 }
