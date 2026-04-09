@@ -1,27 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-04-08",
+    "lastUpdated": "2026-04-09",
     "movie": {
-        "id": 9451,
-        "title": "Election",
-        "tagline": "Reading. Writing. Revenge.",
-        "overview": "Tracy Flick is running unopposed for this year\u2019s high school student election. But Jim McAllister has a different plan. Partly to establish a more democratic election, and partly to satisfy some deep personal anger toward Tracy, Jim talks football player Paul Metzler to run for president as well.",
-        "releaseDate": "1999-04-23",
-        "runtime": 103,
-        "voteAverage": 6.859,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/fbo0IYzBc32dD5SjFzKIgfp4O4F.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/lNPPNnYM3j0cb8IZ9CsJiDt0BK9.jpg",
-        "director": "Alexander Payne",
+        "id": 713,
+        "title": "The Piano",
+        "tagline": "Silence affects everyone in the end.",
+        "overview": "When an arranged marriage brings Ada and her spirited daughter to the wilderness of nineteenth-century New Zealand, she finds herself locked in a battle of wills with both her controlling husband and a rugged frontiersman to whom she develops a forbidden attraction.",
+        "releaseDate": "1993-05-18",
+        "runtime": 120,
+        "voteAverage": 7.379,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/dUxjG6baSzGIgP7R8BQI5rpMuET.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/oNSTjU6R8fl9G7oXHa25HNVqohx.jpg",
+        "director": "Jane Campion",
         "cast": [
-            "Matthew Broderick",
-            "Reese Witherspoon",
-            "Chris Klein",
-            "Jessica Campbell",
-            "Mark Harelik"
+            "Holly Hunter",
+            "Harvey Keitel",
+            "Sam Neill",
+            "Anna Paquin",
+            "Cliff Curtis"
         ],
         "genres": [
-            "Comedy",
-            "Drama"
+            "Drama",
+            "Romance"
         ]
     }
 }
