@@ -1,27 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-04-09",
+    "lastUpdated": "2026-04-10",
     "movie": {
-        "id": 713,
-        "title": "The Piano",
-        "tagline": "Silence affects everyone in the end.",
-        "overview": "When an arranged marriage brings Ada and her spirited daughter to the wilderness of nineteenth-century New Zealand, she finds herself locked in a battle of wills with both her controlling husband and a rugged frontiersman to whom she develops a forbidden attraction.",
-        "releaseDate": "1993-05-18",
-        "runtime": 120,
-        "voteAverage": 7.379,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/dUxjG6baSzGIgP7R8BQI5rpMuET.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/oNSTjU6R8fl9G7oXHa25HNVqohx.jpg",
-        "director": "Jane Campion",
+        "id": 14626,
+        "title": "Beau Travail",
+        "tagline": "Maybe freedom begins with remorse.",
+        "overview": "Foreign Legion officer Galoup recalls his once glorious life, training troops in the Gulf of Djibouti. His existence there was happy, strict and regimented, until the arrival of a promising young recruit, Sentain, plants the seeds of jealousy in Galoup's mind.",
+        "releaseDate": "2000-05-03",
+        "runtime": 93,
+        "voteAverage": 7.108,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/5ySa1aQaT7kMcAbKwlS1HXxp2hM.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/1C84Yg3F2CgGJlOilvXBP8OZCMB.jpg",
+        "director": "Claire Denis",
         "cast": [
-            "Holly Hunter",
-            "Harvey Keitel",
-            "Sam Neill",
-            "Anna Paquin",
-            "Cliff Curtis"
+            "Denis Lavant",
+            "Michel Subor",
+            "Gr\u00e9goire Colin",
+            "Richard Courcet",
+            "Nicolas Duvauchelle"
         ],
         "genres": [
-            "Drama",
-            "Romance"
+            "Drama"
         ]
     }
 }
