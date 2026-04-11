@@ -1,26 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-04-10",
+    "lastUpdated": "2026-04-11",
     "movie": {
-        "id": 14626,
-        "title": "Beau Travail",
-        "tagline": "Maybe freedom begins with remorse.",
-        "overview": "Foreign Legion officer Galoup recalls his once glorious life, training troops in the Gulf of Djibouti. His existence there was happy, strict and regimented, until the arrival of a promising young recruit, Sentain, plants the seeds of jealousy in Galoup's mind.",
-        "releaseDate": "2000-05-03",
-        "runtime": 93,
-        "voteAverage": 7.108,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/5ySa1aQaT7kMcAbKwlS1HXxp2hM.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/1C84Yg3F2CgGJlOilvXBP8OZCMB.jpg",
-        "director": "Claire Denis",
+        "id": 545611,
+        "title": "Everything Everywhere All at Once",
+        "tagline": "The universe is so much bigger than you realize.",
+        "overview": "An aging Chinese immigrant is swept up in an insane adventure, where she alone can save what's important to her by connecting with the lives she could have led in other universes.",
+        "releaseDate": "2022-03-24",
+        "runtime": 140,
+        "voteAverage": 7.721,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/u68AjlvlutfEIcpmbYpKcdi09ut.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/ss0Os3uWJfQAENILHZUdX8Tt1OC.jpg",
+        "director": "Daniel Scheinert",
         "cast": [
-            "Denis Lavant",
-            "Michel Subor",
-            "Gr\u00e9goire Colin",
-            "Richard Courcet",
-            "Nicolas Duvauchelle"
+            "Michelle Yeoh",
+            "Stephanie Hsu",
+            "Ke Huy Quan",
+            "James Hong",
+            "Jamie Lee Curtis"
         ],
         "genres": [
-            "Drama"
+            "Action",
+            "Adventure",
+            "Science Fiction"
         ]
     }
 }
