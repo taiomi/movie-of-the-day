@@ -1,28 +1,29 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-04-12",
     "movie": {
-        "id": 545611,
-        "title": "Everything Everywhere All at Once",
-        "tagline": "The universe is so much bigger than you realize.",
-        "overview": "An aging Chinese immigrant is swept up in an insane adventure, where she alone can save what's important to her by connecting with the lives she could have led in other universes.",
-        "releaseDate": "2022-03-24",
-        "runtime": 140,
-        "voteAverage": 7.721,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/u68AjlvlutfEIcpmbYpKcdi09ut.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/ss0Os3uWJfQAENILHZUdX8Tt1OC.jpg",
-        "director": "Daniel Scheinert",
+        "id": 3766,
+        "title": "The Lady from Shanghai",
+        "tagline": "I told you... you know nothing about wickedness",
+        "overview": "A romantic drifter gets caught between a corrupt tycoon and his voluptuous wife.",
+        "releaseDate": "1947-12-24",
+        "runtime": 87,
+        "voteAverage": 7.349,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/whqdqWavNMSoeXTx1X3DauO1LG6.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/loE8zQAj5GROl4BAYNcUTWFJKAx.jpg",
+        "director": "Orson Welles",
         "cast": [
-            "Michelle Yeoh",
-            "Stephanie Hsu",
-            "Ke Huy Quan",
-            "James Hong",
-            "Jamie Lee Curtis"
+            "Rita Hayworth",
+            "Orson Welles",
+            "Everett Sloane",
+            "Glenn Anders",
+            "Ted de Corsia"
         ],
         "genres": [
-            "Action",
-            "Adventure",
-            "Science Fiction"
+            "Mystery",
+            "Crime",
+            "Thriller",
+            "Drama"
         ]
     }
 }
