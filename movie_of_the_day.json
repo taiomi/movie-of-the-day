@@ -1,29 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-04-12",
+    "lastUpdated": "2026-04-13",
     "movie": {
-        "id": 3766,
-        "title": "The Lady from Shanghai",
-        "tagline": "I told you... you know nothing about wickedness",
-        "overview": "A romantic drifter gets caught between a corrupt tycoon and his voluptuous wife.",
-        "releaseDate": "1947-12-24",
-        "runtime": 87,
-        "voteAverage": 7.349,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/whqdqWavNMSoeXTx1X3DauO1LG6.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/loE8zQAj5GROl4BAYNcUTWFJKAx.jpg",
-        "director": "Orson Welles",
+        "id": 511809,
+        "title": "West Side Story",
+        "tagline": "A city divided. Their love will challenge everything.",
+        "overview": "Two youngsters from rival New York City gangs fall in love, but tensions between their respective friends build toward tragedy.",
+        "releaseDate": "2021-12-08",
+        "runtime": 156,
+        "voteAverage": 6.932,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/yfz3IUoYYSY32tkb97HlUBGFsnh.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/exnFsbb9c3fDutTsgtJSWcDmZm0.jpg",
+        "director": "Steven Spielberg",
         "cast": [
-            "Rita Hayworth",
-            "Orson Welles",
-            "Everett Sloane",
-            "Glenn Anders",
-            "Ted de Corsia"
+            "Ansel Elgort",
+            "Rachel Zegler",
+            "Ariana DeBose",
+            "David Alvarez",
+            "Mike Faist"
         ],
         "genres": [
-            "Mystery",
-            "Crime",
-            "Thriller",
-            "Drama"
+            "Drama",
+            "Romance",
+            "Crime"
         ]
     }
 }
