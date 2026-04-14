@@ -1,27 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-04-13",
+    "lastUpdated": "2026-04-14",
     "movie": {
-        "id": 511809,
-        "title": "West Side Story",
-        "tagline": "A city divided. Their love will challenge everything.",
-        "overview": "Two youngsters from rival New York City gangs fall in love, but tensions between their respective friends build toward tragedy.",
-        "releaseDate": "2021-12-08",
-        "runtime": 156,
-        "voteAverage": 6.932,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/yfz3IUoYYSY32tkb97HlUBGFsnh.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/exnFsbb9c3fDutTsgtJSWcDmZm0.jpg",
-        "director": "Steven Spielberg",
+        "id": 856,
+        "title": "Who Framed Roger Rabbit",
+        "tagline": "It's the story of a man, a woman, and a rabbit in a triangle of trouble.",
+        "overview": "'Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
+        "releaseDate": "1988-06-22",
+        "runtime": 104,
+        "voteAverage": 7.535,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/lYfRc57Kx9VgLZ48iulu0HKnM15.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/udIE8Cdon9wnYmVIOFYrBPfA2Mq.jpg",
+        "director": "Robert Zemeckis",
         "cast": [
-            "Ansel Elgort",
-            "Rachel Zegler",
-            "Ariana DeBose",
-            "David Alvarez",
-            "Mike Faist"
+            "Bob Hoskins",
+            "Christopher Lloyd",
+            "Joanna Cassidy",
+            "Charles Fleischer",
+            "Kathleen Turner"
         ],
         "genres": [
-            "Drama",
-            "Romance",
+            "Fantasy",
+            "Animation",
+            "Comedy",
             "Crime"
         ]
     }
