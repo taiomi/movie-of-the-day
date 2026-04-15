@@ -1,29 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-04-14",
+    "lastUpdated": "2026-04-15",
     "movie": {
-        "id": 856,
-        "title": "Who Framed Roger Rabbit",
-        "tagline": "It's the story of a man, a woman, and a rabbit in a triangle of trouble.",
-        "overview": "'Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
-        "releaseDate": "1988-06-22",
-        "runtime": 104,
-        "voteAverage": 7.535,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/lYfRc57Kx9VgLZ48iulu0HKnM15.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/udIE8Cdon9wnYmVIOFYrBPfA2Mq.jpg",
-        "director": "Robert Zemeckis",
+        "id": 575774,
+        "title": "His House",
+        "tagline": "When ghosts follow, they never leave.",
+        "overview": "After making a harrowing escape from war-torn South Sudan, a young refugee couple struggle to adjust to their new life in a small English town that has an unspeakable evil lurking beneath the surface.",
+        "releaseDate": "2020-01-27",
+        "runtime": 93,
+        "voteAverage": 6.402,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/mM1ELeOF4qmdIFbZh9VSBn685g.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/bNZB25TQxt0jEVgJOJ09tD2es7k.jpg",
+        "director": "Remi Weekes",
         "cast": [
-            "Bob Hoskins",
-            "Christopher Lloyd",
-            "Joanna Cassidy",
-            "Charles Fleischer",
-            "Kathleen Turner"
+            "\u1e62\u1ecdp\u1eb9\u0301 D\u00ecr\u00eds\u00f9",
+            "Wunmi Mosaku",
+            "Malaika Wakoli-Abigaba",
+            "Matt Smith",
+            "Javier Botet"
         ],
         "genres": [
-            "Fantasy",
-            "Animation",
-            "Comedy",
-            "Crime"
+            "Horror",
+            "Drama"
         ]
     }
 }
