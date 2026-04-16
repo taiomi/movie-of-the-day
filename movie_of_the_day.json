@@ -1,26 +1,25 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-04-15",
+    "lastUpdated": "2026-04-16",
     "movie": {
-        "id": 575774,
-        "title": "His House",
-        "tagline": "When ghosts follow, they never leave.",
-        "overview": "After making a harrowing escape from war-torn South Sudan, a young refugee couple struggle to adjust to their new life in a small English town that has an unspeakable evil lurking beneath the surface.",
-        "releaseDate": "2020-01-27",
-        "runtime": 93,
-        "voteAverage": 6.402,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/mM1ELeOF4qmdIFbZh9VSBn685g.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/bNZB25TQxt0jEVgJOJ09tD2es7k.jpg",
-        "director": "Remi Weekes",
+        "id": 108,
+        "title": "Three Colors: Blue",
+        "tagline": "",
+        "overview": "The wife of a famous composer survives a car accident that kills her husband and daughter. Now alone, she shakes off her old identity and explores her newfound freedom but finds that she is unbreakably bound to other humans, including her husband\u2019s mistress, whose existence she never suspected.",
+        "releaseDate": "1993-09-08",
+        "runtime": 98,
+        "voteAverage": 7.6,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/33wsWxzsNstI8N7dvuwzFmj1qBd.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/nAyUVvcdOKHmukdgGHZ7xR5er1q.jpg",
+        "director": "Krzysztof Kie\u015blowski",
         "cast": [
-            "\u1e62\u1ecdp\u1eb9\u0301 D\u00ecr\u00eds\u00f9",
-            "Wunmi Mosaku",
-            "Malaika Wakoli-Abigaba",
-            "Matt Smith",
-            "Javier Botet"
+            "Juliette Binoche",
+            "Beno\u00eet R\u00e9gent",
+            "Florence Pernel",
+            "Charlotte V\u00e9ry",
+            "H\u00e9l\u00e8ne Vincent"
         ],
         "genres": [
-            "Horror",
             "Drama"
         ]
     }
