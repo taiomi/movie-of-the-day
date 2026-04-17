@@ -1,25 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-04-16",
+    "lastUpdated": "2026-04-17",
     "movie": {
-        "id": 108,
-        "title": "Three Colors: Blue",
-        "tagline": "",
-        "overview": "The wife of a famous composer survives a car accident that kills her husband and daughter. Now alone, she shakes off her old identity and explores her newfound freedom but finds that she is unbreakably bound to other humans, including her husband\u2019s mistress, whose existence she never suspected.",
-        "releaseDate": "1993-09-08",
-        "runtime": 98,
+        "id": 3309,
+        "title": "Mildred Pierce",
+        "tagline": "Please don't tell anyone what Mildred Pierce did!",
+        "overview": "A hard-working mother inches towards disaster as she divorces her husband and starts a successful restaurant business to support her spoiled daughter.",
+        "releaseDate": "1945-10-20",
+        "runtime": 111,
         "voteAverage": 7.6,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/33wsWxzsNstI8N7dvuwzFmj1qBd.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/nAyUVvcdOKHmukdgGHZ7xR5er1q.jpg",
-        "director": "Krzysztof Kie\u015blowski",
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/3bqF5bJPjeITNeC8ydbUOQZfuqP.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/iWAijx2874J0QgNVXwqW24IMRai.jpg",
+        "director": "Michael Curtiz",
         "cast": [
-            "Juliette Binoche",
-            "Beno\u00eet R\u00e9gent",
-            "Florence Pernel",
-            "Charlotte V\u00e9ry",
-            "H\u00e9l\u00e8ne Vincent"
+            "Joan Crawford",
+            "Jack Carson",
+            "Zachary Scott",
+            "Eve Arden",
+            "Ann Blyth"
         ],
         "genres": [
+            "Crime",
             "Drama"
         ]
     }
