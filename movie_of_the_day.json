@@ -1,27 +1,29 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-04-17",
+    "lastUpdated": "2026-04-18",
     "movie": {
-        "id": 3309,
-        "title": "Mildred Pierce",
-        "tagline": "Please don't tell anyone what Mildred Pierce did!",
-        "overview": "A hard-working mother inches towards disaster as she divorces her husband and starts a successful restaurant business to support her spoiled daughter.",
-        "releaseDate": "1945-10-20",
-        "runtime": 111,
-        "voteAverage": 7.6,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/3bqF5bJPjeITNeC8ydbUOQZfuqP.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/iWAijx2874J0QgNVXwqW24IMRai.jpg",
-        "director": "Michael Curtiz",
+        "id": 829,
+        "title": "Chinatown",
+        "tagline": "You get tough. You get tender. You get close to each other. Maybe you even get close to the truth.",
+        "overview": "Private eye Jake Gittes lives off of the murky moral climate of sunbaked, pre-World War II Southern California. Hired by a beautiful socialite to investigate her husband's extra-marital affair, Gittes is swept into a maelstrom of double dealings and deadly deceits, uncovering a web of personal and political scandals that come crashing together.",
+        "releaseDate": "1974-06-20",
+        "runtime": 130,
+        "voteAverage": 7.91,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/kZRSP3FmOcq0xnBulqpUQngJUXY.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/pyvkujOZ5qvY2NlQVC71flfgVWE.jpg",
+        "director": "Roman Polanski",
         "cast": [
-            "Joan Crawford",
-            "Jack Carson",
-            "Zachary Scott",
-            "Eve Arden",
-            "Ann Blyth"
+            "Jack Nicholson",
+            "Faye Dunaway",
+            "John Huston",
+            "Perry Lopez",
+            "John Hillerman"
         ],
         "genres": [
             "Crime",
-            "Drama"
+            "Drama",
+            "Mystery",
+            "Thriller"
         ]
     }
 }
