@@ -1,26 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-04-19",
+    "lastUpdated": "2026-04-20",
     "movie": {
-        "id": 32646,
-        "title": "Safe",
-        "tagline": "In the 21st century nobody will be\u2026 Safe.",
-        "overview": "Carol White, a Los Angeles housewife in the late 1980s, comes down with a debilitating illness with no clear diagnosis.",
-        "releaseDate": "1995-06-23",
-        "runtime": 119,
-        "voteAverage": 6.9,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/2O71QsBkbqdLqQdx2yuNpJ4pFPq.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/p8O3WhMWumLrLp21BRW80kBND4d.jpg",
-        "director": "Todd Haynes",
+        "id": 303,
+        "title": "Notorious",
+        "tagline": "Deep their love! Great the risk!",
+        "overview": "In order to help bring Nazis to justice, U.S. government agent T.R. Devlin recruits Alicia Huberman, the American daughter of a convicted German war criminal, as a spy. As they begin to fall for one another, Alicia is instructed to win the affections of Alexander Sebastian, a Nazi hiding out in Brazil. When Sebastian becomes serious about his relationship with Alicia, the stakes get higher, and Devlin must watch her slip further undercover.",
+        "releaseDate": "1946-08-21",
+        "runtime": 103,
+        "voteAverage": 7.728,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/4RERYb1NIQrJHYY5e8nUlYM7t2z.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/40Rl5nZRxXQ4kHV4Lhghj5iQZZN.jpg",
+        "director": "Alfred Hitchcock",
         "cast": [
-            "Julianne Moore",
-            "Xander Berkeley",
-            "Peter Friedman",
-            "James Le Gros",
-            "Dean Norris"
+            "Cary Grant",
+            "Ingrid Bergman",
+            "Claude Rains",
+            "Leopoldine Konstantin",
+            "Louis Calhern"
         ],
         "genres": [
-            "Drama"
+            "Thriller",
+            "Romance",
+            "Mystery"
         ]
     }
 }
