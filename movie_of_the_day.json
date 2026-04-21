@@ -1,28 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-04-20",
+    "lastUpdated": "2026-04-21",
     "movie": {
-        "id": 303,
-        "title": "Notorious",
-        "tagline": "Deep their love! Great the risk!",
-        "overview": "In order to help bring Nazis to justice, U.S. government agent T.R. Devlin recruits Alicia Huberman, the American daughter of a convicted German war criminal, as a spy. As they begin to fall for one another, Alicia is instructed to win the affections of Alexander Sebastian, a Nazi hiding out in Brazil. When Sebastian becomes serious about his relationship with Alicia, the stakes get higher, and Devlin must watch her slip further undercover.",
-        "releaseDate": "1946-08-21",
-        "runtime": 103,
-        "voteAverage": 7.728,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/4RERYb1NIQrJHYY5e8nUlYM7t2z.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/40Rl5nZRxXQ4kHV4Lhghj5iQZZN.jpg",
-        "director": "Alfred Hitchcock",
+        "id": 16858,
+        "title": "All That Jazz",
+        "tagline": "Prepare yourself for all that acclaim...",
+        "overview": "Joe Gideon is at the top of the heap, one of the most successful directors and choreographers in musical theater. But he can feel his world slowly collapsing around him - his obsession with work has almost destroyed his personal life, and only his bottles of pills keep him going.",
+        "releaseDate": "1979-12-16",
+        "runtime": 123,
+        "voteAverage": 7.486,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/culCEdj4srLljefgn4XKd6k3C5t.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/u218sykbUQIh6EWtTdJzguU5LcG.jpg",
+        "director": "Bob Fosse",
         "cast": [
-            "Cary Grant",
-            "Ingrid Bergman",
-            "Claude Rains",
-            "Leopoldine Konstantin",
-            "Louis Calhern"
+            "Roy Scheider",
+            "Jessica Lange",
+            "Ann Reinking",
+            "Leland Palmer",
+            "Cliff Gorman"
         ],
         "genres": [
-            "Thriller",
-            "Romance",
-            "Mystery"
+            "Drama"
         ]
     }
 }
