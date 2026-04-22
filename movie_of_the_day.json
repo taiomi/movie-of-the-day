@@ -1,26 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-04-21",
+    "lastUpdated": "2026-04-22",
     "movie": {
-        "id": 16858,
-        "title": "All That Jazz",
-        "tagline": "Prepare yourself for all that acclaim...",
-        "overview": "Joe Gideon is at the top of the heap, one of the most successful directors and choreographers in musical theater. But he can feel his world slowly collapsing around him - his obsession with work has almost destroyed his personal life, and only his bottles of pills keep him going.",
-        "releaseDate": "1979-12-16",
-        "runtime": 123,
-        "voteAverage": 7.486,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/culCEdj4srLljefgn4XKd6k3C5t.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/u218sykbUQIh6EWtTdJzguU5LcG.jpg",
-        "director": "Bob Fosse",
+        "id": 9081,
+        "title": "Waking Life",
+        "tagline": "Dreams. What are they? An escape from reality or reality itself?",
+        "overview": "Waking Life is about a young man in a persistent lucid dream-like state. The film follows its protagonist as he initially observes and later participates in philosophical discussions that weave together issues like reality, free will, our relationships with others, and the meaning of life.",
+        "releaseDate": "2001-10-19",
+        "runtime": 101,
+        "voteAverage": 7.474,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/2MRM4PL6H7yraAkwyUEe2EqoQH3.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/56MLZww2dMVAaTt5LDKCBu1do2X.jpg",
+        "director": "Richard Linklater",
         "cast": [
-            "Roy Scheider",
-            "Jessica Lange",
-            "Ann Reinking",
-            "Leland Palmer",
-            "Cliff Gorman"
+            "Ethan Hawke",
+            "Julie Delpy",
+            "Wiley Wiggins",
+            "Bill Wise",
+            "Alex E. Jones"
         ],
         "genres": [
-            "Drama"
+            "Animation",
+            "Drama",
+            "Fantasy"
         ]
     }
 }
