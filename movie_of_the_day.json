@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-04-22",
+    "lastUpdated": "2026-04-23",
     "movie": {
-        "id": 9081,
-        "title": "Waking Life",
-        "tagline": "Dreams. What are they? An escape from reality or reality itself?",
-        "overview": "Waking Life is about a young man in a persistent lucid dream-like state. The film follows its protagonist as he initially observes and later participates in philosophical discussions that weave together issues like reality, free will, our relationships with others, and the meaning of life.",
-        "releaseDate": "2001-10-19",
-        "runtime": 101,
-        "voteAverage": 7.474,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/2MRM4PL6H7yraAkwyUEe2EqoQH3.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/56MLZww2dMVAaTt5LDKCBu1do2X.jpg",
-        "director": "Richard Linklater",
+        "id": 14638,
+        "title": "The Killers",
+        "tagline": "She's a match for any mobster!",
+        "overview": "Two hit men walk into a diner asking for a man called \"the Swede\". When the killers find the Swede, he's expecting them and doesn't put up a fight. Since the Swede had a life insurance policy, an investigator, on a hunch, decides to look into the murder. As the Swede's past is laid bare, it comes to light that he was in love with a beautiful woman who may have lured him into pulling off a bank robbery overseen by another man.",
+        "releaseDate": "1946-08-30",
+        "runtime": 103,
+        "voteAverage": 7.35,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/uXnuc6pW01s1MDwb6QwBWg2JQeX.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/w6XdWl6L2WDHJGw2FKySbi86WDg.jpg",
+        "director": "Robert Siodmak",
         "cast": [
-            "Ethan Hawke",
-            "Julie Delpy",
-            "Wiley Wiggins",
-            "Bill Wise",
-            "Alex E. Jones"
+            "Edmond O'Brien",
+            "Burt Lancaster",
+            "Ava Gardner",
+            "Albert Dekker",
+            "Sam Levene"
         ],
         "genres": [
-            "Animation",
-            "Drama",
-            "Fantasy"
+            "Crime",
+            "Mystery",
+            "Thriller"
         ]
     }
 }
