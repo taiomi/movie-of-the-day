@@ -1,28 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-04-23",
+    "lastUpdated": "2026-04-24",
     "movie": {
-        "id": 14638,
-        "title": "The Killers",
-        "tagline": "She's a match for any mobster!",
-        "overview": "Two hit men walk into a diner asking for a man called \"the Swede\". When the killers find the Swede, he's expecting them and doesn't put up a fight. Since the Swede had a life insurance policy, an investigator, on a hunch, decides to look into the murder. As the Swede's past is laid bare, it comes to light that he was in love with a beautiful woman who may have lured him into pulling off a bank robbery overseen by another man.",
-        "releaseDate": "1946-08-30",
-        "runtime": 103,
-        "voteAverage": 7.35,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/uXnuc6pW01s1MDwb6QwBWg2JQeX.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/w6XdWl6L2WDHJGw2FKySbi86WDg.jpg",
-        "director": "Robert Siodmak",
+        "id": 43877,
+        "title": "Osaka Elegy",
+        "tagline": "",
+        "overview": "Ayako becomes the mistress of her boss in order to pay her father's debt and prevent him from going to prison for embezzlement.",
+        "releaseDate": "1936-05-28",
+        "runtime": 71,
+        "voteAverage": 6.7,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/qoLPt7rahsTv3mQketPUhD3kRlA.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/nUAuAEaLjkg6iGYC5DaRhSMt9OQ.jpg",
+        "director": "Kenji Mizoguchi",
         "cast": [
-            "Edmond O'Brien",
-            "Burt Lancaster",
-            "Ava Gardner",
-            "Albert Dekker",
-            "Sam Levene"
+            "Isuzu Yamada",
+            "Chiyoko \u00d4kura",
+            "Shinpachir\u014d Asaka",
+            "Benkei Shiganoya",
+            "Y\u014dko Umemura"
         ],
         "genres": [
-            "Crime",
-            "Mystery",
-            "Thriller"
+            "Drama"
         ]
     }
 }
