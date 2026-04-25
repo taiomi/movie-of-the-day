@@ -1,26 +1,29 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-04-24",
+    "lastUpdated": "2026-04-25",
     "movie": {
-        "id": 43877,
-        "title": "Osaka Elegy",
-        "tagline": "",
-        "overview": "Ayako becomes the mistress of her boss in order to pay her father's debt and prevent him from going to prison for embezzlement.",
-        "releaseDate": "1936-05-28",
-        "runtime": 71,
-        "voteAverage": 6.7,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/qoLPt7rahsTv3mQketPUhD3kRlA.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/nUAuAEaLjkg6iGYC5DaRhSMt9OQ.jpg",
-        "director": "Kenji Mizoguchi",
+        "id": 601,
+        "title": "E.T. the Extra-Terrestrial",
+        "tagline": "He is afraid. He is totally alone. He is 3,000,000 light years from home.",
+        "overview": "An alien is left behind on Earth and saved by the 10-year-old Elliott who decides to keep him hidden in his home. While a task force hunts for the extra-terrestrial, Elliott, his brother, and his little sister Gertie form an emotional bond with their new friend, and try to help him find his way home.",
+        "releaseDate": "1982-06-11",
+        "runtime": 115,
+        "voteAverage": 7.513,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/mXLVA0YL6tcXi6SJSuAh9ONXFj5.jpg",
+        "director": "Steven Spielberg",
         "cast": [
-            "Isuzu Yamada",
-            "Chiyoko \u00d4kura",
-            "Shinpachir\u014d Asaka",
-            "Benkei Shiganoya",
-            "Y\u014dko Umemura"
+            "Henry Thomas",
+            "Drew Barrymore",
+            "Robert MacNaughton",
+            "Peter Coyote",
+            "Dee Wallace"
         ],
         "genres": [
-            "Drama"
+            "Science Fiction",
+            "Adventure",
+            "Family",
+            "Fantasy"
         ]
     }
 }
