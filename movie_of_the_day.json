@@ -1,29 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-04-25",
+    "lastUpdated": "2026-04-26",
     "movie": {
-        "id": 601,
-        "title": "E.T. the Extra-Terrestrial",
-        "tagline": "He is afraid. He is totally alone. He is 3,000,000 light years from home.",
-        "overview": "An alien is left behind on Earth and saved by the 10-year-old Elliott who decides to keep him hidden in his home. While a task force hunts for the extra-terrestrial, Elliott, his brother, and his little sister Gertie form an emotional bond with their new friend, and try to help him find his way home.",
-        "releaseDate": "1982-06-11",
-        "runtime": 115,
-        "voteAverage": 7.513,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/mXLVA0YL6tcXi6SJSuAh9ONXFj5.jpg",
-        "director": "Steven Spielberg",
+        "id": 4497,
+        "title": "Viridiana",
+        "tagline": "We've got nothing to hide...",
+        "overview": "Viridiana is preparing to start her life as a nun when she is sent, somewhat unwillingly, to visit her aging uncle, Don Jaime. He supports her; but the two have met only once. Jaime thinks Viridiana resembles his dead wife. Viridiana has secretly despised this man all her life and finds her worst fears proven when Jaime grows determined to seduce his pure niece. Viridiana becomes undone as her uncle upends the plans she had made to join the convent.",
+        "releaseDate": "1962-04-01",
+        "runtime": 90,
+        "voteAverage": 7.7,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/mYPuSx5JwL8AdTwS1iQW4Un1cYP.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/2QGuTuyxwCCER9iwSeONW8BAxce.jpg",
+        "director": "Luis Bu\u00f1uel",
         "cast": [
-            "Henry Thomas",
-            "Drew Barrymore",
-            "Robert MacNaughton",
-            "Peter Coyote",
-            "Dee Wallace"
+            "Silvia Pinal",
+            "Francisco Rabal",
+            "Fernando Rey",
+            "Jos\u00e9 Calvo",
+            "Margarita Lozano"
         ],
         "genres": [
-            "Science Fiction",
-            "Adventure",
-            "Family",
-            "Fantasy"
+            "Drama"
         ]
     }
 }
