@@ -1,28 +1,22 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-04-27",
+    "lastUpdated": "2026-04-28",
     "movie": {
-        "id": 20620,
-        "title": "Seconds",
-        "tagline": "Who are SECONDS? The answer is almost too terrifying for words!",
-        "overview": "An unhappy middle-aged banker agrees to a procedure that will fake his death and give him a completely new look and identity; one that comes with its own price.",
-        "releaseDate": "1966-10-05",
-        "runtime": 107,
-        "voteAverage": 7.301,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/5G3q3OvulFTnFdiouaZdD8wjtIc.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/guOylbnmrrbylOcxuJ2xpnPR3Mz.jpg",
-        "director": "John Frankenheimer",
+        "id": 477122,
+        "title": "Notes on the Making of 'Berlin Alexanderplatz'",
+        "tagline": "",
+        "overview": "Documentary about the making of the 1980 German television series.",
+        "releaseDate": "1980-01-01",
+        "runtime": 44,
+        "voteAverage": 6.3,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/uHKDaMfW0vXRDMjRDfWHldNwSok.jpg",
+        "backdropPath": "",
+        "director": "Hans-Dieter Hartl",
         "cast": [
-            "Rock Hudson",
-            "Salome Jens",
-            "John Randolph",
-            "Will Geer",
-            "Jeff Corey"
+            "Rainer Werner Fassbinder"
         ],
         "genres": [
-            "Science Fiction",
-            "Thriller",
-            "Horror"
+            "Documentary"
         ]
     }
 }
