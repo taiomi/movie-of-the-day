@@ -1,22 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-04-28",
+    "lastUpdated": "2026-04-29",
     "movie": {
-        "id": 477122,
-        "title": "Notes on the Making of 'Berlin Alexanderplatz'",
+        "id": 103740,
+        "title": "Beyond the Hills",
         "tagline": "",
-        "overview": "Documentary about the making of the 1980 German television series.",
-        "releaseDate": "1980-01-01",
-        "runtime": 44,
-        "voteAverage": 6.3,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/uHKDaMfW0vXRDMjRDfWHldNwSok.jpg",
-        "backdropPath": "",
-        "director": "Hans-Dieter Hartl",
+        "overview": "Alina returns to Romania from Germany, hoping to bring Voichita\u2014the only person in the world she loves and was loved by\u2014back with her. But Voichita has found God, and God is the hardest lover of all to best.",
+        "releaseDate": "2012-10-25",
+        "runtime": 150,
+        "voteAverage": 7.1,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/zV2v5jFXlN2We3GS2IkGQ6e2Bmm.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/kC7YmW69fEdM0cazeVIVdmj7644.jpg",
+        "director": "Cristian Mungiu",
         "cast": [
-            "Rainer Werner Fassbinder"
+            "Cosmina Stratan",
+            "Cristina Flutur",
+            "Valeriu Andriu\u021b\u0103",
+            "Dana Tapalag\u0103",
+            "C\u0103t\u0103lina Harabagiu"
         ],
         "genres": [
-            "Documentary"
+            "Drama",
+            "Romance"
         ]
     }
 }
