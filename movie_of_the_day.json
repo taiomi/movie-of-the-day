@@ -1,27 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-04-29",
+    "lastUpdated": "2026-04-30",
     "movie": {
-        "id": 103740,
-        "title": "Beyond the Hills",
-        "tagline": "",
-        "overview": "Alina returns to Romania from Germany, hoping to bring Voichita\u2014the only person in the world she loves and was loved by\u2014back with her. But Voichita has found God, and God is the hardest lover of all to best.",
-        "releaseDate": "2012-10-25",
-        "runtime": 150,
-        "voteAverage": 7.1,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/zV2v5jFXlN2We3GS2IkGQ6e2Bmm.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/kC7YmW69fEdM0cazeVIVdmj7644.jpg",
-        "director": "Cristian Mungiu",
+        "id": 1052,
+        "title": "Blow-Up",
+        "tagline": "Sometimes, reality is the strangest fantasy of all.",
+        "overview": "A successful mod photographer in London whose world is bounded by fashion, pop music, marijuana, and easy sex, feels his life is boring and despairing. But in the course of a single day he unknowingly captures a death on film.",
+        "releaseDate": "1966-12-18",
+        "runtime": 111,
+        "voteAverage": 7.323,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/jVDVpydUw8Z50naUDAG4NbRCrSa.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/rWtRkNGkg05rET8taCA96c7heLb.jpg",
+        "director": "Michelangelo Antonioni",
         "cast": [
-            "Cosmina Stratan",
-            "Cristina Flutur",
-            "Valeriu Andriu\u021b\u0103",
-            "Dana Tapalag\u0103",
-            "C\u0103t\u0103lina Harabagiu"
+            "David Hemmings",
+            "Vanessa Redgrave",
+            "Sarah Miles",
+            "John Castle",
+            "Veruschka von Lehndorff"
         ],
         "genres": [
             "Drama",
-            "Romance"
+            "Mystery",
+            "Thriller"
         ]
     }
 }
