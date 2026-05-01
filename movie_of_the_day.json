@@ -1,28 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-04-30",
+    "lastUpdated": "2026-05-01",
     "movie": {
-        "id": 1052,
-        "title": "Blow-Up",
-        "tagline": "Sometimes, reality is the strangest fantasy of all.",
-        "overview": "A successful mod photographer in London whose world is bounded by fashion, pop music, marijuana, and easy sex, feels his life is boring and despairing. But in the course of a single day he unknowingly captures a death on film.",
-        "releaseDate": "1966-12-18",
-        "runtime": 111,
-        "voteAverage": 7.323,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/jVDVpydUw8Z50naUDAG4NbRCrSa.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/rWtRkNGkg05rET8taCA96c7heLb.jpg",
-        "director": "Michelangelo Antonioni",
+        "id": 1939,
+        "title": "Laura",
+        "tagline": "The story of a love that became the most fearful thing that ever happened to a woman!",
+        "overview": "A police detective falls in love with the woman whose murder he's investigating.",
+        "releaseDate": "1944-10-11",
+        "runtime": 88,
+        "voteAverage": 7.625,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/utpUn9TdBIx6x2QX91YhYzFZxg1.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/d5HjGve67GkNC9lWpzZVKSotLlT.jpg",
+        "director": "Otto Preminger",
         "cast": [
-            "David Hemmings",
-            "Vanessa Redgrave",
-            "Sarah Miles",
-            "John Castle",
-            "Veruschka von Lehndorff"
+            "Dana Andrews",
+            "Gene Tierney",
+            "Clifton Webb",
+            "Vincent Price",
+            "Judith Anderson"
         ],
         "genres": [
             "Drama",
-            "Mystery",
-            "Thriller"
+            "Mystery"
         ]
     }
 }
