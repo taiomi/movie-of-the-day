@@ -1,27 +1,29 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-05-01",
+    "lastUpdated": "2026-05-02",
     "movie": {
-        "id": 1939,
-        "title": "Laura",
-        "tagline": "The story of a love that became the most fearful thing that ever happened to a woman!",
-        "overview": "A police detective falls in love with the woman whose murder he's investigating.",
-        "releaseDate": "1944-10-11",
-        "runtime": 88,
-        "voteAverage": 7.625,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/utpUn9TdBIx6x2QX91YhYzFZxg1.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/d5HjGve67GkNC9lWpzZVKSotLlT.jpg",
-        "director": "Otto Preminger",
+        "id": 604,
+        "title": "The Matrix Reloaded",
+        "tagline": "Free your mind.",
+        "overview": "The Resistance builds in numbers as humans are freed from the Matrix and brought to the city of Zion. Neo discovers his superpowers, including the ability to see the code inside the Matrix. With machine sentinels digging to Zion in 72 hours, Neo, Morpheus and Trinity must find the Keymaker to ultimately reach the Source.",
+        "releaseDate": "2003-05-15",
+        "runtime": 138,
+        "voteAverage": 7.072,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/aA5qHS0FbSXO8PxcxUIHbDrJyuh.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/ihOJcrorpDQtHTzIOrobbOhpJsj.jpg",
+        "director": "Lana Wachowski",
         "cast": [
-            "Dana Andrews",
-            "Gene Tierney",
-            "Clifton Webb",
-            "Vincent Price",
-            "Judith Anderson"
+            "Keanu Reeves",
+            "Laurence Fishburne",
+            "Carrie-Anne Moss",
+            "Hugo Weaving",
+            "Jada Pinkett Smith"
         ],
         "genres": [
-            "Drama",
-            "Mystery"
+            "Adventure",
+            "Action",
+            "Thriller",
+            "Science Fiction"
         ]
     }
 }
