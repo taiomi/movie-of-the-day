@@ -1,29 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-05-02",
+    "lastUpdated": "2026-05-03",
     "movie": {
-        "id": 604,
-        "title": "The Matrix Reloaded",
-        "tagline": "Free your mind.",
-        "overview": "The Resistance builds in numbers as humans are freed from the Matrix and brought to the city of Zion. Neo discovers his superpowers, including the ability to see the code inside the Matrix. With machine sentinels digging to Zion in 72 hours, Neo, Morpheus and Trinity must find the Keymaker to ultimately reach the Source.",
-        "releaseDate": "2003-05-15",
-        "runtime": 138,
-        "voteAverage": 7.072,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/aA5qHS0FbSXO8PxcxUIHbDrJyuh.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/ihOJcrorpDQtHTzIOrobbOhpJsj.jpg",
-        "director": "Lana Wachowski",
+        "id": 44163,
+        "title": "A Story of Floating Weeds",
+        "tagline": "",
+        "overview": "An aging actor returns to a small town with his troupe and reunites with his former lover and illegitimate son, a scenario that enrages his current mistress and results in heartbreak for all.",
+        "releaseDate": "1934-11-23",
+        "runtime": 86,
+        "voteAverage": 7.208,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/eR0KHE3mS2Ti8sOADMp9ZmKJdJG.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/iA8LoWS4Kf7zyAathOCb8Xs3ams.jpg",
+        "director": "Yasujir\u014d Ozu",
         "cast": [
-            "Keanu Reeves",
-            "Laurence Fishburne",
-            "Carrie-Anne Moss",
-            "Hugo Weaving",
-            "Jada Pinkett Smith"
+            "Takeshi Sakamoto",
+            "Ch\u014dko Iida",
+            "K\u014dji Mitsui",
+            "Emiko Yagumo",
+            "Yoshiko Tsubouchi"
         ],
         "genres": [
-            "Adventure",
-            "Action",
-            "Thriller",
-            "Science Fiction"
+            "Drama"
         ]
     }
 }
