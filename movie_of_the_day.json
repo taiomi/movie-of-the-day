@@ -1,26 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-05-03",
+    "lastUpdated": "2026-05-04",
     "movie": {
-        "id": 44163,
-        "title": "A Story of Floating Weeds",
-        "tagline": "",
-        "overview": "An aging actor returns to a small town with his troupe and reunites with his former lover and illegitimate son, a scenario that enrages his current mistress and results in heartbreak for all.",
-        "releaseDate": "1934-11-23",
-        "runtime": 86,
-        "voteAverage": 7.208,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/eR0KHE3mS2Ti8sOADMp9ZmKJdJG.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/iA8LoWS4Kf7zyAathOCb8Xs3ams.jpg",
-        "director": "Yasujir\u014d Ozu",
+        "id": 985,
+        "title": "Eraserhead",
+        "tagline": "Where your nightmares end...",
+        "overview": "First-time father Henry Spencer tries to survive his industrial environment, his angry girlfriend, and the unbearable screams of his newly born mutant child.",
+        "releaseDate": "1977-09-28",
+        "runtime": 89,
+        "voteAverage": 7.345,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/mxveW3mGVc0DzLdOmtkZsgd7c3B.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/ApB0mF2d5Oqioi3yxjuogiotSLI.jpg",
+        "director": "David Lynch",
         "cast": [
-            "Takeshi Sakamoto",
-            "Ch\u014dko Iida",
-            "K\u014dji Mitsui",
-            "Emiko Yagumo",
-            "Yoshiko Tsubouchi"
+            "Jack Nance",
+            "Charlotte Stewart",
+            "Allen Joseph",
+            "Jeanne Bates",
+            "Judith Roberts"
         ],
         "genres": [
-            "Drama"
+            "Horror",
+            "Science Fiction"
         ]
     }
 }
