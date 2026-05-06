@@ -1,27 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-05-05",
+    "lastUpdated": "2026-05-06",
     "movie": {
-        "id": 11878,
-        "title": "Yojimbo",
-        "tagline": "Kill one or a hundred... you only hang once",
-        "overview": "A nameless ronin, or samurai with no master, enters a small village in feudal Japan where two rival businessmen are struggling for control of the local gambling trade. Taking the name Sanjuro Kuwabatake, the ronin convinces both silk merchant Tazaemon and sake merchant Tokuemon to hire him as a personal bodyguard, then artfully sets in motion a full-scale gang war between the two ambitious and unscrupulous men.",
-        "releaseDate": "1961-04-25",
-        "runtime": 110,
-        "voteAverage": 8.1,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/tN7kYPjRhDolpui9sc9Eq9n5b2O.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/5BBwSVytssbFuSPZE4DtJVhROjN.jpg",
-        "director": "Akira Kurosawa",
+        "id": 346698,
+        "title": "Barbie",
+        "tagline": "She's everything. He's just Ken.",
+        "overview": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
+        "releaseDate": "2023-07-19",
+        "runtime": 114,
+        "voteAverage": 6.926,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/mbYTRO33LJAgpCMrIn9ibiWHbMH.jpg",
+        "director": "Greta Gerwig",
         "cast": [
-            "Toshir\u014d Mifune",
-            "Tatsuya Nakadai",
-            "Y\u014dko Tsukasa",
-            "Isuzu Yamada",
-            "Daisuke Kat\u014d"
+            "Margot Robbie",
+            "Ryan Gosling",
+            "America Ferrera",
+            "Ariana Greenblatt",
+            "Issa Rae"
         ],
         "genres": [
-            "Drama",
-            "Thriller"
+            "Comedy",
+            "Adventure",
+            "Fantasy"
         ]
     }
 }
