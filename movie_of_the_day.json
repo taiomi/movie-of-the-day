@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-05-06",
+    "lastUpdated": "2026-05-07",
     "movie": {
-        "id": 346698,
-        "title": "Barbie",
-        "tagline": "She's everything. He's just Ken.",
-        "overview": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
-        "releaseDate": "2023-07-19",
-        "runtime": 114,
-        "voteAverage": 6.926,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/mbYTRO33LJAgpCMrIn9ibiWHbMH.jpg",
-        "director": "Greta Gerwig",
+        "id": 37724,
+        "title": "Skyfall",
+        "tagline": "Think on your sins.",
+        "overview": "When Bond's latest assignment goes gravely wrong, agents around the world are exposed and MI6 headquarters is attacked. While M faces challenges to her authority and position from Gareth Mallory, the new Chairman of the Intelligence and Security Committee, it's up to Bond, aided only by field agent Eve, to locate the mastermind behind the attack.",
+        "releaseDate": "2012-10-24",
+        "runtime": 143,
+        "voteAverage": 7.26,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/d0IVecFQvsGdSbnMAHqiYsNYaJT.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/qB2eFmGEh5YCzhXUpz7As2PaDCh.jpg",
+        "director": "Sam Mendes",
         "cast": [
-            "Margot Robbie",
-            "Ryan Gosling",
-            "America Ferrera",
-            "Ariana Greenblatt",
-            "Issa Rae"
+            "Daniel Craig",
+            "Judi Dench",
+            "Javier Bardem",
+            "Ralph Fiennes",
+            "Naomie Harris"
         ],
         "genres": [
-            "Comedy",
+            "Action",
             "Adventure",
-            "Fantasy"
+            "Thriller"
         ]
     }
 }
