@@ -1,27 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-05-08",
+    "lastUpdated": "2026-05-09",
     "movie": {
-        "id": 181886,
-        "title": "Enemy",
-        "tagline": "You can't escape yourself.",
-        "overview": "A mild-mannered college professor discovers a look-alike actor and delves into the other man's private affairs.",
-        "releaseDate": "2014-03-14",
-        "runtime": 91,
-        "voteAverage": 6.845,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/vf40tyDRKZsBmaLsYeopzfFLzLx.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/deYWtXTc56YdXyIuuMuA8dvBY16.jpg",
-        "director": "Denis Villeneuve",
+        "id": 9028,
+        "title": "The Great Silence",
+        "tagline": "His voice was the silence of death!",
+        "overview": "A mute gunslinger fights in the defense of a group of outlaws and a vengeful young widow, against a group of ruthless bounty hunters.",
+        "releaseDate": "1968-11-22",
+        "runtime": 106,
+        "voteAverage": 7.476,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/3kpxS7SZMyYSXvhDnmxQXOOxiTM.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/ksGuopH0XgXLNHJMvoqZMl3lHTT.jpg",
+        "director": "Sergio Corbucci",
         "cast": [
-            "Jake Gyllenhaal",
-            "M\u00e9lanie Laurent",
-            "Sarah Gadon",
-            "Isabella Rossellini",
-            "Joshua Peace"
+            "Jean-Louis Trintignant",
+            "Klaus Kinski",
+            "Frank Wolff",
+            "Luigi Pistilli",
+            "Vonetta McGee"
         ],
         "genres": [
-            "Thriller",
-            "Mystery"
+            "Western",
+            "Drama"
         ]
     }
 }
