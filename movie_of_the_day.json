@@ -1,27 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-05-09",
+    "lastUpdated": "2026-05-10",
     "movie": {
-        "id": 9028,
-        "title": "The Great Silence",
-        "tagline": "His voice was the silence of death!",
-        "overview": "A mute gunslinger fights in the defense of a group of outlaws and a vengeful young widow, against a group of ruthless bounty hunters.",
-        "releaseDate": "1968-11-22",
-        "runtime": 106,
-        "voteAverage": 7.476,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/3kpxS7SZMyYSXvhDnmxQXOOxiTM.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/ksGuopH0XgXLNHJMvoqZMl3lHTT.jpg",
-        "director": "Sergio Corbucci",
+        "id": 1791,
+        "title": "The Piano Teacher",
+        "tagline": "",
+        "overview": "Erika Kohut, a sexually repressed piano teacher living with her domineering mother, meets a young man who starts romantically pursuing her.",
+        "releaseDate": "2001-09-05",
+        "runtime": 131,
+        "voteAverage": 7.3,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/gNHKYQnP1RnqEhkivHJzBPb4MOP.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/tEhvOU8nJp4v9goYwrJTASJJD3C.jpg",
+        "director": "Michael Haneke",
         "cast": [
-            "Jean-Louis Trintignant",
-            "Klaus Kinski",
-            "Frank Wolff",
-            "Luigi Pistilli",
-            "Vonetta McGee"
+            "Isabelle Huppert",
+            "Annie Girardot",
+            "Beno\u00eet Magimel",
+            "Susanne Lothar",
+            "Udo Samel"
         ],
         "genres": [
-            "Western",
-            "Drama"
+            "Drama",
+            "Romance"
         ]
     }
 }
