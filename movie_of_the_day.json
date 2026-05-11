@@ -1,27 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-05-10",
+    "lastUpdated": "2026-05-11",
     "movie": {
-        "id": 1791,
-        "title": "The Piano Teacher",
-        "tagline": "",
-        "overview": "Erika Kohut, a sexually repressed piano teacher living with her domineering mother, meets a young man who starts romantically pursuing her.",
-        "releaseDate": "2001-09-05",
-        "runtime": 131,
-        "voteAverage": 7.3,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/gNHKYQnP1RnqEhkivHJzBPb4MOP.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/tEhvOU8nJp4v9goYwrJTASJJD3C.jpg",
-        "director": "Michael Haneke",
+        "id": 424,
+        "title": "Schindler's List",
+        "tagline": "Whoever saves one life, saves the world entire.",
+        "overview": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+        "releaseDate": "1993-12-15",
+        "runtime": 195,
+        "voteAverage": 8.568,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
+        "director": "Steven Spielberg",
         "cast": [
-            "Isabelle Huppert",
-            "Annie Girardot",
-            "Beno\u00eet Magimel",
-            "Susanne Lothar",
-            "Udo Samel"
+            "Liam Neeson",
+            "Ben Kingsley",
+            "Ralph Fiennes",
+            "Caroline Goodall",
+            "Jonathan Sagall"
         ],
         "genres": [
             "Drama",
-            "Romance"
+            "History",
+            "War"
         ]
     }
 }
