@@ -1,26 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-05-12",
+    "lastUpdated": "2026-05-13",
     "movie": {
-        "id": 21484,
-        "title": "Possession",
-        "tagline": "Inhuman ecstasy fulfilled.",
-        "overview": "A young woman left her family for an unspecified reason. The husband determines to find out the truth and starts following his wife. At first, he suspects that a man is involved. But gradually, he finds out more and more strange behaviors and bizarre incidents that indicate something more than a possessed love affair.",
-        "releaseDate": "1981-05-27",
-        "runtime": 124,
-        "voteAverage": 7.3,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/dSxz8VWHVleJXdIce9D0ujkmJNI.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/zfw3fcF7d4KcWYEvps4zUfl303b.jpg",
-        "director": "Andrzej \u017bu\u0142awski",
+        "id": 5165,
+        "title": "L'Avventura",
+        "tagline": "A new adventure in filmmaking...",
+        "overview": "Claudia and Anna join Anna's lover, Sandro, on a boat trip to a remote volcanic island. When Anna goes missing, a search is launched. In the meantime, Sandro and Claudia become involved in a romance despite Anna's disappearance, though the relationship suffers from guilt and tension.",
+        "releaseDate": "1960-09-14",
+        "runtime": 144,
+        "voteAverage": 7.5,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/7kUXAS8K7Ihw1T1mhARjnLuMVk3.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/kF5AeKG5XIZkAXY0kRgm57qEbJI.jpg",
+        "director": "Michelangelo Antonioni",
         "cast": [
-            "Isabelle Adjani",
-            "Sam Neill",
-            "Margit Carstensen",
-            "Heinz Bennent",
-            "Johanna Hofer"
+            "Monica Vitti",
+            "Gabriele Ferzetti",
+            "Lea Massari",
+            "Dominique Blanchar",
+            "Renzo Ricci"
         ],
         "genres": [
-            "Horror"
+            "Drama",
+            "Mystery",
+            "Romance"
         ]
     }
 }
