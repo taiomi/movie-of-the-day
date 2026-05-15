@@ -1,26 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-05-14",
+    "lastUpdated": "2026-05-15",
     "movie": {
-        "id": 50247,
-        "title": "Early Summer",
-        "tagline": "",
-        "overview": "In postwar Tokyo, Noriko lives with her extended family. Although she enjoys her career and her social life, her more traditional family worries about her single marital status at the advanced age of 28. 40-year-old business associate Takako proposes, Noriko's family press her into accepting, but when her widowed childhood friend Kenkichi returns to the neighborhood, she finds her heart leading in another direction.",
-        "releaseDate": "1951-10-03",
-        "runtime": 125,
-        "voteAverage": 7.847,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/qVJsIMOYT7pNEldMttuATep6mtB.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/2U4bERBTIEVXLFfEJBV7KxCLNg1.jpg",
-        "director": "Yasujir\u014d Ozu",
+        "id": 5336,
+        "title": "Sal\u00f2, or the 120 Days of Sodom",
+        "tagline": "The final vision of a controversial filmmaker.",
+        "overview": "Four corrupted fascist libertines round up 9 teenage boys and girls and subject them to 120 days of sadistic physical, mental and sexual torture.",
+        "releaseDate": "1976-01-10",
+        "runtime": 117,
+        "voteAverage": 6.336,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/xnaDdiRfZlJaTf6JRc4in40eaeI.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/j88mvEqaL9i9VTcmDgNZ1rTn3g0.jpg",
+        "director": "Pier Paolo Pasolini",
         "cast": [
-            "Setsuko Hara",
-            "Chish\u016b Ry\u016b",
-            "Chikage Awashima",
-            "Kuniko Miyake",
-            "Ichir\u014d Sugai"
+            "Paolo Bonacelli",
+            "Giorgio Cataldi",
+            "Uberto Paolo Quintavalle",
+            "Aldo Valletti",
+            "Caterina Boratto"
         ],
         "genres": [
-            "Drama"
+            "Drama",
+            "Horror"
         ]
     }
 }
