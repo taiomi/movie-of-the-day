@@ -1,27 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-05-15",
+    "lastUpdated": "2026-05-16",
     "movie": {
-        "id": 5336,
-        "title": "Sal\u00f2, or the 120 Days of Sodom",
-        "tagline": "The final vision of a controversial filmmaker.",
-        "overview": "Four corrupted fascist libertines round up 9 teenage boys and girls and subject them to 120 days of sadistic physical, mental and sexual torture.",
-        "releaseDate": "1976-01-10",
-        "runtime": 117,
-        "voteAverage": 6.336,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/xnaDdiRfZlJaTf6JRc4in40eaeI.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/j88mvEqaL9i9VTcmDgNZ1rTn3g0.jpg",
-        "director": "Pier Paolo Pasolini",
+        "id": 31509,
+        "title": "Way Down East",
+        "tagline": "A simple story for plain people.",
+        "overview": "A naive country girl is tricked into a sham marriage by a wealthy womanizer, then must rebuild her life despite the taint of having borne a child out of wedlock.",
+        "releaseDate": "1920-09-03",
+        "runtime": 150,
+        "voteAverage": 6.938,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/xzrSiQuiSb5hKePkU9AFuCcgRxE.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/pG5mCbGpgq9im4vcEQufMIMU8FT.jpg",
+        "director": "D.W. Griffith",
         "cast": [
-            "Paolo Bonacelli",
-            "Giorgio Cataldi",
-            "Uberto Paolo Quintavalle",
-            "Aldo Valletti",
-            "Caterina Boratto"
+            "Lillian Gish",
+            "Richard Barthelmess",
+            "Lowell Sherman",
+            "Burr McIntosh",
+            "Kate Bruce"
         ],
         "genres": [
             "Drama",
-            "Horror"
+            "Romance"
         ]
     }
 }

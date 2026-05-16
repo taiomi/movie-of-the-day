@@ -1718,3 +1718,7 @@
 [2026-05-15 05:55:56] Selected movie: Salò, or the 120 Days of Sodom (ID: 5336) for day 424 since start
 [2026-05-15 05:55:56] Successfully saved movie data for: Salò, or the 120 Days of Sodom
 [2026-05-15 05:55:56] Movie fetch process completed
+[2026-05-16 05:28:22] Starting movie fetch process
+[2026-05-16 05:28:22] Selected movie: Way Down East (ID: 31509) for day 425 since start
+[2026-05-16 05:28:23] Successfully saved movie data for: Way Down East
+[2026-05-16 05:28:23] Movie fetch process completed
