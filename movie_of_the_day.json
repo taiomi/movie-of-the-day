@@ -1,27 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-05-16",
+    "lastUpdated": "2026-05-17",
     "movie": {
-        "id": 31509,
-        "title": "Way Down East",
-        "tagline": "A simple story for plain people.",
-        "overview": "A naive country girl is tricked into a sham marriage by a wealthy womanizer, then must rebuild her life despite the taint of having borne a child out of wedlock.",
-        "releaseDate": "1920-09-03",
-        "runtime": 150,
-        "voteAverage": 6.938,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/xzrSiQuiSb5hKePkU9AFuCcgRxE.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/pG5mCbGpgq9im4vcEQufMIMU8FT.jpg",
-        "director": "D.W. Griffith",
+        "id": 25430,
+        "title": "All the King's Men",
+        "tagline": "He Might Have Been A Pretty Good Guy . . . If Too Much Power . . . And Women . . . Hadn't Gone To his Head !",
+        "overview": "A man of humble beginnings and honest intentions rises to power by nefarious means. Along for the wild ride are an earnest reporter, a heretofore classy society girl, and a too-clever-for-her-own-good political flack.",
+        "releaseDate": "1949-11-16",
+        "runtime": 109,
+        "voteAverage": 7,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/7o8nnvFnkekDAlIYznNUWzxQFM6.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/bSTvvll9gIOcoavWRIVYL5RoTkn.jpg",
+        "director": "Robert Rossen",
         "cast": [
-            "Lillian Gish",
-            "Richard Barthelmess",
-            "Lowell Sherman",
-            "Burr McIntosh",
-            "Kate Bruce"
+            "John Ireland",
+            "Broderick Crawford",
+            "Joanne Dru",
+            "John Derek",
+            "Mercedes McCambridge"
         ],
         "genres": [
-            "Drama",
-            "Romance"
+            "Drama"
         ]
     }
 }

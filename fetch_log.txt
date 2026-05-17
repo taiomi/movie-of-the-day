@@ -1722,3 +1722,7 @@
 [2026-05-16 05:28:22] Selected movie: Way Down East (ID: 31509) for day 425 since start
 [2026-05-16 05:28:23] Successfully saved movie data for: Way Down East
 [2026-05-16 05:28:23] Movie fetch process completed
+[2026-05-17 05:49:48] Starting movie fetch process
+[2026-05-17 05:49:48] Selected movie: All the King’s Men (ID: 25430) for day 426 since start
+[2026-05-17 05:49:48] Successfully saved movie data for: All the King's Men
+[2026-05-17 05:49:48] Movie fetch process completed
