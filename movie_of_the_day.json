@@ -1,23 +1,23 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-05-17",
+    "lastUpdated": "2026-05-18",
     "movie": {
-        "id": 25430,
-        "title": "All the King's Men",
-        "tagline": "He Might Have Been A Pretty Good Guy . . . If Too Much Power . . . And Women . . . Hadn't Gone To his Head !",
-        "overview": "A man of humble beginnings and honest intentions rises to power by nefarious means. Along for the wild ride are an earnest reporter, a heretofore classy society girl, and a too-clever-for-her-own-good political flack.",
-        "releaseDate": "1949-11-16",
-        "runtime": 109,
-        "voteAverage": 7,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/7o8nnvFnkekDAlIYznNUWzxQFM6.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/bSTvvll9gIOcoavWRIVYL5RoTkn.jpg",
-        "director": "Robert Rossen",
+        "id": 10316,
+        "title": "The Ides of March",
+        "tagline": "Ambition seduces. Power corrupts.",
+        "overview": "Dirty tricks stand to soil an ambitious young press spokesman's idealism in a cutthroat presidential campaign where 'victory' is relative.",
+        "releaseDate": "2011-10-07",
+        "runtime": 101,
+        "voteAverage": 6.678,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/w8t4UnJnC24S9ygoaFgmMzRbErd.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/lO3QqiOh2AO47oUVJcgr7axxftH.jpg",
+        "director": "George Clooney",
         "cast": [
-            "John Ireland",
-            "Broderick Crawford",
-            "Joanne Dru",
-            "John Derek",
-            "Mercedes McCambridge"
+            "Ryan Gosling",
+            "George Clooney",
+            "Philip Seymour Hoffman",
+            "Paul Giamatti",
+            "Evan Rachel Wood"
         ],
         "genres": [
             "Drama"
