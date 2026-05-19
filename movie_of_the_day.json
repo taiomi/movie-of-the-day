@@ -1,26 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-05-18",
+    "lastUpdated": "2026-05-19",
     "movie": {
-        "id": 10316,
-        "title": "The Ides of March",
-        "tagline": "Ambition seduces. Power corrupts.",
-        "overview": "Dirty tricks stand to soil an ambitious young press spokesman's idealism in a cutthroat presidential campaign where 'victory' is relative.",
-        "releaseDate": "2011-10-07",
-        "runtime": 101,
-        "voteAverage": 6.678,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/w8t4UnJnC24S9ygoaFgmMzRbErd.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/lO3QqiOh2AO47oUVJcgr7axxftH.jpg",
-        "director": "George Clooney",
+        "id": 414906,
+        "title": "The Batman",
+        "tagline": "Unmask the truth.",
+        "overview": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.",
+        "releaseDate": "2022-03-01",
+        "runtime": 177,
+        "voteAverage": 7.661,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/rvtdN5XkWAfGX6xDuPL6yYS2seK.jpg",
+        "director": "Matt Reeves",
         "cast": [
-            "Ryan Gosling",
-            "George Clooney",
-            "Philip Seymour Hoffman",
-            "Paul Giamatti",
-            "Evan Rachel Wood"
+            "Robert Pattinson",
+            "Zo\u00eb Kravitz",
+            "Jeffrey Wright",
+            "Colin Farrell",
+            "Paul Dano"
         ],
         "genres": [
-            "Drama"
+            "Crime",
+            "Mystery",
+            "Thriller"
         ]
     }
 }
