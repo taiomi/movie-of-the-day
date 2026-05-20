@@ -1734,3 +1734,8 @@
 [2026-05-19 06:09:57] Selected movie: The Batman (ID: 414906) for day 428 since start
 [2026-05-19 06:09:57] Successfully saved movie data for: The Batman
 [2026-05-19 06:09:57] Movie fetch process completed
+[2026-05-20 06:09:22] Starting movie fetch process
+[2026-05-20 06:09:22] Selected movie: Nashville (ID: 3121) for day 429 since start
+[2026-05-20 06:09:22] ERROR: Invalid JSON response: Control character error, possibly incorrectly encoded
+[2026-05-20 06:09:22] Created fallback movie due to API failure for: Nashville
+[2026-05-20 06:09:22] Movie fetch process completed

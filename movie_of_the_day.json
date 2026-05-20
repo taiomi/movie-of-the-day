@@ -1,28 +1,20 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-05-19",
+    "lastUpdated": "2026-05-20",
     "movie": {
-        "id": 414906,
-        "title": "The Batman",
-        "tagline": "Unmask the truth.",
-        "overview": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.",
-        "releaseDate": "2022-03-01",
-        "runtime": 177,
-        "voteAverage": 7.661,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/74xTEgt7R36Fpooo50r9T25onhq.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/rvtdN5XkWAfGX6xDuPL6yYS2seK.jpg",
-        "director": "Matt Reeves",
-        "cast": [
-            "Robert Pattinson",
-            "Zo\u00eb Kravitz",
-            "Jeffrey Wright",
-            "Colin Farrell",
-            "Paul Dano"
-        ],
+        "id": 3121,
+        "title": "Nashville",
+        "tagline": "No tagline available",
+        "overview": "Unable to fetch movie details from TMDB API. This is a fallback entry based on our movie list.",
+        "releaseDate": "1975-01-01",
+        "runtime": 120,
+        "voteAverage": 0,
+        "posterPath": "",
+        "backdropPath": "",
+        "director": "Altman",
+        "cast": [],
         "genres": [
-            "Crime",
-            "Mystery",
-            "Thriller"
+            "Drama"
         ]
     }
 }
