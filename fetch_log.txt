@@ -1739,3 +1739,7 @@
 [2026-05-20 06:09:22] ERROR: Invalid JSON response: Control character error, possibly incorrectly encoded
 [2026-05-20 06:09:22] Created fallback movie due to API failure for: Nashville
 [2026-05-20 06:09:22] Movie fetch process completed
+[2026-05-21 06:11:39] Starting movie fetch process
+[2026-05-21 06:11:39] Selected movie: Something Wild (ID: 11300) for day 430 since start
+[2026-05-21 06:11:39] Successfully saved movie data for: Something Wild
+[2026-05-21 06:11:39] Movie fetch process completed

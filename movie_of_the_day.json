@@ -1,20 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-05-20",
+    "lastUpdated": "2026-05-21",
     "movie": {
-        "id": 3121,
-        "title": "Nashville",
-        "tagline": "No tagline available",
-        "overview": "Unable to fetch movie details from TMDB API. This is a fallback entry based on our movie list.",
-        "releaseDate": "1975-01-01",
-        "runtime": 120,
-        "voteAverage": 0,
-        "posterPath": "",
-        "backdropPath": "",
-        "director": "Altman",
-        "cast": [],
+        "id": 11300,
+        "title": "Something Wild",
+        "tagline": "Something Different. Something Daring. Something Dangerous.",
+        "overview": "A free-spirited woman \"kidnaps\" a yuppie for a weekend of adventure. But the fun quickly takes a dangerous turn when her ex-con husband shows up.",
+        "releaseDate": "1986-11-07",
+        "runtime": 114,
+        "voteAverage": 6.617,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/344lhBozqFWKxBb4fp6azYQMLEy.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/1N49uYhsKr93kfYJFgjSEvWpiRf.jpg",
+        "director": "Jonathan Demme",
+        "cast": [
+            "Jeff Daniels",
+            "Melanie Griffith",
+            "Ray Liotta",
+            "George 'Red' Schwartz",
+            "Margaret Colin"
+        ],
         "genres": [
-            "Drama"
+            "Crime",
+            "Comedy",
+            "Romance"
         ]
     }
 }
