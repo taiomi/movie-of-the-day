@@ -1,29 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-05-22",
+    "lastUpdated": "2026-05-23",
     "movie": {
-        "id": 308,
-        "title": "Broken Flowers",
-        "tagline": "Sometimes life brings some strange surprises",
-        "overview": "An introverted man receives an anonymous letter from an ex-lover informing him that he has a son who may be looking for him. A freelance sleuth neighbor motivates the man to embark on a cross-country search for his past flames, seeking answers.",
-        "releaseDate": "2005-07-31",
-        "runtime": 106,
-        "voteAverage": 6.938,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/gd8JNjwgiM6ZgGm6NFAkovQWoYn.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/xTO4x2OyF7TdZ32mVnjzhjslDOd.jpg",
-        "director": "Jim Jarmusch",
+        "id": 419430,
+        "title": "Get Out",
+        "tagline": "Just because you're invited, doesn't mean you're welcome.",
+        "overview": "Chris and his girlfriend Rose go upstate to visit her parents for the weekend. At first, Chris reads the family's overly accommodating behavior as nervous attempts to deal with their daughter's interracial relationship, but as the weekend progresses, a series of increasingly disturbing discoveries lead him to a truth that he never could have imagined.",
+        "releaseDate": "2017-02-24",
+        "runtime": 104,
+        "voteAverage": 7.622,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/mE24wUCfjK8AoBBjaMjho7Rczr7.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/o8dPH0ZSIyyViP6rjRX1djwCUwI.jpg",
+        "director": "Jordan Peele",
         "cast": [
-            "Bill Murray",
-            "Sharon Stone",
-            "Jessica Lange",
-            "Tilda Swinton",
-            "Frances Conroy"
+            "Daniel Kaluuya",
+            "Allison Williams",
+            "Catherine Keener",
+            "Bradley Whitford",
+            "Caleb Landry Jones"
         ],
         "genres": [
-            "Comedy",
-            "Drama",
             "Mystery",
-            "Romance"
+            "Thriller",
+            "Horror"
         ]
     }
 }
