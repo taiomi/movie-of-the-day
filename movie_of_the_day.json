@@ -1,28 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-05-23",
+    "lastUpdated": "2026-05-24",
     "movie": {
-        "id": 419430,
-        "title": "Get Out",
-        "tagline": "Just because you're invited, doesn't mean you're welcome.",
-        "overview": "Chris and his girlfriend Rose go upstate to visit her parents for the weekend. At first, Chris reads the family's overly accommodating behavior as nervous attempts to deal with their daughter's interracial relationship, but as the weekend progresses, a series of increasingly disturbing discoveries lead him to a truth that he never could have imagined.",
-        "releaseDate": "2017-02-24",
-        "runtime": 104,
-        "voteAverage": 7.622,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/mE24wUCfjK8AoBBjaMjho7Rczr7.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/o8dPH0ZSIyyViP6rjRX1djwCUwI.jpg",
-        "director": "Jordan Peele",
+        "id": 923,
+        "title": "Dawn of the Dead",
+        "tagline": "When there\u2019s no more room in HELL, the dead will walk the EARTH!",
+        "overview": "During an ever-growing epidemic of zombies that have risen from the dead, two Philadelphia SWAT team members, a traffic reporter, and his television-executive girlfriend seek refuge in a secluded shopping mall.",
+        "releaseDate": "1978-09-02",
+        "runtime": 127,
+        "voteAverage": 7.485,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/70MY8H0bLMvXf8ED2SgVMPhDVVM.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/9OKzKuCfcMwpHVp56pjNI7J4xXR.jpg",
+        "director": "George A. Romero",
         "cast": [
-            "Daniel Kaluuya",
-            "Allison Williams",
-            "Catherine Keener",
-            "Bradley Whitford",
-            "Caleb Landry Jones"
+            "David Emge",
+            "Ken Foree",
+            "Scott H. Reiniger",
+            "Gaylen Ross",
+            "David Crawford"
         ],
         "genres": [
-            "Mystery",
-            "Thriller",
-            "Horror"
+            "Horror",
+            "Science Fiction"
         ]
     }
 }

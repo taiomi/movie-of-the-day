@@ -1751,3 +1751,7 @@
 [2026-05-23 05:40:15] Selected movie: Get Out (ID: 419430) for day 432 since start
 [2026-05-23 05:40:15] Successfully saved movie data for: Get Out
 [2026-05-23 05:40:15] Movie fetch process completed
+[2026-05-24 06:02:43] Starting movie fetch process
+[2026-05-24 06:02:43] Selected movie: Dawn of the Dead (ID: 923) for day 433 since start
+[2026-05-24 06:02:43] Successfully saved movie data for: Dawn of the Dead
+[2026-05-24 06:02:43] Movie fetch process completed
