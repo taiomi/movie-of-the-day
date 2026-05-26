@@ -1,26 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-05-25",
+    "lastUpdated": "2026-05-26",
     "movie": {
-        "id": 16672,
-        "title": "Woman in the Dunes",
-        "tagline": "Haunting. Erotic. Unforgettable.",
-        "overview": "A vacationing entomologist suffers extreme physical and psychological trauma after being taken captive by the residents of a poor seaside village and made to live with a woman whose life task is shoveling sand for them.",
-        "releaseDate": "1964-02-15",
-        "runtime": 147,
-        "voteAverage": 8.213,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/xiBr3bIT2xpbuIKo5bLK7ebP4O1.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/dxfFh9pTKDaYH2B6PwcR6ohCM1L.jpg",
-        "director": "Hiroshi Teshigahara",
+        "id": 1024,
+        "title": "Heavenly Creatures",
+        "tagline": "Not all angels are innocent.",
+        "overview": "Precocious teenager Juliet moves to New Zealand with her family and soon befriends the quiet, brooding Pauline through their shared love of fantasy and literature. This friendship gradually develops into an intense and obsessive bond.",
+        "releaseDate": "1994-09-12",
+        "runtime": 109,
+        "voteAverage": 7,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/AsZ286PDaYy8rZTKDDEbhrWV9gq.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/jHjOY9vgE7maH2HRk2fd9lOPg8.jpg",
+        "director": "Peter Jackson",
         "cast": [
-            "Eiji Okada",
-            "Ky\u00f4ko Kishida",
-            "Hiroko It\u014d",
-            "K\u014dji Mitsui"
+            "Melanie Lynskey",
+            "Kate Winslet",
+            "Sarah Peirse",
+            "Diana Kent",
+            "Clive Merrison"
         ],
         "genres": [
             "Drama",
-            "Thriller"
+            "Fantasy"
         ]
     }
 }
