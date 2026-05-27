@@ -1,27 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-05-26",
+    "lastUpdated": "2026-05-27",
     "movie": {
-        "id": 1024,
-        "title": "Heavenly Creatures",
-        "tagline": "Not all angels are innocent.",
-        "overview": "Precocious teenager Juliet moves to New Zealand with her family and soon befriends the quiet, brooding Pauline through their shared love of fantasy and literature. This friendship gradually develops into an intense and obsessive bond.",
-        "releaseDate": "1994-09-12",
-        "runtime": 109,
-        "voteAverage": 7,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/AsZ286PDaYy8rZTKDDEbhrWV9gq.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/jHjOY9vgE7maH2HRk2fd9lOPg8.jpg",
-        "director": "Peter Jackson",
+        "id": 762504,
+        "title": "Nope",
+        "tagline": "What\u2019s a bad miracle?",
+        "overview": "Residents in a lonely gulch of inland California bear witness to an uncanny, chilling discovery.",
+        "releaseDate": "2022-07-20",
+        "runtime": 130,
+        "voteAverage": 6.823,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/AcKVlWaNVVVFQwro3nLXqPljcYA.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/yRutvYkM3OP8N9oqqfjSK1VC7fs.jpg",
+        "director": "Jordan Peele",
         "cast": [
-            "Melanie Lynskey",
-            "Kate Winslet",
-            "Sarah Peirse",
-            "Diana Kent",
-            "Clive Merrison"
+            "Daniel Kaluuya",
+            "Keke Palmer",
+            "Brandon Perea",
+            "Michael Wincott",
+            "Steven Yeun"
         ],
         "genres": [
-            "Drama",
-            "Fantasy"
+            "Horror",
+            "Science Fiction"
         ]
     }
 }
