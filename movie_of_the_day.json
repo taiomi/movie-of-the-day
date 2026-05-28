@@ -1,27 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-05-27",
+    "lastUpdated": "2026-05-28",
     "movie": {
-        "id": 762504,
-        "title": "Nope",
-        "tagline": "What\u2019s a bad miracle?",
-        "overview": "Residents in a lonely gulch of inland California bear witness to an uncanny, chilling discovery.",
-        "releaseDate": "2022-07-20",
-        "runtime": 130,
-        "voteAverage": 6.823,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/AcKVlWaNVVVFQwro3nLXqPljcYA.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/yRutvYkM3OP8N9oqqfjSK1VC7fs.jpg",
-        "director": "Jordan Peele",
+        "id": 12637,
+        "title": "New York, New York",
+        "tagline": "The war was over and the world was falling in love again.",
+        "overview": "An egotistical saxophone player and a young singer meet on V-J Day and embark upon a strained and rocky romance, even as their careers begin a long uphill climb.",
+        "releaseDate": "1977-06-21",
+        "runtime": 163,
+        "voteAverage": 6.532,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/1nD40aUcPAxYdE1WxERrTjZuFGe.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/9lOh8t4qPBfqIcKNW0HT0VdMgEi.jpg",
+        "director": "Martin Scorsese",
         "cast": [
-            "Daniel Kaluuya",
-            "Keke Palmer",
-            "Brandon Perea",
-            "Michael Wincott",
-            "Steven Yeun"
+            "Liza Minnelli",
+            "Robert De Niro",
+            "Lionel Stander",
+            "Barry Primus",
+            "Mary Kay Place"
         ],
         "genres": [
-            "Horror",
-            "Science Fiction"
+            "Romance",
+            "Drama",
+            "Music"
         ]
     }
 }
