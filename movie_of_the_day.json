@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-05-28",
+    "lastUpdated": "2026-05-29",
     "movie": {
-        "id": 12637,
-        "title": "New York, New York",
-        "tagline": "The war was over and the world was falling in love again.",
-        "overview": "An egotistical saxophone player and a young singer meet on V-J Day and embark upon a strained and rocky romance, even as their careers begin a long uphill climb.",
-        "releaseDate": "1977-06-21",
-        "runtime": 163,
-        "voteAverage": 6.532,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/1nD40aUcPAxYdE1WxERrTjZuFGe.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/9lOh8t4qPBfqIcKNW0HT0VdMgEi.jpg",
-        "director": "Martin Scorsese",
+        "id": 31262,
+        "title": "The Man from London",
+        "tagline": "",
+        "overview": "A switchman at a seaside railway witnesses a murder but does not report it after he finds a suitcase full of money at the scene of the crime.",
+        "releaseDate": "2008-09-24",
+        "runtime": 139,
+        "voteAverage": 7.1,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/poBhgpN4fJfzaRuG4wMLah3rHLw.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/xgJt1f0OkcSsbWNQaoKddPIOgCh.jpg",
+        "director": "B\u00e9la Tarr",
         "cast": [
-            "Liza Minnelli",
-            "Robert De Niro",
-            "Lionel Stander",
-            "Barry Primus",
-            "Mary Kay Place"
+            "Miroslav Krobot",
+            "Tilda Swinton",
+            "J\u00e1nos Derzsi",
+            "\u00c1gi Szirtes",
+            "Gyula Pauer"
         ],
         "genres": [
-            "Romance",
-            "Drama",
-            "Music"
+            "Mystery",
+            "Crime",
+            "Drama"
         ]
     }
 }
