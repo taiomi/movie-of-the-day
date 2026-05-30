@@ -1775,3 +1775,7 @@
 [2026-05-29 06:15:27] Selected movie: The Man From London (ID: 31262) for day 438 since start
 [2026-05-29 06:15:28] Successfully saved movie data for: The Man from London
 [2026-05-29 06:15:28] Movie fetch process completed
+[2026-05-30 05:49:44] Starting movie fetch process
+[2026-05-30 05:49:44] Selected movie: The Zone of Interest (ID: 467244) for day 439 since start
+[2026-05-30 05:49:45] Successfully saved movie data for: The Zone of Interest
+[2026-05-30 05:49:45] Movie fetch process completed

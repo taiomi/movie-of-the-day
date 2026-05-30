@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-05-29",
+    "lastUpdated": "2026-05-30",
     "movie": {
-        "id": 31262,
-        "title": "The Man from London",
+        "id": 467244,
+        "title": "The Zone of Interest",
         "tagline": "",
-        "overview": "A switchman at a seaside railway witnesses a murder but does not report it after he finds a suitcase full of money at the scene of the crime.",
-        "releaseDate": "2008-09-24",
-        "runtime": 139,
-        "voteAverage": 7.1,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/poBhgpN4fJfzaRuG4wMLah3rHLw.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/xgJt1f0OkcSsbWNQaoKddPIOgCh.jpg",
-        "director": "B\u00e9la Tarr",
+        "overview": "The commandant of Auschwitz, Rudolf H\u00f6ss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
+        "releaseDate": "2023-12-15",
+        "runtime": 105,
+        "voteAverage": 7.016,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/hUu9zyZmDd8VZegKi1iK1Vk0RYS.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/pnTSOKcYnvdpQNQElAtJM1rWOxH.jpg",
+        "director": "Jonathan Glazer",
         "cast": [
-            "Miroslav Krobot",
-            "Tilda Swinton",
-            "J\u00e1nos Derzsi",
-            "\u00c1gi Szirtes",
-            "Gyula Pauer"
+            "Christian Friedel",
+            "Sandra H\u00fcller",
+            "Johann Karthaus",
+            "Luis Noah Witte",
+            "Nele Ahrensmeier"
         ],
         "genres": [
-            "Mystery",
-            "Crime",
-            "Drama"
+            "Drama",
+            "History",
+            "War"
         ]
     }
 }
