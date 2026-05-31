@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-05-30",
+    "lastUpdated": "2026-05-31",
     "movie": {
-        "id": 467244,
-        "title": "The Zone of Interest",
+        "id": 45706,
+        "title": "Tokyo Drifter",
         "tagline": "",
-        "overview": "The commandant of Auschwitz, Rudolf H\u00f6ss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
-        "releaseDate": "2023-12-15",
-        "runtime": 105,
-        "voteAverage": 7.016,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/hUu9zyZmDd8VZegKi1iK1Vk0RYS.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/pnTSOKcYnvdpQNQElAtJM1rWOxH.jpg",
-        "director": "Jonathan Glazer",
+        "overview": "After yakuza boss Kurata dissolves his own criminal empire, a rival kingpin offers a position to Kurata's top operative, Tetsuya \"Phoenix Tetsu\" Hondo. When the fiercely loyal Tetsu declines, Otsuka taps unstoppable Tatsuzo the \"Viper\", a ruthless gun-for-hire, to assassinate him. As the Viper trails his target through the countryside, the agile Phoenix Tetsu grows concerned that one of his former associates has betrayed him.",
+        "releaseDate": "1966-04-10",
+        "runtime": 83,
+        "voteAverage": 7.1,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/dkscSldTB6FGUMMLnInUfKYLfPR.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/xrsqHuS402Msz8yhWbwre2QQYWd.jpg",
+        "director": "Seijun Suzuki",
         "cast": [
-            "Christian Friedel",
-            "Sandra H\u00fcller",
-            "Johann Karthaus",
-            "Luis Noah Witte",
-            "Nele Ahrensmeier"
+            "Tetsuya Watari",
+            "Chieko Matsubara",
+            "Hideaki Nitani",
+            "Tamio Kawachi",
+            "Eiji G\u014d"
         ],
         "genres": [
-            "Drama",
-            "History",
-            "War"
+            "Thriller",
+            "Crime",
+            "Action"
         ]
     }
 }
