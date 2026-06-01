@@ -1783,3 +1783,7 @@
 [2026-05-31 06:20:15] Selected movie: Tokyo Drifter (ID: 45706) for day 440 since start
 [2026-05-31 06:20:15] Successfully saved movie data for: Tokyo Drifter
 [2026-05-31 06:20:15] Movie fetch process completed
+[2026-06-01 06:58:45] Starting movie fetch process
+[2026-06-01 06:58:45] Selected movie: Pyaasa (ID: 41053) for day 441 since start
+[2026-06-01 06:58:45] Successfully saved movie data for: Pyaasa
+[2026-06-01 06:58:45] Movie fetch process completed

@@ -1,28 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-05-31",
+    "lastUpdated": "2026-06-01",
     "movie": {
-        "id": 45706,
-        "title": "Tokyo Drifter",
+        "id": 41053,
+        "title": "Pyaasa",
         "tagline": "",
-        "overview": "After yakuza boss Kurata dissolves his own criminal empire, a rival kingpin offers a position to Kurata's top operative, Tetsuya \"Phoenix Tetsu\" Hondo. When the fiercely loyal Tetsu declines, Otsuka taps unstoppable Tatsuzo the \"Viper\", a ruthless gun-for-hire, to assassinate him. As the Viper trails his target through the countryside, the agile Phoenix Tetsu grows concerned that one of his former associates has betrayed him.",
-        "releaseDate": "1966-04-10",
-        "runtime": 83,
-        "voteAverage": 7.1,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/dkscSldTB6FGUMMLnInUfKYLfPR.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/xrsqHuS402Msz8yhWbwre2QQYWd.jpg",
-        "director": "Seijun Suzuki",
+        "overview": "Vijay, a destitute poet, searches for true love while attempting to get his work published. With the assistance of two women in his life, his dream comes true - but at a cost that causes Vijay to rethink his worldview.",
+        "releaseDate": "1957-02-19",
+        "runtime": 146,
+        "voteAverage": 7.226,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/lQu1gBTKIF4BGC0f3GZPEbQYzWq.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/hvtRa9AZ2mKnR32fRow356vsdSf.jpg",
+        "director": "Guru Dutt",
         "cast": [
-            "Tetsuya Watari",
-            "Chieko Matsubara",
-            "Hideaki Nitani",
-            "Tamio Kawachi",
-            "Eiji G\u014d"
+            "Guru Dutt",
+            "Waheeda Rehman",
+            "Mala Sinha",
+            "Johnny Walker",
+            "Rehman"
         ],
         "genres": [
-            "Thriller",
-            "Crime",
-            "Action"
+            "Drama",
+            "Romance"
         ]
     }
 }
