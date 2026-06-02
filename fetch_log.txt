@@ -1787,3 +1787,7 @@
 [2026-06-01 06:58:45] Selected movie: Pyaasa (ID: 41053) for day 441 since start
 [2026-06-01 06:58:45] Successfully saved movie data for: Pyaasa
 [2026-06-01 06:58:45] Movie fetch process completed
+[2026-06-02 06:42:55] Starting movie fetch process
+[2026-06-02 06:42:55] Selected movie: Trainspotting (ID: 627) for day 442 since start
+[2026-06-02 06:42:55] Successfully saved movie data for: Trainspotting
+[2026-06-02 06:42:55] Movie fetch process completed

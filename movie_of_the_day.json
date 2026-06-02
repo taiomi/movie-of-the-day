@@ -1,27 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-06-01",
+    "lastUpdated": "2026-06-02",
     "movie": {
-        "id": 41053,
-        "title": "Pyaasa",
-        "tagline": "",
-        "overview": "Vijay, a destitute poet, searches for true love while attempting to get his work published. With the assistance of two women in his life, his dream comes true - but at a cost that causes Vijay to rethink his worldview.",
-        "releaseDate": "1957-02-19",
-        "runtime": 146,
-        "voteAverage": 7.226,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/lQu1gBTKIF4BGC0f3GZPEbQYzWq.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/hvtRa9AZ2mKnR32fRow356vsdSf.jpg",
-        "director": "Guru Dutt",
+        "id": 627,
+        "title": "Trainspotting",
+        "tagline": "Choose life.",
+        "overview": "Heroin addict Mark Renton stumbles through bad ideas and sobriety attempts with his unreliable friends --Sick Boy, Begbie, Spud and Tommy. He also has an underage girlfriend, Diane, along for the ride. After cleaning up and moving from Edinburgh to London, Mark finds he can't escape the life he left behind as Begbie and Sick Boy come knocking.",
+        "releaseDate": "1996-02-23",
+        "runtime": 94,
+        "voteAverage": 8,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/1jUC02qsqS2NxBMFarbIhcQtazV.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/dkfBKDUIWP1peEszdqK10MkMZCP.jpg",
+        "director": "Danny Boyle",
         "cast": [
-            "Guru Dutt",
-            "Waheeda Rehman",
-            "Mala Sinha",
-            "Johnny Walker",
-            "Rehman"
+            "Ewan McGregor",
+            "Ewen Bremner",
+            "Jonny Lee Miller",
+            "Kevin McKidd",
+            "Robert Carlyle"
         ],
         "genres": [
             "Drama",
-            "Romance"
+            "Crime"
         ]
     }
 }
