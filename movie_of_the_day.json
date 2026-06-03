@@ -1,27 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-06-02",
+    "lastUpdated": "2026-06-03",
     "movie": {
-        "id": 627,
-        "title": "Trainspotting",
-        "tagline": "Choose life.",
-        "overview": "Heroin addict Mark Renton stumbles through bad ideas and sobriety attempts with his unreliable friends --Sick Boy, Begbie, Spud and Tommy. He also has an underage girlfriend, Diane, along for the ride. After cleaning up and moving from Edinburgh to London, Mark finds he can't escape the life he left behind as Begbie and Sick Boy come knocking.",
-        "releaseDate": "1996-02-23",
-        "runtime": 94,
-        "voteAverage": 8,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/1jUC02qsqS2NxBMFarbIhcQtazV.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/dkfBKDUIWP1peEszdqK10MkMZCP.jpg",
-        "director": "Danny Boyle",
+        "id": 13457,
+        "title": "Magnificent Obsession",
+        "tagline": "This was the moment unashamed... when this man and this woman felt the first ecstasy of their Magnificent Obsession",
+        "overview": "Reckless playboy Bob Merrick crashes his speedboat, requiring emergency attention from the town\u2019s only resuscitator while a local hero, Dr. Phillips, dies waiting for the life-saving device. Merrick then tries to right his wrongs with the doctor\u2019s widow, Helen, falling in love with her in the process.",
+        "releaseDate": "1954-08-07",
+        "runtime": 108,
+        "voteAverage": 6.835,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/511Z4X0NdOfbjgycDHuedsm8zfc.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/rQk2Mn6g9CDZPk8OkJr8QY3Ye9n.jpg",
+        "director": "Douglas Sirk",
         "cast": [
-            "Ewan McGregor",
-            "Ewen Bremner",
-            "Jonny Lee Miller",
-            "Kevin McKidd",
-            "Robert Carlyle"
+            "Jane Wyman",
+            "Rock Hudson",
+            "Barbara Rush",
+            "Agnes Moorehead",
+            "Otto Kruger"
         ],
         "genres": [
             "Drama",
-            "Crime"
+            "Romance"
         ]
     }
 }
