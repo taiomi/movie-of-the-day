@@ -1,27 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-06-04",
+    "lastUpdated": "2026-06-05",
     "movie": {
-        "id": 13909,
-        "title": "She Wore a Yellow Ribbon",
-        "tagline": "John Ford's new and finest picture of the fighting cavalry!",
-        "overview": "On the eve of retirement, Captain Nathan Brittles takes out a last patrol to stop an impending massive Indian attack. Encumbered by women who must be evacuated, Brittles finds his mission imperiled.",
-        "releaseDate": "1949-10-22",
-        "runtime": 104,
-        "voteAverage": 6.932,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/2IXtuwkTVcDsaa09AiQnlkfxe7I.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/45tJCXfr3S08qb5fVP86duFUUzx.jpg",
-        "director": "John Ford",
+        "id": 14412,
+        "title": "Body Heat",
+        "tagline": "As the temperature rises, the suspense begins.",
+        "overview": "During an extreme heatwave, a beautiful Florida woman and a seedy lawyer engage in an affair while plotting the murder of her rich husband.",
+        "releaseDate": "1981-08-28",
+        "runtime": 113,
+        "voteAverage": 6.983,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/5LipPcaW1J9IjAP7TOTesw8OcMS.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/g6seVGyULRgvHQfHZswlcbZlr1E.jpg",
+        "director": "Lawrence Kasdan",
         "cast": [
-            "John Wayne",
-            "Joanne Dru",
-            "John Agar",
-            "Ben Johnson",
-            "Harry Carey, Jr."
+            "William Hurt",
+            "Kathleen Turner",
+            "Richard Crenna",
+            "Ted Danson",
+            "J.A. Preston"
         ],
         "genres": [
-            "Drama",
-            "Western"
+            "Thriller",
+            "Crime"
         ]
     }
 }
