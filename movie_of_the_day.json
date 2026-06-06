@@ -1,27 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-06-05",
+    "lastUpdated": "2026-06-06",
     "movie": {
-        "id": 14412,
-        "title": "Body Heat",
-        "tagline": "As the temperature rises, the suspense begins.",
-        "overview": "During an extreme heatwave, a beautiful Florida woman and a seedy lawyer engage in an affair while plotting the murder of her rich husband.",
-        "releaseDate": "1981-08-28",
-        "runtime": 113,
-        "voteAverage": 6.983,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/5LipPcaW1J9IjAP7TOTesw8OcMS.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/g6seVGyULRgvHQfHZswlcbZlr1E.jpg",
-        "director": "Lawrence Kasdan",
+        "id": 1092,
+        "title": "The Third Man",
+        "tagline": "Hunted by men ... Sought by WOMEN!",
+        "overview": "In postwar Vienna, Austria, Holly Martins, a writer of pulp Westerns, arrives penniless as a guest of his childhood chum Harry Lime, only to learn he has died. Martins develops a conspiracy theory after learning of a \"third man\" present at the time of Harry's death, running into interference from British officer Major Calloway, and falling head-over-heels for Harry's grief-stricken lover, Anna.",
+        "releaseDate": "1949-08-31",
+        "runtime": 105,
+        "voteAverage": 7.901,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/rO2Fq0AZZx9obs52KJdx4mRE8p5.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/rLLhOCgAjuvlKmjUqVb7P1UAbUI.jpg",
+        "director": "Carol Reed",
         "cast": [
-            "William Hurt",
-            "Kathleen Turner",
-            "Richard Crenna",
-            "Ted Danson",
-            "J.A. Preston"
+            "Joseph Cotten",
+            "Alida Valli",
+            "Trevor Howard",
+            "Orson Welles",
+            "Paul H\u00f6rbiger"
         ],
         "genres": [
             "Thriller",
-            "Crime"
+            "Mystery"
         ]
     }
 }
