@@ -1,27 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-06-06",
+    "lastUpdated": "2026-06-07",
     "movie": {
-        "id": 1092,
-        "title": "The Third Man",
-        "tagline": "Hunted by men ... Sought by WOMEN!",
-        "overview": "In postwar Vienna, Austria, Holly Martins, a writer of pulp Westerns, arrives penniless as a guest of his childhood chum Harry Lime, only to learn he has died. Martins develops a conspiracy theory after learning of a \"third man\" present at the time of Harry's death, running into interference from British officer Major Calloway, and falling head-over-heels for Harry's grief-stricken lover, Anna.",
-        "releaseDate": "1949-08-31",
-        "runtime": 105,
-        "voteAverage": 7.901,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/rO2Fq0AZZx9obs52KJdx4mRE8p5.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/rLLhOCgAjuvlKmjUqVb7P1UAbUI.jpg",
-        "director": "Carol Reed",
+        "id": 470,
+        "title": "21 Grams",
+        "tagline": "How much does life weigh?",
+        "overview": "Paul Rivers, an ailing mathematician lovelessly married to an English \u00e9migr\u00e9; Christina Peck, an upper-middle-class suburban housewife and mother of two girls; and Jack Jordan, a born-again ex-con, are brought together by a terrible accident that changes their lives.",
+        "releaseDate": "2003-09-06",
+        "runtime": 124,
+        "voteAverage": 7.3,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/wZ0l6or5juuVWqDkLEgaghs4f9l.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/5SgrtPH6kBmmHao0PofxpvOYfWC.jpg",
+        "director": "Alejandro G. I\u00f1\u00e1rritu",
         "cast": [
-            "Joseph Cotten",
-            "Alida Valli",
-            "Trevor Howard",
-            "Orson Welles",
-            "Paul H\u00f6rbiger"
+            "Sean Penn",
+            "Naomi Watts",
+            "Benicio del Toro",
+            "Charlotte Gainsbourg",
+            "Danny Huston"
         ],
         "genres": [
-            "Thriller",
-            "Mystery"
+            "Drama",
+            "Crime",
+            "Thriller"
         ]
     }
 }
