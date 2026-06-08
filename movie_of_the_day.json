@@ -1,28 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-06-07",
+    "lastUpdated": "2026-06-08",
     "movie": {
-        "id": 470,
-        "title": "21 Grams",
-        "tagline": "How much does life weigh?",
-        "overview": "Paul Rivers, an ailing mathematician lovelessly married to an English \u00e9migr\u00e9; Christina Peck, an upper-middle-class suburban housewife and mother of two girls; and Jack Jordan, a born-again ex-con, are brought together by a terrible accident that changes their lives.",
-        "releaseDate": "2003-09-06",
-        "runtime": 124,
-        "voteAverage": 7.3,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/wZ0l6or5juuVWqDkLEgaghs4f9l.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/5SgrtPH6kBmmHao0PofxpvOYfWC.jpg",
-        "director": "Alejandro G. I\u00f1\u00e1rritu",
+        "id": 17281,
+        "title": "Gigi",
+        "tagline": "Thank heaven for Gigi",
+        "overview": "A home, a motorcar, servants, the latest fashions: the most eligible and most finicky bachelor in Paris offers them all to Gigi. But she, who's gone from girlish gawkishness to cultured glamour before our eyes, yearns for that wonderful something money can't buy.",
+        "releaseDate": "1958-05-15",
+        "runtime": 115,
+        "voteAverage": 6.2,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/1sF5o9Cs5GMx3cYmXD64WEQBLJn.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/fJ8KBr0WJGJyWcCriv5C0vtWqAj.jpg",
+        "director": "Vincente Minnelli",
         "cast": [
-            "Sean Penn",
-            "Naomi Watts",
-            "Benicio del Toro",
-            "Charlotte Gainsbourg",
-            "Danny Huston"
+            "Leslie Caron",
+            "Maurice Chevalier",
+            "Louis Jourdan",
+            "Hermione Gingold",
+            "Eva Gabor"
         ],
         "genres": [
-            "Drama",
-            "Crime",
-            "Thriller"
+            "Comedy",
+            "Romance"
         ]
     }
 }
