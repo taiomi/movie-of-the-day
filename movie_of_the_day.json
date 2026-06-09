@@ -1,27 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-06-08",
+    "lastUpdated": "2026-06-09",
     "movie": {
-        "id": 17281,
-        "title": "Gigi",
-        "tagline": "Thank heaven for Gigi",
-        "overview": "A home, a motorcar, servants, the latest fashions: the most eligible and most finicky bachelor in Paris offers them all to Gigi. But she, who's gone from girlish gawkishness to cultured glamour before our eyes, yearns for that wonderful something money can't buy.",
-        "releaseDate": "1958-05-15",
-        "runtime": 115,
-        "voteAverage": 6.2,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/1sF5o9Cs5GMx3cYmXD64WEQBLJn.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/fJ8KBr0WJGJyWcCriv5C0vtWqAj.jpg",
-        "director": "Vincente Minnelli",
+        "id": 606,
+        "title": "Out of Africa",
+        "tagline": "Based on a true story.",
+        "overview": "Tells the life story of Danish author Karen Blixen, who at the beginning of the 20th century moved to Africa to build a new life for herself. The film is based on her 1937 autobiographical novel.",
+        "releaseDate": "1985-12-20",
+        "runtime": 161,
+        "voteAverage": 7.16,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/6oMKqh08TfxmvnoFR4mm1wZB67P.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/5hCGJLTuRlD5WoscKhVPHVnD4gz.jpg",
+        "director": "Sydney Pollack",
         "cast": [
-            "Leslie Caron",
-            "Maurice Chevalier",
-            "Louis Jourdan",
-            "Hermione Gingold",
-            "Eva Gabor"
+            "Robert Redford",
+            "Meryl Streep",
+            "Klaus Maria Brandauer",
+            "Michael Kitchen",
+            "Malick Bowens"
         ],
         "genres": [
-            "Comedy",
-            "Romance"
+            "History",
+            "Romance",
+            "Drama"
         ]
     }
 }
