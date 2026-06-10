@@ -1,28 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-06-09",
+    "lastUpdated": "2026-06-10",
     "movie": {
-        "id": 606,
-        "title": "Out of Africa",
-        "tagline": "Based on a true story.",
-        "overview": "Tells the life story of Danish author Karen Blixen, who at the beginning of the 20th century moved to Africa to build a new life for herself. The film is based on her 1937 autobiographical novel.",
-        "releaseDate": "1985-12-20",
-        "runtime": 161,
-        "voteAverage": 7.16,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/6oMKqh08TfxmvnoFR4mm1wZB67P.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/5hCGJLTuRlD5WoscKhVPHVnD4gz.jpg",
-        "director": "Sydney Pollack",
+        "id": 557,
+        "title": "Spider-Man",
+        "tagline": "Go for the ultimate spin.",
+        "overview": "After being bitten by a genetically altered spider at Oscorp, nerdy but endearing high school student Peter Parker is endowed with amazing powers to become the superhero known as Spider-Man.",
+        "releaseDate": "2002-05-01",
+        "runtime": 121,
+        "voteAverage": 7.331,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/kjdJntyBeEvqm9w97QGBdxPptzj.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/zQ8AxTPiCiS5nnwXpwTBPBHSaa5.jpg",
+        "director": "Sam Raimi",
         "cast": [
-            "Robert Redford",
-            "Meryl Streep",
-            "Klaus Maria Brandauer",
-            "Michael Kitchen",
-            "Malick Bowens"
+            "Tobey Maguire",
+            "Willem Dafoe",
+            "Kirsten Dunst",
+            "James Franco",
+            "Cliff Robertson"
         ],
         "genres": [
-            "History",
-            "Romance",
-            "Drama"
+            "Action",
+            "Science Fiction"
         ]
     }
 }
