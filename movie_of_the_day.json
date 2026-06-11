@@ -1,27 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-06-10",
+    "lastUpdated": "2026-06-11",
     "movie": {
-        "id": 557,
-        "title": "Spider-Man",
-        "tagline": "Go for the ultimate spin.",
-        "overview": "After being bitten by a genetically altered spider at Oscorp, nerdy but endearing high school student Peter Parker is endowed with amazing powers to become the superhero known as Spider-Man.",
-        "releaseDate": "2002-05-01",
-        "runtime": 121,
-        "voteAverage": 7.331,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/kjdJntyBeEvqm9w97QGBdxPptzj.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/zQ8AxTPiCiS5nnwXpwTBPBHSaa5.jpg",
-        "director": "Sam Raimi",
+        "id": 3114,
+        "title": "The Searchers",
+        "tagline": "He had to find her... he had to find her...",
+        "overview": "As a Civil War veteran spends years searching for a young niece captured by Indians, his motivation becomes increasingly questionable.",
+        "releaseDate": "1956-05-16",
+        "runtime": 119,
+        "voteAverage": 7.697,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/jLBmgW0epNzJ1N9uzaVCjbyT94v.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/fik1HN9kxpD4CtEOXA4WUruwsg1.jpg",
+        "director": "John Ford",
         "cast": [
-            "Tobey Maguire",
-            "Willem Dafoe",
-            "Kirsten Dunst",
-            "James Franco",
-            "Cliff Robertson"
+            "John Wayne",
+            "Jeffrey Hunter",
+            "Vera Miles",
+            "Ward Bond",
+            "Natalie Wood"
         ],
         "genres": [
-            "Action",
-            "Science Fiction"
+            "Western"
         ]
     }
 }
