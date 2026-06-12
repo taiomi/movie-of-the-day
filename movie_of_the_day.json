@@ -1,23 +1,23 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-06-11",
+    "lastUpdated": "2026-06-12",
     "movie": {
-        "id": 3114,
-        "title": "The Searchers",
-        "tagline": "He had to find her... he had to find her...",
-        "overview": "As a Civil War veteran spends years searching for a young niece captured by Indians, his motivation becomes increasingly questionable.",
-        "releaseDate": "1956-05-16",
-        "runtime": 119,
-        "voteAverage": 7.697,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/jLBmgW0epNzJ1N9uzaVCjbyT94v.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/fik1HN9kxpD4CtEOXA4WUruwsg1.jpg",
-        "director": "John Ford",
+        "id": 3089,
+        "title": "Red River",
+        "tagline": "",
+        "overview": "Following the Civil War, headstrong rancher Thomas Dunson decides to lead a perilous cattle drive from Texas to Missouri. During the exhausting journey, his persistence becomes tyrannical in the eyes of Matthew Garth, his adopted son and prot\u00e9g\u00e9.",
+        "releaseDate": "1948-09-17",
+        "runtime": 133,
+        "voteAverage": 7.35,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/jyNTsAzrIWB441OtvfbgKtx1kFS.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/agUD7Wp6LAwpaB3phx6yiRmFoSY.jpg",
+        "director": "Howard Hawks",
         "cast": [
             "John Wayne",
-            "Jeffrey Hunter",
-            "Vera Miles",
-            "Ward Bond",
-            "Natalie Wood"
+            "Montgomery Clift",
+            "Joanne Dru",
+            "Walter Brennan",
+            "Coleen Gray"
         ],
         "genres": [
             "Western"
