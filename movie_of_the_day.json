@@ -1,26 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-06-12",
+    "lastUpdated": "2026-06-13",
     "movie": {
-        "id": 3089,
-        "title": "Red River",
-        "tagline": "",
-        "overview": "Following the Civil War, headstrong rancher Thomas Dunson decides to lead a perilous cattle drive from Texas to Missouri. During the exhausting journey, his persistence becomes tyrannical in the eyes of Matthew Garth, his adopted son and prot\u00e9g\u00e9.",
-        "releaseDate": "1948-09-17",
-        "runtime": 133,
-        "voteAverage": 7.35,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/jyNTsAzrIWB441OtvfbgKtx1kFS.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/agUD7Wp6LAwpaB3phx6yiRmFoSY.jpg",
-        "director": "Howard Hawks",
+        "id": 42229,
+        "title": "A Special Day",
+        "tagline": "A special film about two special people.",
+        "overview": "Two neighbours \u2014 a persecuted journalist and a resigned housewife \u2014 forge a strong bond on the day of Adolf Hitler's historic 1938 visit to Rome.",
+        "releaseDate": "1977-08-11",
+        "runtime": 106,
+        "voteAverage": 8.052,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/jzRn7N1mFowkQ5IkUkfWoxXJtYU.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/6d7ymk1OWX6AkfkhOnSEfwiqo2y.jpg",
+        "director": "Ettore Scola",
         "cast": [
-            "John Wayne",
-            "Montgomery Clift",
-            "Joanne Dru",
-            "Walter Brennan",
-            "Coleen Gray"
+            "Sophia Loren",
+            "Marcello Mastroianni",
+            "John Vernon",
+            "Fran\u00e7oise Berd",
+            "Patrizia Basso"
         ],
         "genres": [
-            "Western"
+            "Drama",
+            "Romance"
         ]
     }
 }
