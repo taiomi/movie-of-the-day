@@ -1,28 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-06-16",
+    "lastUpdated": "2026-06-17",
     "movie": {
-        "id": 3469,
-        "title": "Far from the Madding Crowd",
-        "tagline": "Her romance with three men becomes a bold adventure",
-        "overview": "Bathsheba Everdine, a willful, flirtatious, young woman, unexpectedly inherits a large farm and becomes romantically involved with three widely divergent men.",
-        "releaseDate": "1967-06-18",
-        "runtime": 166,
-        "voteAverage": 6.87,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/2cCHnpaf5JTRlgO07uulEdUpFkb.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/fDeklBmKoeTUslH9uYtZRzWnXHs.jpg",
-        "director": "John Schlesinger",
+        "id": 614560,
+        "title": "Mank",
+        "tagline": "",
+        "overview": "1930s Hollywood is reevaluated through the eyes of scathing social critic and alcoholic screenwriter Herman J. Mankiewicz as he races to finish the screenplay of Citizen Kane.",
+        "releaseDate": "2020-11-13",
+        "runtime": 132,
+        "voteAverage": 6.669,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/4yzTcAtvzyZLLto4z04xobUK9el.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/hBOH4PNnhcGPgZbZjBwkx9gnNxI.jpg",
+        "director": "David Fincher",
         "cast": [
-            "Julie Christie",
-            "Terence Stamp",
-            "Alan Bates",
-            "Peter Finch",
-            "Fiona Walker"
+            "Gary Oldman",
+            "Amanda Seyfried",
+            "Lily Collins",
+            "Arliss Howard",
+            "Tom Pelphrey"
         ],
         "genres": [
             "Drama",
-            "History",
-            "Romance"
+            "History"
         ]
     }
 }
