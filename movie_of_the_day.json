@@ -1,28 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-06-18",
+    "lastUpdated": "2026-06-19",
     "movie": {
-        "id": 195,
-        "title": "Trouble in Paradise",
-        "tagline": "HIS PARADISE BECAME A MERRY HELL!",
-        "overview": "Thief Gaston Monescu and pickpocket Lily are partners in crime and love. Working for perfume company executive Mariette Colet, the two crooks decide to combine their criminal talents to rob their employer. Under the alias of Monsieur Laval, Gaston uses his position as Mariette's personal secretary to become closer to her. However, he takes things too far when he actually falls in love with Mariette, and has to choose between her and Lily.",
-        "releaseDate": "1932-10-30",
-        "runtime": 83,
-        "voteAverage": 7.4,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/FBxuoLRD3Biyul14unT5m3PYNS.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/8xFIubJoxyidKaGjO1dc0btC9e7.jpg",
-        "director": "Ernst Lubitsch",
+        "id": 872585,
+        "title": "Oppenheimer",
+        "tagline": "The world forever changes.",
+        "overview": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.",
+        "releaseDate": "2023-07-19",
+        "runtime": 181,
+        "voteAverage": 8.026,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/neeNHeXjMF5fXoCJRsOmkNGC7q.jpg",
+        "director": "Christopher Nolan",
         "cast": [
-            "Herbert Marshall",
-            "Kay Francis",
-            "Miriam Hopkins",
-            "Edward Everett Horton",
-            "Charles Ruggles"
+            "Cillian Murphy",
+            "Emily Blunt",
+            "Matt Damon",
+            "Robert Downey Jr.",
+            "Florence Pugh"
         ],
         "genres": [
-            "Comedy",
-            "Crime",
-            "Romance"
+            "Drama",
+            "History"
         ]
     }
 }
