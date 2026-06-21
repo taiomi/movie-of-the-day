@@ -1,26 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-06-20",
+    "lastUpdated": "2026-06-21",
     "movie": {
-        "id": 70,
-        "title": "Million Dollar Baby",
-        "tagline": "Beyond his silence, there is a past. Beyond her dreams, there is a feeling. Beyond hope, there is a memory. Beyond their journey, there is a love.",
-        "overview": "Despondent over a painful estrangement from his daughter, trainer Frankie Dunn isn't prepared for boxer Maggie Fitzgerald to enter his life. But Maggie's determined to go pro and to convince Dunn and his cohort to help her.",
-        "releaseDate": "2004-12-05",
-        "runtime": 132,
-        "voteAverage": 7.952,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/jcfEqKdWF1zeyvECPqp3mkWLct2.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/oGMomeS7bE43eN8SGJUaKvQnmud.jpg",
-        "director": "Clint Eastwood",
+        "id": 61475,
+        "title": "Pale Flower",
+        "tagline": "",
+        "overview": "A gangster gets released from prison and has to cope with the recent shifts of power between the gangs, while taking care of a thrill-seeking young woman, who got in bad company while gambling.",
+        "releaseDate": "1964-03-01",
+        "runtime": 96,
+        "voteAverage": 7.4,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/xEB48waFBIx4WEySuOpk1vOFZ6E.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/zchaaZhN2wcIB6O6YLDBehRRBJK.jpg",
+        "director": "Masahiro Shinoda",
         "cast": [
-            "Clint Eastwood",
-            "Hilary Swank",
-            "Morgan Freeman",
-            "Jay Baruchel",
-            "Mike Colter"
+            "Ry\u014d Ikebe",
+            "Mariko Kaga",
+            "Takashi Fujiki",
+            "Naoki Sugiura",
+            "Shinichir\u014d Mikami"
         ],
         "genres": [
-            "Drama"
+            "Crime",
+            "Romance"
         ]
     }
 }
