@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-06-23",
+    "lastUpdated": "2026-06-24",
     "movie": {
-        "id": 2768,
-        "title": "American Gigolo",
-        "tagline": "He's the highest paid lover in Beverly Hills. He leaves women feeling more alive than they've ever felt before. Except one.",
-        "overview": "Julian makes a lucrative living as an escort to older women in the Los Angeles area. He begins a relationship with Michelle, a local politician's wife, without expecting any pay. One of his clients is murdered and Detective Sunday begins pumping him for details on his different clients, something he is reluctant to do considering the nature of his work. Julian begins to suspect he's being framed. Meanwhile Michelle begins to fall in love with him.",
-        "releaseDate": "1980-02-01",
-        "runtime": 117,
-        "voteAverage": 6.2,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/igXGCwti23PHOjLKQX6eGIGzQiJ.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/tnbEY8Kn0mPyMfkxONYePWP5RUa.jpg",
-        "director": "Paul Schrader",
+        "id": 268,
+        "title": "Batman",
+        "tagline": "Justice is always darkest before the dawn.",
+        "overview": "Having witnessed his parents' brutal murder as a child, millionaire philanthropist Bruce Wayne fights crime in Gotham City disguised as Batman, a costumed hero who strikes fear into the hearts of villains. But when a deformed madman known as 'The Joker' seizes control of Gotham's criminal underworld, Batman must face his most ruthless nemesis ever while protecting both his identity and his love interest, reporter Vicki Vale.",
+        "releaseDate": "1989-06-21",
+        "runtime": 126,
+        "voteAverage": 7.2,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/cij4dd21v2Rk2YtUQbV5kW69WB2.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/zlsaQEE26TS34ziXAiNIAqa0MLX.jpg",
+        "director": "Tim Burton",
         "cast": [
-            "Richard Gere",
-            "Lauren Hutton",
-            "H\u00e9ctor Elizondo",
-            "Nina van Pallandt",
-            "Bill Duke"
+            "Michael Keaton",
+            "Jack Nicholson",
+            "Kim Basinger",
+            "Robert Wuhl",
+            "Pat Hingle"
         ],
         "genres": [
-            "Crime",
-            "Drama",
-            "Mystery"
+            "Fantasy",
+            "Action",
+            "Crime"
         ]
     }
 }
