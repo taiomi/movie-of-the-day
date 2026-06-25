@@ -1879,3 +1879,7 @@
 [2026-06-24 06:08:14] Selected movie: Batman (ID: 268) for day 464 since start
 [2026-06-24 06:08:14] Successfully saved movie data for: Batman
 [2026-06-24 06:08:14] Movie fetch process completed
+[2026-06-25 06:08:38] Starting movie fetch process
+[2026-06-25 06:08:38] Selected movie: Dirty Harry (ID: 984) for day 465 since start
+[2026-06-25 06:08:39] Successfully saved movie data for: Dirty Harry
+[2026-06-25 06:08:39] Movie fetch process completed

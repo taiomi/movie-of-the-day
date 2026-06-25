@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-06-24",
+    "lastUpdated": "2026-06-25",
     "movie": {
-        "id": 268,
-        "title": "Batman",
-        "tagline": "Justice is always darkest before the dawn.",
-        "overview": "Having witnessed his parents' brutal murder as a child, millionaire philanthropist Bruce Wayne fights crime in Gotham City disguised as Batman, a costumed hero who strikes fear into the hearts of villains. But when a deformed madman known as 'The Joker' seizes control of Gotham's criminal underworld, Batman must face his most ruthless nemesis ever while protecting both his identity and his love interest, reporter Vicki Vale.",
-        "releaseDate": "1989-06-21",
-        "runtime": 126,
-        "voteAverage": 7.2,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/cij4dd21v2Rk2YtUQbV5kW69WB2.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/zlsaQEE26TS34ziXAiNIAqa0MLX.jpg",
-        "director": "Tim Burton",
+        "id": 984,
+        "title": "Dirty Harry",
+        "tagline": "Detective Harry Callahan. He doesn't break murder cases. He smashes them.",
+        "overview": "When a madman dubbed 'Scorpio' terrorizes San Francisco, hard-nosed cop, Harry Callahan \u2013 famous for his take-no-prisoners approach to law enforcement \u2013 is tasked with hunting down the psychopath.",
+        "releaseDate": "1971-12-23",
+        "runtime": 102,
+        "voteAverage": 7.454,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/scl2JDHzYoIEs5xyYy5ITCfyY0G.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/mJjOZSaTTqG3an5MkkOX3x18lYX.jpg",
+        "director": "Don Siegel",
         "cast": [
-            "Michael Keaton",
-            "Jack Nicholson",
-            "Kim Basinger",
-            "Robert Wuhl",
-            "Pat Hingle"
+            "Clint Eastwood",
+            "Harry Guardino",
+            "Reni Santoni",
+            "John Vernon",
+            "Andrew Robinson"
         ],
         "genres": [
-            "Fantasy",
             "Action",
-            "Crime"
+            "Crime",
+            "Thriller"
         ]
     }
 }
