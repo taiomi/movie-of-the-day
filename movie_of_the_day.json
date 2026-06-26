@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-06-25",
+    "lastUpdated": "2026-06-26",
     "movie": {
-        "id": 984,
-        "title": "Dirty Harry",
-        "tagline": "Detective Harry Callahan. He doesn't break murder cases. He smashes them.",
-        "overview": "When a madman dubbed 'Scorpio' terrorizes San Francisco, hard-nosed cop, Harry Callahan \u2013 famous for his take-no-prisoners approach to law enforcement \u2013 is tasked with hunting down the psychopath.",
-        "releaseDate": "1971-12-23",
-        "runtime": 102,
-        "voteAverage": 7.454,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/scl2JDHzYoIEs5xyYy5ITCfyY0G.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/mJjOZSaTTqG3an5MkkOX3x18lYX.jpg",
-        "director": "Don Siegel",
+        "id": 1213,
+        "title": "The Talented Mr. Ripley",
+        "tagline": "How far would you go to become someone else.",
+        "overview": "Tom Ripley is a calculating young man who believes it's better to be a fake somebody than a real nobody. Opportunity knocks in the form of a wealthy U.S. shipbuilder who hires Tom to travel to Italy to bring back his playboy son, Dickie. Ripley worms his way into the idyllic lives of Dickie and his girlfriend, plunging into a daring scheme of duplicity, lies and murder.",
+        "releaseDate": "1999-12-25",
+        "runtime": 140,
+        "voteAverage": 7.199,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/6ojHgqtIR41O2qLKa7LFUVj0cZa.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/nGVe984XESYhn5V5zspqQexPekA.jpg",
+        "director": "Anthony Minghella",
         "cast": [
-            "Clint Eastwood",
-            "Harry Guardino",
-            "Reni Santoni",
-            "John Vernon",
-            "Andrew Robinson"
+            "Matt Damon",
+            "Gwyneth Paltrow",
+            "Jude Law",
+            "Cate Blanchett",
+            "Philip Seymour Hoffman"
         ],
         "genres": [
-            "Action",
+            "Thriller",
             "Crime",
-            "Thriller"
+            "Drama"
         ]
     }
 }
