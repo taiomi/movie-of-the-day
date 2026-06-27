@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-06-26",
+    "lastUpdated": "2026-06-27",
     "movie": {
-        "id": 1213,
-        "title": "The Talented Mr. Ripley",
-        "tagline": "How far would you go to become someone else.",
-        "overview": "Tom Ripley is a calculating young man who believes it's better to be a fake somebody than a real nobody. Opportunity knocks in the form of a wealthy U.S. shipbuilder who hires Tom to travel to Italy to bring back his playboy son, Dickie. Ripley worms his way into the idyllic lives of Dickie and his girlfriend, plunging into a daring scheme of duplicity, lies and murder.",
-        "releaseDate": "1999-12-25",
-        "runtime": 140,
-        "voteAverage": 7.199,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/6ojHgqtIR41O2qLKa7LFUVj0cZa.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/nGVe984XESYhn5V5zspqQexPekA.jpg",
-        "director": "Anthony Minghella",
+        "id": 679,
+        "title": "Aliens",
+        "tagline": "This time it's war.",
+        "overview": "Ripley, the sole survivor of the Nostromo's deadly encounter with the monstrous Alien, returns to Earth after drifting through space in hypersleep for 57 years. Although her story is initially met with skepticism, she agrees to accompany a team of Colonial Marines back to LV-426.",
+        "releaseDate": "1986-07-18",
+        "runtime": 137,
+        "voteAverage": 7.963,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/4kix6fAblJIH6eMs0Ku2loyZJXK.jpg",
+        "director": "James Cameron",
         "cast": [
-            "Matt Damon",
-            "Gwyneth Paltrow",
-            "Jude Law",
-            "Cate Blanchett",
-            "Philip Seymour Hoffman"
+            "Sigourney Weaver",
+            "Carrie Henn",
+            "Michael Biehn",
+            "Paul Reiser",
+            "Lance Henriksen"
         ],
         "genres": [
+            "Action",
             "Thriller",
-            "Crime",
-            "Drama"
+            "Science Fiction"
         ]
     }
 }
