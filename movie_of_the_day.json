@@ -1,28 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-06-27",
+    "lastUpdated": "2026-06-28",
     "movie": {
-        "id": 679,
-        "title": "Aliens",
-        "tagline": "This time it's war.",
-        "overview": "Ripley, the sole survivor of the Nostromo's deadly encounter with the monstrous Alien, returns to Earth after drifting through space in hypersleep for 57 years. Although her story is initially met with skepticism, she agrees to accompany a team of Colonial Marines back to LV-426.",
-        "releaseDate": "1986-07-18",
-        "runtime": 137,
-        "voteAverage": 7.963,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/4kix6fAblJIH6eMs0Ku2loyZJXK.jpg",
-        "director": "James Cameron",
+        "id": 581859,
+        "title": "Da 5 Bloods",
+        "tagline": "A War Never Ends",
+        "overview": "Four African-American Vietnam veterans return to Vietnam. They are in search of the remains of their fallen squad leader and the promise of buried treasure. These heroes battle forces of humanity and nature while confronted by the lasting ravages of the immorality of the Vietnam War.",
+        "releaseDate": "2020-06-12",
+        "runtime": 155,
+        "voteAverage": 6.436,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/yx4cp1ljJMDSFeEex0Zjv45b55E.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/Aq5Zhj9iaTF6BEKNk05dlUxeHKa.jpg",
+        "director": "Spike Lee",
         "cast": [
-            "Sigourney Weaver",
-            "Carrie Henn",
-            "Michael Biehn",
-            "Paul Reiser",
-            "Lance Henriksen"
+            "Delroy Lindo",
+            "Jonathan Majors",
+            "Clarke Peters",
+            "Norm Lewis",
+            "Isiah Whitlock Jr."
         ],
         "genres": [
-            "Action",
-            "Thriller",
-            "Science Fiction"
+            "War",
+            "Drama"
         ]
     }
 }
