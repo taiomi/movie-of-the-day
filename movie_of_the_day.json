@@ -1,26 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-06-28",
+    "lastUpdated": "2026-06-29",
     "movie": {
-        "id": 581859,
-        "title": "Da 5 Bloods",
-        "tagline": "A War Never Ends",
-        "overview": "Four African-American Vietnam veterans return to Vietnam. They are in search of the remains of their fallen squad leader and the promise of buried treasure. These heroes battle forces of humanity and nature while confronted by the lasting ravages of the immorality of the Vietnam War.",
-        "releaseDate": "2020-06-12",
-        "runtime": 155,
-        "voteAverage": 6.436,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/yx4cp1ljJMDSFeEex0Zjv45b55E.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/Aq5Zhj9iaTF6BEKNk05dlUxeHKa.jpg",
-        "director": "Spike Lee",
+        "id": 31104,
+        "title": "Pigs and Battleships",
+        "tagline": "",
+        "overview": "In the city of Yokosuka, Kinta and his lover Haruko, both involved with yakuza, brave the post-occupation period with a goal to be together.",
+        "releaseDate": "1961-01-21",
+        "runtime": 108,
+        "voteAverage": 7.1,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/u7fbMQSE5OMKYKOXbSAp5WOJRBj.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/lyig5sHaoCGQOllOMub4vT6sqqO.jpg",
+        "director": "Sh\u014dhei Imamura",
         "cast": [
-            "Delroy Lindo",
-            "Jonathan Majors",
-            "Clarke Peters",
-            "Norm Lewis",
-            "Isiah Whitlock Jr."
+            "Hiroyuki Nagato",
+            "Jitsuko Yoshimura",
+            "Masao Mishima",
+            "Tetsuro Tamba",
+            "Shir\u014d \u014csaka"
         ],
         "genres": [
-            "War",
+            "Crime",
             "Drama"
         ]
     }
