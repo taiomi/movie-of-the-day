@@ -1,27 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-06-29",
+    "lastUpdated": "2026-06-30",
     "movie": {
-        "id": 31104,
-        "title": "Pigs and Battleships",
-        "tagline": "",
-        "overview": "In the city of Yokosuka, Kinta and his lover Haruko, both involved with yakuza, brave the post-occupation period with a goal to be together.",
-        "releaseDate": "1961-01-21",
-        "runtime": 108,
-        "voteAverage": 7.1,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/u7fbMQSE5OMKYKOXbSAp5WOJRBj.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/lyig5sHaoCGQOllOMub4vT6sqqO.jpg",
-        "director": "Sh\u014dhei Imamura",
+        "id": 278,
+        "title": "The Shawshank Redemption",
+        "tagline": "Fear can hold you prisoner. Hope can set you free.",
+        "overview": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+        "releaseDate": "1994-09-23",
+        "runtime": 142,
+        "voteAverage": 8.723,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/zfbjgQE1uSd9wiPTX4VzsLi0rGG.jpg",
+        "director": "Frank Darabont",
         "cast": [
-            "Hiroyuki Nagato",
-            "Jitsuko Yoshimura",
-            "Masao Mishima",
-            "Tetsuro Tamba",
-            "Shir\u014d \u014csaka"
+            "Tim Robbins",
+            "Morgan Freeman",
+            "Bob Gunton",
+            "William Sadler",
+            "Clancy Brown"
         ],
         "genres": [
-            "Crime",
-            "Drama"
+            "Drama",
+            "Crime"
         ]
     }
 }
