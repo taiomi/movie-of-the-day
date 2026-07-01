@@ -1,27 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-06-30",
+    "lastUpdated": "2026-07-01",
     "movie": {
-        "id": 278,
-        "title": "The Shawshank Redemption",
-        "tagline": "Fear can hold you prisoner. Hope can set you free.",
-        "overview": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
-        "releaseDate": "1994-09-23",
-        "runtime": 142,
-        "voteAverage": 8.723,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/zfbjgQE1uSd9wiPTX4VzsLi0rGG.jpg",
-        "director": "Frank Darabont",
+        "id": 20853,
+        "title": "Detective Story",
+        "tagline": "The love story of a man whose wife was more woman than angel!",
+        "overview": "Tells the story of one day in the lives of the various people who populate a police detective squad. An embittered cop, Det. Jim McLeod, leads a precinct of characters in their grim daily battle with the city's lowlife. The characters who pass through the precinct over the course of the day include a young petty embezzler, a pair of burglars, and a naive shoplifter.",
+        "releaseDate": "1951-10-19",
+        "runtime": 103,
+        "voteAverage": 7.054,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/hMbAiGIrfhhp0XNB4mdgfgtSDdK.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/6BXP1XEWP31Tvm8wADiONAUs4uL.jpg",
+        "director": "William Wyler",
         "cast": [
-            "Tim Robbins",
-            "Morgan Freeman",
-            "Bob Gunton",
-            "William Sadler",
-            "Clancy Brown"
+            "Kirk Douglas",
+            "Eleanor Parker",
+            "William Bendix",
+            "Cathy O'Donnell",
+            "George Macready"
         ],
         "genres": [
-            "Drama",
-            "Crime"
+            "Crime",
+            "Drama"
         ]
     }
 }
