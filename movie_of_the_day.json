@@ -1,27 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-07-01",
+    "lastUpdated": "2026-07-02",
     "movie": {
-        "id": 20853,
-        "title": "Detective Story",
-        "tagline": "The love story of a man whose wife was more woman than angel!",
-        "overview": "Tells the story of one day in the lives of the various people who populate a police detective squad. An embittered cop, Det. Jim McLeod, leads a precinct of characters in their grim daily battle with the city's lowlife. The characters who pass through the precinct over the course of the day include a young petty embezzler, a pair of burglars, and a naive shoplifter.",
-        "releaseDate": "1951-10-19",
-        "runtime": 103,
-        "voteAverage": 7.054,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/hMbAiGIrfhhp0XNB4mdgfgtSDdK.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/6BXP1XEWP31Tvm8wADiONAUs4uL.jpg",
-        "director": "William Wyler",
+        "id": 9410,
+        "title": "Great Expectations",
+        "tagline": "Let desire be your destiny.",
+        "overview": "Loosely based on the Charles Dickens' classic novel, \"Great Expectations\" is a sensual tale of a young man's unforgettable passage into manhood, and the three individuals who will undeniably change his life forever. Through the surprising interactions of these vivid characters, \"Great Expectations\" takes a unique and contemporary look at life's great coincidences.",
+        "releaseDate": "1998-01-30",
+        "runtime": 111,
+        "voteAverage": 6.7,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/djLsfl3lm7BZKWsKfVZ2wM1ZMrP.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/laXkVCU5DE8Dib0QVHUUUsE7FM6.jpg",
+        "director": "Alfonso Cuar\u00f3n",
         "cast": [
-            "Kirk Douglas",
-            "Eleanor Parker",
-            "William Bendix",
-            "Cathy O'Donnell",
-            "George Macready"
+            "Ethan Hawke",
+            "Gwyneth Paltrow",
+            "Hank Azaria",
+            "Chris Cooper",
+            "Anne Bancroft"
         ],
         "genres": [
-            "Crime",
-            "Drama"
+            "Comedy",
+            "Drama",
+            "Romance"
         ]
     }
 }
