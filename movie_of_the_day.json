@@ -1,28 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-07-02",
+    "lastUpdated": "2026-07-03",
     "movie": {
-        "id": 9410,
-        "title": "Great Expectations",
-        "tagline": "Let desire be your destiny.",
-        "overview": "Loosely based on the Charles Dickens' classic novel, \"Great Expectations\" is a sensual tale of a young man's unforgettable passage into manhood, and the three individuals who will undeniably change his life forever. Through the surprising interactions of these vivid characters, \"Great Expectations\" takes a unique and contemporary look at life's great coincidences.",
-        "releaseDate": "1998-01-30",
-        "runtime": 111,
-        "voteAverage": 6.7,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/djLsfl3lm7BZKWsKfVZ2wM1ZMrP.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/laXkVCU5DE8Dib0QVHUUUsE7FM6.jpg",
-        "director": "Alfonso Cuar\u00f3n",
+        "id": 702,
+        "title": "A Streetcar Named Desire",
+        "tagline": "...Blanche, who wanted so much to stay a lady...",
+        "overview": "A disturbed, aging Southern belle moves in with her sister for solace \u2014 but being face-to-face with her brutish brother-in-law accelerates her downward spiral.",
+        "releaseDate": "1951-09-18",
+        "runtime": 125,
+        "voteAverage": 7.6,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/aicdlO5vt7z2ARm279eGzJeYCLQ.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/or90vNrOVnYwi07fYYpQ3pbnjxP.jpg",
+        "director": "Elia Kazan",
         "cast": [
-            "Ethan Hawke",
-            "Gwyneth Paltrow",
-            "Hank Azaria",
-            "Chris Cooper",
-            "Anne Bancroft"
+            "Vivien Leigh",
+            "Marlon Brando",
+            "Kim Hunter",
+            "Karl Malden",
+            "Rudy Bond"
         ],
         "genres": [
-            "Comedy",
             "Drama",
-            "Romance"
+            "Thriller"
         ]
     }
 }
