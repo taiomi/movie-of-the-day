@@ -1,27 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-07-03",
+    "lastUpdated": "2026-07-04",
     "movie": {
-        "id": 702,
-        "title": "A Streetcar Named Desire",
-        "tagline": "...Blanche, who wanted so much to stay a lady...",
-        "overview": "A disturbed, aging Southern belle moves in with her sister for solace \u2014 but being face-to-face with her brutish brother-in-law accelerates her downward spiral.",
-        "releaseDate": "1951-09-18",
-        "runtime": 125,
-        "voteAverage": 7.6,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/aicdlO5vt7z2ARm279eGzJeYCLQ.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/or90vNrOVnYwi07fYYpQ3pbnjxP.jpg",
-        "director": "Elia Kazan",
+        "id": 6619,
+        "title": "Death in Venice",
+        "tagline": "The celebrated story of a man obsessed with ideal beauty.",
+        "overview": "Composer Gustav von Aschenbach travels to Venice for health reasons. There, he becomes obsessed with the stunning beauty of an adolescent Polish boy named Tadzio who is staying with his family at the same Grand H\u00f4tel des Bains on the Lido as Aschenbach.",
+        "releaseDate": "1971-03-05",
+        "runtime": 131,
+        "voteAverage": 7.243,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/s81SuFBSqY8T5Lrn5R8ucX8LKxi.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/tyWnJeMatQGLsiLfLsxBV0pp9nk.jpg",
+        "director": "Luchino Visconti",
         "cast": [
-            "Vivien Leigh",
-            "Marlon Brando",
-            "Kim Hunter",
-            "Karl Malden",
-            "Rudy Bond"
+            "Dirk Bogarde",
+            "Bj\u00f6rn Andr\u00e9sen",
+            "Romolo Valli",
+            "Mark Burns",
+            "Nora Ricci"
         ],
         "genres": [
-            "Drama",
-            "Thriller"
+            "Drama"
         ]
     }
 }
