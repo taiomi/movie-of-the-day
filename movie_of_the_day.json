@@ -1,23 +1,23 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-07-04",
+    "lastUpdated": "2026-07-05",
     "movie": {
-        "id": 6619,
-        "title": "Death in Venice",
-        "tagline": "The celebrated story of a man obsessed with ideal beauty.",
-        "overview": "Composer Gustav von Aschenbach travels to Venice for health reasons. There, he becomes obsessed with the stunning beauty of an adolescent Polish boy named Tadzio who is staying with his family at the same Grand H\u00f4tel des Bains on the Lido as Aschenbach.",
-        "releaseDate": "1971-03-05",
-        "runtime": 131,
-        "voteAverage": 7.243,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/s81SuFBSqY8T5Lrn5R8ucX8LKxi.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/tyWnJeMatQGLsiLfLsxBV0pp9nk.jpg",
-        "director": "Luchino Visconti",
+        "id": 2264,
+        "title": "Lola",
+        "tagline": "",
+        "overview": "Germany in the autumn of 1957: Lola, a seductive cabaret singer-prostitute exults in her power as a temptress of men, but she wants out\u2014she wants money, property, and love. Pitting a corrupt building contractor against the new straight-arrow building commissioner, Lola launches an outrageous plan to elevate herself in a world where everything, and everyone, is for sale. Shot in childlike candy colors, Fassbinder\u2019s homage to Josef von Sternberg\u2019s classic The Blue Angel stands as a satiric tribute to capitalism.",
+        "releaseDate": "1981-08-20",
+        "runtime": 113,
+        "voteAverage": 6.9,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/rZqgDP5kRqh2eaPj5uLzYEbWz40.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/bJd8rcyl6hAt6nDbEFhrxKlBrNJ.jpg",
+        "director": "Rainer Werner Fassbinder",
         "cast": [
-            "Dirk Bogarde",
-            "Bj\u00f6rn Andr\u00e9sen",
-            "Romolo Valli",
-            "Mark Burns",
-            "Nora Ricci"
+            "Barbara Sukowa",
+            "Armin Mueller-Stahl",
+            "Mario Adorf",
+            "Matthias Fuchs",
+            "Helga Feddersen"
         ],
         "genres": [
             "Drama"
