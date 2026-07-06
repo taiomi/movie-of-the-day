@@ -1,26 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-06",
     "movie": {
-        "id": 2264,
-        "title": "Lola",
-        "tagline": "",
-        "overview": "Germany in the autumn of 1957: Lola, a seductive cabaret singer-prostitute exults in her power as a temptress of men, but she wants out\u2014she wants money, property, and love. Pitting a corrupt building contractor against the new straight-arrow building commissioner, Lola launches an outrageous plan to elevate herself in a world where everything, and everyone, is for sale. Shot in childlike candy colors, Fassbinder\u2019s homage to Josef von Sternberg\u2019s classic The Blue Angel stands as a satiric tribute to capitalism.",
-        "releaseDate": "1981-08-20",
-        "runtime": 113,
-        "voteAverage": 6.9,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/rZqgDP5kRqh2eaPj5uLzYEbWz40.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/bJd8rcyl6hAt6nDbEFhrxKlBrNJ.jpg",
-        "director": "Rainer Werner Fassbinder",
+        "id": 19426,
+        "title": "Nights of Cabiria",
+        "tagline": "The story of a betrayed but unquenchable little Roman street-walker.",
+        "overview": "Rome, 1957. A woman, Cabiria, is robbed and left to drown by her boyfriend, Giorgio. Rescued, she resumes her life and tries her best to find happiness in a cynical world. Even when she thinks her struggles are over and she has found happiness and contentment, things may not be what they seem.",
+        "releaseDate": "1957-10-03",
+        "runtime": 110,
+        "voteAverage": 7.973,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/xF4oCG3PLNbcrtPZbqB3BtkIbKg.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/9yepEBnQNcKzWWyHdUiX8Mnqc6U.jpg",
+        "director": "Federico Fellini",
         "cast": [
-            "Barbara Sukowa",
-            "Armin Mueller-Stahl",
-            "Mario Adorf",
-            "Matthias Fuchs",
-            "Helga Feddersen"
+            "Giulietta Masina",
+            "Fran\u00e7ois P\u00e9rier",
+            "Franca Marzi",
+            "Amedeo Nazzari",
+            "Aldo Silvani"
         ],
         "genres": [
-            "Drama"
+            "Drama",
+            "Comedy"
         ]
     }
 }
