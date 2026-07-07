@@ -1,27 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-07-06",
+    "lastUpdated": "2026-07-07",
     "movie": {
-        "id": 19426,
-        "title": "Nights of Cabiria",
-        "tagline": "The story of a betrayed but unquenchable little Roman street-walker.",
-        "overview": "Rome, 1957. A woman, Cabiria, is robbed and left to drown by her boyfriend, Giorgio. Rescued, she resumes her life and tries her best to find happiness in a cynical world. Even when she thinks her struggles are over and she has found happiness and contentment, things may not be what they seem.",
-        "releaseDate": "1957-10-03",
-        "runtime": 110,
-        "voteAverage": 7.973,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/xF4oCG3PLNbcrtPZbqB3BtkIbKg.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/9yepEBnQNcKzWWyHdUiX8Mnqc6U.jpg",
-        "director": "Federico Fellini",
+        "id": 618162,
+        "title": "The Harder They Fall",
+        "tagline": "A new day is dawning.",
+        "overview": "Gunning for revenge, outlaw Nat Love saddles up with his gang to take down enemy Rufus Buck, a ruthless crime boss who just got sprung from prison.",
+        "releaseDate": "2021-10-22",
+        "runtime": 137,
+        "voteAverage": 6.625,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/su9WzL7lwUZPhjH6eZByAYFx2US.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/d0mpUFKzoPwF1KsdjHpkkaYSvKm.jpg",
+        "director": "Jeymes Samuel",
         "cast": [
-            "Giulietta Masina",
-            "Fran\u00e7ois P\u00e9rier",
-            "Franca Marzi",
-            "Amedeo Nazzari",
-            "Aldo Silvani"
+            "Jonathan Majors",
+            "Idris Elba",
+            "Regina King",
+            "Zazie Beetz",
+            "Delroy Lindo"
         ],
         "genres": [
-            "Drama",
-            "Comedy"
+            "Western"
         ]
     }
 }
