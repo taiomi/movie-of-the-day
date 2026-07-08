@@ -1,26 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-07-07",
+    "lastUpdated": "2026-07-08",
     "movie": {
-        "id": 618162,
-        "title": "The Harder They Fall",
-        "tagline": "A new day is dawning.",
-        "overview": "Gunning for revenge, outlaw Nat Love saddles up with his gang to take down enemy Rufus Buck, a ruthless crime boss who just got sprung from prison.",
-        "releaseDate": "2021-10-22",
-        "runtime": 137,
-        "voteAverage": 6.625,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/su9WzL7lwUZPhjH6eZByAYFx2US.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/d0mpUFKzoPwF1KsdjHpkkaYSvKm.jpg",
-        "director": "Jeymes Samuel",
+        "id": 44012,
+        "title": "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",
+        "tagline": "",
+        "overview": "A lonely young widow lives with her son following an immutable order: while the boy is in school, she cares for their apartment, does chores, and receives clients in the afternoon.",
+        "releaseDate": "1976-01-21",
+        "runtime": 202,
+        "voteAverage": 7.368,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/fqfSu8Y1YSVFkoCJyiTXI6woYma.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/z81DzVg9lrBPr4M88ldmZ3FbBUY.jpg",
+        "director": "Chantal Akerman",
         "cast": [
-            "Jonathan Majors",
-            "Idris Elba",
-            "Regina King",
-            "Zazie Beetz",
-            "Delroy Lindo"
+            "Delphine Seyrig",
+            "Jan Decorte",
+            "Henri Storck",
+            "Jacques Doniol-Valcroze",
+            "Yves Bical"
         ],
         "genres": [
-            "Western"
+            "Drama"
         ]
     }
 }
