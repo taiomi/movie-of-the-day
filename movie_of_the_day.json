@@ -1,26 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-07-08",
+    "lastUpdated": "2026-07-09",
     "movie": {
-        "id": 44012,
-        "title": "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",
+        "id": 26782,
+        "title": "Shadows of Forgotten Ancestors",
         "tagline": "",
-        "overview": "A lonely young widow lives with her son following an immutable order: while the boy is in school, she cares for their apartment, does chores, and receives clients in the afternoon.",
-        "releaseDate": "1976-01-21",
-        "runtime": 202,
-        "voteAverage": 7.368,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/fqfSu8Y1YSVFkoCJyiTXI6woYma.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/z81DzVg9lrBPr4M88ldmZ3FbBUY.jpg",
-        "director": "Chantal Akerman",
+        "overview": "In the Carpathian Mountains of 19th-century Ukraine, love, hate, life and death among the Hutsul people are as they\u2019ve been since time began. Ivan is drawn to Marichka, the beautiful young daughter of the man who killed his father. But fate tragically decrees that the two lovers will remain apart.",
+        "releaseDate": "1965-10-18",
+        "runtime": 96,
+        "voteAverage": 7.538,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/9oSZTeejmx80tIBVSqYzJpFhjkI.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/9UQoFWYiNU1NIz7pQlg5Wnub9In.jpg",
+        "director": "Sergei Parajanov",
         "cast": [
-            "Delphine Seyrig",
-            "Jan Decorte",
-            "Henri Storck",
-            "Jacques Doniol-Valcroze",
-            "Yves Bical"
+            "Ivan Mykolaichuk",
+            "Larysa Kadochnykova",
+            "Tatyana Bestayeva",
+            "Mykola Hrynko",
+            "Spartak Bagashvili"
         ],
         "genres": [
-            "Drama"
+            "Drama",
+            "Romance"
         ]
     }
 }
