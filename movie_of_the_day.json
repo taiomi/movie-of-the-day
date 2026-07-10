@@ -1,27 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-07-09",
+    "lastUpdated": "2026-07-10",
     "movie": {
-        "id": 26782,
-        "title": "Shadows of Forgotten Ancestors",
-        "tagline": "",
-        "overview": "In the Carpathian Mountains of 19th-century Ukraine, love, hate, life and death among the Hutsul people are as they\u2019ve been since time began. Ivan is drawn to Marichka, the beautiful young daughter of the man who killed his father. But fate tragically decrees that the two lovers will remain apart.",
-        "releaseDate": "1965-10-18",
-        "runtime": 96,
-        "voteAverage": 7.538,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/9oSZTeejmx80tIBVSqYzJpFhjkI.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/9UQoFWYiNU1NIz7pQlg5Wnub9In.jpg",
-        "director": "Sergei Parajanov",
+        "id": 499,
+        "title": "Cl\u00e9o from 5 to 7",
+        "tagline": "The whole world... has made an appointment with...",
+        "overview": "Agn\u00e8s Varda eloquently captures Paris in the sixties with this real-time portrait of a singer set adrift in the city as she awaits test results of a biopsy. A chronicle of the minutes of one woman\u2019s life, Cl\u00e9o from 5 to 7 is a spirited mix of vivid v\u00e9rit\u00e9 and melodrama, featuring a score by Michel Legrand and cameos by Jean-Luc Godard and Anna Karina.",
+        "releaseDate": "1962-04-11",
+        "runtime": 90,
+        "voteAverage": 7.661,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/oelBStY4xpguaplRv15P3Za7Xsr.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/oyatchDPpS4I9jpIIezFJGrmXcR.jpg",
+        "director": "Agn\u00e8s Varda",
         "cast": [
-            "Ivan Mykolaichuk",
-            "Larysa Kadochnykova",
-            "Tatyana Bestayeva",
-            "Mykola Hrynko",
-            "Spartak Bagashvili"
+            "Corinne Marchand",
+            "Antoine Bourseiller",
+            "Dominique Davray",
+            "Doroth\u00e9e Blanck",
+            "Michel Legrand"
         ],
         "genres": [
-            "Drama",
-            "Romance"
+            "Drama"
         ]
     }
 }
