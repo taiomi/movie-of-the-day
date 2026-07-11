@@ -1,26 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-07-10",
+    "lastUpdated": "2026-07-11",
     "movie": {
-        "id": 499,
-        "title": "Cl\u00e9o from 5 to 7",
-        "tagline": "The whole world... has made an appointment with...",
-        "overview": "Agn\u00e8s Varda eloquently captures Paris in the sixties with this real-time portrait of a singer set adrift in the city as she awaits test results of a biopsy. A chronicle of the minutes of one woman\u2019s life, Cl\u00e9o from 5 to 7 is a spirited mix of vivid v\u00e9rit\u00e9 and melodrama, featuring a score by Michel Legrand and cameos by Jean-Luc Godard and Anna Karina.",
-        "releaseDate": "1962-04-11",
-        "runtime": 90,
-        "voteAverage": 7.661,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/oelBStY4xpguaplRv15P3Za7Xsr.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/oyatchDPpS4I9jpIIezFJGrmXcR.jpg",
-        "director": "Agn\u00e8s Varda",
+        "id": 696,
+        "title": "Manhattan",
+        "tagline": "Woody Allen's New Comedy Hit",
+        "overview": "Manhattan explores how the life of a middle-aged television writer dating a teenage girl is further complicated when he falls in love with his best friend's mistress.",
+        "releaseDate": "1979-04-25",
+        "runtime": 96,
+        "voteAverage": 7.713,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/k4eT3EvfxW1L9Wmt04UqJqCvCR6.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/adnSTomHU9YyqV2lx38CgM0UxLS.jpg",
+        "director": "Woody Allen",
         "cast": [
-            "Corinne Marchand",
-            "Antoine Bourseiller",
-            "Dominique Davray",
-            "Doroth\u00e9e Blanck",
-            "Michel Legrand"
+            "Woody Allen",
+            "Diane Keaton",
+            "Michael Murphy",
+            "Mariel Hemingway",
+            "Meryl Streep"
         ],
         "genres": [
-            "Drama"
+            "Comedy",
+            "Drama",
+            "Romance"
         ]
     }
 }
