@@ -1,28 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-07-11",
+    "lastUpdated": "2026-07-12",
     "movie": {
-        "id": 696,
-        "title": "Manhattan",
-        "tagline": "Woody Allen's New Comedy Hit",
-        "overview": "Manhattan explores how the life of a middle-aged television writer dating a teenage girl is further complicated when he falls in love with his best friend's mistress.",
-        "releaseDate": "1979-04-25",
-        "runtime": 96,
-        "voteAverage": 7.713,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/k4eT3EvfxW1L9Wmt04UqJqCvCR6.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/adnSTomHU9YyqV2lx38CgM0UxLS.jpg",
-        "director": "Woody Allen",
+        "id": 28273,
+        "title": "The End of Summer",
+        "tagline": "",
+        "overview": "The family of an older man who runs a small sake brewery become concerned with his finances and his health after they discover him visiting an old mistress from his youth.",
+        "releaseDate": "1961-10-29",
+        "runtime": 103,
+        "voteAverage": 7.5,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/t2WujZqrW6dP900VDnOJWQ2xhaM.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/53uPO1yAWyQpevkmpfw8AqpjWXx.jpg",
+        "director": "Yasujir\u014d Ozu",
         "cast": [
-            "Woody Allen",
-            "Diane Keaton",
-            "Michael Murphy",
-            "Mariel Hemingway",
-            "Meryl Streep"
+            "Setsuko Hara",
+            "Y\u014dko Tsukasa",
+            "Michiyo Aratama",
+            "Keiju Kobayashi",
+            "Masahiko Shimazu"
         ],
         "genres": [
-            "Comedy",
-            "Drama",
-            "Romance"
+            "Drama"
         ]
     }
 }
