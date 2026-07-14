@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-07-13",
+    "lastUpdated": "2026-07-14",
     "movie": {
-        "id": 223,
-        "title": "Rebecca",
-        "tagline": "\"Last night I dreamt I went to Manderley again...\"",
-        "overview": "Story of a young woman who marries a fascinating widower only to find out that she must live in the shadow of his former wife, Rebecca, who died mysteriously several years earlier. The young wife must come to grips with the terrible secret of her handsome, cold husband, Max De Winter. She must also deal with the jealous, obsessed Mrs. Danvers, the housekeeper, who will not accept her as the mistress of the house.",
-        "releaseDate": "1940-03-23",
-        "runtime": 130,
-        "voteAverage": 7.882,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/1qz3qUOHnVy7dL7M7G8jSErxE4b.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/faR0hBQfnk32Y2mqYjtuGuL0Imf.jpg",
-        "director": "Alfred Hitchcock",
+        "id": 5544,
+        "title": "Hiroshima Mon Amour",
+        "tagline": "From the measureless depths of a woman's emotions...",
+        "overview": "The deep conversation between a Japanese architect and a French actress forms the basis of this celebrated French film, considered one of the vanguard productions of the French New Wave. Set in Hiroshima after the end of World War II, the couple -- lovers turned friends -- recount, over many hours, previous romances and life experiences. The two intertwine their stories about the past with pondering the devastation wrought by the atomic bomb dropped on the city.",
+        "releaseDate": "1959-06-10",
+        "runtime": 92,
+        "voteAverage": 7.666,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/zieczjWnvalaxwX5EQASEx0on5f.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/4fynFAYPPYCkyIdt0bsCwWn3Hxv.jpg",
+        "director": "Alain Resnais",
         "cast": [
-            "Laurence Olivier",
-            "Joan Fontaine",
-            "George Sanders",
-            "Judith Anderson",
-            "Gladys Cooper"
+            "Emmanuelle Riva",
+            "Eiji Okada",
+            "Stella Dassas",
+            "Pierre Barbaud",
+            "Bernard Fresson"
         ],
         "genres": [
-            "Mystery",
-            "Romance",
-            "Drama"
+            "Drama",
+            "History",
+            "Romance"
         ]
     }
 }
