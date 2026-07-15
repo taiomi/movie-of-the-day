@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-07-14",
+    "lastUpdated": "2026-07-15",
     "movie": {
-        "id": 5544,
-        "title": "Hiroshima Mon Amour",
-        "tagline": "From the measureless depths of a woman's emotions...",
-        "overview": "The deep conversation between a Japanese architect and a French actress forms the basis of this celebrated French film, considered one of the vanguard productions of the French New Wave. Set in Hiroshima after the end of World War II, the couple -- lovers turned friends -- recount, over many hours, previous romances and life experiences. The two intertwine their stories about the past with pondering the devastation wrought by the atomic bomb dropped on the city.",
-        "releaseDate": "1959-06-10",
-        "runtime": 92,
-        "voteAverage": 7.666,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/zieczjWnvalaxwX5EQASEx0on5f.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/4fynFAYPPYCkyIdt0bsCwWn3Hxv.jpg",
-        "director": "Alain Resnais",
+        "id": 11507,
+        "title": "Body Double",
+        "tagline": "You can't believe everything you see.",
+        "overview": "After losing an acting role and his girlfriend, Jake Scully finally catches a break: he gets offered a gig house-sitting in the Hollywood Hills. While peering through the beautiful home's telescope one night, he spies a gorgeous woman dancing in her window. But when he witnesses the girl's murder, it leads Scully through the netherworld of the adult entertainment industry on a search for answers\u2014with porn actress Holly Body as his guide.",
+        "releaseDate": "1984-10-25",
+        "runtime": 114,
+        "voteAverage": 6.759,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/lRFm5P2AdOGpELwm3HHhmUz6k5I.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/q7HylWBgbbwhl8cpO6pJVxZ940V.jpg",
+        "director": "Brian De Palma",
         "cast": [
-            "Emmanuelle Riva",
-            "Eiji Okada",
-            "Stella Dassas",
-            "Pierre Barbaud",
-            "Bernard Fresson"
+            "Craig Wasson",
+            "Melanie Griffith",
+            "Gregg Henry",
+            "Deborah Shelton",
+            "Guy Boyd"
         ],
         "genres": [
-            "Drama",
-            "History",
-            "Romance"
+            "Crime",
+            "Mystery",
+            "Thriller"
         ]
     }
 }
