@@ -1,28 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-07-15",
+    "lastUpdated": "2026-07-16",
     "movie": {
-        "id": 11507,
-        "title": "Body Double",
-        "tagline": "You can't believe everything you see.",
-        "overview": "After losing an acting role and his girlfriend, Jake Scully finally catches a break: he gets offered a gig house-sitting in the Hollywood Hills. While peering through the beautiful home's telescope one night, he spies a gorgeous woman dancing in her window. But when he witnesses the girl's murder, it leads Scully through the netherworld of the adult entertainment industry on a search for answers\u2014with porn actress Holly Body as his guide.",
-        "releaseDate": "1984-10-25",
-        "runtime": 114,
-        "voteAverage": 6.759,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/lRFm5P2AdOGpELwm3HHhmUz6k5I.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/q7HylWBgbbwhl8cpO6pJVxZ940V.jpg",
-        "director": "Brian De Palma",
+        "id": 5156,
+        "title": "Bicycle Thieves",
+        "tagline": "The Prize Picture They Want to Censor!",
+        "overview": "Unemployed Antonio is elated when he finally finds work hanging posters around war-torn Rome. However on his first day, his bicycle\u2014essential to his work\u2014gets stolen. His job is doomed unless he can find the thief. With the help of his son, Antonio combs the city, becoming desperate for justice.",
+        "releaseDate": "1948-07-21",
+        "runtime": 89,
+        "voteAverage": 8.165,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/iPdVqIpmR3bRvOQJPrn4pr2KR3q.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/nd6ItWuWGmTKhHXuxVC8kp86CmQ.jpg",
+        "director": "Vittorio De Sica",
         "cast": [
-            "Craig Wasson",
-            "Melanie Griffith",
-            "Gregg Henry",
-            "Deborah Shelton",
-            "Guy Boyd"
+            "Lamberto Maggiorani",
+            "Enzo Staiola",
+            "Lianella Carell",
+            "Gino Saltamerenda",
+            "Vittorio Antonucci"
         ],
         "genres": [
-            "Crime",
-            "Mystery",
-            "Thriller"
+            "Drama"
         ]
     }
 }
