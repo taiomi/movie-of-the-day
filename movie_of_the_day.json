@@ -1,27 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-07-17",
+    "lastUpdated": "2026-07-18",
     "movie": {
-        "id": 10843,
-        "title": "After Hours",
-        "tagline": "When it's after midnight in New York City, you don't have to look for love, laughter and trouble. They'll all find you!",
-        "overview": "Desperate to escape his mind-numbing routine, uptown Manhattan office worker Paul Hackett ventures downtown for a hookup with a mystery woman.",
-        "releaseDate": "1985-09-13",
-        "runtime": 97,
-        "voteAverage": 7.496,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/eamOBurHBu0MIxohTIVcfxmZ6Z7.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/tV2KZZR5JaqTSXiNKowGqQMQtex.jpg",
-        "director": "Martin Scorsese",
+        "id": 791177,
+        "title": "Bones and All",
+        "tagline": "You can\u2019t run from who you are.",
+        "overview": "Abandoned by her father, a young woman embarks on a thousand-mile odyssey through the backroads of America where she meets a disenfranchised drifter. But despite their best efforts, all roads lead back to their terrifying pasts and to a final stand that will determine whether their love can survive their otherness.",
+        "releaseDate": "2022-11-18",
+        "runtime": 131,
+        "voteAverage": 7.002,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/dBQuk2LkHjrDsSjueirPQg96GCc.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/8sPxa4sdRvjgRG3GgkO8RQxUR9P.jpg",
+        "director": "Luca Guadagnino",
         "cast": [
-            "Griffin Dunne",
-            "Rosanna Arquette",
-            "Verna Bloom",
-            "Tommy Chong",
-            "Linda Fiorentino"
+            "Taylor Russell",
+            "Timoth\u00e9e Chalamet",
+            "Mark Rylance",
+            "Anna Cobb",
+            "Andr\u00e9 Holland"
         ],
         "genres": [
-            "Comedy",
-            "Thriller",
+            "Horror",
+            "Romance",
             "Drama"
         ]
     }
