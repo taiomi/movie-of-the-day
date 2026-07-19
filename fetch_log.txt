@@ -1975,3 +1975,7 @@
 [2026-07-18 04:49:58] Selected movie: Bones and All (ID: 791177) for day 488 since start
 [2026-07-18 04:49:59] Successfully saved movie data for: Bones and All
 [2026-07-18 04:49:59] Movie fetch process completed
+[2026-07-19 05:23:00] Starting movie fetch process
+[2026-07-19 05:23:00] Selected movie: The Zone of Interest (ID: 467244) for day 489 since start
+[2026-07-19 05:23:00] Successfully saved movie data for: The Zone of Interest
+[2026-07-19 05:23:00] Movie fetch process completed
