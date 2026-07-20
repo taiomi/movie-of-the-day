@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-07-19",
+    "lastUpdated": "2026-07-20",
     "movie": {
-        "id": 467244,
-        "title": "The Zone of Interest",
-        "tagline": "The life we enjoy.",
-        "overview": "The commandant of Auschwitz, Rudolf H\u00f6ss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
-        "releaseDate": "2023-12-15",
-        "runtime": 105,
-        "voteAverage": 7.013,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/hUu9zyZmDd8VZegKi1iK1Vk0RYS.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/pnTSOKcYnvdpQNQElAtJM1rWOxH.jpg",
-        "director": "Jonathan Glazer",
+        "id": 2118,
+        "title": "L.A. Confidential",
+        "tagline": "Everything is suspect... Everyone is for sale... And nothing is what it seems.",
+        "overview": "Three detectives in the corrupt and brutal L.A. police force of the 1950s use differing methods to uncover a conspiracy behind the shotgun slayings of the patrons at an all-night diner.",
+        "releaseDate": "1997-09-19",
+        "runtime": 138,
+        "voteAverage": 7.804,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/lWCgf5sD5FpMljjpkRhcC8pXcch.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/hUn13Hom8OWMYpR1ay0diwswwdP.jpg",
+        "director": "Curtis Hanson",
         "cast": [
-            "Christian Friedel",
-            "Sandra H\u00fcller",
-            "Johann Karthaus",
-            "Luis Noah Witte",
-            "Nele Ahrensmeier"
+            "Kevin Spacey",
+            "Russell Crowe",
+            "Guy Pearce",
+            "James Cromwell",
+            "Kim Basinger"
         ],
         "genres": [
-            "Drama",
-            "History",
-            "War"
+            "Crime",
+            "Mystery",
+            "Thriller"
         ]
     }
 }
