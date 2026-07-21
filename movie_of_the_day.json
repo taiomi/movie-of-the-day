@@ -1,28 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-07-20",
+    "lastUpdated": "2026-07-21",
     "movie": {
-        "id": 2118,
-        "title": "L.A. Confidential",
-        "tagline": "Everything is suspect... Everyone is for sale... And nothing is what it seems.",
-        "overview": "Three detectives in the corrupt and brutal L.A. police force of the 1950s use differing methods to uncover a conspiracy behind the shotgun slayings of the patrons at an all-night diner.",
-        "releaseDate": "1997-09-19",
-        "runtime": 138,
-        "voteAverage": 7.804,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/lWCgf5sD5FpMljjpkRhcC8pXcch.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/hUn13Hom8OWMYpR1ay0diwswwdP.jpg",
-        "director": "Curtis Hanson",
+        "id": 46069,
+        "title": "The Story of the Last Chrysanthemum",
+        "tagline": "",
+        "overview": "In late 19th-century Tokyo, Kikunosuke Onoue, the adopted son of a legendary actor, himself an actor specializing in female roles, discovers that the praise he receives is only due to his status as his father's heir. Devastated, he turns to Otoku, a servant of his family, for comfort, and they fall in love. Kikunosuke becomes determined to leave home and develop as an actor on his own merits, and Otoku faithfully joins him.",
+        "releaseDate": "1939-10-13",
+        "runtime": 144,
+        "voteAverage": 7.8,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/m43EBVmYBiNC2RtcMUAag4IWsZS.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/jl8Te0ZZXxO6iBuQmZgZSZqqCnd.jpg",
+        "director": "Kenji Mizoguchi",
         "cast": [
-            "Kevin Spacey",
-            "Russell Crowe",
-            "Guy Pearce",
-            "James Cromwell",
-            "Kim Basinger"
+            "Sh\u014dtar\u014d Hanayagi",
+            "Kakuko Mori",
+            "K\u014dkichi Takada",
+            "Kinnosuke Takamatsu",
+            "Gonjur\u00f4 Kawarazaki"
         ],
         "genres": [
-            "Crime",
-            "Mystery",
-            "Thriller"
+            "Romance",
+            "Drama"
         ]
     }
 }

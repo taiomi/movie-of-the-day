@@ -1983,3 +1983,7 @@
 [2026-07-20 05:40:46] Selected movie: L.A. Confidential (ID: 2118) for day 490 since start
 [2026-07-20 05:40:46] Successfully saved movie data for: L.A. Confidential
 [2026-07-20 05:40:46] Movie fetch process completed
+[2026-07-21 05:21:40] Starting movie fetch process
+[2026-07-21 05:21:40] Selected movie: The Story of the Last Chrysanthemums (ID: 46069) for day 491 since start
+[2026-07-21 05:21:40] Successfully saved movie data for: The Story of the Last Chrysanthemum
+[2026-07-21 05:21:40] Movie fetch process completed
