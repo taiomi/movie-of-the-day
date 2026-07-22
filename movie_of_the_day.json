@@ -1,27 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-07-21",
+    "lastUpdated": "2026-07-22",
     "movie": {
-        "id": 46069,
-        "title": "The Story of the Last Chrysanthemum",
-        "tagline": "",
-        "overview": "In late 19th-century Tokyo, Kikunosuke Onoue, the adopted son of a legendary actor, himself an actor specializing in female roles, discovers that the praise he receives is only due to his status as his father's heir. Devastated, he turns to Otoku, a servant of his family, for comfort, and they fall in love. Kikunosuke becomes determined to leave home and develop as an actor on his own merits, and Otoku faithfully joins him.",
-        "releaseDate": "1939-10-13",
-        "runtime": 144,
-        "voteAverage": 7.8,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/m43EBVmYBiNC2RtcMUAag4IWsZS.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/jl8Te0ZZXxO6iBuQmZgZSZqqCnd.jpg",
-        "director": "Kenji Mizoguchi",
+        "id": 49020,
+        "title": "Submarine",
+        "tagline": "A comedy that doesn't let principles stand in the way of progress.",
+        "overview": "15-year-old deep-thinking Welsh schoolboy Oliver Tate struggles to initiate and maintain a relationship with Jordana, his devilish, dark-haired classmate at their Swansea high school. As his parents' marriage begins to fall apart, similar problems arise in his relationship with Jordana.",
+        "releaseDate": "2011-03-18",
+        "runtime": 98,
+        "voteAverage": 7.362,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/nbzXX3CYtKUBrPeMcG7PVoLQHXB.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/zaa2noUk2Dm6IgdTWWEe4WpL08o.jpg",
+        "director": "Richard Ayoade",
         "cast": [
-            "Sh\u014dtar\u014d Hanayagi",
-            "Kakuko Mori",
-            "K\u014dkichi Takada",
-            "Kinnosuke Takamatsu",
-            "Gonjur\u00f4 Kawarazaki"
+            "Noah Taylor",
+            "Paddy Considine",
+            "Craig Roberts",
+            "Yasmin Paige",
+            "Sally Hawkins"
         ],
         "genres": [
-            "Romance",
-            "Drama"
+            "Drama",
+            "Comedy",
+            "Romance"
         ]
     }
 }
