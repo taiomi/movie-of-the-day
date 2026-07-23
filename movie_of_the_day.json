@@ -1,28 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-07-22",
+    "lastUpdated": "2026-07-23",
     "movie": {
-        "id": 49020,
-        "title": "Submarine",
-        "tagline": "A comedy that doesn't let principles stand in the way of progress.",
-        "overview": "15-year-old deep-thinking Welsh schoolboy Oliver Tate struggles to initiate and maintain a relationship with Jordana, his devilish, dark-haired classmate at their Swansea high school. As his parents' marriage begins to fall apart, similar problems arise in his relationship with Jordana.",
-        "releaseDate": "2011-03-18",
-        "runtime": 98,
-        "voteAverage": 7.362,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/nbzXX3CYtKUBrPeMcG7PVoLQHXB.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/zaa2noUk2Dm6IgdTWWEe4WpL08o.jpg",
-        "director": "Richard Ayoade",
+        "id": 24183,
+        "title": "La Promesse",
+        "tagline": "",
+        "overview": "Igor, aged 15, and his father Roger deal in housing and peddling illicit labor in the outlying districts of Liege, Belgium. Scams, lies and swindling rule their lives. When one of his father\u2019s illegal workers gets injured on the job and asks Igor to promise to take care of his wife and baby, Igor finds himself at a crossroad. He wants to keep the promise, but the price would be to betray his father.",
+        "releaseDate": "1996-08-07",
+        "runtime": 94,
+        "voteAverage": 7.186,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/pmGx73cJ3gVCCli1JAVQOaLbdnY.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/1B5aXOwtCGicwd2gEiH45flqtrW.jpg",
+        "director": "Jean-Pierre Dardenne",
         "cast": [
-            "Noah Taylor",
-            "Paddy Considine",
-            "Craig Roberts",
-            "Yasmin Paige",
-            "Sally Hawkins"
+            "J\u00e9r\u00e9mie Renier",
+            "Olivier Gourmet",
+            "Assita Ouedraogo",
+            "Florian Delain",
+            "Hachemi Haddad"
         ],
         "genres": [
-            "Drama",
-            "Comedy",
-            "Romance"
+            "Drama"
         ]
     }
 }
