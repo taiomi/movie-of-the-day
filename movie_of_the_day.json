@@ -1,25 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-07-23",
+    "lastUpdated": "2026-07-24",
     "movie": {
-        "id": 24183,
-        "title": "La Promesse",
-        "tagline": "",
-        "overview": "Igor, aged 15, and his father Roger deal in housing and peddling illicit labor in the outlying districts of Liege, Belgium. Scams, lies and swindling rule their lives. When one of his father\u2019s illegal workers gets injured on the job and asks Igor to promise to take care of his wife and baby, Igor finds himself at a crossroad. He wants to keep the promise, but the price would be to betray his father.",
-        "releaseDate": "1996-08-07",
-        "runtime": 94,
-        "voteAverage": 7.186,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/pmGx73cJ3gVCCli1JAVQOaLbdnY.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/1B5aXOwtCGicwd2gEiH45flqtrW.jpg",
-        "director": "Jean-Pierre Dardenne",
+        "id": 43832,
+        "title": "Only Angels Have Wings",
+        "tagline": "BIG As The Fog-Shrouded Andes!",
+        "overview": "A traveling performer arrives at a remote South American port town where the head of an air freight service must risk his pilots' lives to earn a major contract.",
+        "releaseDate": "1939-05-15",
+        "runtime": 121,
+        "voteAverage": 7.289,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/lqcwiWancAkjtAQPHr9V3SfJjBM.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/wq7KVxUAYH06cHuReBcV0Sx2kFv.jpg",
+        "director": "Howard Hawks",
         "cast": [
-            "J\u00e9r\u00e9mie Renier",
-            "Olivier Gourmet",
-            "Assita Ouedraogo",
-            "Florian Delain",
-            "Hachemi Haddad"
+            "Cary Grant",
+            "Jean Arthur",
+            "Richard Barthelmess",
+            "Rita Hayworth",
+            "Thomas Mitchell"
         ],
         "genres": [
+            "Romance",
+            "Adventure",
             "Drama"
         ]
     }
