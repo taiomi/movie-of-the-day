@@ -1,27 +1,25 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-07-24",
+    "lastUpdated": "2026-07-25",
     "movie": {
-        "id": 43832,
-        "title": "Only Angels Have Wings",
-        "tagline": "BIG As The Fog-Shrouded Andes!",
-        "overview": "A traveling performer arrives at a remote South American port town where the head of an air freight service must risk his pilots' lives to earn a major contract.",
-        "releaseDate": "1939-05-15",
-        "runtime": 121,
-        "voteAverage": 7.289,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/lqcwiWancAkjtAQPHr9V3SfJjBM.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/wq7KVxUAYH06cHuReBcV0Sx2kFv.jpg",
-        "director": "Howard Hawks",
+        "id": 116690,
+        "title": "The Ballad of Narayama",
+        "tagline": "With my mother on my back, now is the time to say goodbye to this world.",
+        "overview": "In a remote village where food is scarce, elders who reach the age of 70 are carried by their children to the top of a nearby mountain to die in solitude. Orin, a vibrant 69-year-old grandmother, has accepted her fate \u2014 but struggles to prepare the rest of her family for the ritual.",
+        "releaseDate": "1958-06-01",
+        "runtime": 98,
+        "voteAverage": 7.517,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/kwvNyyXFsVAPg9PYQsogcXj99lV.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/d81tSjYWT0ITcqL5ecTkUcGwVig.jpg",
+        "director": "Keisuke Kinoshita",
         "cast": [
-            "Cary Grant",
-            "Jean Arthur",
-            "Richard Barthelmess",
-            "Rita Hayworth",
-            "Thomas Mitchell"
+            "Kinuyo Tanaka",
+            "Teiji Takahashi",
+            "Y\u016bko Mochizuki",
+            "Seiji Miyaguchi",
+            "Y\u016bnosuke It\u014d"
         ],
         "genres": [
-            "Romance",
-            "Adventure",
             "Drama"
         ]
     }
