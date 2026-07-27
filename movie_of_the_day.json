@@ -1,28 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-07-26",
+    "lastUpdated": "2026-07-27",
     "movie": {
-        "id": 1480,
-        "title": "Touch of Evil",
-        "tagline": "The strangest vengeance ever planned!",
-        "overview": "A border-town bombing draws Mexican investigator Miguel Vargas into a corruption-ridden police investigation led by crooked captain Hank Quinlan, setting off a deadly struggle over power, justice, and truth.",
-        "releaseDate": "1958-03-30",
-        "runtime": 111,
-        "voteAverage": 7.744,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/1pvRgmfBaoMczIJBOi9gCOZ4FMC.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/ousBoWTm1CltjAGSYOELYP0jFFC.jpg",
-        "director": "Orson Welles",
+        "id": 209244,
+        "title": "Are You Here",
+        "tagline": "Friendship... there's nothing in it for anybody.",
+        "overview": "When Steve Dallas, a womanizing local weatherman, hears that his off-the-grid best friend Ben Baker has lost his estranged father, the two return to Ben's childhood home. Once there, they discover Ben has inherited the family fortune, and the ill-equipped duo must battle Ben's formidable sister and deal with his father's gorgeous 25-year old widow.",
+        "releaseDate": "2013-09-07",
+        "runtime": 114,
+        "voteAverage": 5.137,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/v83MAkGH8jF8uNhJhKgADqw3Xup.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/AgWnDRoGbbE6oXJWZpQVQWWzaUa.jpg",
+        "director": "Matthew Weiner",
         "cast": [
-            "Charlton Heston",
-            "Janet Leigh",
-            "Orson Welles",
-            "Joseph Calleia",
-            "Akim Tamiroff"
+            "Owen Wilson",
+            "Zach Galifianakis",
+            "Amy Poehler",
+            "Laura Ramsey",
+            "Lauren Lapkus"
         ],
         "genres": [
-            "Crime",
-            "Thriller",
-            "Drama"
+            "Comedy"
         ]
     }
 }
