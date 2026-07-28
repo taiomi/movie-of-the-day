@@ -1,26 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-07-27",
+    "lastUpdated": "2026-07-28",
     "movie": {
-        "id": 209244,
-        "title": "Are You Here",
-        "tagline": "Friendship... there's nothing in it for anybody.",
-        "overview": "When Steve Dallas, a womanizing local weatherman, hears that his off-the-grid best friend Ben Baker has lost his estranged father, the two return to Ben's childhood home. Once there, they discover Ben has inherited the family fortune, and the ill-equipped duo must battle Ben's formidable sister and deal with his father's gorgeous 25-year old widow.",
-        "releaseDate": "2013-09-07",
-        "runtime": 114,
-        "voteAverage": 5.137,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/v83MAkGH8jF8uNhJhKgADqw3Xup.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/AgWnDRoGbbE6oXJWZpQVQWWzaUa.jpg",
-        "director": "Matthew Weiner",
+        "id": 185,
+        "title": "A Clockwork Orange",
+        "tagline": "Being the adventures of a young man whose principal interests are rape, ultra-violence and Beethoven.",
+        "overview": "In a near-future Britain, young Alexander DeLarge and his pals get their kicks beating and raping anyone they please. When not destroying the lives of others, Alex swoons to the music of Beethoven. The state, eager to crack down on juvenile crime, gives an incarcerated Alex the option to undergo an invasive procedure that'll rob him of all personal agency. In a time when conscience is a commodity, can Alex change his tune?",
+        "releaseDate": "1971-10-28",
+        "runtime": 137,
+        "voteAverage": 8.2,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/4sHeTAp65WrSSuc05nRBKddhBxO.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/nLFxvLokHe3bQmrmAfljIfax2jQ.jpg",
+        "director": "Stanley Kubrick",
         "cast": [
-            "Owen Wilson",
-            "Zach Galifianakis",
-            "Amy Poehler",
-            "Laura Ramsey",
-            "Lauren Lapkus"
+            "Malcolm McDowell",
+            "Patrick Magee",
+            "Carl Duering",
+            "Michael Bates",
+            "Warren Clarke"
         ],
         "genres": [
-            "Comedy"
+            "Science Fiction",
+            "Crime"
         ]
     }
 }
