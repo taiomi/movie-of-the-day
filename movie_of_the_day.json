@@ -1,27 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-07-30",
+    "lastUpdated": "2026-07-31",
     "movie": {
-        "id": 2457,
-        "title": "Children of Paradise",
-        "tagline": "AT LAST! The Celebrated French Film.",
-        "overview": "In a chaotic 19th-century Paris teeming with aristocrats, thieves, psychics, and courtesans, theater mime Baptiste is in love with the mysterious actress Garance. But Garance, in turn, is loved by three other men: pretentious actor Frederick, conniving thief Lacenaire, and Count Edouard of Montray.",
-        "releaseDate": "1945-03-15",
-        "runtime": 190,
-        "voteAverage": 8.1,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/yiy9stl1jjVhW44ypkWMFDT8Ix3.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/ubERa5VEJlBRglxDSBSL0YBG7XB.jpg",
-        "director": "Marcel Carn\u00e9",
+        "id": 475,
+        "title": "Bonnie and Clyde",
+        "tagline": "They\u2019re young\u2026 they\u2019re in love\u2026 and they kill people.",
+        "overview": "In the 1930s, bored European-American waitress Bonnie Parker falls in love with a European-American ex-con named Clyde Barrow and together they start a violent crime spree through the country, stealing cars and robbing banks.",
+        "releaseDate": "1967-08-13",
+        "runtime": 111,
+        "voteAverage": 7.491,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/sCSQFK9kMsprT4jgWqgw82dT6WI.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/fyzSiE8IWezmd3ls1amHNeOkrEf.jpg",
+        "director": "Arthur Penn",
         "cast": [
-            "Arletty",
-            "Jean-Louis Barrault",
-            "Pierre Brasseur",
-            "Marcel Herrand",
-            "Mar\u00eda Casares"
+            "Warren Beatty",
+            "Faye Dunaway",
+            "Michael J. Pollard",
+            "Gene Hackman",
+            "Estelle Parsons"
         ],
         "genres": [
-            "Drama",
-            "Romance"
+            "Crime",
+            "Drama"
         ]
     }
 }
