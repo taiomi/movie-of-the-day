@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-08-01",
+    "lastUpdated": "2026-08-02",
     "movie": {
-        "id": 144,
-        "title": "Wings of Desire",
-        "tagline": "There are angels on the streets of Berlin.",
-        "overview": "Two angels, Damiel and Cassiel, glide through the streets of Berlin, observing the bustling population, providing invisible rays of hope to the distressed but never interacting with them. When Damiel falls in love with lonely trapeze artist Marion, the angel longs to experience life in the physical world, and finds \u2014 with some words of wisdom from actor Peter Falk \u2014 that it might be possible for him to take human form.",
-        "releaseDate": "1987-09-23",
-        "runtime": 128,
-        "voteAverage": 7.757,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/iZQs2vUeCzvS1KfZJ6uYNCGJBBV.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/7TlGXrB4WQ3wbpOCUQnBXseCuOl.jpg",
-        "director": "Wim Wenders",
+        "id": 5961,
+        "title": "Fanny and Alexander",
+        "tagline": "",
+        "overview": "As children in the loving Ekdahl family, Fanny and Alexander enjoy a happy life with their parents, who run a theater company. After their father dies unexpectedly, however, the siblings end up in a joyless home when their mother, Emilie, marries a stern bishop. The bleak situation gradually grows worse as the bishop becomes more controlling, but dedicated relatives make a valiant attempt to aid Emilie, Fanny and Alexander.",
+        "releaseDate": "1982-12-17",
+        "runtime": 188,
+        "voteAverage": 7.765,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/q8jlA3Wc1Z987hNKRFA44g5OugC.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/8reX3CMog1QHqGoym2Esvuk5MnK.jpg",
+        "director": "Ingmar Bergman",
         "cast": [
-            "Bruno Ganz",
-            "Solveig Dommartin",
-            "Otto Sander",
-            "Curt Bois",
-            "Peter Falk"
+            "Pernilla Allwin",
+            "Bertil Guve",
+            "Jan Malmsj\u00f6",
+            "Ewa Fr\u00f6ling",
+            "Gunn W\u00e5llgren"
         ],
         "genres": [
-            "Drama",
             "Fantasy",
-            "Romance"
+            "Drama",
+            "Mystery"
         ]
     }
 }
