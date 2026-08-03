@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-08-02",
+    "lastUpdated": "2026-08-03",
     "movie": {
-        "id": 5961,
-        "title": "Fanny and Alexander",
-        "tagline": "",
-        "overview": "As children in the loving Ekdahl family, Fanny and Alexander enjoy a happy life with their parents, who run a theater company. After their father dies unexpectedly, however, the siblings end up in a joyless home when their mother, Emilie, marries a stern bishop. The bleak situation gradually grows worse as the bishop becomes more controlling, but dedicated relatives make a valiant attempt to aid Emilie, Fanny and Alexander.",
-        "releaseDate": "1982-12-17",
-        "runtime": 188,
-        "voteAverage": 7.765,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/q8jlA3Wc1Z987hNKRFA44g5OugC.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/8reX3CMog1QHqGoym2Esvuk5MnK.jpg",
-        "director": "Ingmar Bergman",
+        "id": 381,
+        "title": "To Catch a Thief",
+        "tagline": "WANTED by the police in all the luxury-spots of Europe!... A catch for any woman!",
+        "overview": "When a string of jewel robberies hits the French Riviera, suspicion falls on retired thief John \u201cThe Cat\u201d Robie. To clear his name, he sets out to trap the copycat himself\u2014entangling a wealthy widow and her beguiling daughter in a seductive game of pursuit, deception, and desire.",
+        "releaseDate": "1955-08-03",
+        "runtime": 106,
+        "voteAverage": 7.266,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/cbMRkBGBgo3aLJK2M4MyicvkPLQ.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/jGyDvz8WjVZzHX573WDs8BTIUU9.jpg",
+        "director": "Alfred Hitchcock",
         "cast": [
-            "Pernilla Allwin",
-            "Bertil Guve",
-            "Jan Malmsj\u00f6",
-            "Ewa Fr\u00f6ling",
-            "Gunn W\u00e5llgren"
+            "Cary Grant",
+            "Grace Kelly",
+            "Jessie Royce Landis",
+            "John Williams",
+            "Charles Vanel"
         ],
         "genres": [
-            "Fantasy",
-            "Drama",
-            "Mystery"
+            "Mystery",
+            "Romance",
+            "Thriller"
         ]
     }
 }
