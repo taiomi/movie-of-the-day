@@ -1,27 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-08-04",
+    "lastUpdated": "2026-08-05",
     "movie": {
-        "id": 4024,
-        "title": "Last Year at Marienbad",
-        "tagline": "Extraordinary! Hypnotic! Beautiful! Masterful!",
-        "overview": "At a weekend gathering, a man tells a woman that they had spent time there together a year prior. But, the woman has no recollection whatsoever and is convinced that he is simply fabricating the encounter. The more he speaks about their activities the previous year however, the more compelling he becomes. The question remains however \u2013 did they meet previously or not?",
-        "releaseDate": "1961-09-29",
-        "runtime": 95,
+        "id": 27632,
+        "title": "Black Sunday",
+        "tagline": "STARE INTO THESE EYES...Discover deep within them the unspeakable, terrifying secret of BLACK SUNDAY...It will paralyze you with fright!",
+        "overview": "A vengeful witch, Asa Vajda, and her fiendish servant, Igor Jauvitch, return from the grave and begin a bloody campaign to possess the body of the witch's beautiful look-alike descendant: Katia. Only a handsome doctor with the help of family members stand in her way.",
+        "releaseDate": "1960-08-11",
+        "runtime": 86,
         "voteAverage": 7.4,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/syIJCqiSkGRJTlyaBtyI5jqPtE7.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/h1ov8VcVCiZsnWRu4EjZ74R33GP.jpg",
-        "director": "Alain Resnais",
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/x41Zx8GeZhducquhOq9nE7z1GBG.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/wKzY5EGRweXc91eBs1jk9ZSXcp0.jpg",
+        "director": "Mario Bava",
         "cast": [
-            "Delphine Seyrig",
-            "Giorgio Albertazzi",
-            "Sacha Pito\u00ebff",
-            "Fran\u00e7oise Bertin",
-            "Luce Garcia-Ville"
+            "Barbara Steele",
+            "John Richardson",
+            "Andrea Checchi",
+            "Ivo Garrani",
+            "Arturo Dominici"
         ],
         "genres": [
-            "Drama",
-            "Romance"
+            "Horror"
         ]
     }
 }
