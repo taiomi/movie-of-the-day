@@ -2047,3 +2047,7 @@
 [2026-08-05 05:15:29] Selected movie: Black Sunday (ID: 27632) for day 506 since start
 [2026-08-05 05:15:29] Successfully saved movie data for: Black Sunday
 [2026-08-05 05:15:29] Movie fetch process completed
+[2026-08-06 05:17:44] Starting movie fetch process
+[2026-08-06 05:17:44] Selected movie: Teorema (ID: 5335) for day 507 since start
+[2026-08-06 05:17:45] Successfully saved movie data for: Theorem
+[2026-08-06 05:17:45] Movie fetch process completed

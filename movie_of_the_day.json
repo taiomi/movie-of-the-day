@@ -1,26 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-08-05",
+    "lastUpdated": "2026-08-06",
     "movie": {
-        "id": 27632,
-        "title": "Black Sunday",
-        "tagline": "STARE INTO THESE EYES...Discover deep within them the unspeakable, terrifying secret of BLACK SUNDAY...It will paralyze you with fright!",
-        "overview": "A vengeful witch, Asa Vajda, and her fiendish servant, Igor Jauvitch, return from the grave and begin a bloody campaign to possess the body of the witch's beautiful look-alike descendant: Katia. Only a handsome doctor with the help of family members stand in her way.",
-        "releaseDate": "1960-08-11",
-        "runtime": 86,
-        "voteAverage": 7.4,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/x41Zx8GeZhducquhOq9nE7z1GBG.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/wKzY5EGRweXc91eBs1jk9ZSXcp0.jpg",
-        "director": "Mario Bava",
+        "id": 5335,
+        "title": "Theorem",
+        "tagline": "There are only 923 words spoken in \"Teorema\" \u2013 but it says everything!",
+        "overview": "A wealthy Italian household is turned upside down when a handsome stranger arrives, seduces every family member and then disappears. Each has an epiphany of sorts, but none can figure out who the seductive visitor was or why he came.",
+        "releaseDate": "1968-09-07",
+        "runtime": 95,
+        "voteAverage": 6.975,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/k7rEBaYUTgdxVqYl9aZm5ZcoB41.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/7o5uc27hJD4L95ZnJO9CR5iHdfQ.jpg",
+        "director": "Pier Paolo Pasolini",
         "cast": [
-            "Barbara Steele",
-            "John Richardson",
-            "Andrea Checchi",
-            "Ivo Garrani",
-            "Arturo Dominici"
+            "Terence Stamp",
+            "Silvana Mangano",
+            "Massimo Girotti",
+            "Anne Wiazemsky",
+            "Andr\u00e9s Jos\u00e9 Cruz Soublette"
         ],
         "genres": [
-            "Horror"
+            "Mystery",
+            "Drama"
         ]
     }
 }
