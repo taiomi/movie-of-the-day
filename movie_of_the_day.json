@@ -1,27 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-08-06",
+    "lastUpdated": "2026-08-07",
     "movie": {
-        "id": 5335,
-        "title": "Theorem",
-        "tagline": "There are only 923 words spoken in \"Teorema\" \u2013 but it says everything!",
-        "overview": "A wealthy Italian household is turned upside down when a handsome stranger arrives, seduces every family member and then disappears. Each has an epiphany of sorts, but none can figure out who the seductive visitor was or why he came.",
-        "releaseDate": "1968-09-07",
-        "runtime": 95,
-        "voteAverage": 6.975,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/k7rEBaYUTgdxVqYl9aZm5ZcoB41.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/7o5uc27hJD4L95ZnJO9CR5iHdfQ.jpg",
-        "director": "Pier Paolo Pasolini",
+        "id": 49971,
+        "title": "S\u00f3lo con tu pareja",
+        "tagline": "",
+        "overview": "Tom\u00e1s Tom\u00e1s is a young yuppie playboy with a string of discarded girlfriends. But when Silvia, the victim of one of his adventures, tries to get revenge by typing \"positive\" on his AIDS test, Tom\u00e1s experiences for the first time the realities of love and death.",
+        "releaseDate": "1992-12-25",
+        "runtime": 94,
+        "voteAverage": 6.539,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/pprKQ637rH8ClRMS75VnRtUCiL9.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/eJaDc4tOyhKjsl0PL2Nl0FFF6gG.jpg",
+        "director": "Alfonso Cuar\u00f3n",
         "cast": [
-            "Terence Stamp",
-            "Silvana Mangano",
-            "Massimo Girotti",
-            "Anne Wiazemsky",
-            "Andr\u00e9s Jos\u00e9 Cruz Soublette"
+            "Daniel Gim\u00e9nez Cacho",
+            "Claudia Ram\u00edrez",
+            "Luis de Icaza",
+            "Astrid Hadad",
+            "Dobrina Liubomirova"
         ],
         "genres": [
-            "Mystery",
-            "Drama"
+            "Drama",
+            "Comedy",
+            "Romance"
         ]
     }
 }

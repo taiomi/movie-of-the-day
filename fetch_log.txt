@@ -2051,3 +2051,7 @@
 [2026-08-06 05:17:44] Selected movie: Teorema (ID: 5335) for day 507 since start
 [2026-08-06 05:17:45] Successfully saved movie data for: Theorem
 [2026-08-06 05:17:45] Movie fetch process completed
+[2026-08-07 04:26:01] Starting movie fetch process
+[2026-08-07 04:26:01] Selected movie: Sólo con Tu Pareja (ID: 49971) for day 508 since start
+[2026-08-07 04:26:01] Successfully saved movie data for: Sólo con tu pareja
+[2026-08-07 04:26:01] Movie fetch process completed
