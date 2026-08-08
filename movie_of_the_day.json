@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-08-07",
+    "lastUpdated": "2026-08-08",
     "movie": {
-        "id": 49971,
-        "title": "S\u00f3lo con tu pareja",
-        "tagline": "",
-        "overview": "Tom\u00e1s Tom\u00e1s is a young yuppie playboy with a string of discarded girlfriends. But when Silvia, the victim of one of his adventures, tries to get revenge by typing \"positive\" on his AIDS test, Tom\u00e1s experiences for the first time the realities of love and death.",
-        "releaseDate": "1992-12-25",
-        "runtime": 94,
-        "voteAverage": 6.539,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/pprKQ637rH8ClRMS75VnRtUCiL9.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/eJaDc4tOyhKjsl0PL2Nl0FFF6gG.jpg",
-        "director": "Alfonso Cuar\u00f3n",
+        "id": 991,
+        "title": "The Man Who Fell to Earth",
+        "tagline": "Power, space, time and a visitor.",
+        "overview": "Thomas Jerome Newton is an alien who has come to Earth in search of water to save his home planet. Aided by lawyer Oliver Farnsworth, Thomas uses his knowledge of advanced technology to create profitable inventions. While developing a method to transport water, Thomas meets Mary-Lou, a quiet hotel clerk, and begins to fall in love with her. Just as he is ready to leave Earth, Thomas is intercepted by the U.S. government, and his entire plan is threatened.",
+        "releaseDate": "1976-03-18",
+        "runtime": 139,
+        "voteAverage": 6.454,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/gwmPVphE5DMFFGXGMhfEFyxOOYj.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/ew3x9p8A28p3sLE8OaHwUsb1mSQ.jpg",
+        "director": "Nicolas Roeg",
         "cast": [
-            "Daniel Gim\u00e9nez Cacho",
-            "Claudia Ram\u00edrez",
-            "Luis de Icaza",
-            "Astrid Hadad",
-            "Dobrina Liubomirova"
+            "David Bowie",
+            "Rip Torn",
+            "Candy Clark",
+            "Tony Mascia",
+            "Buck Henry"
         ],
         "genres": [
+            "Science Fiction",
             "Drama",
-            "Comedy",
-            "Romance"
+            "Fantasy"
         ]
     }
 }
