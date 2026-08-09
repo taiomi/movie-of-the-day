@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-08-08",
+    "lastUpdated": "2026-08-09",
     "movie": {
-        "id": 991,
-        "title": "The Man Who Fell to Earth",
-        "tagline": "Power, space, time and a visitor.",
-        "overview": "Thomas Jerome Newton is an alien who has come to Earth in search of water to save his home planet. Aided by lawyer Oliver Farnsworth, Thomas uses his knowledge of advanced technology to create profitable inventions. While developing a method to transport water, Thomas meets Mary-Lou, a quiet hotel clerk, and begins to fall in love with her. Just as he is ready to leave Earth, Thomas is intercepted by the U.S. government, and his entire plan is threatened.",
-        "releaseDate": "1976-03-18",
-        "runtime": 139,
-        "voteAverage": 6.454,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/gwmPVphE5DMFFGXGMhfEFyxOOYj.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/ew3x9p8A28p3sLE8OaHwUsb1mSQ.jpg",
-        "director": "Nicolas Roeg",
+        "id": 11482,
+        "title": "The Tenant",
+        "tagline": "Apartment for rent: Quiet building. Furnished. 2 rooms. Previous tenant committed suicide.",
+        "overview": "A quiet and inconspicuous man rents an apartment in Paris where he finds himself drawn into a rabbit hole of dangerous paranoia.",
+        "releaseDate": "1976-05-26",
+        "runtime": 126,
+        "voteAverage": 7.587,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/4Qhzb1ICFMqE3isWoln497qSH7n.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/foS1hXCMagcl3GnK0hJHslNw9Ne.jpg",
+        "director": "Roman Polanski",
         "cast": [
-            "David Bowie",
-            "Rip Torn",
-            "Candy Clark",
-            "Tony Mascia",
-            "Buck Henry"
+            "Roman Polanski",
+            "Isabelle Adjani",
+            "Melvyn Douglas",
+            "Jo Van Fleet",
+            "Bernard Fresson"
         ],
         "genres": [
-            "Science Fiction",
-            "Drama",
-            "Fantasy"
+            "Thriller",
+            "Mystery",
+            "Drama"
         ]
     }
 }
