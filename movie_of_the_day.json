@@ -1,27 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-08-10",
+    "lastUpdated": "2026-08-11",
     "movie": {
-        "id": 29376,
-        "title": "The Band Wagon",
-        "tagline": "Get Aboard!",
-        "overview": "A Broadway artiste turns a faded film star's comeback vehicle into an artsy flop.",
-        "releaseDate": "1953-08-07",
-        "runtime": 112,
-        "voteAverage": 7.161,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/uxWFMdbgQ5TSZvUMVkHDeDCaGH8.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/bud4H3I6X9b9HIcilAb33k6mNES.jpg",
-        "director": "Vincente Minnelli",
+        "id": 153444,
+        "title": "David Golder",
+        "tagline": "",
+        "overview": "David is a poor but ambitious Polish Jew who reinvents himself as a powerful New York business magnate. After gaining wealth, he relocates to Paris, only to have his selfish and demanding wife squander his fortune.",
+        "releaseDate": "1931-03-06",
+        "runtime": 86,
+        "voteAverage": 6.471,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/h0zEWE1TC9fSYsisZ5rP0VSSOhW.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/wVNK5zRIaaAX9XtyEVgJbC76PEd.jpg",
+        "director": "Julien Duvivier",
         "cast": [
-            "Fred Astaire",
-            "Cyd Charisse",
-            "Oscar Levant",
-            "Nanette Fabray",
-            "Jack Buchanan"
+            "Harry Baur",
+            "Paule Andral",
+            "Jackie Monnier",
+            "Jean Bradin",
+            "Gaston Jacquet"
         ],
         "genres": [
-            "Comedy",
-            "Romance"
+            "Drama"
         ]
     }
 }
