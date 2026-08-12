@@ -2071,3 +2071,7 @@
 [2026-08-11 03:45:06] Selected movie: David Golder (ID: 153444) for day 512 since start
 [2026-08-11 03:45:06] Successfully saved movie data for: David Golder
 [2026-08-11 03:45:06] Movie fetch process completed
+[2026-08-12 04:08:32] Starting movie fetch process
+[2026-08-12 04:08:32] Selected movie: Andrei Rublev (ID: 895) for day 513 since start
+[2026-08-12 04:08:32] Successfully saved movie data for: Andrei Rublev
+[2026-08-12 04:08:32] Movie fetch process completed
