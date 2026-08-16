@@ -1,28 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-08-15",
+    "lastUpdated": "2026-08-16",
     "movie": {
-        "id": 290,
-        "title": "Barton Fink",
-        "tagline": "There's only one thing stranger than what's going on inside his head... What's going on outside.",
-        "overview": "A renowned New York playwright is enticed to California to write for the movies and discovers the hellish truth of Hollywood.",
-        "releaseDate": "1991-08-01",
-        "runtime": 117,
-        "voteAverage": 7.465,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/oDkp5iClJ9WKJGtKHz8BydodHC3.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/cW1XlxgvxZIFkakYc9yrLpDoYhK.jpg",
-        "director": "Joel Coen",
+        "id": 27904,
+        "title": "Syndromes and a Century",
+        "tagline": "",
+        "overview": "A story about director Apichatpong Weerasethakul\u2019s parents who were both doctors, and his memories of growing up in a hospital environment.",
+        "releaseDate": "2006-08-31",
+        "runtime": 105,
+        "voteAverage": 6.806,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/1XUMd93PRMUkCtE2NWn0zQb1NC6.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/zxxmSDnl5OwIxOmWQbgPvjmSRv3.jpg",
+        "director": "Apichatpong Weerasethakul",
         "cast": [
-            "John Turturro",
-            "John Goodman",
-            "Judy Davis",
-            "Michael Lerner",
-            "John Mahoney"
+            "Nantarat Sawaddikul",
+            "Jaruchai Iamaram",
+            "Sophon Pukanok",
+            "Jenjira Pongpas",
+            "Arkanae Cherkam"
         ],
         "genres": [
-            "Comedy",
             "Drama",
-            "Thriller"
+            "Romance"
         ]
     }
 }
