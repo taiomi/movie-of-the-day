@@ -1,27 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-08-16",
+    "lastUpdated": "2026-08-17",
     "movie": {
-        "id": 27904,
-        "title": "Syndromes and a Century",
-        "tagline": "",
-        "overview": "A story about director Apichatpong Weerasethakul\u2019s parents who were both doctors, and his memories of growing up in a hospital environment.",
-        "releaseDate": "2006-08-31",
-        "runtime": 105,
-        "voteAverage": 6.806,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/1XUMd93PRMUkCtE2NWn0zQb1NC6.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/zxxmSDnl5OwIxOmWQbgPvjmSRv3.jpg",
-        "director": "Apichatpong Weerasethakul",
+        "id": 64441,
+        "title": "Three Crowns of the Sailor",
+        "tagline": "A voyage on the sea of dreams",
+        "overview": "Shortly after murdering his professor, a young man encounters a sailor who offers him a position on his ship in exchange for 3 Danish crowns and his attention as he recounts his life story.",
+        "releaseDate": "1991-10-04",
+        "runtime": 117,
+        "voteAverage": 7.115,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/yJNAPehs3uz1dkVmzALNhqZC3NM.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/820ySPVXX4FIBVgP58hI2URx4Mc.jpg",
+        "director": "Ra\u00fal Ruiz",
         "cast": [
-            "Nantarat Sawaddikul",
-            "Jaruchai Iamaram",
-            "Sophon Pukanok",
-            "Jenjira Pongpas",
-            "Arkanae Cherkam"
+            "Jean-Bernard Guillard",
+            "Philippe Deplanche",
+            "Nad\u00e8ge Clair",
+            "Lisa Lyon",
+            "Jean Badin"
         ],
         "genres": [
-            "Drama",
-            "Romance"
+            "Adventure",
+            "Fantasy"
         ]
     }
 }
