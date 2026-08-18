@@ -1,27 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-08-17",
+    "lastUpdated": "2026-08-18",
     "movie": {
-        "id": 64441,
-        "title": "Three Crowns of the Sailor",
-        "tagline": "A voyage on the sea of dreams",
-        "overview": "Shortly after murdering his professor, a young man encounters a sailor who offers him a position on his ship in exchange for 3 Danish crowns and his attention as he recounts his life story.",
-        "releaseDate": "1991-10-04",
-        "runtime": 117,
-        "voteAverage": 7.115,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/yJNAPehs3uz1dkVmzALNhqZC3NM.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/820ySPVXX4FIBVgP58hI2URx4Mc.jpg",
-        "director": "Ra\u00fal Ruiz",
+        "id": 379,
+        "title": "Miller's Crossing",
+        "tagline": "",
+        "overview": "Set in 1929, a political boss and his advisor have a parting of the ways when they both fall for the same woman.",
+        "releaseDate": "1990-09-21",
+        "runtime": 115,
+        "voteAverage": 7.442,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/ydX5wRjGerfZOCpxezcdm3skf5v.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/cEsnLkTCJ4jh9Oym7nPAPGnOMm3.jpg",
+        "director": "Joel Coen",
         "cast": [
-            "Jean-Bernard Guillard",
-            "Philippe Deplanche",
-            "Nad\u00e8ge Clair",
-            "Lisa Lyon",
-            "Jean Badin"
+            "Gabriel Byrne",
+            "Marcia Gay Harden",
+            "John Turturro",
+            "Jon Polito",
+            "J.E. Freeman"
         ],
         "genres": [
-            "Adventure",
-            "Fantasy"
+            "Drama",
+            "Thriller",
+            "Crime"
         ]
     }
 }
