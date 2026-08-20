@@ -1,27 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-08-19",
+    "lastUpdated": "2026-08-20",
     "movie": {
-        "id": 29005,
-        "title": "McCabe & Mrs. Miller",
-        "tagline": "The story of a gambling man and a hustling lady and the empire they fashioned from the wilderness.",
-        "overview": "A gambler and a prostitute become thriving business partners in a remote Old West mining town until a large corporation arrives on the scene.",
-        "releaseDate": "1971-07-08",
-        "runtime": 120,
-        "voteAverage": 7.148,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/oR839yRsFAiQHwJ78hdKZYjEBg8.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/zaZVjkAwPsaBTsoyJMPWqnsPOM5.jpg",
-        "director": "Robert Altman",
+        "id": 15867,
+        "title": "Interiors",
+        "tagline": "The serious side of Woody Allen...",
+        "overview": "When Eve, an interior designer, is deserted by her husband of many years, Arthur, the emotionally glacial relationships of the three grown-up daughters are laid bare. Twisted by jealousy, insecurity and resentment, Renata, a successful writer; Joey, a woman crippled by indecision; and Flyn, a budding actress; struggle to communicate for the sake of their shattered mother. But when their father unexpectedly falls for another woman, his decision to remarry sets in motion a terrible twist of fate\u2026",
+        "releaseDate": "1978-08-02",
+        "runtime": 93,
+        "voteAverage": 6.8,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/sTPy6Kfa1FRED1eaZdVex8b2MdB.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/pW5UUdIWYfDWk2BAOR0fspYGb7q.jpg",
+        "director": "Woody Allen",
         "cast": [
-            "Warren Beatty",
-            "Julie Christie",
-            "Ren\u00e9 Auberjonois",
-            "William Devane",
-            "John Schuck"
+            "Geraldine Page",
+            "Kristin Griffith",
+            "Mary Beth Hurt",
+            "Richard Jordan",
+            "Diane Keaton"
         ],
         "genres": [
-            "Drama",
-            "Western"
+            "Drama"
         ]
     }
 }
