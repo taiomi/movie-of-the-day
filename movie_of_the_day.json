@@ -1,25 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-08-20",
+    "lastUpdated": "2026-08-21",
     "movie": {
-        "id": 15867,
-        "title": "Interiors",
-        "tagline": "The serious side of Woody Allen...",
-        "overview": "When Eve, an interior designer, is deserted by her husband of many years, Arthur, the emotionally glacial relationships of the three grown-up daughters are laid bare. Twisted by jealousy, insecurity and resentment, Renata, a successful writer; Joey, a woman crippled by indecision; and Flyn, a budding actress; struggle to communicate for the sake of their shattered mother. But when their father unexpectedly falls for another woman, his decision to remarry sets in motion a terrible twist of fate\u2026",
-        "releaseDate": "1978-08-02",
-        "runtime": 93,
-        "voteAverage": 6.8,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/sTPy6Kfa1FRED1eaZdVex8b2MdB.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/pW5UUdIWYfDWk2BAOR0fspYGb7q.jpg",
-        "director": "Woody Allen",
+        "id": 42170,
+        "title": "Vengeance Is Mine",
+        "tagline": "Living only for today \u2014 for pleasure. A killer who gets what he wants \u2014 including death.",
+        "overview": "A thief, a murderer, and a charming lady-killer, Iwao Enokizu is on the run from the police.",
+        "releaseDate": "1979-04-21",
+        "runtime": 140,
+        "voteAverage": 7.544,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/7mzlay0miUkplT0EsKdR8znOVpe.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/dJnL1UmpXJEXSPqBklbmxEkzGcw.jpg",
+        "director": "Sh\u014dhei Imamura",
         "cast": [
-            "Geraldine Page",
-            "Kristin Griffith",
-            "Mary Beth Hurt",
-            "Richard Jordan",
-            "Diane Keaton"
+            "Ken Ogata",
+            "Mayumi Ogawa",
+            "Mitsuko Baisho",
+            "Frankie Sakai",
+            "Kazuo Kitamura"
         ],
         "genres": [
+            "Crime",
             "Drama"
         ]
     }
