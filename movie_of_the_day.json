@@ -1,25 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-08-21",
+    "lastUpdated": "2026-08-22",
     "movie": {
-        "id": 42170,
-        "title": "Vengeance Is Mine",
-        "tagline": "Living only for today \u2014 for pleasure. A killer who gets what he wants \u2014 including death.",
-        "overview": "A thief, a murderer, and a charming lady-killer, Iwao Enokizu is on the run from the police.",
-        "releaseDate": "1979-04-21",
-        "runtime": 140,
-        "voteAverage": 7.544,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/7mzlay0miUkplT0EsKdR8znOVpe.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/dJnL1UmpXJEXSPqBklbmxEkzGcw.jpg",
-        "director": "Sh\u014dhei Imamura",
+        "id": 32040,
+        "title": "The Killing of a Chinese Bookie",
+        "tagline": "",
+        "overview": "Cosmo Vittelli, the proprietor of a sleazy, low-rent Hollywood cabaret, has a real affection for the women who strip in his peepshows and the staff who keep up his dingy establishment. He also has a major gambling problem that has gotten him in trouble before. When Cosmo loses big-time at an underground casino run by mobster Mort, he isn't able to pay up. Mort then offers Cosmo the chance to pay back his debt by knocking off a pesky, Mafia-protected bookie.",
+        "releaseDate": "1976-02-15",
+        "runtime": 135,
+        "voteAverage": 7.038,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/lShPFOAbQ6y6oFYUfecmrj7BUu6.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/71oqZMM6dgKvi1WQztOoUHSzDdZ.jpg",
+        "director": "John Cassavetes",
         "cast": [
-            "Ken Ogata",
-            "Mayumi Ogawa",
-            "Mitsuko Baisho",
-            "Frankie Sakai",
-            "Kazuo Kitamura"
+            "Ben Gazzara",
+            "Timothy Carey",
+            "Seymour Cassel",
+            "Robert Phillips",
+            "Morgan Woodward"
         ],
         "genres": [
+            "Thriller",
             "Crime",
             "Drama"
         ]
