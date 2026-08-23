@@ -1,27 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-08-22",
+    "lastUpdated": "2026-08-23",
     "movie": {
-        "id": 32040,
-        "title": "The Killing of a Chinese Bookie",
-        "tagline": "",
-        "overview": "Cosmo Vittelli, the proprietor of a sleazy, low-rent Hollywood cabaret, has a real affection for the women who strip in his peepshows and the staff who keep up his dingy establishment. He also has a major gambling problem that has gotten him in trouble before. When Cosmo loses big-time at an underground casino run by mobster Mort, he isn't able to pay up. Mort then offers Cosmo the chance to pay back his debt by knocking off a pesky, Mafia-protected bookie.",
-        "releaseDate": "1976-02-15",
-        "runtime": 135,
-        "voteAverage": 7.038,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/lShPFOAbQ6y6oFYUfecmrj7BUu6.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/71oqZMM6dgKvi1WQztOoUHSzDdZ.jpg",
-        "director": "John Cassavetes",
+        "id": 884,
+        "title": "Crash",
+        "tagline": "Exploring the ultimate thrill where body and metal become one.",
+        "overview": "A car crash victim inexplicably finds himself aroused by car accidents and becomes involved with an underground subculture of like-minded souls.",
+        "releaseDate": "1996-07-17",
+        "runtime": 100,
+        "voteAverage": 6.48,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/gpai5oUFyFGLHOCsYTvVMqlbY7A.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/vQNknPEVSAui6IL6eUlDBPfUzcW.jpg",
+        "director": "David Cronenberg",
         "cast": [
-            "Ben Gazzara",
-            "Timothy Carey",
-            "Seymour Cassel",
-            "Robert Phillips",
-            "Morgan Woodward"
+            "James Spader",
+            "Holly Hunter",
+            "Elias Koteas",
+            "Deborah Kara Unger",
+            "Rosanna Arquette"
         ],
         "genres": [
             "Thriller",
-            "Crime",
             "Drama"
         ]
     }
