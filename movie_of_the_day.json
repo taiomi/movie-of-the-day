@@ -1,27 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-08-23",
+    "lastUpdated": "2026-08-24",
     "movie": {
-        "id": 884,
-        "title": "Crash",
-        "tagline": "Exploring the ultimate thrill where body and metal become one.",
-        "overview": "A car crash victim inexplicably finds himself aroused by car accidents and becomes involved with an underground subculture of like-minded souls.",
-        "releaseDate": "1996-07-17",
-        "runtime": 100,
-        "voteAverage": 6.48,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/gpai5oUFyFGLHOCsYTvVMqlbY7A.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/vQNknPEVSAui6IL6eUlDBPfUzcW.jpg",
-        "director": "David Cronenberg",
+        "id": 134,
+        "title": "O Brother, Where Art Thou?",
+        "tagline": "They have a plan, but not a clue.",
+        "overview": "In the deep south during the 1930s, three escaped convicts search for hidden treasure while a relentless lawman pursues them.",
+        "releaseDate": "2000-08-30",
+        "runtime": 107,
+        "voteAverage": 7.323,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/2YztYilviFCYcEtDAnrOstUWGie.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/rbsm633lnt3hKHEpk7FOt3dy82a.jpg",
+        "director": "Joel Coen",
         "cast": [
-            "James Spader",
-            "Holly Hunter",
-            "Elias Koteas",
-            "Deborah Kara Unger",
-            "Rosanna Arquette"
+            "George Clooney",
+            "John Turturro",
+            "Tim Blake Nelson",
+            "John Goodman",
+            "Holly Hunter"
         ],
         "genres": [
-            "Thriller",
-            "Drama"
+            "Adventure",
+            "Comedy",
+            "Crime"
         ]
     }
 }
