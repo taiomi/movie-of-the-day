@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-08-24",
+    "lastUpdated": "2026-08-25",
     "movie": {
-        "id": 134,
-        "title": "O Brother, Where Art Thou?",
-        "tagline": "They have a plan, but not a clue.",
-        "overview": "In the deep south during the 1930s, three escaped convicts search for hidden treasure while a relentless lawman pursues them.",
-        "releaseDate": "2000-08-30",
-        "runtime": 107,
-        "voteAverage": 7.323,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/2YztYilviFCYcEtDAnrOstUWGie.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/rbsm633lnt3hKHEpk7FOt3dy82a.jpg",
-        "director": "Joel Coen",
+        "id": 408,
+        "title": "Snow White and the Seven Dwarfs",
+        "tagline": "The Happiest, Dopiest, Grumpiest, Sneeziest movie of the year.",
+        "overview": "A beautiful girl, Snow White, takes refuge in the forest in the house of seven dwarfs to hide from her stepmother, the wicked Queen. The Queen is jealous because she wants to be known as \"the fairest in the land,\" and Snow White's beauty surpasses her own.",
+        "releaseDate": "1938-01-22",
+        "runtime": 83,
+        "voteAverage": 7.128,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/3VAHfuNb6Z7UiW12iYKANSPBl8m.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/4yWayBvwl9gHXaWrDrAslxjL7mh.jpg",
+        "director": "David Hand",
         "cast": [
-            "George Clooney",
-            "John Turturro",
-            "Tim Blake Nelson",
-            "John Goodman",
-            "Holly Hunter"
+            "Adriana Caselotti",
+            "Lucille La Verne",
+            "Harry Stockwell",
+            "Roy Atwell",
+            "Pinto Colvig"
         ],
         "genres": [
-            "Adventure",
-            "Comedy",
-            "Crime"
+            "Fantasy",
+            "Animation",
+            "Family"
         ]
     }
 }
