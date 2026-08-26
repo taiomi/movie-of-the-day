@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-08-25",
+    "lastUpdated": "2026-08-26",
     "movie": {
-        "id": 408,
-        "title": "Snow White and the Seven Dwarfs",
-        "tagline": "The Happiest, Dopiest, Grumpiest, Sneeziest movie of the year.",
-        "overview": "A beautiful girl, Snow White, takes refuge in the forest in the house of seven dwarfs to hide from her stepmother, the wicked Queen. The Queen is jealous because she wants to be known as \"the fairest in the land,\" and Snow White's beauty surpasses her own.",
-        "releaseDate": "1938-01-22",
-        "runtime": 83,
-        "voteAverage": 7.128,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/3VAHfuNb6Z7UiW12iYKANSPBl8m.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/4yWayBvwl9gHXaWrDrAslxjL7mh.jpg",
-        "director": "David Hand",
+        "id": 105,
+        "title": "Back to the Future",
+        "tagline": "He was never in time for his classes... He wasn't in time for his dinner... Then one day... he wasn't in his time at all.",
+        "overview": "Eighties teenager Marty McFly is accidentally sent back in time to 1955, inadvertently disrupting his parents' first meeting and attracting his mother's romantic interest. Marty must repair the damage to history by rekindling his parents' romance and - with the help of his eccentric inventor friend Doc Brown - return to 1985.",
+        "releaseDate": "1985-07-03",
+        "runtime": 116,
+        "voteAverage": 8.329,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/5bzPWQ2dFUl2aZKkp7ILJVVkRed.jpg",
+        "director": "Robert Zemeckis",
         "cast": [
-            "Adriana Caselotti",
-            "Lucille La Verne",
-            "Harry Stockwell",
-            "Roy Atwell",
-            "Pinto Colvig"
+            "Michael J. Fox",
+            "Christopher Lloyd",
+            "Crispin Glover",
+            "Lea Thompson",
+            "Claudia Wells"
         ],
         "genres": [
-            "Fantasy",
-            "Animation",
-            "Family"
+            "Adventure",
+            "Comedy",
+            "Science Fiction"
         ]
     }
 }
