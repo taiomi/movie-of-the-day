@@ -1,28 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-08-26",
+    "lastUpdated": "2026-08-27",
     "movie": {
-        "id": 105,
-        "title": "Back to the Future",
-        "tagline": "He was never in time for his classes... He wasn't in time for his dinner... Then one day... he wasn't in his time at all.",
-        "overview": "Eighties teenager Marty McFly is accidentally sent back in time to 1955, inadvertently disrupting his parents' first meeting and attracting his mother's romantic interest. Marty must repair the damage to history by rekindling his parents' romance and - with the help of his eccentric inventor friend Doc Brown - return to 1985.",
-        "releaseDate": "1985-07-03",
-        "runtime": 116,
-        "voteAverage": 8.329,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/5bzPWQ2dFUl2aZKkp7ILJVVkRed.jpg",
-        "director": "Robert Zemeckis",
+        "id": 47697,
+        "title": "Othello",
+        "tagline": "Orson Welles' magnificent screening of Shakespeare's immortal tragedy",
+        "overview": "Manipulated by his jealous ensign Iago, the Moorish general Othello is driven to believe that his new wife Desdemona is unfaithful, setting in motion a chain of deception, jealousy, and violence that leads to tragedy.",
+        "releaseDate": "1951-11-28",
+        "runtime": 93,
+        "voteAverage": 7.393,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/61A7EJqfMsrQO0YWsUWq8gbgbu0.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/kHbwWLE4mFVoC4wFCXsZ2HioRuf.jpg",
+        "director": "Orson Welles",
         "cast": [
-            "Michael J. Fox",
-            "Christopher Lloyd",
-            "Crispin Glover",
-            "Lea Thompson",
-            "Claudia Wells"
+            "Orson Welles",
+            "Miche\u00e1l Mac Liamm\u00f3ir",
+            "Robert Coote",
+            "Suzanne Cloutier",
+            "Hilton Edwards"
         ],
         "genres": [
-            "Adventure",
-            "Comedy",
-            "Science Fiction"
+            "Drama"
         ]
     }
 }
