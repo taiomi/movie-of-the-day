@@ -1,26 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-08-27",
+    "lastUpdated": "2026-08-28",
     "movie": {
-        "id": 47697,
-        "title": "Othello",
-        "tagline": "Orson Welles' magnificent screening of Shakespeare's immortal tragedy",
-        "overview": "Manipulated by his jealous ensign Iago, the Moorish general Othello is driven to believe that his new wife Desdemona is unfaithful, setting in motion a chain of deception, jealousy, and violence that leads to tragedy.",
-        "releaseDate": "1951-11-28",
-        "runtime": 93,
-        "voteAverage": 7.393,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/61A7EJqfMsrQO0YWsUWq8gbgbu0.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/kHbwWLE4mFVoC4wFCXsZ2HioRuf.jpg",
-        "director": "Orson Welles",
+        "id": 28391,
+        "title": "Street Angel",
+        "tagline": "\"Not just another \"Motion Picture\" \u2014 \"Street Angel is the masterpiece of all time\".\"",
+        "overview": "A spirited young woman finds herself destitute and on the streets before joining a traveling carnival, where she meets a vagabond painter.",
+        "releaseDate": "1928-04-09",
+        "runtime": 102,
+        "voteAverage": 7.081,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/rGDFZRIwZPYocBvspSB7RGQMzXq.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/vW6MatSQJ0vi24ZdicPTPjGS4yC.jpg",
+        "director": "Frank Borzage",
         "cast": [
-            "Orson Welles",
-            "Miche\u00e1l Mac Liamm\u00f3ir",
-            "Robert Coote",
-            "Suzanne Cloutier",
-            "Hilton Edwards"
+            "Janet Gaynor",
+            "Charles Farrell",
+            "Natalie Kingston",
+            "Henry Armetta",
+            "Guido Trento"
         ],
         "genres": [
-            "Drama"
+            "Drama",
+            "Romance"
         ]
     }
 }
