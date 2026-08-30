@@ -1,23 +1,23 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-08-29",
+    "lastUpdated": "2026-08-30",
     "movie": {
-        "id": 29963,
-        "title": "Bright Star",
-        "tagline": "First love burns brightest.",
-        "overview": "In 1818, high-spirited young Fanny Brawne finds herself increasingly intrigued by the handsome but aloof poet John Keats, who lives next door to her family friends the Dilkes. After reading a book of his poetry, she finds herself even more drawn to the taciturn Keats. Although he agrees to teach her about poetry, Keats cannot act on his reciprocated feelings for Fanny, since as a struggling poet he has no money to support a wife.",
-        "releaseDate": "2009-09-18",
-        "runtime": 119,
+        "id": 54419,
+        "title": "Under the Roofs of Paris",
+        "tagline": "",
+        "overview": "In the tenement slums of Paris between the world wars, impoverished street singer Albert yearns for beautiful Romanian immigrant Pola. Pola's boyfriend, local hoodlum Fred, grows jealous of Albert's constant attention to his woman and frames the hapless musician for one of his own petty crimes. But while Albert is in prison for Fred's misdeed, Pola ends up falling for Albert's faithful best friend, Louis.",
+        "releaseDate": "1930-04-28",
+        "runtime": 92,
         "voteAverage": 6.6,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/csN6y4nq2kaBiegHaGw0DGp4plf.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/nnyaQslEbd2ST1FAhuDyF4228mb.jpg",
-        "director": "Jane Campion",
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/xvpsXolyLwcSIoCMdeWbRZjaBbU.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/ufiS5eOoVdBOzuemG52My8skGO3.jpg",
+        "director": "Ren\u00e9 Clair",
         "cast": [
-            "Abbie Cornish",
-            "Ben Whishaw",
-            "Paul Schneider",
-            "Kerry Fox",
-            "Edie Martin"
+            "Albert Pr\u00e9jean",
+            "Pola Ill\u00e9ry",
+            "Edmond T. Gr\u00e9ville",
+            "Bill Bocket",
+            "Gaston Modot"
         ],
         "genres": [
             "Drama",
