@@ -2147,3 +2147,7 @@
 [2026-08-30 07:59:35] Selected movie: Under the Roofs of Paris (ID: 54419) for day 531 since start
 [2026-08-30 07:59:35] Successfully saved movie data for: Under the Roofs of Paris
 [2026-08-30 07:59:35] Movie fetch process completed
+[2026-08-31 08:14:20] Starting movie fetch process
+[2026-08-31 08:14:20] Selected movie: Duelle (ID: 65707) for day 532 since start
+[2026-08-31 08:14:20] Successfully saved movie data for: Duelle (Une Quarantaine)
+[2026-08-31 08:14:20] Movie fetch process completed

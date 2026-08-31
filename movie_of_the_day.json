@@ -1,27 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-08-30",
+    "lastUpdated": "2026-08-31",
     "movie": {
-        "id": 54419,
-        "title": "Under the Roofs of Paris",
+        "id": 65707,
+        "title": "Duelle (Une Quarantaine)",
         "tagline": "",
-        "overview": "In the tenement slums of Paris between the world wars, impoverished street singer Albert yearns for beautiful Romanian immigrant Pola. Pola's boyfriend, local hoodlum Fred, grows jealous of Albert's constant attention to his woman and frames the hapless musician for one of his own petty crimes. But while Albert is in prison for Fred's misdeed, Pola ends up falling for Albert's faithful best friend, Louis.",
-        "releaseDate": "1930-04-28",
-        "runtime": 92,
-        "voteAverage": 6.6,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/xvpsXolyLwcSIoCMdeWbRZjaBbU.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/ufiS5eOoVdBOzuemG52My8skGO3.jpg",
-        "director": "Ren\u00e9 Clair",
+        "overview": "Two enigmatic women, both with a hidden but shared motive, separately arrive in Paris. As they navigate the city and their search progresses, various characters become entangled within their conflict, one which increasingly comes to take a fantastical turn. These characters too, driven by their own desires, strive for their own goals in the fight. From a Paris, drenched in an otherworldly ambiance, a tale of desire and power emerges through mystery.",
+        "releaseDate": "1976-09-15",
+        "runtime": 121,
+        "voteAverage": 6.919,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/6pYgnWXuSDVViwcFLQuptl0TVKV.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/6MRaICaejphtCjUQbFNSjeGfzEt.jpg",
+        "director": "Jacques Rivette",
         "cast": [
-            "Albert Pr\u00e9jean",
-            "Pola Ill\u00e9ry",
-            "Edmond T. Gr\u00e9ville",
-            "Bill Bocket",
-            "Gaston Modot"
+            "Juliet Berto",
+            "Bulle Ogier",
+            "Hermine Karagheuz",
+            "Nicole Garcia",
+            "Claire Nadeau"
         ],
         "genres": [
             "Drama",
-            "Romance"
+            "Fantasy",
+            "Mystery"
         ]
     }
 }
