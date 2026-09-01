@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-08-31",
+    "lastUpdated": "2026-09-01",
     "movie": {
-        "id": 65707,
-        "title": "Duelle (Une Quarantaine)",
-        "tagline": "",
-        "overview": "Two enigmatic women, both with a hidden but shared motive, separately arrive in Paris. As they navigate the city and their search progresses, various characters become entangled within their conflict, one which increasingly comes to take a fantastical turn. These characters too, driven by their own desires, strive for their own goals in the fight. From a Paris, drenched in an otherworldly ambiance, a tale of desire and power emerges through mystery.",
-        "releaseDate": "1976-09-15",
-        "runtime": 121,
-        "voteAverage": 6.919,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/6pYgnWXuSDVViwcFLQuptl0TVKV.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/6MRaICaejphtCjUQbFNSjeGfzEt.jpg",
-        "director": "Jacques Rivette",
+        "id": 8422,
+        "title": "Rocco and His Brothers",
+        "tagline": "DARING in its realism. STUNNING in its impact. BREATHTAKING in its scope.",
+        "overview": "When a impoverished widow\u2019s family moves to the big city, two of her five sons become romantic rivals with deadly results.",
+        "releaseDate": "1960-10-07",
+        "runtime": 178,
+        "voteAverage": 8,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/pngL8AraChIDOiWnKF2o3S9kJzJ.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/26LKQHOk5v7XjUFxm4Pv05nYgln.jpg",
+        "director": "Luchino Visconti",
         "cast": [
-            "Juliet Berto",
-            "Bulle Ogier",
-            "Hermine Karagheuz",
-            "Nicole Garcia",
-            "Claire Nadeau"
+            "Alain Delon",
+            "Renato Salvatori",
+            "Annie Girardot",
+            "Katina Paxinou",
+            "Alessandra Panaro"
         ],
         "genres": [
             "Drama",
-            "Fantasy",
-            "Mystery"
+            "Romance",
+            "Crime"
         ]
     }
 }

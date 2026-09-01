@@ -2151,3 +2151,7 @@
 [2026-08-31 08:14:20] Selected movie: Duelle (ID: 65707) for day 532 since start
 [2026-08-31 08:14:20] Successfully saved movie data for: Duelle (Une Quarantaine)
 [2026-08-31 08:14:20] Movie fetch process completed
+[2026-09-01 07:24:40] Starting movie fetch process
+[2026-09-01 07:24:40] Selected movie: Rocco and His Brothers (ID: 8422) for day 533 since start
+[2026-09-01 07:24:40] Successfully saved movie data for: Rocco and His Brothers
+[2026-09-01 07:24:40] Movie fetch process completed
