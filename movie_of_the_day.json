@@ -1,27 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-09-02",
+    "lastUpdated": "2026-09-03",
     "movie": {
-        "id": 746,
-        "title": "The Last Emperor",
-        "tagline": "1500 slaves. 353,260,000 royal subjects. Warlords. Concubines. And 2 wives. He was the loneliest boy in the world.",
-        "overview": "A dramatic history of Pu Yi, the last of the Emperors of China, from his lofty birth and brief reign in the Forbidden City, the object of worship by half a billion people; through his abdication, his decline and dissolute lifestyle; his exploitation by the invading Japanese, and finally to his obscure existence as just another peasant worker in the People's Republic.",
-        "releaseDate": "1987-10-04",
-        "runtime": 163,
-        "voteAverage": 7.592,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/7TILJhdeJAaEyDiwvJZMo9SQBoe.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/k29qVmwWwR0i5A1UMIws1Vmv6hV.jpg",
-        "director": "Bernardo Bertolucci",
+        "id": 27973,
+        "title": "Dead End",
+        "tagline": "THE GREATEST GANGSTER THRILLER THAT EVER EXPLODED FROM THE SCREEN!",
+        "overview": "The lives of a young man and woman, an infamous gangster and a group of street kids converge one day in a volatile New York City slum.",
+        "releaseDate": "1937-08-27",
+        "runtime": 93,
+        "voteAverage": 7.047,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/5ZYJY5qZOj7dPfjSdnM7gFk2Ch0.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/4q7kVPAgX8tgRvG99JrWdgo5FLK.jpg",
+        "director": "William Wyler",
         "cast": [
-            "John Lone",
-            "Joan Chen",
-            "Peter O'Toole",
-            "Ruocheng Ying",
-            "Victor Wong"
+            "Sylvia Sidney",
+            "Joel McCrea",
+            "Humphrey Bogart",
+            "Wendy Barrie",
+            "Claire Trevor"
         ],
         "genres": [
-            "Drama",
-            "History"
+            "Crime",
+            "Drama"
         ]
     }
 }
