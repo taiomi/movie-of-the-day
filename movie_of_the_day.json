@@ -1,27 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-09-03",
+    "lastUpdated": "2026-09-04",
     "movie": {
-        "id": 27973,
-        "title": "Dead End",
-        "tagline": "THE GREATEST GANGSTER THRILLER THAT EVER EXPLODED FROM THE SCREEN!",
-        "overview": "The lives of a young man and woman, an infamous gangster and a group of street kids converge one day in a volatile New York City slum.",
-        "releaseDate": "1937-08-27",
-        "runtime": 93,
-        "voteAverage": 7.047,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/5ZYJY5qZOj7dPfjSdnM7gFk2Ch0.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/4q7kVPAgX8tgRvG99JrWdgo5FLK.jpg",
-        "director": "William Wyler",
+        "id": 9552,
+        "title": "The Exorcist",
+        "tagline": "Something almost beyond comprehension is happening to a girl on this street, in this house\u2026And a man has been sent for as a last resort. This man is The Exorcist.",
+        "overview": "When a mysterious entity possesses a young girl, her mother seeks the help of two Catholic priests to save her life.",
+        "releaseDate": "1973-12-26",
+        "runtime": 122,
+        "voteAverage": 7.744,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/5x0CeVHJI8tcDx8tUUwYHQSNILq.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/xcjJ5khg2yzOa282mza39Lbrm7j.jpg",
+        "director": "William Friedkin",
         "cast": [
-            "Sylvia Sidney",
-            "Joel McCrea",
-            "Humphrey Bogart",
-            "Wendy Barrie",
-            "Claire Trevor"
+            "Ellen Burstyn",
+            "Linda Blair",
+            "Jason Miller",
+            "Max von Sydow",
+            "Lee J. Cobb"
         ],
         "genres": [
-            "Crime",
-            "Drama"
+            "Horror"
         ]
     }
 }

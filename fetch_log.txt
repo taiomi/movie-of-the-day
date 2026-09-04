@@ -2163,3 +2163,7 @@
 [2026-09-03 06:56:53] Selected movie: Dead End (ID: 27973) for day 535 since start
 [2026-09-03 06:56:54] Successfully saved movie data for: Dead End
 [2026-09-03 06:56:54] Movie fetch process completed
+[2026-09-04 07:00:51] Starting movie fetch process
+[2026-09-04 07:00:51] Selected movie: The Exorcist (ID: 9552) for day 536 since start
+[2026-09-04 07:00:51] Successfully saved movie data for: The Exorcist
+[2026-09-04 07:00:51] Movie fetch process completed
