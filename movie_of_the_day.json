@@ -1,26 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-09-04",
+    "lastUpdated": "2026-09-05",
     "movie": {
-        "id": 9552,
-        "title": "The Exorcist",
-        "tagline": "Something almost beyond comprehension is happening to a girl on this street, in this house\u2026And a man has been sent for as a last resort. This man is The Exorcist.",
-        "overview": "When a mysterious entity possesses a young girl, her mother seeks the help of two Catholic priests to save her life.",
-        "releaseDate": "1973-12-26",
-        "runtime": 122,
-        "voteAverage": 7.744,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/5x0CeVHJI8tcDx8tUUwYHQSNILq.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/xcjJ5khg2yzOa282mza39Lbrm7j.jpg",
-        "director": "William Friedkin",
+        "id": 16646,
+        "title": "Russian Ark",
+        "tagline": "2000 cast members, 3 orchestras, 33 rooms, 300 years, ALL IN ONE TAKE",
+        "overview": "A ghost and a French marquis wander through the Winter Palace in St Petersburg, encountering scenes from many different periods of its history.",
+        "releaseDate": "2002-05-22",
+        "runtime": 99,
+        "voteAverage": 7.226,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/dkFM8Q7J0wNpEnbtD1AcWumkShj.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/lLQgQy1nX3qocg83BLTCz1911R4.jpg",
+        "director": "Aleksandr Sokurov",
         "cast": [
-            "Ellen Burstyn",
-            "Linda Blair",
-            "Jason Miller",
-            "Max von Sydow",
-            "Lee J. Cobb"
+            "Sergey Dreyden",
+            "Mariya Kuznetsova",
+            "Leonid Mozgovoy",
+            "Mikhail Piotrovsky",
+            "Edisher (Davit) Giorgobiani"
         ],
         "genres": [
-            "Horror"
+            "Drama",
+            "Fantasy",
+            "History"
         ]
     }
 }
