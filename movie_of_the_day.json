@@ -1,28 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-09-05",
+    "lastUpdated": "2026-09-06",
     "movie": {
-        "id": 16646,
-        "title": "Russian Ark",
-        "tagline": "2000 cast members, 3 orchestras, 33 rooms, 300 years, ALL IN ONE TAKE",
-        "overview": "A ghost and a French marquis wander through the Winter Palace in St Petersburg, encountering scenes from many different periods of its history.",
-        "releaseDate": "2002-05-22",
-        "runtime": 99,
-        "voteAverage": 7.226,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/dkFM8Q7J0wNpEnbtD1AcWumkShj.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/lLQgQy1nX3qocg83BLTCz1911R4.jpg",
-        "director": "Aleksandr Sokurov",
+        "id": 1056360,
+        "title": "American Fiction",
+        "tagline": "Once you go full black, you ain't never going back!",
+        "overview": "A novelist fed up with the establishment profiting from \"Black\" entertainment uses a pen name to write a book that propels him into the heart of hypocrisy and the madness he claims to disdain.",
+        "releaseDate": "2023-11-10",
+        "runtime": 117,
+        "voteAverage": 7.25,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/57MFWGHarg9jid7yfDTka4RmcMU.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/3mpgltEMgPf8zFtPnAWdDVN8ZT1.jpg",
+        "director": "Cord Jefferson",
         "cast": [
-            "Sergey Dreyden",
-            "Mariya Kuznetsova",
-            "Leonid Mozgovoy",
-            "Mikhail Piotrovsky",
-            "Edisher (Davit) Giorgobiani"
+            "Jeffrey Wright",
+            "John Ortiz",
+            "Erika Alexander",
+            "Leslie Uggams",
+            "Sterling K. Brown"
         ],
         "genres": [
-            "Drama",
-            "Fantasy",
-            "History"
+            "Comedy",
+            "Drama"
         ]
     }
 }
