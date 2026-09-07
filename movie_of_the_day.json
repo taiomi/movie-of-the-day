@@ -1,27 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-09-06",
+    "lastUpdated": "2026-09-07",
     "movie": {
-        "id": 1056360,
-        "title": "American Fiction",
-        "tagline": "Once you go full black, you ain't never going back!",
-        "overview": "A novelist fed up with the establishment profiting from \"Black\" entertainment uses a pen name to write a book that propels him into the heart of hypocrisy and the madness he claims to disdain.",
-        "releaseDate": "2023-11-10",
-        "runtime": 117,
-        "voteAverage": 7.25,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/57MFWGHarg9jid7yfDTka4RmcMU.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/3mpgltEMgPf8zFtPnAWdDVN8ZT1.jpg",
-        "director": "Cord Jefferson",
+        "id": 10362,
+        "title": "Two Lovers",
+        "tagline": "Sometimes we leave everything to find ourselves.",
+        "overview": "A depressed man moves back in with his parents following a recent heartbreak and finds himself with two women.",
+        "releaseDate": "2008-11-19",
+        "runtime": 110,
+        "voteAverage": 6.9,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/hdLO92ybJsReYOggh4q5NSDQuhr.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/2ZLBfF8khUDSWBWKPPxxocYFS4c.jpg",
+        "director": "James Gray",
         "cast": [
-            "Jeffrey Wright",
-            "John Ortiz",
-            "Erika Alexander",
-            "Leslie Uggams",
-            "Sterling K. Brown"
+            "Joaquin Phoenix",
+            "Gwyneth Paltrow",
+            "Vinessa Shaw",
+            "Isabella Rossellini",
+            "Moni Moshonov"
         ],
         "genres": [
-            "Comedy",
-            "Drama"
+            "Drama",
+            "Romance"
         ]
     }
 }
