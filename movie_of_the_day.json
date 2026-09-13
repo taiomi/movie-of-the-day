@@ -1,25 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-09-12",
+    "lastUpdated": "2026-09-13",
     "movie": {
-        "id": 10774,
-        "title": "Network",
-        "tagline": "Television will never be the same.",
-        "overview": "When veteran anchorman Howard Beale is forced to retire his 25-year post because of his age, he announces to viewers that he will kill himself during his farewell broadcast. Network executives rethink their decision when his fanatical tirade results in a spike in ratings.",
-        "releaseDate": "1976-11-27",
-        "runtime": 122,
-        "voteAverage": 7.794,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/qZomlHsaALUtkFeMDwdYmwS2Pbo.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/m4Iyzh9YVOh0ra7UwdMoJcrjxkx.jpg",
-        "director": "Sidney Lumet",
+        "id": 147371,
+        "title": "War and Peace, Part I: Andrei Bolkonsky",
+        "tagline": "",
+        "overview": "In 1805 St. Petersburg, Pierre Bezukhov, illegitimate son of a rich nobleman, is introduced to high society. His friend, Prince Andrei Bolkonsky, joins the Imperial Russian Army as aide-de-camp of General Mikhail Kutuzov in the War of the Third Coalition against General Napoleon Bonaparte. Part one of the four-part adaptation of Leo Tolstoy's 1869 novel.",
+        "releaseDate": "1966-03-14",
+        "runtime": 147,
+        "voteAverage": 7.6,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/ykqdYsRl6AU54R4tNQ3cERwsP00.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/xPW7hyo8L42cXuooxoyhEbvjW1U.jpg",
+        "director": "Sergei Bondarchuk",
         "cast": [
-            "Faye Dunaway",
-            "William Holden",
-            "Peter Finch",
-            "Robert Duvall",
-            "Wesley Addy"
+            "Vyacheslav Tikhonov",
+            "Sergei Bondarchuk",
+            "Ludmila Savelyeva",
+            "Anastasiya Vertinskaya",
+            "Viktor Stanitsyn"
         ],
         "genres": [
+            "History",
+            "Romance",
+            "War",
             "Drama"
         ]
     }
