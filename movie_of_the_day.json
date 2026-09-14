@@ -1,28 +1,25 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-09-13",
+    "lastUpdated": "2026-09-14",
     "movie": {
-        "id": 147371,
-        "title": "War and Peace, Part I: Andrei Bolkonsky",
+        "id": 29455,
+        "title": "Winter Light",
         "tagline": "",
-        "overview": "In 1805 St. Petersburg, Pierre Bezukhov, illegitimate son of a rich nobleman, is introduced to high society. His friend, Prince Andrei Bolkonsky, joins the Imperial Russian Army as aide-de-camp of General Mikhail Kutuzov in the War of the Third Coalition against General Napoleon Bonaparte. Part one of the four-part adaptation of Leo Tolstoy's 1869 novel.",
-        "releaseDate": "1966-03-14",
-        "runtime": 147,
-        "voteAverage": 7.6,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/ykqdYsRl6AU54R4tNQ3cERwsP00.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/xPW7hyo8L42cXuooxoyhEbvjW1U.jpg",
-        "director": "Sergei Bondarchuk",
+        "overview": "A Swedish pastor fails a loving woman, a suicidal fisherman and God.",
+        "releaseDate": "1963-02-11",
+        "runtime": 80,
+        "voteAverage": 7.9,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/wDxrEssdjFWYwIZLbr06RQNcg1q.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/tis6nrWakUsuG6Jwdm4yESfTU0o.jpg",
+        "director": "Ingmar Bergman",
         "cast": [
-            "Vyacheslav Tikhonov",
-            "Sergei Bondarchuk",
-            "Ludmila Savelyeva",
-            "Anastasiya Vertinskaya",
-            "Viktor Stanitsyn"
+            "Ingrid Thulin",
+            "Gunnar Bj\u00f6rnstrand",
+            "Gunnel Lindblom",
+            "Max von Sydow",
+            "Allan Edwall"
         ],
         "genres": [
-            "History",
-            "Romance",
-            "War",
             "Drama"
         ]
     }
