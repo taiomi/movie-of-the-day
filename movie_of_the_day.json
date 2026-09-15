@@ -1,26 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-09-14",
+    "lastUpdated": "2026-09-15",
     "movie": {
-        "id": 29455,
-        "title": "Winter Light",
-        "tagline": "",
-        "overview": "A Swedish pastor fails a loving woman, a suicidal fisherman and God.",
-        "releaseDate": "1963-02-11",
-        "runtime": 80,
-        "voteAverage": 7.9,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/wDxrEssdjFWYwIZLbr06RQNcg1q.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/tis6nrWakUsuG6Jwdm4yESfTU0o.jpg",
-        "director": "Ingmar Bergman",
+        "id": 30054,
+        "title": "The Tin Star",
+        "tagline": "For $40 a month and a shiny Tin Star\u2026the young sheriff faced the mob alone\u2026except for the angry ex-sheriff who couldn\u2019t watch him die and a hero-worshipping boy who lived only for the day he\u2019d wear a Tin Star of his own!",
+        "overview": "An experienced bounty hunter helps a young sheriff learn the meaning of his badge.",
+        "releaseDate": "1957-11-06",
+        "runtime": 93,
+        "voteAverage": 7.047,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/tQQFO3ANmBlku8ZtSuyi0rUwHhG.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/8hWWrFxsGqCUNGuxYJjhnIQRAJg.jpg",
+        "director": "Anthony Mann",
         "cast": [
-            "Ingrid Thulin",
-            "Gunnar Bj\u00f6rnstrand",
-            "Gunnel Lindblom",
-            "Max von Sydow",
-            "Allan Edwall"
+            "Henry Fonda",
+            "Anthony Perkins",
+            "Betsy Palmer",
+            "Michel Ray",
+            "Neville Brand"
         ],
         "genres": [
-            "Drama"
+            "Western"
         ]
     }
 }
