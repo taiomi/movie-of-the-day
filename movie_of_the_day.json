@@ -1,26 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-09-15",
+    "lastUpdated": "2026-09-16",
     "movie": {
-        "id": 30054,
-        "title": "The Tin Star",
-        "tagline": "For $40 a month and a shiny Tin Star\u2026the young sheriff faced the mob alone\u2026except for the angry ex-sheriff who couldn\u2019t watch him die and a hero-worshipping boy who lived only for the day he\u2019d wear a Tin Star of his own!",
-        "overview": "An experienced bounty hunter helps a young sheriff learn the meaning of his badge.",
-        "releaseDate": "1957-11-06",
-        "runtime": 93,
-        "voteAverage": 7.047,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/tQQFO3ANmBlku8ZtSuyi0rUwHhG.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/8hWWrFxsGqCUNGuxYJjhnIQRAJg.jpg",
-        "director": "Anthony Mann",
+        "id": 22584,
+        "title": "To Have and Have Not",
+        "tagline": "TALK ABOUT T.N.T! THIS is IT!",
+        "overview": "A Martinique charter boat skipper gets mixed up with the underground French resistance operatives during WWII.",
+        "releaseDate": "1945-01-20",
+        "runtime": 100,
+        "voteAverage": 7.5,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/m6EjBAY7gA6tx5RMutXGtZWFzyI.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/uYRnUnBE4kk5ocvyBckRfMAsZpJ.jpg",
+        "director": "Howard Hawks",
         "cast": [
-            "Henry Fonda",
-            "Anthony Perkins",
-            "Betsy Palmer",
-            "Michel Ray",
-            "Neville Brand"
+            "Humphrey Bogart",
+            "Lauren Bacall",
+            "Walter Brennan",
+            "Dolores Moran",
+            "Hoagy Carmichael"
         ],
         "genres": [
-            "Western"
+            "Adventure",
+            "Romance",
+            "War"
         ]
     }
 }
