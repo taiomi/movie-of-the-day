@@ -1,28 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-09-16",
+    "lastUpdated": "2026-09-17",
     "movie": {
-        "id": 22584,
-        "title": "To Have and Have Not",
-        "tagline": "TALK ABOUT T.N.T! THIS is IT!",
-        "overview": "A Martinique charter boat skipper gets mixed up with the underground French resistance operatives during WWII.",
-        "releaseDate": "1945-01-20",
-        "runtime": 100,
-        "voteAverage": 7.5,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/m6EjBAY7gA6tx5RMutXGtZWFzyI.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/uYRnUnBE4kk5ocvyBckRfMAsZpJ.jpg",
-        "director": "Howard Hawks",
+        "id": 35838,
+        "title": "Tristana",
+        "tagline": "Somewhere between the innocent girl and the not so innocent mistress is the bizarre, sensuous story of Tristana",
+        "overview": "As a young woman, Tristana is orphaned and taken under the guardianship of Don Lope, a respected member of the community, who takes advantage of his innocent charge. When Tristana falls in love with artist Horacio, she must learn to be more assertive in order to achieve independence from her nefarious guardian, or her blossoming relationship with Horacio is doomed.",
+        "releaseDate": "1970-03-29",
+        "runtime": 98,
+        "voteAverage": 7.218,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/zs695dsih9HRlj0YF4rujHTRya5.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/rAJEXUzsWRuM5zcmiWs2b10AZTC.jpg",
+        "director": "Luis Bu\u00f1uel",
         "cast": [
-            "Humphrey Bogart",
-            "Lauren Bacall",
-            "Walter Brennan",
-            "Dolores Moran",
-            "Hoagy Carmichael"
+            "Catherine Deneuve",
+            "Fernando Rey",
+            "Franco Nero",
+            "Lola Gaos",
+            "Antonio Casas"
         ],
         "genres": [
-            "Adventure",
-            "Romance",
-            "War"
+            "Drama"
         ]
     }
 }
