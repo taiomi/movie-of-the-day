@@ -1,26 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-09-17",
+    "lastUpdated": "2026-09-18",
     "movie": {
-        "id": 35838,
-        "title": "Tristana",
-        "tagline": "Somewhere between the innocent girl and the not so innocent mistress is the bizarre, sensuous story of Tristana",
-        "overview": "As a young woman, Tristana is orphaned and taken under the guardianship of Don Lope, a respected member of the community, who takes advantage of his innocent charge. When Tristana falls in love with artist Horacio, she must learn to be more assertive in order to achieve independence from her nefarious guardian, or her blossoming relationship with Horacio is doomed.",
-        "releaseDate": "1970-03-29",
-        "runtime": 98,
-        "voteAverage": 7.218,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/zs695dsih9HRlj0YF4rujHTRya5.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/rAJEXUzsWRuM5zcmiWs2b10AZTC.jpg",
-        "director": "Luis Bu\u00f1uel",
+        "id": 31442,
+        "title": "Ivan's Childhood",
+        "tagline": "",
+        "overview": "In WW2, twelve year old Soviet orphan Ivan Bondarev works for the Soviet army as a scout behind the German lines and strikes a friendship with three sympathetic Soviet officers.",
+        "releaseDate": "1962-05-09",
+        "runtime": 95,
+        "voteAverage": 7.825,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/trY9ADhXgSExH3DLlFhV5C8aDtw.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/jOulpNwtoJP5fF1LJX1ojw6BxBq.jpg",
+        "director": "Andrei Tarkovsky",
         "cast": [
-            "Catherine Deneuve",
-            "Fernando Rey",
-            "Franco Nero",
-            "Lola Gaos",
-            "Antonio Casas"
+            "Nikolay Burlyaev",
+            "Valentin Zubkov",
+            "Yevgeni Zharikov",
+            "Stepan Krylov",
+            "Mykola Hrynko"
         ],
         "genres": [
-            "Drama"
+            "Drama",
+            "War"
         ]
     }
 }
