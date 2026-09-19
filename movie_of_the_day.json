@@ -1,27 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-09-18",
+    "lastUpdated": "2026-09-19",
     "movie": {
-        "id": 31442,
-        "title": "Ivan's Childhood",
-        "tagline": "",
-        "overview": "In WW2, twelve year old Soviet orphan Ivan Bondarev works for the Soviet army as a scout behind the German lines and strikes a friendship with three sympathetic Soviet officers.",
-        "releaseDate": "1962-05-09",
-        "runtime": 95,
-        "voteAverage": 7.825,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/trY9ADhXgSExH3DLlFhV5C8aDtw.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/jOulpNwtoJP5fF1LJX1ojw6BxBq.jpg",
-        "director": "Andrei Tarkovsky",
+        "id": 4480,
+        "title": "Jean de Florette",
+        "tagline": "For some men, land and water are more precious than flesh and blood.",
+        "overview": "In a rural French village, an old man and his only remaining relative cast their covetous eyes on an adjoining vacant property. They need its spring water for growing their flowers, and are dismayed to hear that the man who has inherited it is moving in. They block up the spring and watch as their new neighbour tries to keep his crops watered from wells far afield through the hot summer. Though they see his desperate efforts are breaking his health and his wife and daughter's hearts, they think only of getting the water.",
+        "releaseDate": "1986-08-27",
+        "runtime": 122,
+        "voteAverage": 7.7,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/atjyDRdOnOi2S28X3mNtJ7CQmFj.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/qNBxyt60hnzBRSHo1uRkRU34fYE.jpg",
+        "director": "Claude Berri",
         "cast": [
-            "Nikolay Burlyaev",
-            "Valentin Zubkov",
-            "Yevgeni Zharikov",
-            "Stepan Krylov",
-            "Mykola Hrynko"
+            "Yves Montand",
+            "G\u00e9rard Depardieu",
+            "Daniel Auteuil",
+            "Elisabeth Depardieu",
+            "Margarita Lozano"
         ],
         "genres": [
-            "Drama",
-            "War"
+            "Drama"
         ]
     }
 }
