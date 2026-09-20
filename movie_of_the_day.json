@@ -1,26 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-09-19",
+    "lastUpdated": "2026-09-20",
     "movie": {
-        "id": 4480,
-        "title": "Jean de Florette",
-        "tagline": "For some men, land and water are more precious than flesh and blood.",
-        "overview": "In a rural French village, an old man and his only remaining relative cast their covetous eyes on an adjoining vacant property. They need its spring water for growing their flowers, and are dismayed to hear that the man who has inherited it is moving in. They block up the spring and watch as their new neighbour tries to keep his crops watered from wells far afield through the hot summer. Though they see his desperate efforts are breaking his health and his wife and daughter's hearts, they think only of getting the water.",
-        "releaseDate": "1986-08-27",
-        "runtime": 122,
-        "voteAverage": 7.7,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/atjyDRdOnOi2S28X3mNtJ7CQmFj.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/qNBxyt60hnzBRSHo1uRkRU34fYE.jpg",
-        "director": "Claude Berri",
+        "id": 473,
+        "title": "Pi",
+        "tagline": "Faith in chaos.",
+        "overview": "A mathematical genius discovers a link between numbers and reality, and thus believes he can predict the future.",
+        "releaseDate": "1998-07-10",
+        "runtime": 84,
+        "voteAverage": 7.12,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/fJA22FjlAW8rzrOw9Mwanl6oTc9.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/pVmCanXNPYqE74cJoL0U6C9ONf5.jpg",
+        "director": "Darren Aronofsky",
         "cast": [
-            "Yves Montand",
-            "G\u00e9rard Depardieu",
-            "Daniel Auteuil",
-            "Elisabeth Depardieu",
-            "Margarita Lozano"
+            "Sean Gullette",
+            "Mark Margolis",
+            "Ben Shenkman",
+            "Pamela Hart",
+            "Stephen Pearlman"
         ],
         "genres": [
-            "Drama"
+            "Mystery",
+            "Drama",
+            "Thriller"
         ]
     }
 }
