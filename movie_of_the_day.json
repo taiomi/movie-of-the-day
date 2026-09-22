@@ -1,27 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-09-21",
+    "lastUpdated": "2026-09-22",
     "movie": {
-        "id": 33078,
-        "title": "A Zed & Two Noughts",
-        "tagline": "",
-        "overview": "Identical twin zoologists lose their wives in a car crash caused by a white swan. They become obsessed with the death and decay of animals, and develop a strange and unusual relationship with the driver of the car, a woman who is now an amputee.",
-        "releaseDate": "1985-10-04",
-        "runtime": 116,
-        "voteAverage": 7,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/55eiU0JNfNRqWbpabsf6NukntI2.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/7NVTbSEsUYxAzv0prODP7OCzuPl.jpg",
-        "director": "Peter Greenaway",
+        "id": 14886,
+        "title": "The Last Detail",
+        "tagline": "No *#@!!* Navy\u2019s going to give some poor **!!@* kid eight years in the #@!* brig without me taking him out for the time of his *#@!!* life.",
+        "overview": "Two Navy men are ordered to bring a young offender to prison, but decide to show him one last good time along the way.",
+        "releaseDate": "1973-12-11",
+        "runtime": 104,
+        "voteAverage": 7.029,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/zQoNkO99qfaBjh5aoA0pKau1prp.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/kyDesXA3VEx74ua1ZGAoYmzvjCc.jpg",
+        "director": "Hal Ashby",
         "cast": [
-            "Frances Barber",
-            "Joss Ackland",
-            "Brian Deacon",
-            "Geoffrey Palmer",
-            "Eric Deacon"
+            "Jack Nicholson",
+            "Otis Young",
+            "Randy Quaid",
+            "Clifton James",
+            "Carol Kane"
         ],
         "genres": [
-            "Comedy",
-            "Drama"
+            "Drama",
+            "Comedy"
         ]
     }
 }
