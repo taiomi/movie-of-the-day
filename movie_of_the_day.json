@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-09-23",
+    "lastUpdated": "2026-09-24",
     "movie": {
-        "id": 579974,
-        "title": "RRR",
-        "tagline": "Rise, Roar, Revolt",
-        "overview": "A fictional history of two legendary revolutionaries' journey away from home before they began fighting for their country in the 1920s.",
-        "releaseDate": "2022-03-24",
-        "runtime": 187,
-        "voteAverage": 7.716,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/u0XUBNQWlOvrh0Gd97ARGpIkL0.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/i0Y0wP8H6SRgjr6QmuwbtQbS24D.jpg",
-        "director": "S. S. Rajamouli",
+        "id": 11202,
+        "title": "Patton",
+        "tagline": "The Rebel Warrior",
+        "overview": "\"Patton\" tells the tale of General George S. Patton, famous tank commander of World War II. The film begins with Patton's career in North Africa and progresses through the invasion of Germany and the fall of the Third Reich. Side plots also speak of Patton's numerous faults such his temper and habit towards insubordination.",
+        "releaseDate": "1970-01-25",
+        "runtime": 172,
+        "voteAverage": 7.4,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/rLM7jIEPTjj4CF7F1IrzzNjLUCu.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/txXPooNu7fr4YhLwx7AlXkU0PnN.jpg",
+        "director": "Franklin J. Schaffner",
         "cast": [
-            "N.T. Rama Rao Jr.",
-            "Ram Charan",
-            "Olivia Morris",
-            "Ray Stevenson",
-            "Alison Doody"
+            "George C. Scott",
+            "Karl Malden",
+            "Stephen Young",
+            "Michael Strong",
+            "Carey Loftin"
         ],
         "genres": [
-            "Action",
-            "History",
-            "Drama"
+            "War",
+            "Drama",
+            "History"
         ]
     }
 }
