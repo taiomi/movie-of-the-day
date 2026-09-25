@@ -1,28 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-09-24",
+    "lastUpdated": "2026-09-25",
     "movie": {
-        "id": 11202,
-        "title": "Patton",
-        "tagline": "The Rebel Warrior",
-        "overview": "\"Patton\" tells the tale of General George S. Patton, famous tank commander of World War II. The film begins with Patton's career in North Africa and progresses through the invasion of Germany and the fall of the Third Reich. Side plots also speak of Patton's numerous faults such his temper and habit towards insubordination.",
-        "releaseDate": "1970-01-25",
-        "runtime": 172,
-        "voteAverage": 7.4,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/rLM7jIEPTjj4CF7F1IrzzNjLUCu.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/txXPooNu7fr4YhLwx7AlXkU0PnN.jpg",
-        "director": "Franklin J. Schaffner",
+        "id": 4173,
+        "title": "Stromboli",
+        "tagline": "Raging Island... Raging Passions!",
+        "overview": "After the end of WWII, a young Lithuanian woman and a young Italian man from Stromboli impulsively marry, but married life on the island is more demanding than she can accept.",
+        "releaseDate": "1950-02-15",
+        "runtime": 107,
+        "voteAverage": 7.102,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/tsyyzGSspKsawHocchfokskwbeM.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/58wyozfcoM7mFiA0soOJfHEA27N.jpg",
+        "director": "Roberto Rossellini",
         "cast": [
-            "George C. Scott",
-            "Karl Malden",
-            "Stephen Young",
-            "Michael Strong",
-            "Carey Loftin"
+            "Ingrid Bergman",
+            "Mario Vitale",
+            "Renzo Cesana",
+            "Mario Sponzo",
+            "Gaetano Famularo"
         ],
         "genres": [
-            "War",
-            "Drama",
-            "History"
+            "Drama"
         ]
     }
 }
