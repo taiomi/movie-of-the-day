@@ -1,26 +1,29 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-09-25",
+    "lastUpdated": "2026-09-26",
     "movie": {
-        "id": 4173,
-        "title": "Stromboli",
-        "tagline": "Raging Island... Raging Passions!",
-        "overview": "After the end of WWII, a young Lithuanian woman and a young Italian man from Stromboli impulsively marry, but married life on the island is more demanding than she can accept.",
-        "releaseDate": "1950-02-15",
-        "runtime": 107,
-        "voteAverage": 7.102,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/tsyyzGSspKsawHocchfokskwbeM.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/58wyozfcoM7mFiA0soOJfHEA27N.jpg",
-        "director": "Roberto Rossellini",
+        "id": 1381,
+        "title": "The Fountain",
+        "tagline": "What if you could live forever?",
+        "overview": "Spanning over one thousand years, and three parallel stories, The Fountain is a story of love, death, spirituality, and the fragility of our existence in this world.",
+        "releaseDate": "2006-11-22",
+        "runtime": 96,
+        "voteAverage": 6.902,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/4XTf8GuCVLWolubANaKkpk62YPq.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/9RNJ0pKYA8EQiMa0lFZ68gzeElH.jpg",
+        "director": "Darren Aronofsky",
         "cast": [
-            "Ingrid Bergman",
-            "Mario Vitale",
-            "Renzo Cesana",
-            "Mario Sponzo",
-            "Gaetano Famularo"
+            "Hugh Jackman",
+            "Rachel Weisz",
+            "Ellen Burstyn",
+            "Mark Margolis",
+            "Stephen McHattie"
         ],
         "genres": [
-            "Drama"
+            "Drama",
+            "Adventure",
+            "Science Fiction",
+            "Romance"
         ]
     }
 }
