@@ -1,29 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-09-26",
+    "lastUpdated": "2026-09-27",
     "movie": {
-        "id": 1381,
-        "title": "The Fountain",
-        "tagline": "What if you could live forever?",
-        "overview": "Spanning over one thousand years, and three parallel stories, The Fountain is a story of love, death, spirituality, and the fragility of our existence in this world.",
-        "releaseDate": "2006-11-22",
-        "runtime": 96,
-        "voteAverage": 6.902,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/4XTf8GuCVLWolubANaKkpk62YPq.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/9RNJ0pKYA8EQiMa0lFZ68gzeElH.jpg",
-        "director": "Darren Aronofsky",
+        "id": 5817,
+        "title": "You, the Living",
+        "tagline": "",
+        "overview": "In the Swedish city of Lethe, people from different walks of life take part in a series of short, deadpan vignettes that rush past. Some are just seconds long, none longer than a couple of minutes. A young woman remembers a fantasy honeymoon with a rock guitarist. A man awakes from a dream about bomber planes. A businessman boasts about success while being robbed by a pickpocket, and so on. The absurdist collection is accompanied by Dixieland jazz and similar music.",
+        "releaseDate": "2007-09-21",
+        "runtime": 93,
+        "voteAverage": 7.1,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/j4FAPvqjqUvs1YrQi76p6fIDRUB.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/xksy5U3DXiMhSMskfdQfzQ3LP1E.jpg",
+        "director": "Roy Andersson",
         "cast": [
-            "Hugh Jackman",
-            "Rachel Weisz",
-            "Ellen Burstyn",
-            "Mark Margolis",
-            "Stephen McHattie"
+            "H\u00e5kan Angser",
+            "Eric B\u00e4ckman",
+            "Patrik Anders Edgren",
+            "Bj\u00f6rn Englund",
+            "Lennart Eriksson"
         ],
         "genres": [
             "Drama",
-            "Adventure",
-            "Science Fiction",
-            "Romance"
+            "Comedy",
+            "Music"
         ]
     }
 }
