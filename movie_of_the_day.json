@@ -1,28 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-09-27",
+    "lastUpdated": "2026-09-28",
     "movie": {
-        "id": 5817,
-        "title": "You, the Living",
-        "tagline": "",
-        "overview": "In the Swedish city of Lethe, people from different walks of life take part in a series of short, deadpan vignettes that rush past. Some are just seconds long, none longer than a couple of minutes. A young woman remembers a fantasy honeymoon with a rock guitarist. A man awakes from a dream about bomber planes. A businessman boasts about success while being robbed by a pickpocket, and so on. The absurdist collection is accompanied by Dixieland jazz and similar music.",
-        "releaseDate": "2007-09-21",
-        "runtime": 93,
-        "voteAverage": 7.1,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/j4FAPvqjqUvs1YrQi76p6fIDRUB.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/xksy5U3DXiMhSMskfdQfzQ3LP1E.jpg",
-        "director": "Roy Andersson",
+        "id": 730047,
+        "title": "Cyrano",
+        "tagline": "Have you ever loved someone?",
+        "overview": "A man ahead of his time, Cyrano de Bergerac dazzles whether with ferocious wordplay at a verbal joust or with brilliant swordplay in a duel. But, convinced that his appearance renders him unworthy of the love of a devoted friend, the luminous Roxanne, Cyrano has yet to declare his feelings for her\u2014and Roxanne has fallen in love, at first sight, with Christian.",
+        "releaseDate": "2021-12-17",
+        "runtime": 122,
+        "voteAverage": 6.331,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/e4koV8iC2cCM57bqUnEnIL2a2zH.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/cfDQh8STZvzXtyr1iyb4cXzkLju.jpg",
+        "director": "Joe Wright",
         "cast": [
-            "H\u00e5kan Angser",
-            "Eric B\u00e4ckman",
-            "Patrik Anders Edgren",
-            "Bj\u00f6rn Englund",
-            "Lennart Eriksson"
+            "Peter Dinklage",
+            "Haley Bennett",
+            "Kelvin Harrison Jr.",
+            "Ben Mendelsohn",
+            "Monica Dolan"
         ],
         "genres": [
             "Drama",
-            "Comedy",
-            "Music"
+            "Romance"
         ]
     }
 }
