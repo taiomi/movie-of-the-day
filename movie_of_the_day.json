@@ -1,26 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-09-28",
+    "lastUpdated": "2026-09-29",
     "movie": {
-        "id": 730047,
-        "title": "Cyrano",
-        "tagline": "Have you ever loved someone?",
-        "overview": "A man ahead of his time, Cyrano de Bergerac dazzles whether with ferocious wordplay at a verbal joust or with brilliant swordplay in a duel. But, convinced that his appearance renders him unworthy of the love of a devoted friend, the luminous Roxanne, Cyrano has yet to declare his feelings for her\u2014and Roxanne has fallen in love, at first sight, with Christian.",
-        "releaseDate": "2021-12-17",
-        "runtime": 122,
-        "voteAverage": 6.331,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/e4koV8iC2cCM57bqUnEnIL2a2zH.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/cfDQh8STZvzXtyr1iyb4cXzkLju.jpg",
-        "director": "Joe Wright",
+        "id": 705996,
+        "title": "Decision to Leave",
+        "tagline": "The closer you look, the harder you fall.",
+        "overview": "From a mountain peak in South Korea, a man plummets to his death. Did he jump, or was he pushed? When detective Hae-joon arrives on the scene, he begins to suspect the dead man\u2019s wife Seo-rae. But as he digs deeper into the investigation, he finds himself trapped in a web of deception and desire.",
+        "releaseDate": "2022-06-29",
+        "runtime": 139,
+        "voteAverage": 7.328,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/zI8KZ4EdLUymWKX1YEkpZ0gtPUa.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/uUXgaOxPsr0jsBhGnkyIgw0g2ge.jpg",
+        "director": "Park Chan-wook",
         "cast": [
-            "Peter Dinklage",
-            "Haley Bennett",
-            "Kelvin Harrison Jr.",
-            "Ben Mendelsohn",
-            "Monica Dolan"
+            "Tang Wei",
+            "Park Hae-il",
+            "Lee Jung-hyun",
+            "Go Kyung-pyo",
+            "Park Yong-woo"
         ],
         "genres": [
-            "Drama",
+            "Thriller",
+            "Mystery",
             "Romance"
         ]
     }

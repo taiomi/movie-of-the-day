@@ -2263,3 +2263,7 @@
 [2026-09-28 08:21:23] Selected movie: Cyrano (ID: 730047) for day 560 since start
 [2026-09-28 08:21:23] Successfully saved movie data for: Cyrano
 [2026-09-28 08:21:23] Movie fetch process completed
+[2026-09-29 07:59:39] Starting movie fetch process
+[2026-09-29 07:59:39] Selected movie: Decision to Leave (ID: 705996) for day 561 since start
+[2026-09-29 07:59:39] Successfully saved movie data for: Decision to Leave
+[2026-09-29 07:59:39] Movie fetch process completed
