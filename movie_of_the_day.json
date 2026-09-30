@@ -1,28 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-09-29",
+    "lastUpdated": "2026-09-30",
     "movie": {
-        "id": 705996,
-        "title": "Decision to Leave",
-        "tagline": "The closer you look, the harder you fall.",
-        "overview": "From a mountain peak in South Korea, a man plummets to his death. Did he jump, or was he pushed? When detective Hae-joon arrives on the scene, he begins to suspect the dead man\u2019s wife Seo-rae. But as he digs deeper into the investigation, he finds himself trapped in a web of deception and desire.",
-        "releaseDate": "2022-06-29",
-        "runtime": 139,
-        "voteAverage": 7.328,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/zI8KZ4EdLUymWKX1YEkpZ0gtPUa.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/uUXgaOxPsr0jsBhGnkyIgw0g2ge.jpg",
-        "director": "Park Chan-wook",
+        "id": 11502,
+        "title": "Knife in the Water",
+        "tagline": "Acclaimed by all! Roman Polanski's tense, ironic Drama!",
+        "overview": "On their way to an afternoon on the lake, husband and wife Andrzej and Krystyna nearly run over a young hitchhiker. Inviting the young man onto the boat with them, Andrzej begins to subtly torment him; the hitchhiker responds by making overtures toward Krystyna. When the hitchhiker is accidentally knocked overboard, the husband's panic results in unexpected consequences.",
+        "releaseDate": "1962-03-09",
+        "runtime": 94,
+        "voteAverage": 7.264,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/tkdeCwZhy9hzzVjZFjw0RPGWUIg.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/hlS23ABq7d8BwAeB9LKfZ2Xum8L.jpg",
+        "director": "Roman Polanski",
         "cast": [
-            "Tang Wei",
-            "Park Hae-il",
-            "Lee Jung-hyun",
-            "Go Kyung-pyo",
-            "Park Yong-woo"
+            "Leon Niemczyk",
+            "Jolanta Umecka",
+            "Zygmunt Malanowicz",
+            "Roman Polanski",
+            "Anna Ciepielewska"
         ],
         "genres": [
-            "Thriller",
-            "Mystery",
-            "Romance"
+            "Drama",
+            "Thriller"
         ]
     }
 }
