@@ -1,27 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-09-30",
+    "lastUpdated": "2026-10-01",
     "movie": {
-        "id": 11502,
-        "title": "Knife in the Water",
-        "tagline": "Acclaimed by all! Roman Polanski's tense, ironic Drama!",
-        "overview": "On their way to an afternoon on the lake, husband and wife Andrzej and Krystyna nearly run over a young hitchhiker. Inviting the young man onto the boat with them, Andrzej begins to subtly torment him; the hitchhiker responds by making overtures toward Krystyna. When the hitchhiker is accidentally knocked overboard, the husband's panic results in unexpected consequences.",
-        "releaseDate": "1962-03-09",
-        "runtime": 94,
-        "voteAverage": 7.264,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/tkdeCwZhy9hzzVjZFjw0RPGWUIg.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/hlS23ABq7d8BwAeB9LKfZ2Xum8L.jpg",
-        "director": "Roman Polanski",
+        "id": 496243,
+        "title": "Parasite",
+        "tagline": "Act like you own the place.",
+        "overview": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+        "releaseDate": "2019-05-30",
+        "runtime": 133,
+        "voteAverage": 8.49,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/TU9NIjwzjoKPwQHoHshkFcQUCG.jpg",
+        "director": "Bong Joon Ho",
         "cast": [
-            "Leon Niemczyk",
-            "Jolanta Umecka",
-            "Zygmunt Malanowicz",
-            "Roman Polanski",
-            "Anna Ciepielewska"
+            "Song Kang-ho",
+            "Lee Sun-kyun",
+            "Cho Yeo-jeong",
+            "Choi Woo-shik",
+            "Park So-dam"
         ],
         "genres": [
-            "Drama",
-            "Thriller"
+            "Comedy",
+            "Thriller",
+            "Drama"
         ]
     }
 }
