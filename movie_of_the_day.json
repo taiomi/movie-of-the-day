@@ -1,26 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-10-02",
+    "lastUpdated": "2026-10-03",
     "movie": {
-        "id": 32015,
-        "title": "I Am Cuba",
-        "tagline": "",
-        "overview": "A study in contrasts set in and around Havana that explores Cuba's 1959 revolution: a young woman's fascination with the excess of an American-owned casino leads to her downfall in the eyes of her street vendor boyfriend; a tenant farmer revolts the only way he knows how, attacking the land he works; university students gain first-hand knowledge of political upheaval; and, in the hills outside the city, the members of a poor peasant family are patriotically swept up into the burgeoning revolt.",
-        "releaseDate": "1964-10-26",
-        "runtime": 141,
-        "voteAverage": 7.9,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/qQxv27Lae6Uph7iOEzyZ5BOZxJh.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/cLKNGx0bFpbtsVOXeaXJw3dNcKQ.jpg",
-        "director": "Mikhail Kalatozov",
+        "id": 10669,
+        "title": "Deliverance",
+        "tagline": "What did happen on the Cahulawassee River?",
+        "overview": "Intent on seeing the Cahulawassee River before it's turned into one huge lake, outdoor fanatic Lewis Medlock takes his friends on a river-rafting trip they'll never forget into the dangerous American back-country.",
+        "releaseDate": "1972-08-18",
+        "runtime": 109,
+        "voteAverage": 7.317,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/2TrAzNJlHyNYYSkQf6asg3rs2Xr.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/aaqbyTRo1bZB34ZdjeWyqnL0qz0.jpg",
+        "director": "John Boorman",
         "cast": [
-            "Sergio Corrieri",
-            "Salvador Wood",
-            "Jos\u00e9 Gallardo",
-            "Ra\u00fal Garc\u00eda",
-            "Luz Mar\u00eda Collazo"
+            "Jon Voight",
+            "Burt Reynolds",
+            "Ned Beatty",
+            "Ronny Cox",
+            "Ed Ramey"
         ],
         "genres": [
-            "Drama"
+            "Drama",
+            "Adventure",
+            "Thriller"
         ]
     }
 }
