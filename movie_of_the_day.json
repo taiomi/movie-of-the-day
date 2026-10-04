@@ -1,28 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-10-03",
+    "lastUpdated": "2026-10-04",
     "movie": {
-        "id": 10669,
-        "title": "Deliverance",
-        "tagline": "What did happen on the Cahulawassee River?",
-        "overview": "Intent on seeing the Cahulawassee River before it's turned into one huge lake, outdoor fanatic Lewis Medlock takes his friends on a river-rafting trip they'll never forget into the dangerous American back-country.",
-        "releaseDate": "1972-08-18",
-        "runtime": 109,
-        "voteAverage": 7.317,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/2TrAzNJlHyNYYSkQf6asg3rs2Xr.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/aaqbyTRo1bZB34ZdjeWyqnL0qz0.jpg",
-        "director": "John Boorman",
+        "id": 614,
+        "title": "Wild Strawberries",
+        "tagline": "",
+        "overview": "Crotchety retired doctor Isak Borg travels from Stockholm to Lund, Sweden, with his pregnant and unhappy daughter-in-law, Marianne, in order to receive an honorary degree from his alma mater. Along the way, they encounter a series of hitchhikers, each of whom causes the elderly doctor to muse upon the pleasures and failures of his own life. These include the vivacious young Sara, a dead ringer for the doctor's own first love.",
+        "releaseDate": "1957-08-28",
+        "runtime": 91,
+        "voteAverage": 8.1,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/iyTD2QnySNMPUPE3IedZQipSWfz.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/BBVAUchYvkmPThVIqipgAfabfl.jpg",
+        "director": "Ingmar Bergman",
         "cast": [
-            "Jon Voight",
-            "Burt Reynolds",
-            "Ned Beatty",
-            "Ronny Cox",
-            "Ed Ramey"
+            "Victor Sj\u00f6str\u00f6m",
+            "Bibi Andersson",
+            "Ingrid Thulin",
+            "Gunnar Bj\u00f6rnstrand",
+            "Jullan Kindahl"
         ],
         "genres": [
-            "Drama",
-            "Adventure",
-            "Thriller"
+            "Drama"
         ]
     }
 }
