@@ -2287,3 +2287,7 @@
 [2026-10-04 07:53:16] Selected movie: Wild Strawberries (ID: 614) for day 566 since start
 [2026-10-04 07:53:16] Successfully saved movie data for: Wild Strawberries
 [2026-10-04 07:53:16] Movie fetch process completed
+[2026-10-05 08:32:30] Starting movie fetch process
+[2026-10-05 08:32:30] Selected movie: King Richard (ID: 614917) for day 567 since start
+[2026-10-05 08:32:30] Successfully saved movie data for: King Richard
+[2026-10-05 08:32:30] Movie fetch process completed

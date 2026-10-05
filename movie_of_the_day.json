@@ -1,26 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-10-04",
+    "lastUpdated": "2026-10-05",
     "movie": {
-        "id": 614,
-        "title": "Wild Strawberries",
-        "tagline": "",
-        "overview": "Crotchety retired doctor Isak Borg travels from Stockholm to Lund, Sweden, with his pregnant and unhappy daughter-in-law, Marianne, in order to receive an honorary degree from his alma mater. Along the way, they encounter a series of hitchhikers, each of whom causes the elderly doctor to muse upon the pleasures and failures of his own life. These include the vivacious young Sara, a dead ringer for the doctor's own first love.",
-        "releaseDate": "1957-08-28",
-        "runtime": 91,
-        "voteAverage": 8.1,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/iyTD2QnySNMPUPE3IedZQipSWfz.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/BBVAUchYvkmPThVIqipgAfabfl.jpg",
-        "director": "Ingmar Bergman",
+        "id": 614917,
+        "title": "King Richard",
+        "tagline": "Venus, Serena and a plan for greatness.",
+        "overview": "The story of how Richard Williams served as a coach to his daughters Venus and Serena, who will soon become two of the most legendary tennis players in history.",
+        "releaseDate": "2021-11-18",
+        "runtime": 144,
+        "voteAverage": 7.596,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/2dfujXrxePtYJPiPHj1HkAFQvpu.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/ljCKYCSRMNyZNyke5Lc1I8nW5b2.jpg",
+        "director": "Reinaldo Marcus Green",
         "cast": [
-            "Victor Sj\u00f6str\u00f6m",
-            "Bibi Andersson",
-            "Ingrid Thulin",
-            "Gunnar Bj\u00f6rnstrand",
-            "Jullan Kindahl"
+            "Will Smith",
+            "Aunjanue Ellis-Taylor",
+            "Saniyya Sidney",
+            "Demi Singleton",
+            "Jon Bernthal"
         ],
         "genres": [
-            "Drama"
+            "Drama",
+            "History"
         ]
     }
 }
