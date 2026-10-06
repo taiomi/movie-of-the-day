@@ -1,27 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-10-05",
+    "lastUpdated": "2026-10-06",
     "movie": {
-        "id": 614917,
-        "title": "King Richard",
-        "tagline": "Venus, Serena and a plan for greatness.",
-        "overview": "The story of how Richard Williams served as a coach to his daughters Venus and Serena, who will soon become two of the most legendary tennis players in history.",
-        "releaseDate": "2021-11-18",
-        "runtime": 144,
-        "voteAverage": 7.596,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/2dfujXrxePtYJPiPHj1HkAFQvpu.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/ljCKYCSRMNyZNyke5Lc1I8nW5b2.jpg",
-        "director": "Reinaldo Marcus Green",
+        "id": 26030,
+        "title": "Bob le Flambeur",
+        "tagline": "",
+        "overview": "In Paris, Bob Montagne is practically synonymous with gambling -- and winning. He is kind, classy and well-liked by virtually everyone in town, including police inspector Ledru. However, when Bob's luck turns sour, he begins to lose friends and makes the most desperate gamble of his life: to rob the Deauville casino during Grand Prix weekend, when the vaults are full. Unfortunately, Bob soon learns that the game is rigged and the cops are on to him.",
+        "releaseDate": "1956-08-24",
+        "runtime": 103,
+        "voteAverage": 7.27,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/3CIfIDtD1I1rYY3ooaya8iZHlD8.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/sD3fYFWaoLzMPFDcKrGFPrXFJG3.jpg",
+        "director": "Jean-Pierre Melville",
         "cast": [
-            "Will Smith",
-            "Aunjanue Ellis-Taylor",
-            "Saniyya Sidney",
-            "Demi Singleton",
-            "Jon Bernthal"
+            "Roger Duchesne",
+            "Isabelle Corey",
+            "Daniel Cauchy",
+            "G\u00e9rard Buhr",
+            "Guy Decomble"
         ],
         "genres": [
             "Drama",
-            "History"
+            "Action",
+            "Crime"
         ]
     }
 }
