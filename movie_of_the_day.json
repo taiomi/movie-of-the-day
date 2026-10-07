@@ -1,28 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-10-06",
+    "lastUpdated": "2026-10-07",
     "movie": {
-        "id": 26030,
-        "title": "Bob le Flambeur",
-        "tagline": "",
-        "overview": "In Paris, Bob Montagne is practically synonymous with gambling -- and winning. He is kind, classy and well-liked by virtually everyone in town, including police inspector Ledru. However, when Bob's luck turns sour, he begins to lose friends and makes the most desperate gamble of his life: to rob the Deauville casino during Grand Prix weekend, when the vaults are full. Unfortunately, Bob soon learns that the game is rigged and the cops are on to him.",
-        "releaseDate": "1956-08-24",
-        "runtime": 103,
-        "voteAverage": 7.27,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/3CIfIDtD1I1rYY3ooaya8iZHlD8.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/sD3fYFWaoLzMPFDcKrGFPrXFJG3.jpg",
-        "director": "Jean-Pierre Melville",
+        "id": 1643,
+        "title": "Last Tango in Paris",
+        "tagline": "When you see a love story, it's only a movie. When you feel it with every nerve in your body, it's a masterpiece.",
+        "overview": "A recently widowed American begins an anonymous sexual relationship with a young Parisian woman.",
+        "releaseDate": "1972-12-15",
+        "runtime": 129,
+        "voteAverage": 6.9,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/dNgdUdNOWfHsZI3lDu6Epig7H2P.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/hExTiLbfB93HwEwkeQxb3q4nHtQ.jpg",
+        "director": "Bernardo Bertolucci",
         "cast": [
-            "Roger Duchesne",
-            "Isabelle Corey",
-            "Daniel Cauchy",
-            "G\u00e9rard Buhr",
-            "Guy Decomble"
+            "Marlon Brando",
+            "Maria Schneider",
+            "Maria Michi",
+            "Giovanna Galletti",
+            "Jean-Pierre L\u00e9aud"
         ],
         "genres": [
             "Drama",
-            "Action",
-            "Crime"
+            "Romance"
         ]
     }
 }
