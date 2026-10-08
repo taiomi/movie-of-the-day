@@ -1,27 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-10-07",
+    "lastUpdated": "2026-10-08",
     "movie": {
-        "id": 1643,
-        "title": "Last Tango in Paris",
-        "tagline": "When you see a love story, it's only a movie. When you feel it with every nerve in your body, it's a masterpiece.",
-        "overview": "A recently widowed American begins an anonymous sexual relationship with a young Parisian woman.",
-        "releaseDate": "1972-12-15",
-        "runtime": 129,
-        "voteAverage": 6.9,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/dNgdUdNOWfHsZI3lDu6Epig7H2P.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/hExTiLbfB93HwEwkeQxb3q4nHtQ.jpg",
-        "director": "Bernardo Bertolucci",
+        "id": 33,
+        "title": "Unforgiven",
+        "tagline": "Some legends will never be forgotten. Some wrongs can never be forgiven.",
+        "overview": "William Munny is a retired, once-ruthless killer turned gentle widower and hog farmer. To help support his two motherless children, he accepts one last bounty-hunter mission to find the men who brutalized a prostitute. Joined by his former partner and a cocky greenhorn, he takes on a corrupt sheriff.",
+        "releaseDate": "1992-08-07",
+        "runtime": 130,
+        "voteAverage": 7.914,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/54roTwbX9fltg85zjsmrooXAs12.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/5zkrI7P70j8C03ThBOvrEG6VF8M.jpg",
+        "director": "Clint Eastwood",
         "cast": [
-            "Marlon Brando",
-            "Maria Schneider",
-            "Maria Michi",
-            "Giovanna Galletti",
-            "Jean-Pierre L\u00e9aud"
+            "Clint Eastwood",
+            "Gene Hackman",
+            "Morgan Freeman",
+            "Jaimz Woolvett",
+            "Richard Harris"
         ],
         "genres": [
-            "Drama",
-            "Romance"
+            "Western"
         ]
     }
 }
