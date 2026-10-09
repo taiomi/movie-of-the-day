@@ -1,26 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-10-08",
+    "lastUpdated": "2026-10-09",
     "movie": {
-        "id": 33,
-        "title": "Unforgiven",
-        "tagline": "Some legends will never be forgotten. Some wrongs can never be forgiven.",
-        "overview": "William Munny is a retired, once-ruthless killer turned gentle widower and hog farmer. To help support his two motherless children, he accepts one last bounty-hunter mission to find the men who brutalized a prostitute. Joined by his former partner and a cocky greenhorn, he takes on a corrupt sheriff.",
-        "releaseDate": "1992-08-07",
-        "runtime": 130,
-        "voteAverage": 7.914,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/54roTwbX9fltg85zjsmrooXAs12.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/5zkrI7P70j8C03ThBOvrEG6VF8M.jpg",
-        "director": "Clint Eastwood",
+        "id": 1398,
+        "title": "Stalker",
+        "tagline": "There's no need to speak. You must only...concentrate and recall all your past life. When a man thinks of the past, he becomes kinder.",
+        "overview": "Near a gray and unnamed city is the Zone, a place guarded by barbed wire and soldiers, and where the normal laws of physics are victim to frequent anomalies. A stalker guides two men into the Zone, specifically to an area in which deep-seated desires are granted.",
+        "releaseDate": "1979-05-25",
+        "runtime": 162,
+        "voteAverage": 8.1,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/1qhOyf5C4s9ZdvY8d5JDx9DFMeT.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/6yrbWzzrPp7pwz6zHdifspJk8t3.jpg",
+        "director": "Andrei Tarkovsky",
         "cast": [
-            "Clint Eastwood",
-            "Gene Hackman",
-            "Morgan Freeman",
-            "Jaimz Woolvett",
-            "Richard Harris"
+            "Alisa Freyndlikh",
+            "Aleksandr Kaydanovskiy",
+            "Anatoliy Solonitsyn",
+            "Mykola Hrynko",
+            "Natalya Abramova"
         ],
         "genres": [
-            "Western"
+            "Science Fiction",
+            "Drama"
         ]
     }
 }
