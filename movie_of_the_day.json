@@ -1,28 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-10-10",
+    "lastUpdated": "2026-10-11",
     "movie": {
-        "id": 1091,
-        "title": "The Thing",
-        "tagline": "Anytime. Anywhere. Anyone.",
-        "overview": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.",
-        "releaseDate": "1982-06-25",
-        "runtime": 109,
-        "voteAverage": 8.1,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/tzGY49kseSE9QAKk47uuDGwnSCu.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/r9leYNa8nTRCceZrZhP1DXkgKVb.jpg",
-        "director": "John Carpenter",
+        "id": 439,
+        "title": "La Dolce Vita",
+        "tagline": "The world\u2019s most talked about movie today!",
+        "overview": "Episodic journey of journalist Marcello who struggles to find his place in the world, torn between the allure of Rome's elite social scene and the stifling domesticity offered by his girlfriend, all the while searching for a way to become a serious writer.",
+        "releaseDate": "1960-02-05",
+        "runtime": 174,
+        "voteAverage": 8.023,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/dZ2v0DAX4aCZartCzZdg4ZinSW2.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/eN2NdMeJLNzLYzWIEEoaGzZAsiD.jpg",
+        "director": "Federico Fellini",
         "cast": [
-            "Kurt Russell",
-            "Wilford Brimley",
-            "T.K. Carter",
-            "David Clennon",
-            "Keith David"
+            "Marcello Mastroianni",
+            "Anita Ekberg",
+            "Anouk Aim\u00e9e",
+            "Yvonne Furneaux",
+            "Magali No\u00ebl"
         ],
         "genres": [
-            "Horror",
-            "Mystery",
-            "Science Fiction"
+            "Comedy",
+            "Drama"
         ]
     }
 }
