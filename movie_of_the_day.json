@@ -1,27 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-10-11",
+    "lastUpdated": "2026-10-12",
     "movie": {
-        "id": 439,
-        "title": "La Dolce Vita",
-        "tagline": "The world\u2019s most talked about movie today!",
-        "overview": "Episodic journey of journalist Marcello who struggles to find his place in the world, torn between the allure of Rome's elite social scene and the stifling domesticity offered by his girlfriend, all the while searching for a way to become a serious writer.",
-        "releaseDate": "1960-02-05",
-        "runtime": 174,
-        "voteAverage": 8.023,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/dZ2v0DAX4aCZartCzZdg4ZinSW2.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/eN2NdMeJLNzLYzWIEEoaGzZAsiD.jpg",
-        "director": "Federico Fellini",
+        "id": 2666,
+        "title": "Dark City",
+        "tagline": "They built the city to see what makes us tick. Last night, one of us went off.",
+        "overview": "A man struggles with memories of his past, including a wife he cannot remember, in a nightmarish world with no sun and run by beings with telekinetic powers who seek the souls of humans.",
+        "releaseDate": "1998-02-27",
+        "runtime": 101,
+        "voteAverage": 7.3,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/tNPEGju4DpTdbhBphNmZoEi9Bd3.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/sWi4SSeVPii4NU365Df9vzX1yOX.jpg",
+        "director": "Alex Proyas",
         "cast": [
-            "Marcello Mastroianni",
-            "Anita Ekberg",
-            "Anouk Aim\u00e9e",
-            "Yvonne Furneaux",
-            "Magali No\u00ebl"
+            "Rufus Sewell",
+            "William Hurt",
+            "Kiefer Sutherland",
+            "Jennifer Connelly",
+            "Richard O'Brien"
         ],
         "genres": [
-            "Comedy",
-            "Drama"
+            "Mystery",
+            "Science Fiction"
         ]
     }
 }
