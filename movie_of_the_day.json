@@ -1,27 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-10-12",
+    "lastUpdated": "2026-10-13",
     "movie": {
-        "id": 2666,
-        "title": "Dark City",
-        "tagline": "They built the city to see what makes us tick. Last night, one of us went off.",
-        "overview": "A man struggles with memories of his past, including a wife he cannot remember, in a nightmarish world with no sun and run by beings with telekinetic powers who seek the souls of humans.",
-        "releaseDate": "1998-02-27",
-        "runtime": 101,
-        "voteAverage": 7.3,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/tNPEGju4DpTdbhBphNmZoEi9Bd3.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/sWi4SSeVPii4NU365Df9vzX1yOX.jpg",
-        "director": "Alex Proyas",
+        "id": 887,
+        "title": "The Best Years of Our Lives",
+        "tagline": "Three wonderful loves in the best picture of the year!",
+        "overview": "It's the hope that sustains the spirit of every GI: the dream of the day when he will finally return home. For three WWII veterans, the day has arrived. But for each man, the dream is about to become a nightmare.",
+        "releaseDate": "1946-11-22",
+        "runtime": 171,
+        "voteAverage": 7.74,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/gd5EoAU4MM57sW3vlWxJ0NMM8cV.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/n0og4mDtl08x9RLTWXt8zUKpqXQ.jpg",
+        "director": "William Wyler",
         "cast": [
-            "Rufus Sewell",
-            "William Hurt",
-            "Kiefer Sutherland",
-            "Jennifer Connelly",
-            "Richard O'Brien"
+            "Dana Andrews",
+            "Fredric March",
+            "Harold Russell",
+            "Teresa Wright",
+            "Myrna Loy"
         ],
         "genres": [
-            "Mystery",
-            "Science Fiction"
+            "Drama",
+            "Romance",
+            "War"
         ]
     }
 }
