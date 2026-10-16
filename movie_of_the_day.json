@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-10-15",
+    "lastUpdated": "2026-10-16",
     "movie": {
-        "id": 620897,
-        "title": "The Forty-Year-Old Version",
-        "tagline": "Find your own voice.",
-        "overview": "Desperate for a breakthrough as she nears the big 4-0, struggling New York City playwright Radha finds inspiration by reinventing herself as a rapper.",
-        "releaseDate": "2020-10-02",
-        "runtime": 123,
-        "voteAverage": 6.7,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/ilMExVn5xyfIWAnqngqAB0OFsE5.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/71kAv6hJ8G9zmjZJQhWUtC9ubp.jpg",
-        "director": "Radha Blank",
+        "id": 269,
+        "title": "Breathless",
+        "tagline": "Wild! Violent! Outspoken and Honest!",
+        "overview": "A small-time thief steals a car and impulsively murders a motorcycle policeman. Wanted by the authorities, he attempts to persuade a girl to run away to Italy with him.",
+        "releaseDate": "1960-03-16",
+        "runtime": 90,
+        "voteAverage": 7.5,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/9Wx0Wdn2EOqeCZU4SP6tlS3LOml.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/4WGuyWf1f94CsEeVIIqDKGw5rmO.jpg",
+        "director": "Jean-Luc Godard",
         "cast": [
-            "Radha Blank",
-            "Peter Y. Kim",
-            "Oswin Benjamin",
-            "Reed Birney",
-            "Imani Lewis"
+            "Jean-Paul Belmondo",
+            "Jean Seberg",
+            "Daniel Boulanger",
+            "Henri-Jacques Huet",
+            "Roger Hanin"
         ],
         "genres": [
-            "Comedy",
             "Drama",
-            "Music"
+            "Crime",
+            "Romance"
         ]
     }
 }
