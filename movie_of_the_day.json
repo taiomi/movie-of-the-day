@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-10-16",
+    "lastUpdated": "2026-10-17",
     "movie": {
-        "id": 269,
-        "title": "Breathless",
-        "tagline": "Wild! Violent! Outspoken and Honest!",
-        "overview": "A small-time thief steals a car and impulsively murders a motorcycle policeman. Wanted by the authorities, he attempts to persuade a girl to run away to Italy with him.",
-        "releaseDate": "1960-03-16",
-        "runtime": 90,
-        "voteAverage": 7.5,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/9Wx0Wdn2EOqeCZU4SP6tlS3LOml.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/4WGuyWf1f94CsEeVIIqDKGw5rmO.jpg",
-        "director": "Jean-Luc Godard",
+        "id": 31417,
+        "title": "Eyes Without a Face",
+        "tagline": "The horror film with a heart of mystery.",
+        "overview": "Dr. G\u00e9nessier is riddled with guilt after an accident that he caused disfigures the face of his daughter, the once beautiful Christiane, who outsiders believe is dead. Dr. G\u00e9nessier, along with accomplice and laboratory assistant Louise, kidnaps young women and brings them to the G\u00e9nessier mansion. After rendering his victims unconscious, Dr. G\u00e9nessier removes their faces and attempts to graft them on to Christiane's.",
+        "releaseDate": "1960-01-11",
+        "runtime": 84,
+        "voteAverage": 7.6,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/8y7Z9Gvcq52uOlJlUWyn2epGGRd.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/wlqwUNYHMuswEdGo3nSZ9i0LIlc.jpg",
+        "director": "Georges Franju",
         "cast": [
-            "Jean-Paul Belmondo",
-            "Jean Seberg",
-            "Daniel Boulanger",
-            "Henri-Jacques Huet",
-            "Roger Hanin"
+            "Pierre Brasseur",
+            "Alida Valli",
+            "\u00c9dith Scob",
+            "Juliette Mayniel",
+            "Alexandre Rignault"
         ],
         "genres": [
             "Drama",
-            "Crime",
-            "Romance"
+            "Horror",
+            "Thriller"
         ]
     }
 }
