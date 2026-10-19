@@ -1,29 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-10-18",
+    "lastUpdated": "2026-10-19",
     "movie": {
-        "id": 3598,
-        "title": "Lost Horizon",
-        "tagline": "At last! The masterpiece of America's foremost film genius blazes to the screen!",
-        "overview": "British diplomat Robert Conway and a small group of civilians crash-land in the Himalayas, where they are rescued by the inhabitants of the hidden, idyllic valley of Shangri-La. Protected by the mountains from the world outside, where the clouds of World War II are gathering, Shangri-La provides a seductive escape for the world-weary Conway.",
-        "releaseDate": "1937-03-03",
-        "runtime": 132,
-        "voteAverage": 6.9,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/jCY8uJ80xlO2ApfrsB8s2gzyiBX.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/fi7ZCnJ6TeZTFf4NHnz8ns3SW6.jpg",
-        "director": "Frank Capra",
+        "id": 20122,
+        "title": "Damnation",
+        "tagline": "",
+        "overview": "Karrer plods his way through life in quiet desperation. His environment is drab and rainy and muddy. Eaten up with solitude, his hopelessness would be incurable but for the existence of the Titanik Bar and its beautiful, haunting singer. But the lady is married and Karrer is determined to keep her husband away...",
+        "releaseDate": "1988-10-20",
+        "runtime": 116,
+        "voteAverage": 7.638,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/iW1WHmZEk9QTeY4qp7gjaDcCPDS.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/m6sHDQ7Hsc2q3Tn5hMbWkTMIXup.jpg",
+        "director": "B\u00e9la Tarr",
         "cast": [
-            "Ronald Colman",
-            "Jane Wyatt",
-            "Edward Everett Horton",
-            "John Howard",
-            "Thomas Mitchell"
+            "Sz\u00e9kely B. Mikl\u00f3s",
+            "Gy\u00f6rgy Cserhalmi",
+            "Vali Kerekes",
+            "Gyula Pauer",
+            "H\u00e9di Temessy"
         ],
         "genres": [
-            "Adventure",
-            "Fantasy",
             "Drama",
-            "Romance"
+            "Crime"
         ]
     }
 }
