@@ -1,27 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-10-19",
+    "lastUpdated": "2026-10-20",
     "movie": {
-        "id": 20122,
-        "title": "Damnation",
-        "tagline": "",
-        "overview": "Karrer plods his way through life in quiet desperation. His environment is drab and rainy and muddy. Eaten up with solitude, his hopelessness would be incurable but for the existence of the Titanik Bar and its beautiful, haunting singer. But the lady is married and Karrer is determined to keep her husband away...",
-        "releaseDate": "1988-10-20",
-        "runtime": 116,
-        "voteAverage": 7.638,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/iW1WHmZEk9QTeY4qp7gjaDcCPDS.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/m6sHDQ7Hsc2q3Tn5hMbWkTMIXup.jpg",
-        "director": "B\u00e9la Tarr",
+        "id": 346698,
+        "title": "Barbie",
+        "tagline": "She's everything. He's just Ken.",
+        "overview": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
+        "releaseDate": "2023-07-19",
+        "runtime": 114,
+        "voteAverage": 6.906,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/1esAE8sLJRWWFsLLeh5r3g2WanI.jpg",
+        "director": "Greta Gerwig",
         "cast": [
-            "Sz\u00e9kely B. Mikl\u00f3s",
-            "Gy\u00f6rgy Cserhalmi",
-            "Vali Kerekes",
-            "Gyula Pauer",
-            "H\u00e9di Temessy"
+            "Margot Robbie",
+            "Ryan Gosling",
+            "America Ferrera",
+            "Ariana Greenblatt",
+            "Issa Rae"
         ],
         "genres": [
-            "Drama",
-            "Crime"
+            "Comedy",
+            "Adventure",
+            "Fantasy"
         ]
     }
 }
