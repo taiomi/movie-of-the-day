@@ -1,28 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-10-20",
+    "lastUpdated": "2026-10-21",
     "movie": {
-        "id": 346698,
-        "title": "Barbie",
-        "tagline": "She's everything. He's just Ken.",
-        "overview": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
-        "releaseDate": "2023-07-19",
+        "id": 64655,
+        "title": "Archipelago",
+        "tagline": "",
+        "overview": "Deep fractures within a family dynamic begin to surface during a getaway to the Isles of Scilly.",
+        "releaseDate": "2011-03-04",
         "runtime": 114,
-        "voteAverage": 6.906,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/1esAE8sLJRWWFsLLeh5r3g2WanI.jpg",
-        "director": "Greta Gerwig",
+        "voteAverage": 5.7,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/6Y53rzeunARUG2yiADsaHOJW0Rf.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/9fbrF2kOLMVESTcz1Ifj4YAuA3U.jpg",
+        "director": "Joanna Hogg",
         "cast": [
-            "Margot Robbie",
-            "Ryan Gosling",
-            "America Ferrera",
-            "Ariana Greenblatt",
-            "Issa Rae"
+            "Tom Hiddleston",
+            "Lydia Leonard",
+            "Kate Fahy",
+            "Amy Lloyd",
+            "Christopher Baker"
         ],
         "genres": [
-            "Comedy",
-            "Adventure",
-            "Fantasy"
+            "Drama"
         ]
     }
 }
