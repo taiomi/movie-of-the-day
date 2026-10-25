@@ -1,27 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-10-24",
+    "lastUpdated": "2026-10-25",
     "movie": {
-        "id": 827,
-        "title": "Diabolique",
-        "tagline": "See it, be amazed at it, but...BE QUIET ABOUT IT!",
-        "overview": "The cruel and abusive headmaster of a boarding school, Michel Delassalle, is murdered by an unlikely duo -- his meek wife and the mistress he brazenly flaunts. The women become increasingly unhinged by a series of odd occurrences after Delassalle's corpse mysteriously disappears.",
-        "releaseDate": "1955-01-29",
-        "runtime": 118,
-        "voteAverage": 7.9,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/jE8ygUYBUGyUcM4sR6iinPqYeDK.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/rcEUuRtr0dFL078bNeXL8pQqrMK.jpg",
-        "director": "Henri-Georges Clouzot",
+        "id": 42254,
+        "title": "Fox and His Friends",
+        "tagline": "Survival of the fittest.",
+        "overview": "Fox, a former circus performer, wins the lottery of DM 500,000 and can now have the life and things that he has always wanted.  He enters an abusive relationship with wealthy industrialist Eugen in an attempt to climb the social ladder. His desperation for love and affection soon spirals into tragedy.",
+        "releaseDate": "1975-06-06",
+        "runtime": 125,
+        "voteAverage": 7.2,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/uYHNK7VycMOcD9Jv5qgjIdvDwgG.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/shIMqYeRZArmAsUe3FYGhHgWAkM.jpg",
+        "director": "Rainer Werner Fassbinder",
         "cast": [
-            "V\u00e9ra Clouzot",
-            "Simone Signoret",
-            "Paul Meurisse",
-            "Charles Vanel",
-            "Jean Brochard"
+            "Rainer Werner Fassbinder",
+            "Peter Chatel",
+            "Karlheinz B\u00f6hm",
+            "Adrian Hoven",
+            "Christiane Maybach"
         ],
         "genres": [
-            "Thriller",
-            "Mystery"
+            "Drama"
         ]
     }
 }
