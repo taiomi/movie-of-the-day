@@ -1,25 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-10-25",
+    "lastUpdated": "2026-10-26",
     "movie": {
-        "id": 42254,
-        "title": "Fox and His Friends",
-        "tagline": "Survival of the fittest.",
-        "overview": "Fox, a former circus performer, wins the lottery of DM 500,000 and can now have the life and things that he has always wanted.  He enters an abusive relationship with wealthy industrialist Eugen in an attempt to climb the social ladder. His desperation for love and affection soon spirals into tragedy.",
-        "releaseDate": "1975-06-06",
-        "runtime": 125,
-        "voteAverage": 7.2,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/uYHNK7VycMOcD9Jv5qgjIdvDwgG.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/shIMqYeRZArmAsUe3FYGhHgWAkM.jpg",
-        "director": "Rainer Werner Fassbinder",
+        "id": 12548,
+        "title": "I Vitelloni",
+        "tagline": "A daring story of uninhibited youth!",
+        "overview": "Five young men dream of success as they drift lazily through life in a small Italian village. Fausto, the group's leader, is a womanizer; Riccardo craves fame; Alberto is a hopeless dreamer; Moraldo fantasizes about life in the city; and Leopoldo is an aspiring playwright. As Fausto chases a string of women, to the horror of his pregnant wife, the other four blunder their way from one uneventful experience to the next.",
+        "releaseDate": "1953-09-17",
+        "runtime": 103,
+        "voteAverage": 7.7,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/boqcM6bhQICnNue4pkgmauj9JN3.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/xET9AzXSWFWUFSftW5dtrhDTi4n.jpg",
+        "director": "Federico Fellini",
         "cast": [
-            "Rainer Werner Fassbinder",
-            "Peter Chatel",
-            "Karlheinz B\u00f6hm",
-            "Adrian Hoven",
-            "Christiane Maybach"
+            "Franco Interlenghi",
+            "Alberto Sordi",
+            "Franco Fabrizi",
+            "Leopoldo Trieste",
+            "Riccardo Fellini"
         ],
         "genres": [
+            "Comedy",
             "Drama"
         ]
     }
