@@ -1,27 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-10-26",
+    "lastUpdated": "2026-10-27",
     "movie": {
-        "id": 12548,
-        "title": "I Vitelloni",
-        "tagline": "A daring story of uninhibited youth!",
-        "overview": "Five young men dream of success as they drift lazily through life in a small Italian village. Fausto, the group's leader, is a womanizer; Riccardo craves fame; Alberto is a hopeless dreamer; Moraldo fantasizes about life in the city; and Leopoldo is an aspiring playwright. As Fausto chases a string of women, to the horror of his pregnant wife, the other four blunder their way from one uneventful experience to the next.",
-        "releaseDate": "1953-09-17",
-        "runtime": 103,
-        "voteAverage": 7.7,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/boqcM6bhQICnNue4pkgmauj9JN3.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/xET9AzXSWFWUFSftW5dtrhDTi4n.jpg",
-        "director": "Federico Fellini",
+        "id": 674324,
+        "title": "The Banshees of Inisherin",
+        "tagline": "Everything was fine yesterday.",
+        "overview": "Two lifelong friends find themselves at an impasse when one abruptly ends their relationship, with alarming consequences for both of them.",
+        "releaseDate": "2022-10-20",
+        "runtime": 114,
+        "voteAverage": 7.464,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/4yFG6cSPaCaPhyJ1vtGOtMD1lgh.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/1vXD5HXqkhvsXFHE7KmCPZGPR1e.jpg",
+        "director": "Martin McDonagh",
         "cast": [
-            "Franco Interlenghi",
-            "Alberto Sordi",
-            "Franco Fabrizi",
-            "Leopoldo Trieste",
-            "Riccardo Fellini"
+            "Colin Farrell",
+            "Brendan Gleeson",
+            "Kerry Condon",
+            "Barry Keoghan",
+            "Gary Lydon"
         ],
         "genres": [
-            "Comedy",
-            "Drama"
+            "Drama",
+            "Comedy"
         ]
     }
 }
