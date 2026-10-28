@@ -1,27 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-10-27",
+    "lastUpdated": "2026-10-28",
     "movie": {
-        "id": 674324,
-        "title": "The Banshees of Inisherin",
-        "tagline": "Everything was fine yesterday.",
-        "overview": "Two lifelong friends find themselves at an impasse when one abruptly ends their relationship, with alarming consequences for both of them.",
-        "releaseDate": "2022-10-20",
-        "runtime": 114,
-        "voteAverage": 7.464,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/4yFG6cSPaCaPhyJ1vtGOtMD1lgh.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/1vXD5HXqkhvsXFHE7KmCPZGPR1e.jpg",
-        "director": "Martin McDonagh",
+        "id": 548,
+        "title": "Rashomon",
+        "tagline": "The husband, the wife\u2026 or the bandit?",
+        "overview": "Four people recount different versions of the story of a man's murder and the rape of his wife.",
+        "releaseDate": "1950-08-26",
+        "runtime": 88,
+        "voteAverage": 8,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/ijWibsAU1iBcCD8tuIZfTmDzMVE.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/tDn1dA52bQH9B85vilHeU7C83W1.jpg",
+        "director": "Akira Kurosawa",
         "cast": [
-            "Colin Farrell",
-            "Brendan Gleeson",
-            "Kerry Condon",
-            "Barry Keoghan",
-            "Gary Lydon"
+            "Toshir\u014d Mifune",
+            "Machiko Ky\u014d",
+            "Takashi Shimura",
+            "Masayuki Mori",
+            "Minoru Chiaki"
         ],
         "genres": [
+            "Crime",
             "Drama",
-            "Comedy"
+            "Mystery"
         ]
     }
 }
