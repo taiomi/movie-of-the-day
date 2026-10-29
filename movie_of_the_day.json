@@ -1,28 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-10-28",
+    "lastUpdated": "2026-10-29",
     "movie": {
-        "id": 548,
-        "title": "Rashomon",
-        "tagline": "The husband, the wife\u2026 or the bandit?",
-        "overview": "Four people recount different versions of the story of a man's murder and the rape of his wife.",
-        "releaseDate": "1950-08-26",
-        "runtime": 88,
-        "voteAverage": 8,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/ijWibsAU1iBcCD8tuIZfTmDzMVE.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/tDn1dA52bQH9B85vilHeU7C83W1.jpg",
-        "director": "Akira Kurosawa",
+        "id": 25955,
+        "title": "Pickup on South Street",
+        "tagline": "How the law took a chance on a B-girl \u2026 and won!",
+        "overview": "In New York City, an insolent pickpocket, Skip McCoy, inadvertently sets off a chain of events when he targets ex-prostitute Candy and steals her wallet. Unaware that she has been making deliveries of highly classified information to the communists, Candy, who has been trailed by FBI agents for months in hopes of nabbing the spy ringleader, is sent by her ex-boyfriend, Joey, to find Skip and retrieve the valuable microfilm he now holds.",
+        "releaseDate": "1953-05-27",
+        "runtime": 80,
+        "voteAverage": 7.4,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/et4fY4BxLyAPwxvUFUbzCUrGsjR.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/wrX24LRWYGZyvPr3W3SSM35QOd7.jpg",
+        "director": "Samuel Fuller",
         "cast": [
-            "Toshir\u014d Mifune",
-            "Machiko Ky\u014d",
-            "Takashi Shimura",
-            "Masayuki Mori",
-            "Minoru Chiaki"
+            "Richard Widmark",
+            "Jean Peters",
+            "Thelma Ritter",
+            "Murvyn Vye",
+            "Richard Kiley"
         ],
         "genres": [
-            "Crime",
-            "Drama",
-            "Mystery"
+            "Thriller",
+            "Crime"
         ]
     }
 }
