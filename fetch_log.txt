@@ -2387,3 +2387,7 @@
 [2026-10-29 08:08:44] Selected movie: Pickup on South Street (ID: 25955) for day 591 since start
 [2026-10-29 08:08:44] Successfully saved movie data for: Pickup on South Street
 [2026-10-29 08:08:44] Movie fetch process completed
+[2026-10-30 08:12:08] Starting movie fetch process
+[2026-10-30 08:12:08] Selected movie: Sisters of the Gion (ID: 74581) for day 592 since start
+[2026-10-30 08:12:08] Successfully saved movie data for: Sisters of the Gion
+[2026-10-30 08:12:08] Movie fetch process completed

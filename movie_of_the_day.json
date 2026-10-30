@@ -1,27 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-10-29",
+    "lastUpdated": "2026-10-30",
     "movie": {
-        "id": 25955,
-        "title": "Pickup on South Street",
-        "tagline": "How the law took a chance on a B-girl \u2026 and won!",
-        "overview": "In New York City, an insolent pickpocket, Skip McCoy, inadvertently sets off a chain of events when he targets ex-prostitute Candy and steals her wallet. Unaware that she has been making deliveries of highly classified information to the communists, Candy, who has been trailed by FBI agents for months in hopes of nabbing the spy ringleader, is sent by her ex-boyfriend, Joey, to find Skip and retrieve the valuable microfilm he now holds.",
-        "releaseDate": "1953-05-27",
-        "runtime": 80,
-        "voteAverage": 7.4,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/et4fY4BxLyAPwxvUFUbzCUrGsjR.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/wrX24LRWYGZyvPr3W3SSM35QOd7.jpg",
-        "director": "Samuel Fuller",
+        "id": 74581,
+        "title": "Sisters of the Gion",
+        "tagline": "",
+        "overview": "A geisha in the Gion district of Kyoto feels obliged to help her lover when he asks to stay with her after going bankrupt and leaving his wife. However, her younger sister opposes this, thinking that they should both find wealthy patrons to support them.",
+        "releaseDate": "1936-10-15",
+        "runtime": 69,
+        "voteAverage": 7.1,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/pPm0GreGDWgCxHEQSJaUlchz2Lo.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/eYEeUDJizg4lcihQzLETlMJyUxT.jpg",
+        "director": "Kenji Mizoguchi",
         "cast": [
-            "Richard Widmark",
-            "Jean Peters",
-            "Thelma Ritter",
-            "Murvyn Vye",
-            "Richard Kiley"
+            "Isuzu Yamada",
+            "Y\u014dko Umemura",
+            "Benkei Shiganoya",
+            "Eitar\u014d Shind\u014d",
+            "Taiz\u014d Fukami"
         ],
         "genres": [
-            "Thriller",
-            "Crime"
+            "Drama"
         ]
     }
 }
