@@ -1,23 +1,23 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-10-30",
+    "lastUpdated": "2026-10-31",
     "movie": {
-        "id": 74581,
-        "title": "Sisters of the Gion",
-        "tagline": "",
-        "overview": "A geisha in the Gion district of Kyoto feels obliged to help her lover when he asks to stay with her after going bankrupt and leaving his wife. However, her younger sister opposes this, thinking that they should both find wealthy patrons to support them.",
-        "releaseDate": "1936-10-15",
-        "runtime": 69,
-        "voteAverage": 7.1,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/pPm0GreGDWgCxHEQSJaUlchz2Lo.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/eYEeUDJizg4lcihQzLETlMJyUxT.jpg",
-        "director": "Kenji Mizoguchi",
+        "id": 599,
+        "title": "Sunset Boulevard",
+        "tagline": "A Hollywood Story: Sensational...Daring...Unforgettable...Sunset Blvd",
+        "overview": "A hack screenwriter writes a screenplay for a former silent film star who has faded into Hollywood obscurity.",
+        "releaseDate": "1950-08-10",
+        "runtime": 110,
+        "voteAverage": 8.279,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/zt8aQ6ksqK6p1AopC5zVTDS9pKT.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/p47ihFj4A7EpBjmPHdTj4ipyq1S.jpg",
+        "director": "Billy Wilder",
         "cast": [
-            "Isuzu Yamada",
-            "Y\u014dko Umemura",
-            "Benkei Shiganoya",
-            "Eitar\u014d Shind\u014d",
-            "Taiz\u014d Fukami"
+            "William Holden",
+            "Gloria Swanson",
+            "Erich von Stroheim",
+            "Nancy Olson",
+            "Fred Clark"
         ],
         "genres": [
             "Drama"
