@@ -1,26 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-10-31",
+    "lastUpdated": "2026-11-01",
     "movie": {
-        "id": 599,
-        "title": "Sunset Boulevard",
-        "tagline": "A Hollywood Story: Sensational...Daring...Unforgettable...Sunset Blvd",
-        "overview": "A hack screenwriter writes a screenplay for a former silent film star who has faded into Hollywood obscurity.",
-        "releaseDate": "1950-08-10",
-        "runtime": 110,
-        "voteAverage": 8.279,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/zt8aQ6ksqK6p1AopC5zVTDS9pKT.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/p47ihFj4A7EpBjmPHdTj4ipyq1S.jpg",
-        "director": "Billy Wilder",
+        "id": 577922,
+        "title": "Tenet",
+        "tagline": "Time runs out.",
+        "overview": "Armed with only one word - Tenet - and fighting for the survival of the entire world, the Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real time.",
+        "releaseDate": "2020-08-22",
+        "runtime": 150,
+        "voteAverage": 7.173,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/rrKH3VhHssGTCfPuaEQkxvEoElv.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/mQOUyqDybTqxl73hO5LujCZsM1o.jpg",
+        "director": "Christopher Nolan",
         "cast": [
-            "William Holden",
-            "Gloria Swanson",
-            "Erich von Stroheim",
-            "Nancy Olson",
-            "Fred Clark"
+            "John David Washington",
+            "Robert Pattinson",
+            "Elizabeth Debicki",
+            "Kenneth Branagh",
+            "Dimple Kapadia"
         ],
         "genres": [
-            "Drama"
+            "Action",
+            "Thriller",
+            "Science Fiction"
         ]
     }
 }
