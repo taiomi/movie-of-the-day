@@ -1,28 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-11-01",
+    "lastUpdated": "2026-11-02",
     "movie": {
-        "id": 577922,
-        "title": "Tenet",
-        "tagline": "Time runs out.",
-        "overview": "Armed with only one word - Tenet - and fighting for the survival of the entire world, the Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real time.",
-        "releaseDate": "2020-08-22",
-        "runtime": 150,
-        "voteAverage": 7.173,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/rrKH3VhHssGTCfPuaEQkxvEoElv.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/mQOUyqDybTqxl73hO5LujCZsM1o.jpg",
-        "director": "Christopher Nolan",
+        "id": 42984,
+        "title": "The Insect Woman",
+        "tagline": "She lives by instinct with no sense of right or wrong.",
+        "overview": "A woman, Tome, is born to a lower class family in Japan in 1918. The title refers to an insect, repeating its mistakes, as in an infinite circle. Imamura, with this metaphor, introduces the life of Tome, who keeps trying to change her poor life.",
+        "releaseDate": "1963-11-16",
+        "runtime": 123,
+        "voteAverage": 7.244,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/tIY9Phiuk1rQOSpXLe4d4j0Msd0.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/4UnSMjU6OtcRxc8tniVV9oklC2N.jpg",
+        "director": "Sh\u014dhei Imamura",
         "cast": [
-            "John David Washington",
-            "Robert Pattinson",
-            "Elizabeth Debicki",
-            "Kenneth Branagh",
-            "Dimple Kapadia"
+            "Sachiko Hidari",
+            "Jitsuko Yoshimura",
+            "Shoichi Ozawa",
+            "Hiroyuki Nagato",
+            "Kayoko Honoo"
         ],
         "genres": [
-            "Action",
-            "Thriller",
-            "Science Fiction"
+            "Drama"
         ]
     }
 }
