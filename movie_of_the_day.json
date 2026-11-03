@@ -1,26 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-11-02",
+    "lastUpdated": "2026-11-03",
     "movie": {
-        "id": 42984,
-        "title": "The Insect Woman",
-        "tagline": "She lives by instinct with no sense of right or wrong.",
-        "overview": "A woman, Tome, is born to a lower class family in Japan in 1918. The title refers to an insect, repeating its mistakes, as in an infinite circle. Imamura, with this metaphor, introduces the life of Tome, who keeps trying to change her poor life.",
-        "releaseDate": "1963-11-16",
-        "runtime": 123,
-        "voteAverage": 7.244,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/tIY9Phiuk1rQOSpXLe4d4j0Msd0.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/4UnSMjU6OtcRxc8tniVV9oklC2N.jpg",
-        "director": "Sh\u014dhei Imamura",
+        "id": 649,
+        "title": "Belle de Jour",
+        "tagline": "Luis Bunuel's Masterpiece of Erotica!",
+        "overview": "Beautiful young housewife S\u00e9verine Serizy cannot reconcile her masochistic fantasies with her everyday life alongside dutiful husband Pierre. When her lovestruck friend Henri mentions a secretive high-class brothel run by Madame Anais, S\u00e9verine begins to work there during the day under the name Belle de Jour. But when one of her clients grows possessive, she must try to go back to her normal life.",
+        "releaseDate": "1967-05-24",
+        "runtime": 101,
+        "voteAverage": 7.31,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/iUAFECovwPA0cVV9bo4uNGLJSGL.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/9fJPLvrUV32MzpfDwXk7cOnj8hM.jpg",
+        "director": "Luis Bu\u00f1uel",
         "cast": [
-            "Sachiko Hidari",
-            "Jitsuko Yoshimura",
-            "Shoichi Ozawa",
-            "Hiroyuki Nagato",
-            "Kayoko Honoo"
+            "Catherine Deneuve",
+            "Jean Sorel",
+            "Michel Piccoli",
+            "Genevi\u00e8ve Page",
+            "Pierre Cl\u00e9menti"
         ],
         "genres": [
-            "Drama"
+            "Drama",
+            "Romance"
         ]
     }
 }
