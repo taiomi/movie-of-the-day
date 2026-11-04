@@ -1,27 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-11-03",
+    "lastUpdated": "2026-11-04",
     "movie": {
-        "id": 649,
-        "title": "Belle de Jour",
-        "tagline": "Luis Bunuel's Masterpiece of Erotica!",
-        "overview": "Beautiful young housewife S\u00e9verine Serizy cannot reconcile her masochistic fantasies with her everyday life alongside dutiful husband Pierre. When her lovestruck friend Henri mentions a secretive high-class brothel run by Madame Anais, S\u00e9verine begins to work there during the day under the name Belle de Jour. But when one of her clients grows possessive, she must try to go back to her normal life.",
-        "releaseDate": "1967-05-24",
-        "runtime": 101,
-        "voteAverage": 7.31,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/iUAFECovwPA0cVV9bo4uNGLJSGL.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/9fJPLvrUV32MzpfDwXk7cOnj8hM.jpg",
-        "director": "Luis Bu\u00f1uel",
+        "id": 3085,
+        "title": "His Girl Friday",
+        "tagline": "They're at each other's throats when they're not in each other's arms!",
+        "overview": "Walter Burns is an irresistibly conniving newspaper publisher desperate to woo back his paper\u2019s star reporter, who also happens to be his estranged wife. She\u2019s threatening to quit and settle down with a new beau, but, as Walter knows, she has a weakness: she can\u2019t resist a juicy scoop.",
+        "releaseDate": "1940-01-18",
+        "runtime": 92,
+        "voteAverage": 7.4,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/lu86Y9zTPH3neCiUzLzHCEFHf7f.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/ihoQaiMFAz4YCTAaSIsQjRknsNH.jpg",
+        "director": "Howard Hawks",
         "cast": [
-            "Catherine Deneuve",
-            "Jean Sorel",
-            "Michel Piccoli",
-            "Genevi\u00e8ve Page",
-            "Pierre Cl\u00e9menti"
+            "Cary Grant",
+            "Rosalind Russell",
+            "Ralph Bellamy",
+            "Gene Lockhart",
+            "Porter Hall"
         ],
         "genres": [
-            "Drama",
-            "Romance"
+            "Comedy",
+            "Romance",
+            "Crime"
         ]
     }
 }
