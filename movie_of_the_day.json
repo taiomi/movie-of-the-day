@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-11-04",
+    "lastUpdated": "2026-11-05",
     "movie": {
-        "id": 3085,
-        "title": "His Girl Friday",
-        "tagline": "They're at each other's throats when they're not in each other's arms!",
-        "overview": "Walter Burns is an irresistibly conniving newspaper publisher desperate to woo back his paper\u2019s star reporter, who also happens to be his estranged wife. She\u2019s threatening to quit and settle down with a new beau, but, as Walter knows, she has a weakness: she can\u2019t resist a juicy scoop.",
-        "releaseDate": "1940-01-18",
-        "runtime": 92,
-        "voteAverage": 7.4,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/lu86Y9zTPH3neCiUzLzHCEFHf7f.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/ihoQaiMFAz4YCTAaSIsQjRknsNH.jpg",
-        "director": "Howard Hawks",
+        "id": 30959,
+        "title": "Kwaidan",
+        "tagline": "In the tradition of \"RASHOMON\" and \"GATE OF HELL.\"",
+        "overview": "Taking its title from an archaic Japanese word meaning \"ghost story,\" this anthology adapts four folk tales. A penniless samurai marries for money with tragic results. A man stranded in a blizzard is saved by Yuki the Snow Maiden, but his rescue comes at a cost. Blind musician Hoichi is forced to perform for an audience of ghosts. An author relates the story of a samurai who sees another warrior's reflection in his teacup.",
+        "releaseDate": "1965-01-06",
+        "runtime": 183,
+        "voteAverage": 7.723,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/t9UMfViYl47SdZZatKQ1JKjjCgs.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/9GAU0z2wVA8M2D2w36CaloWYYgv.jpg",
+        "director": "Masaki Kobayashi",
         "cast": [
-            "Cary Grant",
-            "Rosalind Russell",
-            "Ralph Bellamy",
-            "Gene Lockhart",
-            "Porter Hall"
+            "Michiyo Aratama",
+            "Rentaro Mikuni",
+            "Misako Watanabe",
+            "Kenjir\u014d Ishiyama",
+            "Ranko Akagi"
         ],
         "genres": [
-            "Comedy",
-            "Romance",
-            "Crime"
+            "Horror",
+            "Fantasy",
+            "Drama"
         ]
     }
 }
