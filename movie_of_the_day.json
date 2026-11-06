@@ -1,27 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-11-05",
+    "lastUpdated": "2026-11-06",
     "movie": {
-        "id": 30959,
-        "title": "Kwaidan",
-        "tagline": "In the tradition of \"RASHOMON\" and \"GATE OF HELL.\"",
-        "overview": "Taking its title from an archaic Japanese word meaning \"ghost story,\" this anthology adapts four folk tales. A penniless samurai marries for money with tragic results. A man stranded in a blizzard is saved by Yuki the Snow Maiden, but his rescue comes at a cost. Blind musician Hoichi is forced to perform for an audience of ghosts. An author relates the story of a samurai who sees another warrior's reflection in his teacup.",
-        "releaseDate": "1965-01-06",
-        "runtime": 183,
-        "voteAverage": 7.723,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/t9UMfViYl47SdZZatKQ1JKjjCgs.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/9GAU0z2wVA8M2D2w36CaloWYYgv.jpg",
-        "director": "Masaki Kobayashi",
+        "id": 524,
+        "title": "Casino",
+        "tagline": "No one stays at the top forever.",
+        "overview": "In Las Vegas, two best friends-a casino executive and a Mafia enforcer--compete for a gambling empire and a fast-living, fast-loving socialite.",
+        "releaseDate": "1995-11-22",
+        "runtime": 179,
+        "voteAverage": 7.999,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/gziIkUSnYuj9ChCi8qOu2ZunpSC.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/iZGiMD0p1M2AOmzKknFo5bkuz94.jpg",
+        "director": "Martin Scorsese",
         "cast": [
-            "Michiyo Aratama",
-            "Rentaro Mikuni",
-            "Misako Watanabe",
-            "Kenjir\u014d Ishiyama",
-            "Ranko Akagi"
+            "Robert De Niro",
+            "Sharon Stone",
+            "Joe Pesci",
+            "James Woods",
+            "Don Rickles"
         ],
         "genres": [
-            "Horror",
-            "Fantasy",
+            "Crime",
             "Drama"
         ]
     }

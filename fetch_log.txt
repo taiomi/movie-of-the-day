@@ -2415,3 +2415,7 @@
 [2026-11-05 09:05:14] Selected movie: Kwaidan (ID: 30959) for day 598 since start
 [2026-11-05 09:05:14] Successfully saved movie data for: Kwaidan
 [2026-11-05 09:05:14] Movie fetch process completed
+[2026-11-06 08:59:08] Starting movie fetch process
+[2026-11-06 08:59:08] Selected movie: Casino (ID: 524) for day 599 since start
+[2026-11-06 08:59:08] Successfully saved movie data for: Casino
+[2026-11-06 08:59:08] Movie fetch process completed
