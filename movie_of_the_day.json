@@ -1,27 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-11-06",
+    "lastUpdated": "2026-11-07",
     "movie": {
-        "id": 524,
-        "title": "Casino",
-        "tagline": "No one stays at the top forever.",
-        "overview": "In Las Vegas, two best friends-a casino executive and a Mafia enforcer--compete for a gambling empire and a fast-living, fast-loving socialite.",
-        "releaseDate": "1995-11-22",
-        "runtime": 179,
-        "voteAverage": 7.999,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/gziIkUSnYuj9ChCi8qOu2ZunpSC.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/iZGiMD0p1M2AOmzKknFo5bkuz94.jpg",
-        "director": "Martin Scorsese",
+        "id": 42837,
+        "title": "The 3 Penny Opera",
+        "tagline": "Let the fantasy take you far, far away...",
+        "overview": "In London at the turn of the century, underworld kingpin Mack the Knife marries Polly Peachum without the knowledge of her father, the equally enterprising 'king of the beggars'.",
+        "releaseDate": "1931-02-18",
+        "runtime": 112,
+        "voteAverage": 7.1,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/w39cIJWmtLRxyqAE2KdhSuUa0wC.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/tNynKhMCy215pLuDeleRsEy85tr.jpg",
+        "director": "G.W. Pabst",
         "cast": [
-            "Robert De Niro",
-            "Sharon Stone",
-            "Joe Pesci",
-            "James Woods",
-            "Don Rickles"
+            "Rudolf Forster",
+            "Carola Neher",
+            "Reinhold Sch\u00fcnzel",
+            "Fritz Rasp",
+            "Valeska Gert"
         ],
         "genres": [
-            "Crime",
-            "Drama"
+            "Music",
+            "Crime"
         ]
     }
 }
