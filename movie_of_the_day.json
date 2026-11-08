@@ -1,27 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-11-07",
+    "lastUpdated": "2026-11-08",
     "movie": {
-        "id": 42837,
-        "title": "The 3 Penny Opera",
-        "tagline": "Let the fantasy take you far, far away...",
-        "overview": "In London at the turn of the century, underworld kingpin Mack the Knife marries Polly Peachum without the knowledge of her father, the equally enterprising 'king of the beggars'.",
-        "releaseDate": "1931-02-18",
-        "runtime": 112,
-        "voteAverage": 7.1,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/w39cIJWmtLRxyqAE2KdhSuUa0wC.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/tNynKhMCy215pLuDeleRsEy85tr.jpg",
-        "director": "G.W. Pabst",
+        "id": 49026,
+        "title": "The Dark Knight Rises",
+        "tagline": "The legend ends.",
+        "overview": "Following the death of District Attorney Harvey Dent, Batman assumes responsibility for Dent's crimes to protect the late attorney's reputation and is subsequently hunted by the Gotham City Police Department. Eight years later, Batman encounters the mysterious Selina Kyle and the villainous Bane, a new terrorist leader who overwhelms Gotham's finest. The Dark Knight resurfaces to protect a city that has branded him an enemy.",
+        "releaseDate": "2012-07-17",
+        "runtime": 165,
+        "voteAverage": 7.801,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/c3OHQncTAnKFhdOTX7D3LTW6son.jpg",
+        "director": "Christopher Nolan",
         "cast": [
-            "Rudolf Forster",
-            "Carola Neher",
-            "Reinhold Sch\u00fcnzel",
-            "Fritz Rasp",
-            "Valeska Gert"
+            "Christian Bale",
+            "Gary Oldman",
+            "Tom Hardy",
+            "Joseph Gordon-Levitt",
+            "Anne Hathaway"
         ],
         "genres": [
-            "Music",
-            "Crime"
+            "Action",
+            "Crime",
+            "Thriller"
         ]
     }
 }
