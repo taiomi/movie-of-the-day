@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-11-08",
+    "lastUpdated": "2026-11-09",
     "movie": {
-        "id": 49026,
-        "title": "The Dark Knight Rises",
-        "tagline": "The legend ends.",
-        "overview": "Following the death of District Attorney Harvey Dent, Batman assumes responsibility for Dent's crimes to protect the late attorney's reputation and is subsequently hunted by the Gotham City Police Department. Eight years later, Batman encounters the mysterious Selina Kyle and the villainous Bane, a new terrorist leader who overwhelms Gotham's finest. The Dark Knight resurfaces to protect a city that has branded him an enemy.",
-        "releaseDate": "2012-07-17",
-        "runtime": 165,
-        "voteAverage": 7.801,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/c3OHQncTAnKFhdOTX7D3LTW6son.jpg",
-        "director": "Christopher Nolan",
+        "id": 5055,
+        "title": "Ashes and Diamonds",
+        "tagline": "Touched with the fire and rebellion of a new generation of Polish film makers",
+        "overview": "A young academy soldier, Maciek Chelmicki, is ordered to shoot the secretary of the KW PPR. A coincidence causes him to kill someone else. Meeting face to face with his victim, he gets a shock. He faces the necessity of repeating the assassination.  He meets Krystyna, a girl working as a barmaid in the restaurant of the \"Monopol\" hotel. His affection for her makes him even more aware of the senselessness of killing at the end of the war. Loyalty to the oath he took, and thus the obligation to obey the order, tips the scales.",
+        "releaseDate": "1958-10-03",
+        "runtime": 103,
+        "voteAverage": 7.4,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/nE8aqRvVnRQEqskiarnFhdJdk8g.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/1QlZ3Kge4bCH01V3VibxckeVIiu.jpg",
+        "director": "Andrzej Wajda",
         "cast": [
-            "Christian Bale",
-            "Gary Oldman",
-            "Tom Hardy",
-            "Joseph Gordon-Levitt",
-            "Anne Hathaway"
+            "Zbigniew Cybulski",
+            "Ewa Krzy\u017cewska",
+            "Wac\u0142aw Zastrze\u017cynski",
+            "Adam Pawlikowski",
+            "Bogumi\u0142 Kobiela"
         ],
         "genres": [
-            "Action",
-            "Crime",
-            "Thriller"
+            "Drama",
+            "War",
+            "Romance"
         ]
     }
 }
