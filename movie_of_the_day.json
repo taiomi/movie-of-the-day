@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-11-09",
+    "lastUpdated": "2026-11-10",
     "movie": {
-        "id": 5055,
-        "title": "Ashes and Diamonds",
-        "tagline": "Touched with the fire and rebellion of a new generation of Polish film makers",
-        "overview": "A young academy soldier, Maciek Chelmicki, is ordered to shoot the secretary of the KW PPR. A coincidence causes him to kill someone else. Meeting face to face with his victim, he gets a shock. He faces the necessity of repeating the assassination.  He meets Krystyna, a girl working as a barmaid in the restaurant of the \"Monopol\" hotel. His affection for her makes him even more aware of the senselessness of killing at the end of the war. Loyalty to the oath he took, and thus the obligation to obey the order, tips the scales.",
-        "releaseDate": "1958-10-03",
-        "runtime": 103,
-        "voteAverage": 7.4,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/nE8aqRvVnRQEqskiarnFhdJdk8g.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/1QlZ3Kge4bCH01V3VibxckeVIiu.jpg",
-        "director": "Andrzej Wajda",
+        "id": 37698,
+        "title": "The Roaring Twenties",
+        "tagline": "The land of the free gone wild! The heyday of the hotcha! The shock-crammed days G-men took ten whole years to lick!",
+        "overview": "After World War I, Armistice Lloyd Hart goes back to practice law, former saloon keeper George Hally turns to bootlegging, and out-of-work Eddie Bartlett becomes a cab driver. Eddie builds a fleet of cabs through delivery of bootleg liquor and hires Lloyd as his lawyer. George becomes Eddie's partner and the rackets flourish until love and rivalry interfere.",
+        "releaseDate": "1939-10-28",
+        "runtime": 104,
+        "voteAverage": 7.53,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/nkymdElqwJBm2bl3F6hJp4xJggD.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/ujZtDH8CSiVETuK9ancFTPAmZr6.jpg",
+        "director": "Raoul Walsh",
         "cast": [
-            "Zbigniew Cybulski",
-            "Ewa Krzy\u017cewska",
-            "Wac\u0142aw Zastrze\u017cynski",
-            "Adam Pawlikowski",
-            "Bogumi\u0142 Kobiela"
+            "James Cagney",
+            "Priscilla Lane",
+            "Humphrey Bogart",
+            "Gladys George",
+            "Jeffrey Lynn"
         ],
         "genres": [
+            "Crime",
             "Drama",
-            "War",
-            "Romance"
+            "Thriller"
         ]
     }
 }
