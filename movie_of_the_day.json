@@ -1,28 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-11-10",
+    "lastUpdated": "2026-11-11",
     "movie": {
-        "id": 37698,
-        "title": "The Roaring Twenties",
-        "tagline": "The land of the free gone wild! The heyday of the hotcha! The shock-crammed days G-men took ten whole years to lick!",
-        "overview": "After World War I, Armistice Lloyd Hart goes back to practice law, former saloon keeper George Hally turns to bootlegging, and out-of-work Eddie Bartlett becomes a cab driver. Eddie builds a fleet of cabs through delivery of bootleg liquor and hires Lloyd as his lawyer. George becomes Eddie's partner and the rackets flourish until love and rivalry interfere.",
-        "releaseDate": "1939-10-28",
-        "runtime": 104,
-        "voteAverage": 7.53,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/nkymdElqwJBm2bl3F6hJp4xJggD.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/ujZtDH8CSiVETuK9ancFTPAmZr6.jpg",
-        "director": "Raoul Walsh",
+        "id": 1396,
+        "title": "Mirror",
+        "tagline": "",
+        "overview": "A dying man in his forties recalls his childhood, his mother, the war and personal moments that tell of and juxtapose pivotal moments in Soviet history with daily life.",
+        "releaseDate": "1975-03-07",
+        "runtime": 107,
+        "voteAverage": 7.9,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/AttDP5OEsMxtHPPN7Z92p2Ntnmd.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/9UAcMhSCDJ2OCo5QdPpSERjhMA1.jpg",
+        "director": "Andrei Tarkovsky",
         "cast": [
-            "James Cagney",
-            "Priscilla Lane",
-            "Humphrey Bogart",
-            "Gladys George",
-            "Jeffrey Lynn"
+            "Margarita Terekhova",
+            "Ignat Daniltsev",
+            "Larisa Tarkovskaya",
+            "Alla Demidova",
+            "Anatoliy Solonitsyn"
         ],
         "genres": [
-            "Crime",
             "Drama",
-            "Thriller"
+            "History"
         ]
     }
 }
