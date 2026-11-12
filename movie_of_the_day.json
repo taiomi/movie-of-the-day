@@ -1,27 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-11-11",
+    "lastUpdated": "2026-11-12",
     "movie": {
-        "id": 1396,
-        "title": "Mirror",
-        "tagline": "",
-        "overview": "A dying man in his forties recalls his childhood, his mother, the war and personal moments that tell of and juxtapose pivotal moments in Soviet history with daily life.",
-        "releaseDate": "1975-03-07",
-        "runtime": 107,
-        "voteAverage": 7.9,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/AttDP5OEsMxtHPPN7Z92p2Ntnmd.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/9UAcMhSCDJ2OCo5QdPpSERjhMA1.jpg",
-        "director": "Andrei Tarkovsky",
+        "id": 510,
+        "title": "One Flew Over the Cuckoo's Nest",
+        "tagline": "In this clean, orderly, disciplined world, who needs guys like McMurphy? Everybody.",
+        "overview": "A petty criminal fakes insanity to serve his sentence in a mental ward rather than prison. He soon finds himself as a leader to the other patients\u2014and an enemy to the cruel, domineering nurse who runs the ward.",
+        "releaseDate": "1975-11-19",
+        "runtime": 135,
+        "voteAverage": 8.402,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/kjWsMh72V6d8KRLV4EOoSJLT1H7.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/uA8eSNAUUUyfHNIrG4h0zHxzt9W.jpg",
+        "director": "Milo\u0161 Forman",
         "cast": [
-            "Margarita Terekhova",
-            "Ignat Daniltsev",
-            "Larisa Tarkovskaya",
-            "Alla Demidova",
-            "Anatoliy Solonitsyn"
+            "Jack Nicholson",
+            "Brad Dourif",
+            "Louise Fletcher",
+            "Danny DeVito",
+            "William Redfield"
         ],
         "genres": [
-            "Drama",
-            "History"
+            "Drama"
         ]
     }
 }
