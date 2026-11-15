@@ -1,26 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-11-14",
+    "lastUpdated": "2026-11-15",
     "movie": {
-        "id": 20540,
-        "title": "The Pawnbroker",
-        "tagline": "The Most Talked About Picture!",
-        "overview": "A Jewish pawnbroker, a victim of Nazi persecution, loses all faith in his fellow man until he realizes too late the tragedy of his actions.",
-        "releaseDate": "1965-04-20",
-        "runtime": 116,
-        "voteAverage": 7.125,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/o4CT5WPqmOLF2QfodAuGT7jQNn1.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/8L16E06tKUkypSVYV47pHg7gOHM.jpg",
-        "director": "Sidney Lumet",
+        "id": 947,
+        "title": "Lawrence of Arabia",
+        "tagline": "Nothing is written.",
+        "overview": "During World War I, English officer Thomas Edward 'T.E.' Lawrence sets out to unite and lead the diverse, often warring, Arab tribes to fight the Turks.",
+        "releaseDate": "1962-12-11",
+        "runtime": 228,
+        "voteAverage": 8.003,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/AiAm0EtDvyGqNpVoieRw4u65vD1.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/eULrEMwgXnWmzdowUfegaw2YYgD.jpg",
+        "director": "David Lean",
         "cast": [
-            "Rod Steiger",
-            "Geraldine Fitzgerald",
-            "Brock Peters",
-            "Jaime S\u00e1nchez",
-            "Thelma Oliver"
+            "Peter O'Toole",
+            "Alec Guinness",
+            "Anthony Quinn",
+            "Jack Hawkins",
+            "Omar Sharif"
         ],
         "genres": [
-            "Drama"
+            "Adventure",
+            "History",
+            "War"
         ]
     }
 }
