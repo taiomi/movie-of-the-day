@@ -1,28 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-11-15",
+    "lastUpdated": "2026-11-16",
     "movie": {
-        "id": 947,
-        "title": "Lawrence of Arabia",
-        "tagline": "Nothing is written.",
-        "overview": "During World War I, English officer Thomas Edward 'T.E.' Lawrence sets out to unite and lead the diverse, often warring, Arab tribes to fight the Turks.",
-        "releaseDate": "1962-12-11",
-        "runtime": 228,
-        "voteAverage": 8.003,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/AiAm0EtDvyGqNpVoieRw4u65vD1.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/eULrEMwgXnWmzdowUfegaw2YYgD.jpg",
-        "director": "David Lean",
+        "id": 71859,
+        "title": "We Need to Talk About Kevin",
+        "tagline": "This conversation is long overdue.",
+        "overview": "After her son Kevin commits a horrific act, troubled mother Eva reflects on her complicated relationship with her disturbed son as he grew from a toddler into a teenager.",
+        "releaseDate": "2011-09-28",
+        "runtime": 113,
+        "voteAverage": 7.521,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/AtdYbs1SqYwFOLyi2v6ldVTawbn.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/k7lwdrpZ92BDahx6TLdkPE65cpJ.jpg",
+        "director": "Lynne Ramsay",
         "cast": [
-            "Peter O'Toole",
-            "Alec Guinness",
-            "Anthony Quinn",
-            "Jack Hawkins",
-            "Omar Sharif"
+            "Tilda Swinton",
+            "John C. Reilly",
+            "Ezra Miller",
+            "Siobhan Fallon Hogan",
+            "Alex Manette"
         ],
         "genres": [
-            "Adventure",
-            "History",
-            "War"
+            "Drama",
+            "Thriller"
         ]
     }
 }
