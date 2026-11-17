@@ -2459,3 +2459,7 @@
 [2026-11-16 09:06:35] Selected movie: We Need to Talk About Kevin (ID: 71859) for day 609 since start
 [2026-11-16 09:06:35] Successfully saved movie data for: We Need to Talk About Kevin
 [2026-11-16 09:06:35] Movie fetch process completed
+[2026-11-17 10:18:55] Starting movie fetch process
+[2026-11-17 10:18:55] Selected movie: The Irishman (ID: 398978) for day 610 since start
+[2026-11-17 10:18:55] Successfully saved movie data for: The Irishman
+[2026-11-17 10:18:55] Movie fetch process completed

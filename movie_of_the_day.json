@@ -1,27 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-11-16",
+    "lastUpdated": "2026-11-17",
     "movie": {
-        "id": 71859,
-        "title": "We Need to Talk About Kevin",
-        "tagline": "This conversation is long overdue.",
-        "overview": "After her son Kevin commits a horrific act, troubled mother Eva reflects on her complicated relationship with her disturbed son as he grew from a toddler into a teenager.",
-        "releaseDate": "2011-09-28",
-        "runtime": 113,
-        "voteAverage": 7.521,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/AtdYbs1SqYwFOLyi2v6ldVTawbn.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/k7lwdrpZ92BDahx6TLdkPE65cpJ.jpg",
-        "director": "Lynne Ramsay",
+        "id": 398978,
+        "title": "The Irishman",
+        "tagline": "His story changed history.",
+        "overview": "Pennsylvania, 1956. Frank Sheeran, a war veteran of Irish origin who works as a truck driver, accidentally meets mobster Russell Bufalino. Once Frank becomes his trusted man, Bufalino sends him to Chicago with the task of helping Jimmy Hoffa, a powerful union leader related to organized crime, with whom Frank will maintain a close friendship for nearly twenty years.",
+        "releaseDate": "2019-11-01",
+        "runtime": 209,
+        "voteAverage": 7.565,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/1RDto0tLo8Fhq7OcwgDaM7nECb7.jpg",
+        "director": "Martin Scorsese",
         "cast": [
-            "Tilda Swinton",
-            "John C. Reilly",
-            "Ezra Miller",
-            "Siobhan Fallon Hogan",
-            "Alex Manette"
+            "Robert De Niro",
+            "Al Pacino",
+            "Joe Pesci",
+            "Harvey Keitel",
+            "Ray Romano"
         ],
         "genres": [
+            "Crime",
             "Drama",
-            "Thriller"
+            "History"
         ]
     }
 }
