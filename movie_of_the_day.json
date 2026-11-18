@@ -1,28 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-11-17",
+    "lastUpdated": "2026-11-18",
     "movie": {
-        "id": 398978,
-        "title": "The Irishman",
-        "tagline": "His story changed history.",
-        "overview": "Pennsylvania, 1956. Frank Sheeran, a war veteran of Irish origin who works as a truck driver, accidentally meets mobster Russell Bufalino. Once Frank becomes his trusted man, Bufalino sends him to Chicago with the task of helping Jimmy Hoffa, a powerful union leader related to organized crime, with whom Frank will maintain a close friendship for nearly twenty years.",
-        "releaseDate": "2019-11-01",
-        "runtime": 209,
-        "voteAverage": 7.565,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/1RDto0tLo8Fhq7OcwgDaM7nECb7.jpg",
-        "director": "Martin Scorsese",
+        "id": 543,
+        "title": "Blackmail",
+        "tagline": "A romance of Scotland Yard",
+        "overview": "London, 1929. Frank Webber, a very busy Scotland Yard detective, seems to be more interested in his work than in Alice White, his girlfriend. Feeling herself ignored, Alice agrees to go out with an elegant and well-mannered artist who invites her to visit his fancy apartment.",
+        "releaseDate": "1929-07-28",
+        "runtime": 86,
+        "voteAverage": 6.554,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/7ioNEKouUkkWyv5tUDwVUd7BDRR.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/3fWwpoAVj3mhgQxTnv2O0F1ElAM.jpg",
+        "director": "Alfred Hitchcock",
         "cast": [
-            "Robert De Niro",
-            "Al Pacino",
-            "Joe Pesci",
-            "Harvey Keitel",
-            "Ray Romano"
+            "Anny Ondra",
+            "Sara Allgood",
+            "Charles Paton",
+            "John Longden",
+            "Donald Calthrop"
         ],
         "genres": [
-            "Crime",
             "Drama",
-            "History"
+            "Thriller",
+            "Crime"
         ]
     }
 }
