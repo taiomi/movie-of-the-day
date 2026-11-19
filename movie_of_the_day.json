@@ -1,28 +1,26 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-11-18",
+    "lastUpdated": "2026-11-19",
     "movie": {
-        "id": 543,
-        "title": "Blackmail",
-        "tagline": "A romance of Scotland Yard",
-        "overview": "London, 1929. Frank Webber, a very busy Scotland Yard detective, seems to be more interested in his work than in Alice White, his girlfriend. Feeling herself ignored, Alice agrees to go out with an elegant and well-mannered artist who invites her to visit his fancy apartment.",
-        "releaseDate": "1929-07-28",
-        "runtime": 86,
-        "voteAverage": 6.554,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/7ioNEKouUkkWyv5tUDwVUd7BDRR.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/3fWwpoAVj3mhgQxTnv2O0F1ElAM.jpg",
-        "director": "Alfred Hitchcock",
+        "id": 60243,
+        "title": "A Separation",
+        "tagline": "Ugly truth, sweet lies.",
+        "overview": "A married couple are faced with a difficult decision \u2013 to improve the life of their child by moving to another country or to stay in Iran and look after a deteriorating parent who has Alzheimer's disease.",
+        "releaseDate": "2011-02-15",
+        "runtime": 123,
+        "voteAverage": 7.902,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/xQadpnoLokxzN3hRpCPbBGpxsiz.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/vSQ2FK4LzevXeHeXvEHb7t4I0SW.jpg",
+        "director": "Asghar Farhadi",
         "cast": [
-            "Anny Ondra",
-            "Sara Allgood",
-            "Charles Paton",
-            "John Longden",
-            "Donald Calthrop"
+            "Payman Maadi",
+            "Leila Hatami",
+            "Shahab Hosseini",
+            "Sareh Bayat",
+            "Sarina Farhadi"
         ],
         "genres": [
-            "Drama",
-            "Thriller",
-            "Crime"
+            "Drama"
         ]
     }
 }
