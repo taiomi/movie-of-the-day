@@ -2475,3 +2475,7 @@
 [2026-11-20 09:46:12] Selected movie: Army of Shadows (ID: 15383) for day 613 since start
 [2026-11-20 09:46:12] Successfully saved movie data for: Army of Shadows
 [2026-11-20 09:46:12] Movie fetch process completed
+[2026-11-21 09:18:19] Starting movie fetch process
+[2026-11-21 09:18:19] Selected movie: Avengers: Endgame (ID: 299534) for day 614 since start
+[2026-11-21 09:18:19] Successfully saved movie data for: Avengers: Endgame
+[2026-11-21 09:18:19] Movie fetch process completed
