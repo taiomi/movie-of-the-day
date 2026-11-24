@@ -1,26 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-11-23",
+    "lastUpdated": "2026-11-24",
     "movie": {
-        "id": 14,
-        "title": "American Beauty",
-        "tagline": "... look closer",
-        "overview": "Lester Burnham, a depressed suburban father in a mid-life crisis, decides to turn his hectic life around after developing an infatuation with his daughter's attractive friend.",
-        "releaseDate": "1999-09-15",
-        "runtime": 122,
-        "voteAverage": 7.996,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/wby9315QzVKdW9BonAefg8jGTTb.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/kEA3iOrV1DpHQ3Z01Q28y2Qoc89.jpg",
-        "director": "Sam Mendes",
+        "id": 115,
+        "title": "The Big Lebowski",
+        "tagline": "Times like these call for a Big Lebowski.",
+        "overview": "Jeffrey 'The Dude' Lebowski, a Los Angeles slacker who only wants to bowl and drink White Russians, is mistaken for another Jeffrey Lebowski, a wheelchair-bound millionaire, and finds himself dragged into a strange series of events involving nihilists, adult film producers, ferrets, errant toes, and large sums of money.",
+        "releaseDate": "1998-03-06",
+        "runtime": 117,
+        "voteAverage": 7.857,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/3bv6WAp6BSxxYvB5ozKFUYuRA8C.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/lpTXHNKCozJgfUQZZJ1Xn3LKpIS.jpg",
+        "director": "Joel Coen",
         "cast": [
-            "Kevin Spacey",
-            "Annette Bening",
-            "Thora Birch",
-            "Wes Bentley",
-            "Mena Suvari"
+            "Jeff Bridges",
+            "John Goodman",
+            "Julianne Moore",
+            "Steve Buscemi",
+            "David Huddleston"
         ],
         "genres": [
-            "Drama"
+            "Comedy",
+            "Crime"
         ]
     }
 }
