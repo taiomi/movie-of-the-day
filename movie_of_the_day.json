@@ -1,27 +1,28 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-11-24",
+    "lastUpdated": "2026-11-25",
     "movie": {
-        "id": 115,
-        "title": "The Big Lebowski",
-        "tagline": "Times like these call for a Big Lebowski.",
-        "overview": "Jeffrey 'The Dude' Lebowski, a Los Angeles slacker who only wants to bowl and drink White Russians, is mistaken for another Jeffrey Lebowski, a wheelchair-bound millionaire, and finds himself dragged into a strange series of events involving nihilists, adult film producers, ferrets, errant toes, and large sums of money.",
-        "releaseDate": "1998-03-06",
-        "runtime": 117,
-        "voteAverage": 7.857,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/3bv6WAp6BSxxYvB5ozKFUYuRA8C.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/lpTXHNKCozJgfUQZZJ1Xn3LKpIS.jpg",
-        "director": "Joel Coen",
+        "id": 184,
+        "title": "Jackie Brown",
+        "tagline": "This Christmas, Santa's got a brand new bag.",
+        "overview": "Jackie Brown is a flight attendant who gets caught in the middle of smuggling cash into the country for her gunrunner boss. When the cops try to use Jackie to get to her boss, she hatches a plan \u2014 with help from a bail bondsman \u2014 to keep the money for herself.",
+        "releaseDate": "1997-12-25",
+        "runtime": 154,
+        "voteAverage": 7.4,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/rOUx7qg4KmEh1juEDwqzbDSL1Nr.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/gvaeY5kz3wHrMU6xLdnybziwYXw.jpg",
+        "director": "Quentin Tarantino",
         "cast": [
-            "Jeff Bridges",
-            "John Goodman",
-            "Julianne Moore",
-            "Steve Buscemi",
-            "David Huddleston"
+            "Pam Grier",
+            "Samuel L. Jackson",
+            "Robert De Niro",
+            "Bridget Fonda",
+            "Michael Keaton"
         ],
         "genres": [
-            "Comedy",
-            "Crime"
+            "Crime",
+            "Drama",
+            "Thriller"
         ]
     }
 }
