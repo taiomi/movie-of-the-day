@@ -1,28 +1,25 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-11-26",
+    "lastUpdated": "2026-11-27",
     "movie": {
-        "id": 776527,
-        "title": "Summer of Soul (...Or, When the Revolution Could Not Be Televised)",
-        "tagline": "A Questlove Jawn.",
-        "overview": "During the same summer as Woodstock, over 300,000 people attended the Harlem Cultural Festival, celebrating African American music and culture, and promoting Black pride and unity. The footage from the festival sat in a basement, unseen for over 50 years, keeping this incredible event in America's history lost \u2014 until now.",
-        "releaseDate": "2021-07-02",
-        "runtime": 117,
-        "voteAverage": 7.621,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/8kNwhqUGvpzWJd60O1Qvb8G6psK.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/1LYWnmr5K3Hs3XEZ323bY0dBZsK.jpg",
-        "director": "Questlove",
+        "id": 11602,
+        "title": "Through a Glass Darkly",
+        "tagline": "",
+        "overview": "Karin hopes to recover from her recent stay at a mental hospital by spending the summer at her family's cottage on a tiny island. Her husband, Martin, cares for her but is frustrated by her physical withdrawal. Her younger brother, Minus, is confused by Karin's vulnerability and his own budding sexuality. Their father, David, cannot overcome his haughty remoteness. Beset by visions, Karin descends further into madness.",
+        "releaseDate": "1961-10-16",
+        "runtime": 91,
+        "voteAverage": 7.8,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/rYD30Fm4vAcBqk1kTsxHw1s8P29.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/xUvE2qim7mBzdUomoYDP9YC8gsZ.jpg",
+        "director": "Ingmar Bergman",
         "cast": [
-            "Stevie Wonder",
-            "Lin-Manuel Miranda",
-            "Chris Rock",
-            "Tony Lawrence",
-            "Nina Simone"
+            "Harriet Andersson",
+            "Gunnar Bj\u00f6rnstrand",
+            "Max von Sydow",
+            "Lars Passg\u00e5rd"
         ],
         "genres": [
-            "Music",
-            "Documentary",
-            "History"
+            "Drama"
         ]
     }
 }
