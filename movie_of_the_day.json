@@ -1,25 +1,27 @@
 {
     "version": "1.0",
-    "lastUpdated": "2026-11-27",
+    "lastUpdated": "2026-11-28",
     "movie": {
-        "id": 11602,
-        "title": "Through a Glass Darkly",
-        "tagline": "",
-        "overview": "Karin hopes to recover from her recent stay at a mental hospital by spending the summer at her family's cottage on a tiny island. Her husband, Martin, cares for her but is frustrated by her physical withdrawal. Her younger brother, Minus, is confused by Karin's vulnerability and his own budding sexuality. Their father, David, cannot overcome his haughty remoteness. Beset by visions, Karin descends further into madness.",
-        "releaseDate": "1961-10-16",
-        "runtime": 91,
-        "voteAverage": 7.8,
-        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/rYD30Fm4vAcBqk1kTsxHw1s8P29.jpg",
-        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/xUvE2qim7mBzdUomoYDP9YC8gsZ.jpg",
-        "director": "Ingmar Bergman",
+        "id": 11121,
+        "title": "Tess",
+        "tagline": "She was born into a world where they called it seduction, not rape. What she did would shatter that world forever.",
+        "overview": "A strong-willed peasant girl is sent by her father to the estate of some local aristocrats to capitalize on a rumour that their families are from the same line. This fateful visit commences an epic narrative of sex, class, betrayal, and revenge.",
+        "releaseDate": "1979-10-06",
+        "runtime": 172,
+        "voteAverage": 7.072,
+        "posterPath": "https:\/\/image.tmdb.org\/t\/p\/w500\/m2qx66UNTMg17CoFSGZWC7csG7M.jpg",
+        "backdropPath": "https:\/\/image.tmdb.org\/t\/p\/original\/hEVAABU2c86MU42jlnGRM9FcCq5.jpg",
+        "director": "Roman Polanski",
         "cast": [
-            "Harriet Andersson",
-            "Gunnar Bj\u00f6rnstrand",
-            "Max von Sydow",
-            "Lars Passg\u00e5rd"
+            "Nastassja Kinski",
+            "Peter Firth",
+            "Leigh Lawson",
+            "John Collin",
+            "Rosemary Martin"
         ],
         "genres": [
-            "Drama"
+            "Drama",
+            "Romance"
         ]
     }
 }
